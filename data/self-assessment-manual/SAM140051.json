@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140051",
+ "body": "<p>When reviewing the ‘Sundry Charge Quality Check’ Work List, follow steps 1 - 3 below.</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>Action by Clerical Processing Manager / Work List Manager</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Use function WORK LIST CASES to</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Select the entry that you want to work</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Select the [View] button to see all the available details on the work item. You will then be taken to SELECTED CASE</td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Check to ensure that</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* There has been no misuse of function CREATE SUNDRY CHARGE or function MAINTAIN SUNDRY CHARGE</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* The PAYE record has been updated correctly</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* The quality of the work performed is satisfactory</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>After you have completed your review to delete the work item</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Use function WORK LIST CASES</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Select the [Del] button. The work item will be deleted</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Details of the Work Management System can be found in the section ‘Work Management’ in the business area ‘Manage Work’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam71000\">SAM71000</a> onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140000",
+   "section_id": "SAM140000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:18+00:00",
+ "section_id": "SAM140051",
+ "title": "Transfer of liability: transfer from PAYE to SA: w034 sundry charge quality check work list (Action Guide)"
+}

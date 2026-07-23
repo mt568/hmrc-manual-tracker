@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121071",
+ "body": "<p>Where you discover the return is an ‘Away’ case follow steps 1 - 4 below. For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDANCKAG\">In all cases</h2>\n\n<p>1. Stamp the date of receipt on the front of the return. Where the filing date falls on a day when the office is closed, all returns received in the post on the following working day should be date stamped as received on the filing date</p>\n\n<h2 id=\"IDAHDKAG\">Before logging, if it is obvious from the return or enclosures that it is an ‘Away’ case</h2>\n\n<p>2. Record receipt of the return using function LOG RETURN and batch along with any other returns for the same office</p>\n\n<p>3. Send an email to the named contact on the (This content has been withheld because of exemptions in the Freedom of Information Act 2000)  Action Guide and then send the return immediately to the correct office with processing responsibility by Tax Post Direct with a covering note to say the return has been logged</p>\n\n<h2 id=\"IDAXEKAG\">Away returns received and logged where a contact cannot be located in the ‘Away’ office</h2>\n\n<p>4. If you cannot locate a contact on the SA Away helpcard to e-mail and redirect the return to</p>\n\n<ul>\n  <li>Send the return to the Away office addressed to the ‘Area Operations Manager’</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-11T09:50:59+01:00",
+ "section_id": "SAM121071",
+ "title": "Returns: individuals returns: return receipt (individual): responsible office elsewhere (Action Guide)"
+}

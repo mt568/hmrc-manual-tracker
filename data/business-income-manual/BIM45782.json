@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45782",
+ "body": "<p>This chapter applies for Income Tax purposes to the computation of trade profits and property income. References in the text to a ‘business’ should therefore be taken to include both trades and property businesses. The chapter does not apply for Corporation Tax purposes, where there are separate rules in the loan relationships legislation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm11000\">CFM11000</a>).</p>\n\n<p>S564H Income Tax Act 2007</p>\n\n<p>If an alternative finance arrangement is not on arm’s length terms and so comes within the transfer-pricing rules in S147 Taxation (International and Other Provisions) Act 2010 then the contract is excluded from the alternative finance arrangements legislation. This is to prevent taxpayers obtaining the benefit of the alternative finance arrangements legislation if the recipient of the alternative finance return is outside the charge to UK tax.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45650",
+   "section_id": "BIM45650"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM45782",
+ "title": "Specific deductions - interest: alternative finance arrangements - transfer pricing "
+}

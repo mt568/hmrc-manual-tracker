@@ -1,0 +1,38 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim30500",
+ "body": "<p>Historically, the rules which determine how the profits of a trade are measured for tax purposes have been based largely on principles established by the Courts. In recent years, however, basic statutory rules have been established to provide a framework for the computation of profits. The statute does not attempt to provide a comprehensive set of rules to cover every situation and is derived from the pre-existing case law principles. The guidance on the rules is laid out as follows.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim30505",
+     "description": "",
+     "section_id": "BIM30505",
+     "title": "Charging provisions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim30510",
+     "description": "",
+     "section_id": "BIM30510",
+     "title": "Basic computational rule"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim30515",
+     "description": "",
+     "section_id": "BIM30515",
+     "title": "Receipts and expenses"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:55+01:00",
+ "section_id": "BIM30500",
+ "title": "Measuring the profits (general rules): statutory rules: introduction and layout of guidance: contents"
+}

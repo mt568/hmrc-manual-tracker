@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim70011",
+ "body": "<p>S31A ITTOIA 2005</p>\n<p>A controlling partner is one with the right to more than one half of the assets or more than one half of the income of the partnership. If two partners own a partnership equally there is no controlling partner.</p>\n<p>Partnerships with a controlling partner must add the partnership cash basis receipts to the cash basis receipts of any other businesses carried on by the controlling partner. If the resulting figure</p>\n<ul><li>exceeds the relevant maximum amount, it will not be possible for the partnership or any of the other businesses to use the cash basis</li><li>is less than or equal to the relevant maximum amount, an election may be made to use the cash basis. </li></ul>\n<p>If such an election is made, it must be made by both the partnership and the controlling partner and applies to all their businesses.</p>\n<p>Partnerships without a controlling partner are eligible to use the cash basis if the total partnership cash basis receipts do not exceed the relevant maximum amount.</p>\n<p>For non-controlling partners, whether they are in a partnership with a controlling partner or not, only the cash basis receipts of their separate sole trades are aggregated to establish eligibility to use the cash basis for those trades. It does not matter whether the partnership also uses the cash basis or not.</p>\n<p>Partnership profits or losses are calculated at partnership level, before allocation between the partners. This means that where a partnership uses the cash basis, each partner’s share will be based on the profit or loss calculated using the cash basis regardless of whether the individual partner is eligible or chooses to use the cash basis in respect of any of their other trading activities.</p>\n<p>Example</p>\n<p>Tessa and Justin are 50/50 partners in a landscape gardening partnership. The partnership’s cash basis receipts for the year ended 5 April 2018 are £76,000.</p>\n<p>Tessa has a separate sole trade dealing in rare orchids, and her cash basis receipts for the same period are £45,000.</p>\n<p>Justin also has a separate sole trade as a florist. Cash basis receipts of this business to 5 April 2018 are £160,000.</p>\n<p>Neither Tessa nor Justin is a Universal Credit claimant (entitled to Universal Credits).</p>\n<p>The landscape gardening partnership can elect to calculate its profits using the cash basis, as the partnership receipts do not exceed the relevant maximum limit of £150,000 for the tax year. As there is no controlling partner, it is not necessary to take into account Tessa’s or Justin’s receipts from their sole trading activities.</p>\n<p>Since Tessa’s sole trade receipts do not exceed the threshold, she can elect to use the cash basis to calculate her profits from her orchid trade. She can use the cash basis even if the partnership elects not to.</p>\n<p>Justin’s sole trade receipts mean that he is ineligible to use the cash basis. He must use generally accepted accounting practice to calculate the profits of his florist trade.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70001",
+   "section_id": "BIM70001"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-01-30T15:15:30+00:00",
+ "section_id": "BIM70011",
+ "title": "Cash basis: eligibility: partnerships"
+}

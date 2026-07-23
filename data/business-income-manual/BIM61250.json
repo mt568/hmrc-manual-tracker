@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim61250",
+ "body": "<p>S681CC Income Tax Act 2007, S865 Corporation Tax Act 2010</p>\n\n<p>The restriction on the deduction allowable for payments under a lease within the leased trading assets legislation is calculated as follows.</p>\n\n<blockquote>\n  <p>(1) For Income Tax purposes, the periods mentioned in (2) - (5) below are periods of account of the trade or, if no accounts are drawn up for a period, the basis period of a tax year. For Corporation Tax purposes the periods are accounting periods.</p>\n</blockquote>\n\n<blockquote>\n  <p>(2) For any period, amount E is the expense or total expenses to be brought into account for the period in accordance with generally accepted accounting practice in respect of the payment or payments under the lease.</p>\n</blockquote>\n\n<blockquote>\n  <p>(3) Calculate the total of amount E for the period and every previous period ending on or after the date of the creation of the lease.</p>\n</blockquote>\n\n<blockquote>\n  <p>(4) Calculate the total of the deductions allowed for every previous period ending on or after the date of the creation of the lease.</p>\n</blockquote>\n\n<blockquote>\n  <p>(5) Subtract the total at (3) above from that at (2) above.</p>\n</blockquote>\n\n<p>The allowable deduction is equal to the lower of the amount in (4) above and the commercial rent for the period.</p>\n\n<p>If, for the period in question and every later period, there are no payments under the lease, (5) above does not apply and no deduction is allowed for the period.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim61200",
+   "section_id": "BIM61200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-10-16T12:22:17+01:00",
+ "section_id": "BIM61250",
+ "title": "Leasing: avoidance: assets other than land: calculation of tax deduction"
+}

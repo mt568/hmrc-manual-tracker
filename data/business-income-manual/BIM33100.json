@@ -1,0 +1,102 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33100",
+ "body": "<p>The guidance in this chapter includes not only information on the acceptable valuation bases but also some descriptive paragraphs to give a feel for the important factors in a stock valuation. Stock valuation can never be absolutely precise, with a number of practical considerations affecting the accuracy of the estimate. GAAP provides the starting point for stock valuation for tax purposes, but you should note that it does not always prohibit methods such as last in first out (LIFO) for costing stock. LIFO is not an allowable method for valuing stock for tax purposes.</p>\n\n<p>There is extensive guidance on valuing farm stock in HMRC help sheet HS232.</p>\n\n<p>There is more detailed guidance on motor dealers’ stock at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim52001\">BIM52001</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33110",
+     "description": "",
+     "section_id": "BIM33110",
+     "title": "Tax treatment of trading stock: Lord Nolan in Threlfall v Jones"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33115",
+     "description": "",
+     "section_id": "BIM33115",
+     "title": "The valuation bases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33120",
+     "description": "",
+     "section_id": "BIM33120",
+     "title": "FIFO not LIFO: Minister of National Revenue v Anaconda American Brass Ltd"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33125",
+     "description": "",
+     "section_id": "BIM33125",
+     "title": "Non-allowable bases of valuation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33135",
+     "description": "",
+     "section_id": "BIM33135",
+     "title": "Lower of cost and net realisable value: cost"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33140",
+     "description": "",
+     "section_id": "BIM33140",
+     "title": "Lower of cost and net realisable value: net realisable value"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33145",
+     "description": "",
+     "section_id": "BIM33145",
+     "title": "Net realisable value: use of formulae, slow moving stock, acceptable accuracy"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33150",
+     "description": "",
+     "section_id": "BIM33150",
+     "title": "Stock provisions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33155",
+     "description": "",
+     "section_id": "BIM33155",
+     "title": "Valuing construction contracts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33160",
+     "description": "",
+     "section_id": "BIM33160",
+     "title": "Mark to market or marking to market"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33165",
+     "description": "",
+     "section_id": "BIM33165",
+     "title": "Professional work-in-progress: general principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33190",
+     "description": "",
+     "section_id": "BIM33190",
+     "title": "Depreciation in stock"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33199",
+     "description": "",
+     "section_id": "BIM33199",
+     "title": "Change of accounting or tax basis of stock valuation"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:11+01:00",
+ "section_id": "BIM33100",
+ "title": "Stock: valuation: contents"
+}

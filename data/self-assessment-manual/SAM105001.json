@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105001",
+ "body": "<p>All tax agents, advisors or accountants, who wish to act for their clients in respect of Self Assessment (SA), must be issued with an SA agent code. The allocation of agent codes has been centralised and the Agent Compliance Team deal with the setting up and amending of <strong>all</strong> agent records for SA.</p>\n<p>Local offices <strong>must not</strong> set up new agents on the SA database. The Agent Compliance Team, who have full access to the Agent Maintainer role in SA, <strong>must</strong> set up all new SA agents.</p>\n<p>Only the SA agent code is entered on the customer’s SA record. Full details of the SA agent are held on the national database and can be retrieved when you enter the SA agent code onto the SA system (CESA).</p>\n<p>To obtain an SA Agent Code, the new agent must write to HMRC and provide the business name, name of the partner/director of the business, address and telephone number together with confirmation that they require a Self Assessment Agent Code and send to</p>\n<p><span>Agent Compliance Team</span><br /><span>HM Revenue and Customs</span><br /><span>BX9 2BG</span><br /></p>\n<p><strong>Note:</strong> HMRC cannot accept this information by telephone, fax or online. Requests made using these methods will not be accepted. The request <strong>must </strong>be made in writing. All amendments to existing SA Agent Codes <strong>must</strong> also be made in writing and sent to the address above.</p>\n<p>HMRC will send confirmation of the new agent code for that agent to use and the agent code should be quoted on all paper forms 64-8 and online authorisation for all new clients.</p>\n<p>The Agent Compliance team also deal with</p>\n<ul><li class=\"dash\">All new SA agents with an address abroad, previously dealt with by CAR (PTI), formerly CAR (Residency)</li><li class=\"dash\">New COTAX agents</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105000",
+   "section_id": "SAM105000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-06-15T01:00:00+01:00",
+ "section_id": "SAM105001",
+ "title": "Records: agent record: introduction"
+}

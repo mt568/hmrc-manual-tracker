@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108010",
+ "body": "<p>Notes with a long-term value and likely to be useful to any office who might work the case should be recorded using function MAINTAIN PERMANENT NOTES.</p>\n\n<p>Examples include</p>\n\n<ul>\n  <li>Agreed valuation</li>\n  <li>Bankruptcy</li>\n  <li>Bankruptcy voluntary agreement</li>\n  <li>Blindness</li>\n  <li>Capital gains acquisition</li>\n  <li>Capital gains disposal</li>\n  <li>Capital gains losses</li>\n  <li>Double taxation</li>\n  <li>Name change</li>\n  <li>New NINO</li>\n  <li>Overlap relief</li>\n  <li>Power of attorney</li>\n  <li>Probate</li>\n  <li>Residence ruling</li>\n  <li>S9A enquiry closed</li>\n  <li>Trading losses</li>\n  <li>Transitional relief</li>\n</ul>\n\n<p>All Permanent Notes should be obtained from the SEES Notes Paster. No other information must be recorded in function MAINTAIN PERMANENT NOTES. </p>\n\n<p>If you want to review the case at a later date, use the B/F facility within function MAINTAIN PERMANENT NOTES. If you set a B/F date a work item will be created on the ‘Permanent Notes Review’ (W048) work list. Entries on this list must be reviewed monthly.</p>\n\n<p>Notes:</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Do not use the B/F facility unless you want to review the case at a later date</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Review the ‘Returns Not Captured’ work list entries monthly to ensure that the SA Permanent Note is up to date</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Any operator with the SA CLPO Clerical Processing Officer and CLCW Clerical Caseworker - Technical roles can view existing Permanent Notes and record a new Permanent Note by using function MAINTAIN PERMANENT NOTES.</p>\n\n<p>After adding a new Permanent Note the computer will automatically add the</p>\n\n<ul>\n  <li>Date the Permanent Note was recorded</li>\n  <li>Office Role (Processing Office or Technical Office)</li>\n  <li>Your Personal Identification Number (PID)</li>\n</ul>\n\n<p>And</p>\n\n<ul>\n  <li>Office Identifier</li>\n</ul>\n\n<p>Once recorded, Permanent Notes can be amended by an authorised operator.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108000",
+   "section_id": "SAM108000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:18+00:00",
+ "section_id": "SAM108010",
+ "title": "Records: SA and permanent notes: maintain permanent notes"
+}

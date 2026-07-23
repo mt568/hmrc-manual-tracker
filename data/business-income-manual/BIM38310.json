@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim38310",
+ "body": "<p class=\"pageBannerMessage call-to-action\">There is now a statutory relief for redundancy payments (see S76-79 ITTOIA 2005, S76-79 CTA 2009 and S309 Income Tax (Earnings and Pensions) Act 2003 for the treatment in the hands of the employee, see also <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47200\">BIM47200</a> onwards) but the principle of the decision, that payments to go out of business are not allowed remains valid.<br /></p>\n<h2>Payments not made for the purpose of the trade because that would have required them to be for keeping the trade going</h2>\n<p>The statutory test imposed by S34(1)(a) ITTOIA 2005 for unincorporated businesses and S54(1)(a) CTA 2009 for companies refers to the purposes of the trade, profession or vocation. Expenditure incurred for the purpose of going out of business, rather than for the purpose of carrying on the business, fails the statutory test.</p>\n<p>In the case of <strong>CIR v Anglo Brewing Co Ltd</strong> [1925] 12 TC 803, the company decided to close down its business. In the past, the company had granted pensions to employees on their retirement. The company promised to treat its present employees with equal generosity. The company therefore agreed pension amounts (which were later commuted for lump sums) and compensation payments. The company claimed the costs as a deduction in computing its profits.</p>\n<p>There was a subsidiary question as to the correct accounting period in which the deduction should be made.</p>\n<p>The Commissioners allowed the amounts claimed in respect of pension provision but disallowed the compensation payments.</p>\n<p>The High Court took the view that the payments were made for the purpose of winding up the company and that no deduction was due for the pensions or the compensation. Rowlatt J explained that the payments were not made for the purpose of the trade because that would have required that the payments be for keeping the trade going:</p>\n<blockquote><p>So they came to the conclusion that they would make certain payments, because they were not going to carry on the business any longer. Now I cannot conceive how, under those circumstances, there can be any evidence at all that the payments were made for the purpose of the trade, because that must mean for the purpose of keeping the trade going, and of making it pay. There was not any such purpose at all. The purpose was to wind it up, and making payments was not a question any longer. I am bound to say that I should have thought that that was a quite sufficient ground for disposing of this case.</p></blockquote>\n<p>The company made the payments not to continue to trade, but to cease trading.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim37000",
+   "section_id": "BIM37000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim38300",
+   "section_id": "BIM38300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-04-09T10:55:04+01:00",
+ "section_id": "BIM38310",
+ "title": "Wholly and exclusively: commencement, cessation or sale of business: costs of going out of business"
+}

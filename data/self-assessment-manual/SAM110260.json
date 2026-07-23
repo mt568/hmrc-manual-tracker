@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110260",
+ "body": "\n<p>Unallocated payment on SA - excluding unallocated BCC or freestanding credits.</p>\n\n<p>Effective date of payment (EDP)</p>\n\n<ul>\n  <li>The original date of the payment</li>\n</ul>\n\n<p>Repayment supplement (RPS)</p>\n\n<ul>\n  <li>Unallocated payments on SA do not generally attract RPS</li>\n</ul>\n\n<p>However, a payment shown as ‘unallocated’ may have previously been allocated to a charge, other than interest, that was subsequently amended and consequently created an overpayment.</p>\n\n<p>If no further charges are outstanding this overpayment will appear as unallocated on the record but will still attract RPS as it has previously been allocated to a charge that became overpaid.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:33+00:00",
+ "section_id": "SAM110260",
+ "title": "Repayments: issue repayment: unallocated payment on SA"
+}

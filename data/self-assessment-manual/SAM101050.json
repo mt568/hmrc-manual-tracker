@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101050",
+ "body": "<p>There are a number of dormant cases held on the ITSA computer system for which a subsequent year’s tax return has been received. This implies that the taxpayer should be within SA.</p>\n\n<p>Where the ‘Last SA Return Required’ signal is set and a return is received for a subsequent year, the taxpayers SA record will be reactivated automatically. A ‘Welcome’ letter SA250 is not issued to the taxpayer in these circumstances. However should the taxpayer be employed and subsequently meet the removal criteria an ‘Exit’ letter SA251 is issued.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+   "section_id": "SAM101000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:42+00:00",
+ "section_id": "SAM101050",
+ "title": "Records: maintain taxpayer record: automatic unsetting of ‘last SA return required’ signal"
+}

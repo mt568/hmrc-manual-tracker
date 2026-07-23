@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44280",
+ "body": "<p>S1001-S1038 Corporation Tax Act 2009</p>\n\n<p>The legislation providing relief for the provision of qualifying shares contains rules to determine:</p>\n\n<ul>\n  <li>which shares are ‘qualifying shares’, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44285\">BIM44285</a>;</li>\n  <li>which company gets the deduction, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44300\">BIM44300</a>;</li>\n  <li>when the deduction is given, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44310\">BIM44310</a>;</li>\n  <li>the amount of the deduction, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44315\">BIM44315</a>.</li>\n</ul>\n\n<p>Detailed guidance on each of these rules is in the paragraphs referred to above. The following is a broad outline of them:</p>\n\n<h2 id=\"qualifying-shares\">Qualifying shares</h2>\n\n<p>Shares qualifying for the statutory deduction are those which give employees a real stake in the company or group by which they are employed. The shares must be:</p>\n\n<ul>\n  <li>fully-paid up, non-redeemable, ordinary shares, and</li>\n  <li>in a company which is not an unquoted subsidiary of another unquoted company, and</li>\n  <li>in the employing company, its parent company, or another company above the employing company in its ‘family tree’ with sufficient links to the employing company.</li>\n</ul>\n\n<h2 id=\"which-company-gets-the-deduction\">Which company gets the deduction</h2>\n\n<p>The general rule is that the company entitled to the deduction is the company running the business for the purposes of which the employees acquired the shares or any earlier rights to acquire them (for example rights given by share options or LTIP awards).</p>\n\n<p>This is the case even if the employing company is taken over by another company after the employees receive rights to acquire the shares but before they acquire the shares themselves.</p>\n\n<p>The only exception to this general rule is where that business is transferred to another company in the same group before the ‘relief triggering event’ occurs. The deduction is then given to the successor company.</p>\n\n<h2 id=\"when-the-deduction-is-given\">When the deduction is given</h2>\n\n<p>The general rule is that a deduction is given for the accounting period in which the employees (or other relevant persons, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44265\">BIM44265</a>) acquire beneficial ownership of the shares, either by receiving awards of shares or by exercising share options. In this guidance this period is called the ‘acquisition period’.</p>\n\n<p>Special rules apply if the employees acquire shares which are:</p>\n\n<ul>\n  <li>subject to certain restrictions (‘restricted shares’), or</li>\n  <li>convertible into other shares or securities (‘convertible shares’).</li>\n</ul>\n\n<p>Exceptionally, special rules may still apply to shares acquired before 16 April 2003 which are subject to a risk of being forfeited (‘forfeitable shares’). Forfeitable shares acquired on or after that date fall within the category of restricted shares. Deductions relating to forfeitable, restricted and convertible shares may be given for ‘post-acquisition’ periods as well as, or instead of, for the ‘acquisition period’. Detailed guidance is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44360\">BIM44360</a> onwards.</p>\n\n<h2 id=\"the-amount-of-the-deduction\">The amount of the deduction</h2>\n\n<p>The amount of the deduction given for the ‘acquisition period’ is equal to the market value of the shares less any amount given by the employees for the shares or for the granting of the share option.</p>\n\n<p>The amount of the deduction in respect of restricted or convertible shares (for the ‘acquisition period’ and for any ‘post-acquisition period’) is the amount on which the employee is chargeable to Income Tax.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:06+01:00",
+ "section_id": "BIM44280",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: qualifying shares: overview of the legislation "
+}

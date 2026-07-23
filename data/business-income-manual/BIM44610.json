@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44610",
+ "body": "<p>S38 Income Tax (Trading and Other Income) Act 2005, S1290 Corporation Tax Act 2009</p>\n\n<p>This example shows how to compute the amount of deductions for employee benefit contributions which are:</p>\n\n<ul>\n  <li>disallowed in computing the employer’s taxable profits for a period to the extent that qualifying benefits or qualifying expenses are not paid within nine months of the end of the period; and</li>\n  <li>allowed as a deduction in computing the employer’s taxable profits for later periods in which qualifying benefits are paid.</li>\n  <li>employee benefit contributions made before 1 April 2017 (CT) or 6 April 2017 (IT). The example at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44611\">BIM44611</a> illustrates the further restrictions for employee benefit contributions made or to be made on or after 1 April 2017 (CT) and 6 April 2017 (IT).</li>\n</ul>\n\n<h2 id=\"example\">Example</h2>\n\n<h3 id=\"accounting-period-ended-31122010\">Accounting period ended 31/12/2010</h3>\n\n<ul>\n  <li>Employer has a past pattern of paying bonuses under a discretionary bonus scheme.</li>\n  <li>Employer contributes £1 million to EBT to fund likely bonuses for the next three years.</li>\n  <li>No qualifying benefits paid 1/1/10 to 30/9/11.</li>\n  <li>No qualifying expenses paid 1/1/10 to 30/9/11.</li>\n</ul>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Deduction in profit and loss account under GAAP (for constructive obligation to pay bonuses)</td>\n      <td>£333,333</td>\n    </tr>\n    <tr>\n      <td>Disallow (and carry forward)</td>\n      <td>£333,333</td>\n    </tr>\n    <tr>\n      <td>Total deduction allowed for tax purposes</td>\n      <td>Nil</td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 id=\"accounting-period-ended-31122011\">Accounting period ended 31/12/2011</h3>\n\n<ul>\n  <li>No contribution to EBT.</li>\n  <li>No qualifying benefits paid 1/1/11 to 31/12/11.</li>\n</ul>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Deduction in profit and loss account under GAAP</td>\n      <td>£333,333</td>\n    </tr>\n    <tr>\n      <td>Disallow (and carry forward)</td>\n      <td>£333,333</td>\n    </tr>\n    <tr>\n      <td>Total deduction allowed for tax purposes</td>\n      <td>Nil</td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 id=\"accounting-period-ended-31122012\">Accounting period ended 31/12/2012</h3>\n\n<ul>\n  <li>No contribution to EBT.</li>\n  <li>Qualifying benefits paid to employees = £900,000.</li>\n</ul>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Deduction in profit and loss account under GAAP</td>\n      <td>£233,334</td>\n    </tr>\n    <tr>\n      <td>Disallow (and carry forward)</td>\n      <td>Nil</td>\n    </tr>\n    <tr>\n      <td>Allow in tax computation (previously disallowed)</td>\n      <td>£666,666</td>\n    </tr>\n    <tr>\n      <td>Total deduction allowed for tax purposes</td>\n      <td>£900,000</td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 id=\"subsequent-periods\">Subsequent periods</h3>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Maximum deduction still to be allowed</td>\n      <td>Nil</td>\n    </tr>\n    <tr>\n      <td>EBT contributions not yet deducted in P&amp;L account</td>\n      <td>£100,000</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-13T08:11:42+00:00",
+ "section_id": "BIM44610",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs: timing of deductions for contributions: computing adjustments: example"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44620",
+ "body": "<p>S41(2) Income Tax (Trading and Other Income) Act 2005, S1293(2) Corporation Tax Act 2009</p>\n\n<p>Special rules apply if the qualifying benefit is the transfer of ownership of an asset from the EBT to an employee and the value of the asset has fallen in value whilst it was owned by the EBT.</p>\n\n<p>In this situation the amount of the qualifying benefit is the lower amount on which a charge to Income Tax and NICs liability arises, or would arise if the employee had worked in the UK.</p>\n\n<h2 id=\"example\">Example</h2>\n\n<h3 id=\"accounting-period-ended-31122012\">Accounting period ended 31/12/2012</h3>\n\n<table>\n  <thead>\n    <tr>\n      <th>Date</th>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>01/02/2012</td>\n      <td>Company contribution to EBT</td>\n      <td>£30,000</td>\n    </tr>\n    <tr>\n      <td>02/02/2012</td>\n      <td>EBT buys a car, cost</td>\n      <td>£30,000</td>\n    </tr>\n    <tr>\n      <td>01/12/2012</td>\n      <td>EBT gives the car to a key employee when its value has fallen to</td>\n      <td>£25,000</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>The amount of the qualifying benefit is limited to the £25,000 on which the employee is chargeable to Income Tax and on which NICs liability arises.</p>\n\n<p>The balance of £5,000:</p>\n\n<ul>\n  <li>is disallowed as a deduction in computing the employer’s taxable profits for the period ended 31/12/2012, but</li>\n  <li>remains available to be allowed as a deduction for a later period in which qualifying benefits are paid.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-13T08:17:45+00:00",
+ "section_id": "BIM44620",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs: timing of deductions for contributions: transfers of assets to employees"
+}

@@ -1,0 +1,79 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86040",
+ "body": "<p>The guidance within this section covers additional considerations which may need to be taken into account.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86042",
+     "description": "",
+     "section_id": "BIM86042",
+     "title": "Pre-Trading Expenses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86044",
+     "description": "",
+     "section_id": "BIM86044",
+     "title": "Overlap Relief"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86046",
+     "description": "",
+     "section_id": "BIM86046",
+     "title": "Post-Cessation Receipts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86048",
+     "description": "",
+     "section_id": "BIM86048",
+     "title": "Adjustment Income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86050",
+     "description": "",
+     "section_id": "BIM86050",
+     "title": "Capital Allowances"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86052",
+     "description": "",
+     "section_id": "BIM86052",
+     "title": "National Insurance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86054",
+     "description": "",
+     "section_id": "BIM86054",
+     "title": "Capital Gains & Inheritance Tax"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86056",
+     "description": "",
+     "section_id": "BIM86056",
+     "title": "High Income Child Benefit Charge"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86058",
+     "description": "",
+     "section_id": "BIM86058",
+     "title": "Student Loans"
+    }
+   ],
+   "title": "Other Considerations"
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-12-14T02:00:25+00:00",
+ "section_id": "BIM86040",
+ "title": "TMIA- Other Considerations"
+}

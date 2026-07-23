@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35450",
+ "body": "<p>Repairs remain repairs even if they have been deferred so long that an asset is in an extremely poor state of repair.</p>\n\n<p>One potential exception to this is where an asset has been acquired in poor condition. In this situation the cost of the repairs may be capital expenditure as part of the cost of the asset. Whilst the cost of buying a basic version and upgrading to get the asset you want is clearly capital expenditure as part of the cost of acquiring the asset, the position is less clear with assets in poor repair.</p>\n\n<p>If the work is simply routine maintenance work that recurs every few years, then it is allowable expenditure as a repair. For example, exterior painting of a building which has been deferred by the previous owner but which in the normal course of events falls to be expended shortly after the building is acquired, is allowable.</p>\n\n<p>Guidance on when the cost of repairing an asset acquired in poor repair is allowable can be found in the contrasting cases of The Law Shipping Co Ltd v CIR [1923] 12TC621 and Odeon Associated Theatres Ltd v Jones [1971] 48TC257.</p>\n\n<p>Although both companies purchased assets in poor condition, there were key differences between the two cases.</p>\n\n<ul>\n  <li>In Law Shipping, the company acquired a ship in poor condition that they would have to have repaired before they could use it. This was capital expenditure on acquiring a working asset.</li>\n  <li>In Odeon the Company was able to operate the cinemas for a number of years before they carried out the repairs. What was more, the price paid was not reduced to reflect the state of repair. The expenditure was found to be on repairs and allowable.</li>\n</ul>\n\n<p>In Odeon, the Court of Appeal distinguished Law Shipping on the following grounds:</p>\n\n<ul>\n  <li>The purchase price of the ship was substantially less than if it had been in a fit state of repair.</li>\n  <li>The ship could not continue as a profit-earning asset without being repaired shortly after acquisition.</li>\n  <li>There was no evidence in Law Shipping that on sound commercial accountancy principles the deferred repairs could be charged as revenue expenditure. Salmon LJ said at page 283: ‘…I should be very surprised if there had been any such evidence’.</li>\n</ul>\n\n<p>The conclusion to be drawn from these cases is that if you would have treated the repairs as revenue if ownership had not changed, then the repairs are normally revenue when expended by the new owner. The points that indicate that exceptionally the cost of the work is capital include:</p>\n\n<ul>\n  <li>The asset was not in a fit state for use until the repairs had been carried out or could not continue to be used in the trade without being repaired shortly after acquisition.</li>\n  <li>There is evidence in, for example, the contract for the sale of the asset or in negotiations leading up to the contract or in the surrounding circumstances that the purchase price was substantially less because of the dilapidated state of the asset. You should not attempt to deny relief where the purchase price merely reflects the reduced value of an asset due to normal wear and tear (for example between normal maintenance cycles).</li>\n</ul>\n\n<p>If abnormally heavy repairs expenditure is incurred on an asset shortly after the change of ownership you should also consider whether the asset has been improved, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35445\">BIM35445</a>.</p>\n\n<p>For leased assets, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35620\">BIM35620</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35400",
+   "section_id": "BIM35400"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:32+01:00",
+ "section_id": "BIM35450",
+ "title": "Capital/revenue divide: tangible assets: asset bought in a defective condition"
+}

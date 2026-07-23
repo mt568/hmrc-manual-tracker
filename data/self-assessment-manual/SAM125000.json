@@ -1,0 +1,261 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125001",
+     "description": "",
+     "section_id": "SAM125001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125010",
+     "description": "",
+     "section_id": "SAM125010",
+     "title": "w051 Daily returns review: ceased date set - decommisioned from April 2012"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125011",
+     "description": "",
+     "section_id": "SAM125011",
+     "title": "w051 Daily returns review: ceased date set (Action Guide) - decommissioned from April 2012"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125020",
+     "description": "",
+     "section_id": "SAM125020",
+     "title": "w053 Daily returns review: electronic return cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125030",
+     "description": "",
+     "section_id": "SAM125030",
+     "title": "w053 Daily returns review: INT / RDC / PAYE CIC"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125031",
+     "description": "",
+     "section_id": "SAM125031",
+     "title": "w053 Daily returns review: INT / RDC / PAYE CIC (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125040",
+     "description": "",
+     "section_id": "SAM125040",
+     "title": "w052 Daily returns review: SA/PAYE auto-coding exceptions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125050",
+     "description": "",
+     "section_id": "SAM125050",
+     "title": "w024 Duplicate return logged ….."
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125051",
+     "description": "",
+     "section_id": "SAM125051",
+     "title": "w024 Duplicate return logged ….. (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125060",
+     "description": "",
+     "section_id": "SAM125060",
+     "title": "w025 Fully captured / unlogged return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125061",
+     "description": "",
+     "section_id": "SAM125061",
+     "title": "w025 Fully captured / unlogged return (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125070",
+     "description": "",
+     "section_id": "SAM125070",
+     "title": "w016 Manual issue of return: welsh language"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125071",
+     "description": "",
+     "section_id": "SAM125071",
+     "title": "w016 Manual issue of return: welsh language (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125080",
+     "description": "",
+     "section_id": "SAM125080",
+     "title": "w016 Manual issue of return: deceased signal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125081",
+     "description": "",
+     "section_id": "SAM125081",
+     "title": "w016 Manual issue of return: deceased signal (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125090",
+     "description": "",
+     "section_id": "SAM125090",
+     "title": "w016 Manual issue of return: RLS signal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125091",
+     "description": "",
+     "section_id": "SAM125091",
+     "title": "w016 Manual issue of return: RLS signal (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125100",
+     "description": "",
+     "section_id": "SAM125100",
+     "title": "w016 Manual issue of return: manual return signal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125101",
+     "description": "",
+     "section_id": "SAM125101",
+     "title": "w016 Manual issue of return: manual return signal (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125110",
+     "description": "",
+     "section_id": "SAM125110",
+     "title": "w035 Manual issue of review form 575"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125111",
+     "description": "",
+     "section_id": "SAM125111",
+     "title": "w035 Manual issue of review form 575 (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125120",
+     "description": "",
+     "section_id": "SAM125120",
+     "title": "w037 Reduction of amount coded out"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125130",
+     "description": "",
+     "section_id": "SAM125130",
+     "title": "w042 Returns not captured"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125131",
+     "description": "",
+     "section_id": "SAM125131",
+     "title": "w042 Returns not captured (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125150",
+     "description": "",
+     "section_id": "SAM125150",
+     "title": "w018 Review revenue assessment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125151",
+     "description": "",
+     "section_id": "SAM125151",
+     "title": "w018 Review revenue assessment (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125160",
+     "description": "",
+     "section_id": "SAM125160",
+     "title": "w049 Short tax return rejections"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125170",
+     "description": "",
+     "section_id": "SAM125170",
+     "title": "w054 Weekly returns review"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125180",
+     "description": "",
+     "section_id": "SAM125180",
+     "title": "w054 Weekly returns review: liability unlikely"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125181",
+     "description": "",
+     "section_id": "SAM125181",
+     "title": "w054 Weekly returns review: liability unlikely (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125190",
+     "description": "",
+     "section_id": "SAM125190",
+     "title": "w054 Weekly returns review: source exception"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125191",
+     "description": "",
+     "section_id": "SAM125191",
+     "title": "w054 Weekly returns review: source exception (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125200",
+     "description": "",
+     "section_id": "SAM125200",
+     "title": "w054 Weekly returns review: transfer of allowances"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125201",
+     "description": "",
+     "section_id": "SAM125201",
+     "title": "w054 Weekly returns review: transfer of allowances (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125210",
+     "description": "",
+     "section_id": "SAM125210",
+     "title": "w055 Failed Online Amendments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125220",
+     "description": "",
+     "section_id": "SAM125220",
+     "title": "w056 Partnership Online Amendments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125221",
+     "description": "",
+     "section_id": "SAM125221",
+     "title": "w056 Partnership Online Amendments (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125230",
+     "description": "",
+     "section_id": "SAM125230",
+     "title": "W057 Review FSC from return amendment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125231",
+     "description": "",
+     "section_id": "SAM125231",
+     "title": "W057 Review FSC from return amendment (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125240",
+     "description": "",
+     "section_id": "SAM125240",
+     "title": "W059 Online return rejections"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125241",
+     "description": "",
+     "section_id": "SAM125241",
+     "title": "W061 Class 2 NICS, Marriage and Devolved Residency updates"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2017-05-05T17:02:11+01:00",
+ "section_id": "SAM125000",
+ "title": "Returns: returns work lists: contents"
+}

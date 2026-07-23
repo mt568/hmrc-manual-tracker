@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45875",
+ "body": "<p>Guidance for accounting for foreign currency transactions is provided in FRS 102 Section 30 Foreign Currency Translation.</p>\n\n<p>Related standards under other frameworks are:</p>\n\n<p>FRS 105 Section 25 Foreign Currency Translation</p>\n\n<p>IAS: IAS 21 The Effects of Changes in Foreign Currency</p>\n\n<p>Old UK GAAP: SSAP 20 Foreign Currency Translation</p>\n\n<p>In each case the respective standards contain specific rules on accounting for foreign exchange gains and losses.</p>\n\n<h3 id=\"companies\">Companies</h3>\n\n<p>Exchange gains and losses that arise on the monetary assets or liabilities of companies are taxed or relieved under the loan relationship rules. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm60000\">CFM60000</a> onwards.</p>\n\n<h3 id=\"unincorporated-businesses\">Unincorporated businesses</h3>\n\n<p>The tax treatment will often follow the accounting treatment. It will not follow the accounting treatment if the underlying asset is a capital asset of the business, unless the Marine Midland approach is followed (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39555\">BIM39555</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39560\">BIM39560</a>).</p>\n\n<p>A full description of the treatment of foreign exchange gains and losses is in Statement of Practice SP 2/02 and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39500\">BIM39500</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45850",
+   "section_id": "BIM45850"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T14:23:10+00:00",
+ "section_id": "BIM45875",
+ "title": "Specific deductions: losses: foreign exchange gains and losses"
+}

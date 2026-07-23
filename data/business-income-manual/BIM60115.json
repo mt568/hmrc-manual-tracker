@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60115",
+ "body": "<p>The following example demonstrates the point.</p>\n<p>Tenancy acquired 1 January 2010: Cost: Nil.</p>\n<p>Freehold acquired, subject to tenancy, 4 December 2011: Cost: £500,000.</p>\n<p>Value of tenancy at 4 December 2011: £250,000.</p>\n<p>Freehold with vacant possession sold 4 December 2011: £1m.</p>\n<p>Capital Gain: There will be a capital gain by virtue of S161 Taxation of Chargeable Gains Act 1992 based on the value of the tenancy at 4 December of £250,000 less the acquisition costs.</p>\n<p>Trading Computation</p>\n<table summary=\"Table showing the trading computation\"><thead><tr><th scope=\"col\" width=\"147\"><p>-</p></th><th scope=\"col\" width=\"93\"><p><strong>Amount</strong></p></th><th scope=\"col\"><p><strong>Amount</strong></p></th></tr></thead><tbody><tr><td width=\"147\"><p>Sale proceeds</p></td><td width=\"93\"><p>-</p></td><td><p>£1,000,000</p></td></tr><tr><td width=\"147\"><p>less</p></td><td width=\"93\"><p>-</p></td><td><p>-</p></td></tr><tr><td width=\"147\"><p>cost of freehold</p></td><td width=\"93\"><p>£500,000</p></td><td><p>-</p></td></tr><tr><td width=\"147\"><p>value of tenancy</p></td><td width=\"93\"><p>£250,000</p></td><td><p>£ 750,000</p></td></tr><tr><td width=\"147\"><p>Trading Profit</p></td><td width=\"93\"><p>-</p></td><td><p>£ 250,000</p></td></tr></tbody></table>\n<p> </p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60000",
+   "section_id": "BIM60000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-17T09:40:14+00:00",
+ "section_id": "BIM60115",
+ "title": "Measuring the profits (particular trades): land: trading transactions: acquisition and disposal of superior interest - example"
+}

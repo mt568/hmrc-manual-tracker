@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132052",
+ "body": "<p><a href=\"#IDARAE1E\">Open item statements</a><br />\n<a href=\"#IDAUEE1E\">Simple statements</a></p>\n\n<h2 id=\"IDARAE1E\">Open item statements</h2>\n\n<p>The payment debit transactions reported on taxpayer Open Item statements and the descriptions used for the different kinds of payment debits are as follows.</p>\n\n<p>Note: The descriptions on statements created before December 1998 may differ slightly from those in the table below.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Payment debit</th>\n      <th>Description on Open Item statement</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>A payment returned by the bank unpaid or a BACS payment recalled by the taxpayer</td>\n      <td>Payment …….(original date) £…99999.99 returned</td>\n    </tr>\n    <tr>\n      <td>An amount transferred to OAS</td>\n      <td>Credit transferred out</td>\n    </tr>\n    <tr>\n      <td>Cancelled Freestanding credit</td>\n      <td>Credit …….(date) £…99999.99 cancelled</td>\n    </tr>\n    <tr>\n      <td>Repayment</td>\n      <td>Repayment issued</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Notes:</p>\n\n<p>1. When a returned payment is posted on the record the original credit posting is omitted or reduced</p>\n\n<p>2. When Transfers to OAS or Repayments are posted on the record they are displayed with their associated credits.</p>\n\n<h2 id=\"IDAUEE1E\">Simple statements</h2>\n\n<p>The payment debit transactions reported on Simple Statements and the descriptions used for the different kinds of payment debits are as follows</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Payment debit</th>\n      <th>Description on Open Item statement</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>A payment returned by the bank unpaid or a BACS payment recalled by the taxpayer</td>\n      <td>Payment (original date) £99999.99 returned</td>\n    </tr>\n    <tr>\n      <td>An amount transferred to OAS</td>\n      <td>Amount transferred out pending reallocation</td>\n    </tr>\n    <tr>\n      <td>Cancelled freestanding credit</td>\n      <td>Credit (date) £99999.99 cancelled</td>\n    </tr>\n    <tr>\n      <td>Repayment</td>\n      <td>Repayment - please see note overleaf</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132000",
+   "section_id": "SAM132000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-10T10:01:39+01:00",
+ "section_id": "SAM132052",
+ "title": "Statements: transactions on statements: transaction type: payment debit"
+}

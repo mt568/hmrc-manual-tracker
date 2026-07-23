@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1070",
+ "body": "<p>The taxpayer may make a claim to reduce payments on account after paying one or both of the payments on account. As a consequence of processing a claim, the taxpayer’s SA record may become overpaid.</p>\n<p>When payments on account are reduced the late payment interest position is reviewed. Any excess interest paid is also included in the overpaid amount.</p>\n<p>The overpayment remains on the taxpayer record and will be allocated against future liabilities unless the taxpayer asks for a repayment.</p>\n<p>If a repayment is requested the amount repaid will include any repayment interest calculated from the relevant date. For further information see business area ‘Repayments’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam110000\">SAM110000</a> onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1000",
+   "section_id": "SAM1000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2017-09-07T08:08:04+01:00",
+ "section_id": "SAM1070",
+ "title": "Amend payment: claim to adjust payments on account: overpayment and repayment"
+}

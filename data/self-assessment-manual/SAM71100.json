@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71100",
+ "body": "\n<p>Event  </p>\n\n<p>A work item is created immediately when  </p>\n\n<ul>\n  <li>Function MAINTAIN STANDOVERS is used to record an informal standover against a specified charge on the taxpayer’s SA record</li>\n</ul>\n\n<p>Specific details  </p>\n\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available  </p>\n\n<ul>\n  <li>Amount informally stoodover</li>\n  <li>Due date of the charge</li>\n  <li>Debit origin code</li>\n</ul>\n\n<p>Allocation of responsibility  </p>\n\n<p>The work item is allocated to the office in which the operator recording the standover was working, unless that office had accounting responsibility, in which case the item is allocated to the office with processing responsibility for the taxpayer. Within the offices with processing, technical and recovery responsibility, the item will be worked by an officer with the user role of Appeals Handler – Processing, Technical or Recovery.  </p>\n\n<p>The work item can be transferred between offices with processing, technical and recovery responsibility using the function RE-ALLOCATE CASES.  </p>\n\n<p>Frequency of review  </p>\n\n<p>This list should be treated as an open list. It is recommended that this list is reviewed monthly to ensure that all cases are being actively worked.  </p>\n\n<p>Updating of details  </p>\n\n<p>Until the work item is cleared, the following details held on the work item are updated by Work Management immediately the corresponding entry is updated on the taxpayer record  </p>\n\n<ul>\n  <li>Taxpayer name</li>\n  <li>NINO</li>\n  <li>Employers reference (EMPREF) or Schedule D register number</li>\n  <li>Amount informally stoodover</li>\n</ul>\n\n<p>Action to take on the work item  </p>\n\n<p>Advice on the action to take to clear the work item is available in the section ‘Postponements’, (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam11160\">SAM11160</a>).  </p>\n\n<p>Deletion of the work item  </p>\n\n<p>The work item is deleted automatically when the informal standover is reduced to NIL.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:11+00:00",
+ "section_id": "SAM71100",
+ "title": "Manage work: work management: W019 review informal  standovers"
+}

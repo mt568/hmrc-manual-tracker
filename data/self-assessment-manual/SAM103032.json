@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103032",
+ "body": "<p>On receipt of a record transferred in from a local office follow steps 1 - 8 below.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>1.</th>\n      <th>Use function AMEND TAXPAYER SIGNALS to remove the Final Year Return Signal. Do not remove the SA Entry/Exit Letter Inhibited Signal</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>2.</td>\n      <td>Check the PAYE record to ensure that the PAYE/SA link has been re-established. Usually an overnight process</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>Use function MAINTAIN SA NOTES to enter the note ‘Expat case with Liverpool Expat Team’ and telephone number(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>Issue the appropriate introductory letter to the taxpayer and agent</td>\n    </tr>\n    <tr>\n      <td>5.</td>\n      <td>If you have responsibility for the PAYE record set the FILE signal</td>\n    </tr>\n    <tr>\n      <td>6.</td>\n      <td>Check that the relevant transfer instructions have been followed by the local office and ensure that both SA and PAYE records are up to date</td>\n    </tr>\n    <tr>\n      <td>7.</td>\n      <td>Action any outstanding post or return as identified from the stencil completed by the local office</td>\n    </tr>\n    <tr>\n      <td>8.</td>\n      <td>Put away the stencil and correspondence in the file</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103000",
+   "section_id": "SAM103000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-04-04T10:16:30+01:00",
+ "section_id": "SAM103032",
+ "title": "Records: movement of taxpayer records: expat (expatriate) employees: transfer of expat record - action in expat team (Action Guide)"
+}

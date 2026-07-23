@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40260",
+ "body": "<p>D is a distributor. D obtains its supplies from S. D has a large customer C.</p>\n\n<p>Normally, on receiving an order from C, D would obtain the goods from S and then supply them to C. However, arrangements are put into force whereby C orders from D but S supplies the goods direct to C, making use of D’s delivery notes, of which it has a stock. The arrangements are that D then invoices C and S invoices D. S is not very efficient at invoicing D. D reminds S that invoices are absent in respect of supplies made to C. The amount involved is £100,000.</p>\n\n<p>After some time, D judges that there is very little likelihood that S will now invoice it for supplies made to C and so decides to write the amount back. This results in D including an exceptional item in its accounts ‘debt to supplier not collected’. D excludes the sum from its computation of taxable profit.</p>\n\n<p>The £100,000 constitutes a legally enforceable debt due from D to S. Just because S neglected to invoice D for supplying the goods direct to C does not mean that that S has no legally enforceable debt against D in respect of supplying those goods. That the debts become statute barred after six years (under the law of England and Wales) does not alter their original status as enforceable debts. For the Statute of Limitations which applies in Scotland and Northern Ireland, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40230\">BIM40230</a>.</p>\n\n<p>The tax treatment in this example is different to what would be the case if the debt were formally released by S. In such a case the amount of the debt would become taxable as at the time it was released, under S97 Income Tax (Trading and Other Income) Act 2005 for unincorporated businesses and S94 Corporation Tax Act 2009 for companies (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40265\">BIM40265</a>).</p>\n\n<p>For the avoidance of doubt, a trade debt does not become a loan just because it has been outstanding for a long time and so it is outside the loan relationships rules (which apply to companies). See <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm31040\">CFM31040</a>.</p>\n\n<p>For further discussion of trade debts which remain unpaid, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40255\">BIM40255</a>.</p>\n\n<h2 id=\"health-warning\">Health warning</h2>\n\n<p>This page is part of the section of the Business Income Manual on unclaimed balances. You should read the whole section to understand this topic. See the contents page at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40200\">BIM40200</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40200",
+   "section_id": "BIM40200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:22+01:00",
+ "section_id": "BIM40260",
+ "title": "Specific receipts: unclaimed balances: trade debts not paid - example"
+}

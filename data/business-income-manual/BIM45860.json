@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45860",
+ "body": "<h2 id=\"what-to-allow-as-a-deduction-and-what-recoveries-to-tax\">What to allow as a deduction and what recoveries to tax</h2>\n\n<p>You should allow a sum on current account lost through failure of a bank as a deduction up to a maximum of the amount normally kept at that bank to meet ordinary banking requirements of the business. The loan relationship rules for companies do not apply.</p>\n\n<p>Where a provision is made in respect of such a balance because it is expected to be lost, relief will be available for the provision to the extent that it reflects the reasonable expectation of loss - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46500\">BIM46500</a> onwards for an explanation of the requirements for a provision to be allowable.</p>\n\n<p>The loss will also be deductible if the bank account balance was held solely to facilitate the issue of credit or guarantees to trade creditors provided that the creditors are in respect of debts incurred on revenue account by the trade which suffered the loss.</p>\n\n<h3 id=\"irrecoverable-disbursements\">Irrecoverable disbursements</h3>\n\n<p>Where disbursements are made on a client’s behalf by a professional person in the ordinary course of his profession, the amount of such disbursements rendered irrecoverable by the client’s failure may be allowed as a deduction. See the dictum of Lord Warrington in CIR v Hagart &amp; Burn-Murdoch [1929] 14 TC 433 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37770\">BIM37770</a>).</p>\n\n<p>In some cases you will need to consider the nature and use of the account and to analyse the balance lost in order to determine the extent to which relief may be available.</p>\n\n<p>You should treat any distributions/receipts under the Financial Services Compensation Scheme as a trading receipt in circumstances where you would allow any loss arising as a trading deduction.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45850",
+   "section_id": "BIM45850"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:44+01:00",
+ "section_id": "BIM45860",
+ "title": "Specific deductions: losses: due to bank failure"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110231",
+ "body": "\n<p>Effective date of payment (EDP)</p>\n\n<ul>\n  <li>The date the credit is set off or repaid</li>\n</ul>\n\n<p>Repayment supplement (RPS)</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>From</th>\n      <th>To</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>The date(s) the original tax was paid</td>\n      <td>The date of the set off or repayment</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>RPS calculated automatically or manually?- RPS will need to be calculated manually</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:31+00:00",
+ "section_id": "SAM110231",
+ "title": "Repayments: issue repayment: S144 TCGA adjustments by  the creation of a freestanding credit"
+}

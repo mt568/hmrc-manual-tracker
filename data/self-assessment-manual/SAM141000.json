@@ -1,0 +1,63 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141001",
+     "description": "",
+     "section_id": "SAM141001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141010",
+     "description": "",
+     "section_id": "SAM141010",
+     "title": "Automatic transfer of balancing payment to PAYE"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141020",
+     "description": "",
+     "section_id": "SAM141020",
+     "title": "Manual transfer of balancing payment to PAYE"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141021",
+     "description": "",
+     "section_id": "SAM141021",
+     "title": "Manual transfer of balancing payment to PAYE (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141030",
+     "description": "",
+     "section_id": "SAM141030",
+     "title": "Transfer of reduced balancing payment to PAYE"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141040",
+     "description": "",
+     "section_id": "SAM141040",
+     "title": "W033 Transfer to COP security review work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141041",
+     "description": "",
+     "section_id": "SAM141041",
+     "title": "W033 Transfer to COP security review work list (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141045",
+     "description": "",
+     "section_id": "SAM141045",
+     "title": "Coding out debts"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:19+00:00",
+ "section_id": "SAM141000",
+ "title": "Transfer of liability: transfer from SA to PAYE: contents"
+}

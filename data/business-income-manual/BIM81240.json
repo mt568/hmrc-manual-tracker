@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim81240",
+ "body": "<p>This guidance applies to trades commencing (and not ceasing) in 2023-24.</p>\n\n<p>The basis period for the trade will start on the day the trade commences and will end on 5 April 2024.</p>\n\n<p>In practice, a new trade accounting to 31 March 2024 will be taxed on its profits to the late accounting date (despite the basis period ending on 5 April 2024) unless an election is made to disapply the rules.</p>\n\n<p>A late accounting date is an accounting date that falls on a date between 31 March to 4 April inclusive. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81210\">BIM81210 </a>for the late accounting date rules.</p>\n\n<h4 id=\"example-5--section-7b-applies-rules-if-trader-starts-to-carry-on-trade-after-31-march\">Example 5 – section 7B applies (rules if trader starts to carry on trade after 31 March)</h4>\n\n<p>A trade commences on 1 July 2023 and the first accounts are prepared to 31 March 2024. The basis period for 2023-24 is 1 July 2023 to 5 April 2024. The profits for 2023-24 are those of the 9 months to 31 March 2024. The 5 days’ profits from 1 to 5 April 2024, which would count as profits for 2023-24 if there were no special rules, are treated as nil in 2023-24. Instead, these profits are treated as arising in 2024-25.</p>\n\n<p>If the trader makes an election to disapply the late accounting date rules in section 7B, the profits for 2023-2024 would include the profits from 1 April to 5 April 2024.</p>\n\n<h4 id=\"example-6--section-7b-applies-rules-if-trader-starts-to-carry-on-trade-after-31-march\">Example 6 – section 7B applies (rules if trader starts to carry on trade after 31 March)</h4>\n\n<p>A trade commences on 1 April 2024 and the first accounts are prepared to 31 March 2025. The basis period for 2023-24 is 1 April to 5 April 2024. The profits and losses for 2023-24 are treated as nil. The 5 days’ profits from 1 to 5 April 2024, which would count as profits for 2023-24 if there were no special rules, are instead treated as arising in 2024-25.</p>\n\n<p>If the trader makes an election to disapply the late accounting date rules in section 7B, the profits for 2023-24 would include the profits from 1 April to 5 April 2024.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81000",
+   "section_id": "BIM81000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81200",
+   "section_id": "BIM81200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-03-03T10:06:07+00:00",
+ "section_id": "BIM81240",
+ "title": "Transitional rules: trades commencing in 2023-24"
+}

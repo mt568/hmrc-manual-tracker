@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10110",
+ "body": "<p>This information supplements the guidance given in subject ‘Handling an Appeal Against a Charge Based Item’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam10060\">SAM10060</a>) and covers the situation where a taxpayer appeals against a stand alone assessment made within SA. For further information on the circumstances in which an assessment is made see business area ‘Assessments’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam20000\">SAM20000</a> onwards).</p>\n\n<p>All Revenue assessments are subject to appeal and postponement application.</p>\n\n<p>If the appellant makes a postponement application then, subject to agreement by the Decision Maker, all or part of the tax and / or Class 4 NIC may be formally stoodover using function MAINTAIN STANDOVERS.</p>\n\n<p>When the appeal is determined it should be cancelled from the taxpayer’s SA record using function MAINTAIN APPEAL. Amending the assessment will not automatically cancel the appeal.</p>\n\n<p>Payments on account </p>\n\n<p>In certain circumstances, when an assessment is made the SA payments on account for the year following the year of assessment are manually amended to take account of the revised liability.</p>\n\n<p>If an appeal is received against the charge arising from an assessment and is accompanied by a postponement application</p>\n\n<ul>\n  <li>Check whether the following year’s payments on account were amended following the issue of the assessment</li>\n</ul>\n\n<p>If so, you should informally standover any tax and / or Class 4 NIC forming part of the payments on account that relate to the postponement application against the assessment charge. A separate appeal against the payments on account is not required.</p>\n\n<p>Examples are available at <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam20120\">SAM20120</a> to clarify this situation.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10000",
+   "section_id": "SAM10000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:46+00:00",
+ "section_id": "SAM10110",
+ "title": "Appeals, postponements and reviews: appeals: appeal against a revenue assessment"
+}

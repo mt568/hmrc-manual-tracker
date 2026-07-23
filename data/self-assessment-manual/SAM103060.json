@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103060",
+ "body": "<h2 id=\"whenever-a-postcode-is-known-it-should-be-entered-on-the-sa-record\">Whenever a postcode is known, it should be entered on the SA record.</h2>\n\n<p>Where no postcode is present on the record</p>\n\n<ul>\n  <li>The system will accept the office that set up the record as the office with responsibility for processing work. Work items will be allocated to that office</li>\n  <li>Technical, debt management, and banking and accounting responsibilities will be allocated to the offices associated with the office with responsibility for processing work</li>\n  <li>Any transfer of responsibility, and therefore current work items, must be initiated by the operator</li>\n</ul>\n\n<h2 id=\"two-or-more-linked-support-offices-of-the-same-type\">Two or more linked support offices of the same type</h2>\n\n<p>Where there are two or more offices with technical or debt management responsibility linked to the office with responsibility for processing work, the absence of a postcode may create difficulties for those offices.</p>\n\n<p>The system will by default allocate responsibility, and therefore any future work items to only one of those offices. This may not be the correct office. When you establish that a work item is incorrectly allocated to you, it may be necessary to liaise with the office with responsibility for processing work to establish the correct office. When responsibility is transferred, the SA record will be updated and future work items relevant to that Revenue activity will be correctly allocated.</p>\n\n<h2 id=\"split-postcodes\">Split postcodes</h2>\n\n<p>You will be aware if a postcode is split between your office and another with responsibility for the same type of Revenue activity.</p>\n\n<p>It is recommended that in this situation, the Work Management filter facility is regularly used in each office to identify items by postcode and therefore those incorrectly allocated.</p>\n\n<p>When responsibility is transferred, the SA record will be updated and future work items relevant to that Revenue activity will be correctly allocated.</p>\n\n<h2 id=\"postcodes-and-the-abroad-signal\">Postcodes and the Abroad signal</h2>\n\n<p>You cannot enter a postcode when the abroad signal is set.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103000",
+   "section_id": "SAM103000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:04+00:00",
+ "section_id": "SAM103060",
+ "title": "Records: movement of taxpayer records: postcodes"
+}

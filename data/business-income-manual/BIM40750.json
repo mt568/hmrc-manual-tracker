@@ -1,0 +1,36 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40750",
+ "body": "<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40751",
+     "description": "",
+     "section_id": "BIM40751",
+     "title": "Whether trading receipts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40755",
+     "description": "",
+     "section_id": "BIM40755",
+     "title": "Capital recoveries"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:29+01:00",
+ "section_id": "BIM40750",
+ "title": "Specific receipts: insurance recoveries: contents"
+}

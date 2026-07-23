@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim85025",
+ "body": "<p>S64 Income Tax Act 2007 (ITA 2007), S261B Taxation of Chargeable Gains Act 1992 (TCGA 1992)</p>\n\n<p>Relief for losses made by a person (individual, partner or trustee) in carrying on a trade (including a profession or vocation), or in employment may include a set-off against chargeable gains. (In relation to employment, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31655\">EIM31655</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85090\">BIM85090</a>.) A person who makes a loss and claims relief under S64 ITA 2007, but who does not have enough income to offset that loss in full, can have the excess treated as a capital loss to the extent that there are chargeable gains for the year against which the loss is to be relieved.</p>\n\n<p>For the purposes of this legislation, chargeable gains are the capital gains less losses (including capital losses for the same year and capital losses brought forward) without distinguishing between business and non-business assets, but disregarding the capital gains annual exempt amount. The relief operates either upon a separate claim under S261B TCGA 1992 from the S64 ITA 2007 claim, or the Section 64 claim must make it clear that it is also made under Section 261B.</p>\n\n<p>Where the loss is claimed under S64(2)(b) ITA 2007 (relief against income of the previous year), see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85070\">BIM85070</a> for how relief is given.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim85000",
+   "section_id": "BIM85000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM85025",
+ "title": "Trade losses - types of relief: relief against chargeable gains"
+}

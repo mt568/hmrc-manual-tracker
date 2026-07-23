@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46270",
+ "body": "<p>S63 Income Tax (Trading and Other Income) Act 2005, S65 Corporation Tax Act 2009</p>\n\n<p>Where the tenant does not occupy the land subject to a taxed lease himself, but the land is used as tied premises for his trade, the tenant is allowed the same trading deduction as if he were the occupier of the premises. The deduction is computed in accordance with <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46255\">BIM46255</a>.</p>\n\n<p>Where the tenant charges a premium for the sub-lease of the tied premises, the trading deduction allowable to the tenant for the head lease is computed in the same way as the deduction allowable to an intermediate landlord under the property business rules (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2320\">PIM2320</a>).</p>\n\n<p>A common situation where this treatment applies is where a brewery operates through tied houses.</p>\n\n<h2 id=\"example-1\">Example 1</h2>\n\n<p>On 1 July 2012 A grants to B, who is a brewer, a 21-year lease of premises for a premium of £210,000 and a rent of £800 per year. B immediately grants a 10-year sub-lease to C (a tied tenant) for a premium of £120,000 and a rent of £1,000 per annum.</p>\n\n<p>The amount to be included in B’s trading profit as a brewer, after allowing the deduction due under these rules, is computed as follows:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Premium receivable by A</td>\n      <td>£210,000</td>\n    </tr>\n    <tr>\n      <td>Unreduced amount of taxed receipt (£210,000 x (50 - 20)/50)</td>\n      <td>£126,000</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Premium receivable by B</td>\n      <td>£120,000</td>\n    </tr>\n    <tr>\n      <td>Less £120,000 x 10 − 1/50 =</td>\n      <td>£21,600</td>\n    </tr>\n    <tr>\n      <td>Later unreduced amount</td>\n      <td>£98,400</td>\n    </tr>\n    <tr>\n      <td>Less deduction due as above</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>£126,000 x 10/21 =</td>\n      <td>£60,000</td>\n    </tr>\n    <tr>\n      <td>To be included in B’s liability</td>\n      <td>£38,400</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>The difference between £126,000 and £60,000, or an appropriate part thereof, is available for set-off against a premium granted for a further sub-lease of the premises at the expiration of ten years. If, for example, B then grants a sub-lease for five years for a premium of, say, £60,000, the further deduction allowable is £126,000 x 5/21 = £30,000.</p>\n\n<h2 id=\"example-2\">Example 2</h2>\n\n<p>The facts are the same as in example 1 except that the consideration for the grant of the 10-year sub-lease to C is a premium of £50,000 and a rent of £8,000 per annum. The unreduced amount of the premium receivable by B is £41,000 (£50,000 less £50,000 x 10 - 1/50 = £9,000) which is less than the amount of £60,000.</p>\n\n<p>The difference of £19,000 is therefore spread over the ten years of the sub-lease, so that for each of those years B is allowed a trading deduction of £1,900 per annum in addition to the rent of £800 per annum payable to A.</p>\n\n<p>As regards the treatment of receipts and expenses in connection with tied houses, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim51430\">BIM51430</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46250",
+   "section_id": "BIM46250"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-13T10:26:53+00:00",
+ "section_id": "BIM46270",
+ "title": "Specific deductions: premiums: tied premises"
+}

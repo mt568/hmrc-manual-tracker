@@ -1,0 +1,68 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+ "body": "<p>This guidance on the capital/revenue divide covers the following:</p>\n\n<ul>\n  <li>The relevant statute.</li>\n  <li>What is capital expenditure?</li>\n  <li>The relevant case law and examples.</li>\n  <li>A detailed explanation of the treatment of computer software costs including software developed in-house.</li>\n</ul>\n\n<p>These are discussed under the following sections and headings:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35001",
+     "description": "",
+     "section_id": "BIM35001",
+     "title": "Introduction: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35200",
+     "description": "",
+     "section_id": "BIM35200",
+     "title": "The role of accountancy: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35300",
+     "description": "",
+     "section_id": "BIM35300",
+     "title": "General themes: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35400",
+     "description": "",
+     "section_id": "BIM35400",
+     "title": "Tangible assets: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35500",
+     "description": "",
+     "section_id": "BIM35500",
+     "title": "Intangible assets: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35700",
+     "description": "",
+     "section_id": "BIM35700",
+     "title": "Intellectual property: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35800",
+     "description": "",
+     "section_id": "BIM35800",
+     "title": "Computer software: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35900",
+     "description": "",
+     "section_id": "BIM35900",
+     "title": "Tax cases and summing up: contents"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:26+01:00",
+ "section_id": "BIM35000",
+ "title": "Capital/revenue divide: contents"
+}

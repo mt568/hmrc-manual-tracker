@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3030",
+ "body": "<p>To trace a non-SA payment you should use the SA function that applies to the payment type you are trying to locate. The search criteria you enter on screen are the same as for an SA payment. (See <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam3010\">SAM3010</a> for more information). If the search locates one or more matching payments the details are displayed on screen B of the TRACE function you are using.</p>\n\n<p>Use screen B to identify which Banking Operations system the payment was directed to and take a note of the non-SA reference number. Then use the view function for the Banking Operations system to which the payment was directed to obtain further information about the payment.</p>\n\n<p>Note: The details displayed on SA TRACE function screen B are those that accompanied the payment when it was processed. The payment may have been rejected or may no longer be at the reference you have traced.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3000",
+   "section_id": "SAM3000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:44+00:00",
+ "section_id": "SAM3030",
+ "title": "Amend payment: trace payment: trace non-SA payment"
+}

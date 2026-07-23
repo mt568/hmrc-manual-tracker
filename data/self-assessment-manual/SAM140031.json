@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140031",
+ "body": "<p>Where an underpayment has been transferred from SA to NPS for coding and the customer has made payment on SA in settlement of that charge, you should transfer the charge back to SA so that the payment can be set against it. You should not follow the P211 procedure.</p>\n\n<p>For action to take see subject ‘Voluntary payment made on SA’ (Action Guide) (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam140032\">SAM140032</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140000",
+   "section_id": "SAM140000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:34+00:00",
+ "section_id": "SAM140031",
+ "title": "Transfer of liability: transfer from PAYE to SA: payment made on SA for balancing payments already coded in NPS"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121591",
+ "body": "<p>When you have entered as much information as possible from the return follow steps 1 - 8 below.</p>\n\n<p>For details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDAEGDZG\">Where you are able to capture all the return information</h2>\n\n<p>1. View the calculation. Check that the end result is as expected</p>\n\n<p>2. Save the return as fully captured in function CAPTURE RETURN by selecting the [Full] button on the SAVE RETURN screen when you close or exit the return</p>\n\n<p>3. File the return away</p>\n\n<h2 id=\"IDA0HDZG\">Where you are only able to capture part of the return information</h2>\n\n<p>4. Save the return as part captured in function CAPTURE RETURN by selecting the [Part] button on the SAVE RETURN screen when you close or exit the return</p>\n\n<p>5. Ask for any outstanding information. For example from a colleague or the taxpayer</p>\n\n<p>6. Make a note on the return if you decide that the return is not unsatisfactory but send part back to the taxpayer</p>\n\n<p>7. Place the papers on B/F for the outstanding information</p>\n\n<p>8. On receipt of the information</p>\n\n<ul>\n  <li>Use function CAPTURE RETURN to capture the remaining details</li>\n  <li>Save the return as fully captured by selecting the [Full] button on the SAVE RETURN screen when you close or exit the return</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-31T11:48:53+01:00",
+ "section_id": "SAM121591",
+ "title": "Returns: individuals returns: saving individual return details (Action Guide)"
+}

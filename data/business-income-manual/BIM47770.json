@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim47770",
+ "body": "<p>S50B Income Tax (Trading and Other Income) Act 2005, S58B Corporation Tax Act 2009</p>\n\n<p>This guidance applies to expenditure incurred on hiring cars where the hire period begins on or after 1 April 2009 for Corporation Tax purposes and 6 April 2009 for Income Tax purposes. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47775\">BIM47775</a> for the election to apply the previous rules where the hire period begins on or after 1/6 April 2009 but before 1/6 April 2010.</p>\n\n<h2 id=\"connected-persons-incurring-car-hire-expenses-on-the-same-car-for-the-same-period\">Connected persons incurring car hire expenses on the same car for the same period</h2>\n\n<p>Where connected persons incur expenses on the hiring of the same car, for the same period and the restriction at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47740\">BIM47740</a> would otherwise apply to more than one of them, the restriction only applies to the expenses incurred by one of the connected persons if certain conditions are met.</p>\n\n<p>For this rule to apply at least one of the connected persons must have incurred the car hire expenses under ‘commercial arrangements’. That means the terms of the agreement between lessee and lessor are such as would reasonably have been expected if the parties to the arrangements had been dealing at arm’s length.</p>\n\n<p>For the purposes of the rule a person hiring a car under a commercial arrangement is referred to as a commercial lessee.</p>\n\n<p>The rule provides that, where only one of the connected persons is a commercial lessee in respect of the car in question, then the restriction is applied to the expenses of that person.</p>\n\n<p>If there is more than one commercial lessee then the restriction is applied to the expenses incurred by the first one in the chain of arrangements for the hiring of the car for the period.</p>\n\n<h2 id=\"example\">Example</h2>\n\n<p>Parent company P has two subsidiaries Sub A and Sub B. Sub A and Sub B wish to provide cars for their employees.</p>\n\n<p>P is able to get a better deal from the bank/ head lessor because it is more creditworthy than the subsidiaries and is leasing a large number of vehicles.</p>\n\n<p>P hires 100 cars with CO2 emissions over 50g/km, from a lessor business for a lease term of three years. This is an arm’s length transaction.</p>\n\n<p>P then sub-leases 50 cars to Sub A and 50 cars to Sub B.</p>\n\n<p>Both Sub A and Sub B make the cars available to their employees as part of their remuneration packages.</p>\n\n<p>Without the connected persons rule, both P and the subsidiaries would have to apply the restriction to the rental payments for the cars.</p>\n\n<p>P has incurred expenditure under commercial arrangements and so is a commercial lessee. The restriction will only be applied to the expenses P incurred under those arrangements either because it is the only commercial lessee in the chain or, if the cars were provided to the subsidiaries under commercial arrangements, because it is the first commercial lessee in the chain.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim47700",
+   "section_id": "BIM47700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2021-03-23T15:18:54+00:00",
+ "section_id": "BIM47770",
+ "title": "Specific deductions: travel and subsistence: cars - restriction of hiring costs: hire periods beginning on or after 1/6 April 2009: connected persons"
+}

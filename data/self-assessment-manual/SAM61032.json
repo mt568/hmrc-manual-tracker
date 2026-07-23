@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61032",
+ "body": "<p>This guidance refers to tax returns received for 2009-10 and earlier. For further information regarding the new rules for the tax years 2010-11 and later, see SAM61200 onwards.</p>\n\n<p>If you need to reapply a fixed penalty for the current year minus one (CY-1) follow steps 1 - 8 below</p>\n\n<p>1. Create a miscellaneous penalty charge for £100 using function CREATE SUNDRY CHARGE</p>\n\n<p>2. Complete the Penalty Determination form 394(IT/CT) for the customer, plus issuing office copy (and agent copy where appropriate). The 394(IT/CT) forms can be found on SEES</p>\n\n<p>The SEES form 394 has 5 buttons which can be selected on the Options page. These buttons are</p>\n\n<ul>\n  <li>[Incorrect Return]</li>\n  <li>[Incorrect Claim]</li>\n  <li>[Late return]</li>\n  <li>[Failure To Notify]</li>\n  <li>[Other]</li>\n</ul>\n\n<p>If selected, the first four boxes will pre-populate sections in the letter. The button for [Late Returns] will populate with information regarding tax geared penalties and the [Other] button can be used to issue a fixed automatic penalty</p>\n\n<p>3. Add the following wording in the ‘Details of the Penalty’ free text box on form 394(IT/CT) (alternative text in brackets where issued to each partner in a partnership)</p>\n\n<blockquote>\n  <p>‘I did not receive your (partnership) tax return so you are liable to a penalty. Under section 8 / 8A (section 12AA(1)) of the Taxes Management Act 1970 you were obliged to send in a (partnership) tax return for the tax year ended 5th April YYYY but I did not receive it by the due date.</p>\n\n  <p>As a result I am imposing this penalty on you under section 93(2) (section 93A(2)) of the Taxes Management Act 1970.’</p>\n</blockquote>\n\n<p>4. Add the amount of £100 in the box headed ‘Penalty’ on the 394(IT/CT)</p>\n\n<p>5. Prepare a covering letter to be issued with the customer’s copy of the 394(IT/CT) in accordance with EM5220</p>\n\n<p>6. Include forms SA355 (pamphlet explaining fixed automatic penalties) and SA326(1) (appeal form) with the form 394(IT/CT)(customer copy) and covering letter</p>\n\n<p>7. Also enclose a completed payslip (PS1(AZ) or (BZ) as appropriate) with the customer copy of the 394(IT/CT), covering letter and other enclosures</p>\n\n<p>8. Issue the covering letter, form 394(IT/CT) and enclosures to the customer. Issue the agent copy of the 394(IT/CT) to the agent as appropriate</p>\n\n<p>Retain the issuing office copy of the 394(IT/CT) in the Establishment File</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61000",
+   "section_id": "SAM61000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-20T08:36:44+01:00",
+ "section_id": "SAM61032",
+ "title": "Interest, penalties and surcharge: penalties: reapplying FAP after cancellation: current year minus 1 (CY-1) (Action Guide)"
+}

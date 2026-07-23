@@ -1,0 +1,68 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim61300",
+ "body": "<p>S681A-S681AN Income Tax Act 2007 (ITA 2007), S834-S848 Corporation Tax Act 2010 (CTA 2010)</p>\n\n<p>This section is about legislation which counters certain avoidance devices based on arrangements for the sale and leaseback of land or any interest in land. There are two anti-avoidance rules which:</p>\n\n<ul>\n  <li>limit the deduction for payments under the lease to a commercial rent, and</li>\n  <li>deal with the situation where a lessee incurs additional rental liability for a comparatively short period in return for the payment of a lump sum.</li>\n</ul>\n\n<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61301",
+     "description": "",
+     "section_id": "BIM61301",
+     "title": "Restriction of payments under lease"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61305",
+     "description": "",
+     "section_id": "BIM61305",
+     "title": "Definition of commercial rent"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61310",
+     "description": "",
+     "section_id": "BIM61310",
+     "title": "Extended meaning of transfer"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61315",
+     "description": "",
+     "section_id": "BIM61315",
+     "title": "Calculation of tax deduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61330",
+     "description": "",
+     "section_id": "BIM61330",
+     "title": "Liability of recipient not affected"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61335",
+     "description": "",
+     "section_id": "BIM61335",
+     "title": "New lease after assignment or surrender"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61340",
+     "description": "",
+     "section_id": "BIM61340",
+     "title": "Special arrangements"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61345",
+     "description": "",
+     "section_id": "BIM61345",
+     "title": "Charge to tax"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-10-16T12:39:13+01:00",
+ "section_id": "BIM61300",
+ "title": "Leasing: avoidance: sale and leaseback of land: contents"
+}

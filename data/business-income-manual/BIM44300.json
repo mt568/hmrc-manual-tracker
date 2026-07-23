@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44300",
+ "body": "<p>S1007, S1015, S1022-S1024 Corporation Tax Act 2009</p>\n\n<p>With one exception, deductions in respect of qualifying shares are given to the ‘employing company’.</p>\n\n<p>The exception is where the deduction is given to a ‘successor company’ in the same group as the employing company, following the transfer of a business within the group.</p>\n\n<h2 id=\"the-employing-company\">The employing company</h2>\n\n<p>The employing company is:</p>\n\n<ul>\n  <li>for shares acquired through share awards (not through share options) - the company by reason of employment with which the shares were awarded to the employee;</li>\n  <li>for shares acquired through share options - the company by reason of employment with which the share options were first granted;</li>\n  <li>for shares acquired through ‘replacement options’ - the company by reason of employment with which the original options were granted.</li>\n</ul>\n\n<h2 id=\"replacement-options\">Replacement options</h2>\n\n<p>Following the takeover of a company whose shares are the subject of share options held by employees, there may be arrangements under which the employees exchange their existing options for options over shares in the acquiring company (the new ‘parent company’). This is commonly called a rollover of options.</p>\n\n<p>If, following a takeover, options are rolled over and replaced by options over shares in the new parent company, deductions continue to be available to the employing company if the shares in the new parent company are qualifying shares (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44285\">BIM44285</a>).</p>\n\n<h2 id=\"a-successor-company\">A successor company</h2>\n\n<p>The exception to the general rule that the deduction is given to the employing company is where the business (or substantially all of it), for the purposes of which share options were granted, is transferred to another company or companies in the employing company’s group (a ‘successor company’) between the date of the grant and the date the shares are acquired under the option.</p>\n\n<p>In these circumstances the deduction is given to the successor company.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:07+01:00",
+ "section_id": "BIM44300",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: qualifying shares: which company gets the deduction"
+}

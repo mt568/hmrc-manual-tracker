@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim56565",
+ "body": "<p>S66-S71 Finance Act 2005 (applicable where films relief under Finance (No 2) Act 1992 was claimed)</p>\n<p>The legislation to counter film corporate exit schemes exploiting the old film reliefs (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56010\">BIM56010</a>) only applies to companies which are part of a group of companies.</p>\n<p>The exit charge applies to a company which is a film rights company to which an exit event (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56575\">BIM56575</a>) occurs.</p>\n<p>A film rights company is a company that, immediately before an exit event occurs:</p>\n<ul><li class=\"filledcircle\">is a 75% subsidiary of the principal company of a group of companies (‘the principal company’), and</li><li class=\"filledcircle\">carries on a trade or business which consists of or includes the exploitation of films or the receipt of income derived from films, and</li><li class=\"filledcircle\">is party to an agreement which guarantees it an amount of income (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56570\">BIM56570</a>) arising from the exploitation of a film.</li></ul>\n<p>Note that whilst the film rights company has to be party to such an agreement, and therefore has rights arising from the exploitation of a film (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56570\">BIM56570</a>), it does not need to be, or to have ever been, the owner of the master version of the film.</p>\n<p>The legislation works by looking at disposals outside of a group of companies, and therefore definitions of what is meant by a group are required.  The legislation does this by linking into the rules for group relief (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm80100\">CTM80100 </a>onwards).  In doing so, the exit charge legislation is able to link into the extensive anti-avoidance provisions related to group relief, and in particular to what is and is not a group company.</p>\n<p>Two companies are deemed to be members of a group of companies if one is the 75% subsidiary of the other, or both are 75% subsidiaries of a third company.</p>\n<p>The principal company of a group of companies, of which the film rights company is part, means a company:</p>\n<ul><li class=\"dash\">which could claim group relief for any trading losses surrendered by the film rights company, and</li><li class=\"dash\">which is not itself the 75% subsidiary of any other company which could claim group relief for any trading losses surrendered by the film rights company.</li></ul>\n<p>A company is a 75% subsidiary of another company if it would be considered to be so for the purposes of group relief.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56000",
+   "section_id": "BIM56000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56500",
+   "section_id": "BIM56500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:28+01:00",
+ "section_id": "BIM56565",
+ "title": "Films and sound recordings: old regime for films: avoidance: corporate exit schemes - companies affected"
+}

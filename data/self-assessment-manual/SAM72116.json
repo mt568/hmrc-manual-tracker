@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72116",
+ "body": "<p>The Worklist Manager in an office with technical responsibility is responsible for</p>\n\n<ul>\n  <li>Monitoring the work state of the office through the use of ‘WORK’ online functions, in particular OFFICE WORK LIST SUMMARY</li>\n</ul>\n\n<blockquote>\n  <p>And</p>\n</blockquote>\n\n<ul>\n  <li>Dealing with work items appearing on the ‘Inhibited Statements’ work list</li>\n</ul>\n\n<p>The following list shows the functions linked to this role.</p>\n\n<p>For details of how to access any of these functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>On accessing the function, system help is available to you at function, screen, field, and error message levels.</p>\n\n<p>For ease of reference, functions are grouped under the following sub headings</p>\n\n<p><a href=\"#IDA0JYTI\">Appeals</a><br />\n<a href=\"#IDACKYTI\">Compliance</a><br />\n<a href=\"#IDAOKYTI\">Office</a><br />\n<a href=\"#IDAWKYTI\">Returns</a><br />\n<a href=\"#IDA4KYTI\">Statements</a><br />\n<a href=\"#IDAGLYTI\">Taxpayer</a><br />\n<a href=\"#IDA0LYTI\">Work</a></p>\n\n<h2 id=\"IDA0JYTI\">Appeals</h2>\n\n<p>Maintain Appeal</p>\n\n<h2 id=\"IDACKYTI\">Compliance</h2>\n\n<p>View Compliance History</p>\n\n<p>View Compliance Summary</p>\n\n<h2 id=\"IDAOKYTI\">Office</h2>\n\n<p>Maintain Responsible Office</p>\n\n<h2 id=\"IDAWKYTI\">Returns</h2>\n\n<p>Maintain Return Summary</p>\n\n<h2 id=\"IDA4KYTI\">Statements</h2>\n\n<p>View Statement</p>\n\n<h2 id=\"IDAGLYTI\">Taxpayer</h2>\n\n<p>Amend Taxpayer Signals</p>\n\n<p>Case Summary</p>\n\n<p>Maintain SA Notes</p>\n\n<p>View Taxpayer Designatory Details</p>\n\n<h2 id=\"IDA0LYTI\">Work</h2>\n\n<p>Immediate Action Work Lists</p>\n\n<p>Office Worklist Summary</p>\n\n<p>Operator Worklist Summary</p>\n\n<p>Taxpayer Work List</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-02T11:54:42+01:00",
+ "section_id": "SAM72116",
+ "title": "Manage work: access to records: worklist manager - technical office"
+}

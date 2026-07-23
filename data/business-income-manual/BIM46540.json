@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46540",
+ "body": "<p>FRS 102 Section 21 Provisions and Contingencies requires provision to be made for obligations arising under ‘onerous contracts’ as soon as a net loss is foreseen. For example, rent payable on vacated properties (see Herbert Smith v Honour [1999] 72TC130). The decision in Herbert Smith does not mean that provisions for expenditure that would be otherwise inadmissible for tax, such as capital expenditure, are permitted. Nor does it affect the rule in Section 21 of FRS 102 that the amount of a provision must be estimated reliably. For tax purposes the provision must be computed with sufficient accuracy see BIM46555.</p>\n\n<p>Following Herbert Smith the non-anticipation principle has no effect where the accounting treatment is required by GAAP. This would include both provisions required by FRS 102 Section 21 (including most rent provisions) and provisions for foreseen losses on construction contracts, which are required by FRS 102 Section 23 Revenue, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33155\">BIM33155</a>.</p>\n\n<p>Under IAS, the requirements of IAS 37 Provisions, Contingent Liabilities and Contingent Assets should be applied.</p>\n\n<p>The allowability of provisions is subject to the overriding capital/revenue distinction.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46500",
+   "section_id": "BIM46500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T14:53:57+00:00",
+ "section_id": "BIM46540",
+ "title": "Specific deductions: provisions: accounting standards and GAAP: onerous contracts"
+}

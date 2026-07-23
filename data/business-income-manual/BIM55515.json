@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim55515",
+ "body": "<p>S111-S129 Income Tax (Trading and Other Income) Act 2005, S109-S127 Corporation Tax Act 2009</p>\n<p>Where an election is in force, the herd basis rules come into operation whenever an animal enters or leaves the herd. Which rule applies will depend on the particular circumstances as follows:</p>\n<h3>When an animal comes into the herd</h3>\n<ul><li class=\"filledcircle\">if it is part of the initial setting up of the herd, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55530\">BIM55530</a>;</li><li class=\"filledcircle\">if it is a replacement of an animal leaving the herd, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55535\">BIM55535</a>;</li><li class=\"filledcircle\">if it is an addition to the herd, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55530\">BIM55530</a>;</li><li class=\"filledcircle\">if there was a substantial reduction in the size of the herd in the previous five years, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55545\">BIM55545</a>.</li></ul>\n<h3>When an animal in the herd is disposed of, or dies</h3>\n<ul><li class=\"filledcircle\">if it is replaced by another animal, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55535\">BIM55535</a>;</li></ul>\n<p>If it is not replaced, then:</p>\n<ul><li class=\"filledcircle\">if its disposal is part of the disposal, within a period not exceeding 12 months, of the whole herd or a substantial part of the herd, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55540\">BIM55540</a>;</li><li class=\"filledcircle\">if its disposal is not part of the disposal of the whole herd or a substantial part of the herd, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55550\">BIM55550</a>.</li></ul>\n<h3>Replacement of the whole herd </h3>\n<p>Where an entire herd is disposed of, or dies, and the farmer acquires a new production herd of the same class:</p>\n<ul><li class=\"filledcircle\">the new animals are treated as replacements (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55535\">BIM55535</a>) of the old animals up to the number of animals in the smaller of the two herds;</li><li class=\"filledcircle\">if the new herd is larger than the old herd, the extra animals are treated as additions (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55530\">BIM55530</a>);</li><li class=\"filledcircle\">if the new herd is smaller than the old herd, then:</li></ul>\n<blockquote>\t<ul><li class=\"dash\">if the decrease in size is substantial, it is treated as the disposal of a substantial part of the old herd (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55540\">BIM55540</a>);</li><li class=\"dash\">if the decrease in size is not substantial, it is treated as a minor disposal from the herd (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55550\">BIM55550</a>).</li></ul></blockquote>\n<p>For guidance on what constitutes a replacement, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55520\">BIM55520</a>, and for guidance on what constitutes a substantial reduction, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55525\">BIM55525</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55000",
+   "section_id": "BIM55000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55500",
+   "section_id": "BIM55500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:21+01:00",
+ "section_id": "BIM55515",
+ "title": "Farming: herd basis: which rule to apply"
+}

@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim84210",
+ "body": "<p>An artist has the following profits and would like to consider making an averaging claim.&nbsp;</p>\n<table summary=\"Table showing the above\"><thead><tr><th scope=\"col\">Tax Year</th><th scope=\"col\">Profits</th></tr></thead><tbody><tr><td>2015 / 2016</td><td>£32,000</td></tr><tr><td>2016 / 2017</td><td>-£20,000</td></tr></tbody></table>\n<p>As long as the profits in 2016 / 2017 are either&nbsp;less than £24,000 or more than £42,667 then the volatility condition has been met and on the basis that all of the criteria in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim84100\">BIM84100</a>&nbsp;are met,&nbsp;then an averaging claim can be made.&nbsp;</p>\n<p>The averaging computation will look&nbsp;like this.</p>\n<table summary=\"Table showing the averaging computation\"><thead><tr><th scope=\"col\">Tax Year</th><th scope=\"col\">Profits</th><th scope=\"col\">Profits for averaging</th><th scope=\"col\">Averaged Profits</th></tr></thead><tbody><tr><td>2015 / 2016</td><td>£32,000</td><td>£32,000</td><td>£16,000</td></tr><tr><td>2016 / 2017</td><td>-£20,000</td><td>£0</td><td>£16,000</td></tr></tbody></table>\n<p>&nbsp;So the artist’s profits for all tax purpose are now £16,000 for each year.</p>\n<p>The artist can then claim to use the £20,000 of trade losses in the normal manner.</p>\n<p>In this case the artist claims under S64 ITA 2007 to use the £16,000 loss against the general income of 2015/2016 and the residue of the loss, £4,000, against the general income of 2016/2017</p>\n<p>Relief for the reduction of tax and class 4 NIC in 2015/2016 due to averaging and the reduction of tax due to the loss claim will be given in 2016/2017 and any interest on any repayment due will be given with reference to 2016/2017.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim84000",
+   "section_id": "BIM84000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-24T10:05:22+00:00",
+ "section_id": "BIM84210",
+ "title": "Averaging: example of a two year claim"
+}

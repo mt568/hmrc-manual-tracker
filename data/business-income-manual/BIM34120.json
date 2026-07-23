@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34120",
+ "body": "<p>S237 Income Tax (Trading and Other Income) Act 2005, S186 Corporation Tax Act 2009</p>\n\n<p>When a trading entity moves from a realisation basis of computing taxable profits to a fair value basis they may make an election to spread any resulting adjustment income or receipt evenly over six periods of account.</p>\n\n<p>The election must be made:</p>\n\n<ul>\n  <li>in writing,</li>\n  <li>to an officer of HMRC,</li>\n  <li>by 31 January after the tax year in which the change of basis occurs for Income Tax purposes,</li>\n  <li>within twelve months of the end of the first accounting period to which the new basis applies for Corporation Tax purposes.</li>\n</ul>\n\n<p>If the trade ceases before the whole adjustment has been charged to tax then the remainder is treated as chargeable to tax immediately before the cessation.</p>\n\n<p>The election is made for six periods of account, not for six years, so if any such periods are shorter than a year there is no adjustment to the amount to be brought in.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34090",
+   "section_id": "BIM34090"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:25+01:00",
+ "section_id": "BIM34120",
+ "title": "Change of basis of computing taxable profits: adjustment income and expenses: change from realisation basis to mark to market (fair value) accounting: spreading election"
+}

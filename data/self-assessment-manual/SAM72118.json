@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72118",
+ "body": "<p>The Worklist Viewer has view only access to all Work Lists allocated to his or her Organisation Unit for the Revenue activity determined by his or her user role. For example, the Worklist Viewer - Technical will see all the work lists for his or her Organisation Unit with technical responsibilities. Although unable to gain update access to the work lists, the role allows the operator to</p>\n\n<ul>\n  <li>Select a revised presentation for a particular Work List, that is in a different order, or filtered so that only those cases which have specific conditions present are shown</li>\n  <li>Print up to the first 100 entries on a full or filtered Work List (Note: The [Print] button has been temporarily withdrawn)</li>\n</ul>\n\n<blockquote>\n  <p>And</p>\n</blockquote>\n\n<ul>\n  <li>Select a Work List entry (work item) to view all available details on that work item</li>\n</ul>\n\n<p>The following list shows the functions linked to the role of Worklist Viewer available, with access to the same functions, in an office with processing, recovery or technical responsibilities.</p>\n\n<p>For details of how to access any of these functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>On accessing the function, system help is available to you at function, screen, field, and error message levels.</p>\n\n<p>For ease of reference, the functions are grouped under the following sub-headings</p>\n\n<p><a href=\"#IDAEPYTI\">Compliance</a><br />\n<a href=\"#IDAMPYTI\">Taxpayer</a><br />\n<a href=\"#IDAUPYTI\">Work</a></p>\n\n<h2 id=\"IDAEPYTI\">Compliance</h2>\n\n<p>View Compliance History</p>\n\n<h2 id=\"IDAMPYTI\">Taxpayer</h2>\n\n<p>Case Summary</p>\n\n<h2 id=\"IDAUPYTI\">Work</h2>\n\n<p>Operator Work List Summary</p>\n\n<p>Taxpayer Work List</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-02T11:56:17+01:00",
+ "section_id": "SAM72118",
+ "title": "Manage work: access to records: worklist viewer"
+}

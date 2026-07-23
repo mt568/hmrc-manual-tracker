@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110116",
+ "body": "<p>In April 2015, HMRC systems were brought into line with Banking Industry standards so that, where possible, repayments are made back to the credit or debit card used to make payment on the Self Assessment account.</p>\n\n<p>In order for the repayment to be made back to the card, all of the following criteria must be met</p>\n\n<ul>\n  <li>The most recent payment on the account was made by that card</li>\n  <li>The payment was made after the implementation of the new process on 6 April 2015</li>\n  <li>The repayment due is no more than the amount of the last payment received</li>\n  <li>The payment must have been made within the nine months preceding creation of the repayment</li>\n</ul>\n\n<p>Note: A count will be kept of repayment amounts made following a card payment so that multiple repayments to card can only be made up to the limit of the payment received. For example, a customer makes a card payment of £500. Subsequent repayments of £200 and £200 would be repaid to that card. If a further repayment was due of £100 or less, it would also be repaid to the card but if it exceeded £100, it would be issued using BACS (Bankers Automated Clearance System).</p>\n\n<h2 id=\"IDA5WR0F\">Automatic repayments</h2>\n\n<p>The system will attempt to repay to card in the first instance regardless of any nomination made on the return or structured action request (SAR), including Deeds of Assignment.</p>\n\n<h2 id=\"IDAHXR0F\">Manual repayments</h2>\n\n<p>Only where all of the above criteria are met will the option to repay to card be presented to the operator. The option ‘Card’ should always be selected unless there is a strong business reason to select a different method. For example, there is a valid Deed of Assignment in place or the customer is bankrupt.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:24+00:00",
+ "section_id": "SAM110116",
+ "title": "Repayments: issue repayment: repay to card"
+}

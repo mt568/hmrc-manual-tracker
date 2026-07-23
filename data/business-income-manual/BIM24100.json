@@ -1,0 +1,49 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24100",
+ "body": "<h2>Layout of further guidance</h2>\n<p>The cases of <strong>Styles v New York Life Insurance Company</strong> [1889] 2 TC 460 and <strong>CIR v The Cornish Mutual Assurance Co Ltd</strong> [1926] 12 TC 841, referred to at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24040\">BIM24040</a>, belong to the strand of ‘mutual’ case law involving mutual insurance (the other major strand being social and recreational clubs - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24200\">BIM24200</a> onwards). It was in a series of early insurance cases that the basic principles of mutual trading were developed. But mutual trading is not restricted to the mutual insurance business. The mutual trading principle is concerned with the financial framework for carrying on an activity. This is what counts rather than the subject matter of the activity.</p>\n<p>Having overcome the early difficulty of deciding whether mutual insurance was a trade or not, by deciding that it was, the courts established that there are a number of necessary features for mutuality. These were summarised at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24020\">BIM24020</a>. The case law origin of each of these characteristics is considered in the guidance that follows.</p>\n<p>A body will not pass the tests for mutual trading if its legal framework does not include these rules.</p>\n<p>If an entity has customers, who are not entitled to receive back surplus amounts they have contributed, the entity’s transactions with them cannot amount to mutual trading. Tax has to be paid on the surplus arising from those transactions in the usual way. If the amount of trade, which is not mutual, is very small it will not affect the tax treatment of the mutual trading with members. If the amount of any non-mutual trade is substantial it may result in the entity’s trade being considered wholly within the charge on trade profits. Where the sums are significant, refer any cases of difficulty to&nbsp;<span>Business Profits</span>.</p>\n<p>Bodies may have dealings, some of which are trading and some not trading. You should decide whether the dealings are trading transactions <strong>before</strong> you decide whether the trade is mutual. This distinction is covered in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24045\">BIM24045</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24105",
+     "description": "",
+     "section_id": "BIM24105",
+     "title": "Essential requirements: contributors to and participators in a surplus must be identical"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24110",
+     "description": "",
+     "section_id": "BIM24110",
+     "title": "Essential requirements: surplus must go back to contributors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24115",
+     "description": "",
+     "section_id": "BIM24115",
+     "title": "Essential requirements: return of surplus contributions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24120",
+     "description": "",
+     "section_id": "BIM24120",
+     "title": "Essential requirements: members must control the common fund"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM24100",
+ "title": "Meaning of trade: mutual trading and members clubs: essential requirements: contents"
+}

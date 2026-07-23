@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34065",
+ "body": "<p>Section 10 of FRS102 requires changes in accounting policy resulting from a change in the requirements of an accounting standard, or from the adoption of a new accounting standard, to be accounted for in accordance with the transitional provisions of that standard. All other changes in accounting policy should be accounted for retrospectively.</p>\n\n<p>The following example illustrates how a change of accounting policy from one valid policy to another is reported.</p>\n\n<h2 id=\"IDAOEE0B\">Example</h2>\n\n<p>A business made a reorganisation provision of £1million in its Year 1 accounts under a valid accounting policy for that accounting period. Under the same accounting policy it would have provided a further £500,000 in its Year 2 accounts.</p>\n\n<p>By the time that the Year 2 accounts were being prepared a new financial reporting standard had come into force. Because the provision fails to satisfy the requirements of the standard, the business cannot now make the further provision of £500,000 in Year 2. It must also remove the £1million from its balance sheet.</p>\n\n<p>The provision is removed by way of a ‘prior period adjustment’ and the effect of this is to enhance shareholders’ or owners’ equity by increasing retained profits by the amount of the adjustment.</p>\n\n<p>The profit and loss account for the previous year will be restated so as to provide accurate comparative figures.</p>\n\n<p>There is no reopening of the Year 1 accounts because the accounting policy was valid at the time that the accounts were drawn up.</p>\n\n<p>If the reorganisation provision of £1million had been allowed for tax purposes, the prior period adjustment is taxable, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34070\">BIM34070</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34045",
+   "section_id": "BIM34045"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:24+01:00",
+ "section_id": "BIM34065",
+ "title": "Change of basis of computing taxable profits: accounting policy changes: how are they reported in accounts"
+}

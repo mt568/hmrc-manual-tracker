@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110060",
+ "body": "<p>The PAYE repayment system will continue to be used where the SA or OAS repayment system is not appropriate. This will occur where, for instance</p>\n\n<ul>\n  <li>An unemployment repayment is to be made through PAYE</li>\n</ul>\n\n<blockquote>\n  <p>Note: Including ‘in-year’ unemployment repayment requests from taxpayers in SA.</p>\n</blockquote>\n\n<ul>\n  <li>A PAYE cessation repayment is requested prior to transfer into SA. Note: For customers already in SA no in-year repayment can be made except where the customer has become self employed, and the claim is made after an SA record has been set up, or reactivated. In these cases the PAYE cessation repayment should be made by creating a freestanding credit and repaid through the SA record.</li>\n  <li>For cases where the taxable income exceeds £100,000, follow the guidance at PAYE94025. For all other SA criteria cases, no ‘in-year’ repayment can be made.</li>\n</ul>\n\n<blockquote>\n  <p>Note: This will only apply to in-year repayment requests and is not appropriate where an overpayment arises from the SA return.</p>\n</blockquote>\n\n<p>Repayments made outside of SA will be subject to existing clerical and supervisory procedures.</p>\n\n<p>Where repayment or set-off has been made using the PAYE repayment system</p>\n\n<ul>\n  <li>Use SA function AMEND TAXPAYER SIGNALS to set the ‘No Repayment’ signal. (The setting of this signal will prevent an automatic repayment and possible over-repayment being made when the return is received)</li>\n  <li>Use SA function MAINTAIN SA NOTES to enter a brief note recording the fact that a repayment / set-off has been made</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-02-05T07:52:26+00:00",
+ "section_id": "SAM110060",
+ "title": "Repayments: issue repayment: PAYE repayment system"
+}

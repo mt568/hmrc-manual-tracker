@@ -1,0 +1,78 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim51510",
+ "body": "<p>S25 Income Tax (Trading and Other Income) Act 2005, S46 Corporation Tax Act 2009</p>\n\n<p>For tax purposes, accounts prepared according to generally accepted accounting practice are the starting point for calculating trade profits.</p>\n\n<p>Such accounts are therefore also the starting point for income recognition for tax purposes, subject to any over-riding statutory or case law principle (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim30510\">BIM30510</a>).</p>\n\n<p>The guidance on income recognition is arranged as follows</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim51500",
+   "section_id": "BIM51500"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51515",
+     "description": "",
+     "section_id": "BIM51515",
+     "title": "Valuation of mortgage"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51520",
+     "description": "",
+     "section_id": "BIM51520",
+     "title": "Retentions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51525",
+     "description": "",
+     "section_id": "BIM51525",
+     "title": "Premiums"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51530",
+     "description": "",
+     "section_id": "BIM51530",
+     "title": "Ground rents: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51535",
+     "description": "",
+     "section_id": "BIM51535",
+     "title": "Trading stock"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51540",
+     "description": "",
+     "section_id": "BIM51540",
+     "title": "Reversionary interest"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51545",
+     "description": "",
+     "section_id": "BIM51545",
+     "title": "Improved"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51550",
+     "description": "",
+     "section_id": "BIM51550",
+     "title": "Reports to BAI Business Profits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51555",
+     "description": "",
+     "section_id": "BIM51555",
+     "title": "Property income"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:06+01:00",
+ "section_id": "BIM51510",
+ "title": "Builders, property dealers & developers: income recognition"
+}

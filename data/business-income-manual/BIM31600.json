@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim31600",
+ "body": "<p>An existing business may become ’taxable’ for VAT purposes, for example when its taxable turnover begins to exceed the VAT registration threshold (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31515\">BIM31515</a>), and conversely may cease if its taxable turnover falls below the deregistration limit. The trader on registration can claim a special credit for the VAT actually borne on any stocks and capital items on hand at the time of registration. So far as it covers stocks on hand, the deduction should be included in the trade profits for the period including the time of registration either as a separate credit or by reduction of the opening stock in trade and/or purchases of that period. In so far as the deduction allowed by HMRC covers VAT based on capital expenditure, its precise treatment for tax on trade profits purposes might be complex. Where, as is likely to be normally the case, the amount relates to plant or machinery qualifying for capital allowances, it may be deducted from the main plant and machinery pool of capital expenditure. There is, however, no objection to treating it as a trade receipt if it is in fact so dealt with in the accounts.</p>\n\n<p>If the trader’s registration is cancelled they may (unless the VAT due is less than £1,000) have to account for VAT on the value of any goods on hand at the time of de-registration. If the goods are goods for re-sale, the credit in the trade profits computation, whether on their subsequent sale or on stock in trade, should be the figure exclusive of VAT in the normal way. If the assets are capital assets, the appropriate VAT should be treated as capital expenditure incurred on the asset at the time the registration is cancelled but in practice where the amount is not substantial you may allow it as a trade deduction if the trader prefers.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim31500",
+   "section_id": "BIM31500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:08+01:00",
+ "section_id": "BIM31600",
+ "title": "Value Added Tax: starting or ceasing liability"
+}

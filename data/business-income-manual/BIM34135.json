@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34135",
+ "body": "<p>S227 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S180 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<h2 id=\"law-or-practice\">Law or practice</h2>\n\n<p>S226-S240 ITTOIA 2005 and S180-S187 CTA 2009 apply when there is a change in the basis of computing trade profits and the old basis was valid, that is, it accorded with the law or practice applicable at the time, and the new basis accords with both the law and practice.</p>\n\n<p>The old basis can be in accordance with either the law or the practice applicable at the time. This caters for circumstances where the law is clarified and we realise that the practice, which was thought to comply with the law at the time, did not actually comply with the law. The ‘practice applicable’ means the accepted practice in cases of that description on how profits of a trade should be computed for tax purposes. So the legislation applies where that particular practice was applied to all similar cases, and does not apply if it had just been applied by one particular business.</p>\n\n<p>In these types of cases the old basis is valid, as it complied with the practice applicable at the time, even though our view of the law subsequently changed. But the entity will have to change its basis of computing profits to comply with the new view of the law. The new basis will be in accordance with both law and practice.</p>\n\n<h2 id=\"change-of-basis\">Change of basis</h2>\n\n<p>A change of basis is defined as either a change of accounting policy, or a change in the tax adjustment applied.</p>\n\n<p>The adjustment income and expenses legislation does not apply where a prior period adjustment is made to correct a material error in the earlier accounts or where a change is made to comply with legislation which is not applicable to the previous period of account.</p>\n\n<p>So the legislation applies:</p>\n\n<ul>\n  <li>when the business entity changes its accounting policy and this affects the computation of trade profits,</li>\n</ul>\n\n<blockquote>\n  <p>or</p>\n</blockquote>\n\n<ul>\n  <li>when there is a change in the tax adjustment.</li>\n</ul>\n\n<p>When a prior period adjustment is made to correct a material error it is likely that the previous basis for computing taxable profits will not have been a valid basis, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34020\">BIM34020</a>.</p>\n\n<h2 id=\"tax-adjustment\">Tax adjustment</h2>\n\n<p>A tax adjustment is any adjustment required or authorised by law in calculating the profits of a trade, profession or vocation for Income Tax or Corporation Tax purposes.</p>\n\n<h2 id=\"period-of-account\">Period of account</h2>\n\n<p>Period of account is defined in S989 Income Tax Act 2007 and S1119 Corporation Tax Act 2010 to mean any period for which a person or business draws up accounts.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34090",
+   "section_id": "BIM34090"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:26+01:00",
+ "section_id": "BIM34135",
+ "title": "Change of basis of computing taxable profits: adjustment income and expenses: meanings"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44310",
+ "body": "<p>S1013(1), S1021(1) Corporation Tax Act 2009</p>\n\n<p>Deductions in respect of qualifying shares:</p>\n\n<ul>\n  <li>are never given for a period before that in which the employees acquire the shares (the ‘acquisition period’);</li>\n  <li>are given just for the ‘acquisition period’ if the shares are unrestricted and not convertible;</li>\n  <li>in most cases are given for a ‘post-acquisition period’ (as well as the acquisition period) if the shares are convertible or restricted at the time that the employee acquires them.</li>\n</ul>\n\n<h2 id=\"special-rules-for-convertible-or-restricted-shares\">Special rules for convertible or restricted shares</h2>\n\n<p>Special rules apply if employees acquire qualifying shares which are:</p>\n\n<ul>\n  <li>subject to restrictions (‘restricted shares’), or</li>\n  <li>convertible into other shares or securities (‘convertible shares’).</li>\n</ul>\n\n<p>Exceptionally, special rules may still apply to shares acquired before 16 April 2003 which are subject to a risk of being forfeited (‘forfeitable shares’). Forfeitable shares acquired on or after that date fall within the category of restricted shares.</p>\n\n<p>These special rules broadly align the timing and amount of deductions for the employer with the timing of amounts taxable on the employee as employment income in respect of:</p>\n\n<ul>\n  <li>the acquisition of the shares, and</li>\n  <li>subsequent post-acquisition events.</li>\n</ul>\n\n<p>Guidance on deductions relating to convertible and restricted shares is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44360\">BIM44360</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:08+01:00",
+ "section_id": "BIM44310",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: qualifying shares: when the deduction is given"
+}

@@ -1,0 +1,54 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim41000",
+ "body": "<p>Subject to a few exceptions, rents received in respect of premises should, in law, be excluded, together with the related outgoings, in computing the profits of a trade or profession.</p>\n\n<p>Guidance on:</p>\n\n<ul>\n  <li>The taxation of rents and other income from property is in the Property Income Manual.</li>\n  <li>The commercial background and accountancy treatment of leasing is in the Business Leasing Manual.</li>\n</ul>\n\n<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim41001",
+     "description": "",
+     "section_id": "BIM41001",
+     "title": "Rents are not trade receipts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim41005",
+     "description": "",
+     "section_id": "BIM41005",
+     "title": "Profits from services to tenants"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim41010",
+     "description": "",
+     "section_id": "BIM41010",
+     "title": "Letting surplus accommodation: expenses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim41015",
+     "description": "",
+     "section_id": "BIM41015",
+     "title": "Letting surplus accommodation: rents may be treated as trading receipts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim41020",
+     "description": "",
+     "section_id": "BIM41020",
+     "title": "Letting surplus accommodation: rents may be treated as trading receipts: example"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:28+01:00",
+ "section_id": "BIM41000",
+ "title": "Specific receipts: rents: contents"
+}

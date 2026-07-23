@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim55530",
+ "body": "<p>S110, S111 Income Tax (Trading and Other Income) Act 2005, S112, S113 Corporation Tax Act 2009</p>\n<p>Neither the initial cost of the herd nor the cost of any animals added to the herd (as distinct from replacements) is an allowable deduction from the profits of the trade.</p>\n<p>The herd is not included in the stock valuation for the computation of trade profits.</p>\n<h3>Home-bred and home-reared additions</h3>\n<p>If an animal which has previously been part of the farmer's trading stock is added to the herd (for example, a home-bred addition on reaching maturity), the cost of breeding or buying it, together with the cost of rearing it to maturity, should be included as a trading receipt at that time. These costs will, of course, already have been deducted as an expense so the effect of including them as a receipt is merely to disallow the deductions. The amount included as a trading receipt becomes the cost of that animal in the herd and as such may be seen as an asset on the balance sheet. (See the year ended 30 September 2010 in the example.)</p>\n<p>Where it is not possible to ascertain the actual cost of breeding and rearing, the deemed cost method of valuation (Helpsheet 232, reproduced at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55410\">BIM55410</a>) may be used.</p>\n<h3>Animals acquired by gift etc</h3>\n<p>An animal acquired from another person otherwise than for valuable consideration is to be treated as acquired at its market value at the date of acquisition.</p>\n<h3>Example</h3>\n<p>In the year ended 30 September 2008, Richard purchases 50 cows for £800 per head and commences trading as a dairy farmer. He makes a valid election for the herd basis.</p>\n<p>The cost of the herd, £40,000, is not an allowable deduction, nor should it be included in the closing stock valuation for tax purposes.</p>\n<p>In the year ended 30 September 2009, Richard retains the original 50 cows and purchases 10 extra cows for £900 per head.</p>\n<p>The cost of the additions is not an allowable deduction.</p>\n<p>In the year ended 30 September 2010, Richard retains the 60 cows he had at the start of the year and increases the herd by bringing in 12 newly calved heifers (young cows) which he has bred and reared himself. As he has not kept sufficiently detailed records to be able to identify the actual production cost of the heifers, he uses the deemed cost method of valuation. If we assume for the sake of this example that the open market value of a newly calved heifer at the time Richard's heifers joined the herd was £1,000, the deemed cost of his heifers will be £600 per head (60% x £1,000).</p>\n<p>In arriving at Richard's trade profit for the year, the cost of the home bred additions, 12 x 600 = £7,200, is included as a trading receipt.</p>\n<p>The cost of the herd at 30/9/2010 is -</p>\n<table summary=\"Table showing the cost of the herd at 30/09/2010\"><thead><tr><th scope=\"col\" width=\"129\"><p>-</p></th><th scope=\"col\" width=\"79\"><p><strong>Amount</strong></p></th><th scope=\"col\"><p>-</p></th></tr></thead><tbody><tr><td width=\"129\"><p>50 cows @ £800</p></td><td width=\"79\"><p>£40,000</p></td><td><p>Initial purchase</p></td></tr><tr><td width=\"129\"><p>10 cows @ £900</p></td><td width=\"79\"><p>£9,000</p></td><td><p>Bought in additions</p></td></tr><tr><td width=\"129\"><p>12 cows @ £600</p></td><td width=\"79\"><p>£7,200</p></td><td><p>Home bred additions</p></td></tr><tr><td width=\"129\"><p>-</p></td><td width=\"79\"><p>£56,200</p></td><td><p>-</p></td></tr></tbody></table>\n<p>No deduction has been given for the cost of any of these animals</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55000",
+   "section_id": "BIM55000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55500",
+   "section_id": "BIM55500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-14T09:18:47+00:00",
+ "section_id": "BIM55530",
+ "title": "Farming: herd basis: initial cost of herd and cost of additions"
+}

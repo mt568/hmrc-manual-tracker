@@ -1,0 +1,90 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim37700",
+ "body": "<p>S34 Income Tax (Trading and Other Income) Act 2005, S54 Corporation Tax Act 2009</p>\n\n<h2 id=\"introduction-and-layout-of-guidance\">Introduction and layout of guidance</h2>\n\n<p>Over the years a number of cases have come before the courts to consider the deductibility of amounts paid to employees, including directors. Normal employee costs are allowable but a variety are not, including:</p>\n\n<ul>\n  <li>employee costs that are capital - see for example <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37725\">BIM37725</a></li>\n  <li>dividends paid to employees - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37705\">BIM37705</a></li>\n  <li>‘excessive’ remuneration, including remuneration paid to obtain a fiscal advantage - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37707\">BIM37707</a>, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37715\">BIM37715</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37740\">BIM37740</a></li>\n</ul>\n\n<p>In addition there is a statutory timing rule in S36 Income Tax (Trading and Other Income) Act 2005 for unincorporated businesses and S1288 Corporation Tax Act 2009 for companies that precludes deduction for amounts paid more than nine months after the end of the period of account in question. There is detailed guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47130\">BIM47130</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim37000",
+   "section_id": "BIM37000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37705",
+     "description": "",
+     "section_id": "BIM37705",
+     "title": "Duality of, or non-trade, purpose: remuneration, etc: claim to deduct dividends paid to directors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37707",
+     "description": "",
+     "section_id": "BIM37707",
+     "title": "Duality of, or non-trade: remuneration, etc: ‘excessive’ remuneration: establish the purpose"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37715",
+     "description": "",
+     "section_id": "BIM37715",
+     "title": "Duality of, or non-trade: remuneration, etc: paid to daughter"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37717",
+     "description": "",
+     "section_id": "BIM37717",
+     "title": "Duality of, or non-trade, purpose: remuneration, etc: payment to retiring director following dispute"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37720",
+     "description": "",
+     "section_id": "BIM37720",
+     "title": "Duality of, or non-trade, purpose: remuneration, etc: payment to director for changing duties because of ill-health"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37725",
+     "description": "",
+     "section_id": "BIM37725",
+     "title": "Duality of, or non-trade, purpose: remuneration, etc: loss on sale of property used as a temporary residence by employee"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37730",
+     "description": "",
+     "section_id": "BIM37730",
+     "title": "Duality of, or non-trade, purpose: remuneration, etc: payment of share of profits following sale of shares"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37735",
+     "description": "",
+     "section_id": "BIM37735",
+     "title": "Duality of, or non-trade, purpose: remuneration, etc: relative's wages"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37737",
+     "description": "",
+     "section_id": "BIM37737",
+     "title": "Duality of, or non-trade, purpose: remuneration, etc: whether payments to minor children were allowable remuneration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37740",
+     "description": "",
+     "section_id": "BIM37740",
+     "title": "Duality of, or non-trade, purpose: remuneration, etc: 'excessive' remuneration: disallow the excess"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37745",
+     "description": "",
+     "section_id": "BIM37745",
+     "title": "Duality of, or non-trade, purpose: remuneration, etc: premium to secure directors’ pension"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:12:43+01:00",
+ "section_id": "BIM37700",
+ "title": "Wholly and exclusively: duality of, or non-trade, purpose: remuneration, etc: contents"
+}

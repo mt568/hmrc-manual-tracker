@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44535",
+ "body": "<p>In this guidance a ‘general-purpose’ EBT means a trust set up to provide employees with benefits other than:</p>\n\n<ul>\n  <li>share-related benefits under employee share schemes set up to give employees a stake in the company or group by which they are employed - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44515\">BIM44515</a>,</li>\n  <li>pension and other benefits under retirement benefit schemes - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44520\">BIM44520</a>,</li>\n  <li>accident benefits - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44525\">BIM44525</a>,</li>\n  <li>healthcare benefits - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44530\">BIM44530</a>.</li>\n</ul>\n\n<p>General-purpose EBTs may be set up for clear business reasons, such as setting money aside to pay redundancy and other benefits to employees if their employment is terminated.</p>\n\n<p>However, EBTs have increasingly been used for tax avoidance purposes, with the aim of providing employees and directors with benefits in ways that aim to defer, minimise or avoid:</p>\n\n<ul>\n  <li>Income Tax (including PAYE) liability on amounts received by employees and directors; and/or</li>\n  <li>employers’ Class 1 or Class 1A National Insurance Contributions (NICs) on amounts paid to employees and directors,</li>\n</ul>\n\n<p>whilst still securing an immediate deduction for the employer’s contributions to the EBT.</p>\n\n<h2 id=\"avoidance-uses\">Avoidance uses</h2>\n\n<p>Typical avoidance uses of general-purpose EBTs include:</p>\n\n<ul>\n  <li>payment of bonuses via an offshore trust in an attempt to avoid employers’ NICs,</li>\n  <li>payment of remuneration by way of loans, which may be written off before they become repayable,</li>\n  <li>making loans in depreciating currency such as Turkish Lira from which the borrower may make a foreign exchange gain before the loan becomes repayable,</li>\n  <li>creating an offshore ‘moneybox’ for director/shareholders of close companies, with the aim of avoiding Inheritance Tax on value transferred out of the company through contributions to the EBT,</li>\n  <li>allowing employees to use assets (such as cars) owned by the EBT, the costs of acquiring which would be capital expenditure if they were owned by the employing company,</li>\n  <li>providing benefits in the form of shares (not in the employing company) whose values can most easily be manipulated before or after they are transferred from the EBT to employees or directors.</li>\n</ul>\n\n<h2 id=\"approach-to-take\">Approach to take</h2>\n\n<p>In many cases the main risk may relate to Income Tax under PAYE and NICs due on amounts paid out of the EBT, rather than the availability of a Corporation Tax or Income Tax deduction for the employer’s contribution. It is therefore important that staff considering deductions for employers’ contributions liaise with Employer Compliance staff in order that all aspects of the case are considered together.</p>\n\n<p>Guidance on deductions for contributions to general-purpose EBTs is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44540\">BIM44540</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-01-15T17:54:41+00:00",
+ "section_id": "BIM44535",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs"
+}

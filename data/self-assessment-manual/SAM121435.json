@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121435",
+ "body": "\n<p>When processing a return by using function CAPTURE RETURN or AMEND RETURN to enter return information or manually calculating the liability, you may identify an area where you need to give advice to the taxpayer on the completion of the return.  </p>\n\n<p>You can do this by completing a Customer Service Message. If using function CAPTURE RETURN or AMEND RETURN you can use the Customer Service Message screen to write your message(s). The message will be printed on the Tax Calculation (SA302). If you are to prepare a manual Tax Calculation, the Customer Service Message can be included in the letter to the taxpayer but where you have made any corrections using information held on our systems, you must write and tell the customer what you have corrected, and why, using SEES letter SA806. For further information, see subject `Repairing obvious errors’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121531\">SAM121531</a>).  </p>\n\n<p>If using CAPTURE RETURN or AMEND RETURN, a maximum of ten messages can be printed on the Tax Calculation (SA302). Where you want to make more than ten Customer Service Messages the details must be included in a separate letter to the taxpayer.  </p>\n\n<p>Note: If you are using function AMEND RETURN and saving the changes as Corrections only, include any Customer Service Message in the letter to the taxpayer. Do not use the Customer Service Messages screen.<br />\n </p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-05-16T11:02:42+01:00",
+ "section_id": "SAM121435",
+ "title": "Returns: individuals returns: customer service message"
+}

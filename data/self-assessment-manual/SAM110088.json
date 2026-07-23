@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110088",
+ "body": "<p>Note: Freestanding credits are automatically created for Schedule 1B carry back claims made in the first version of a return from 2001-2002.</p>\n\n<h2 id=\"IDAFPLVG\">Effective date of payment (EDP)</h2>\n\n<p>For set offs, the later of</p>\n\n<ul>\n  <li>The date the valid claim to relief was received</li>\n</ul>\n\n<blockquote>\n  <p>And</p>\n</blockquote>\n\n<ul>\n  <li>The relevant due date of the charge against which the relief is to be set</li>\n</ul>\n\n<p>For repayments</p>\n\n<ul>\n  <li>The fixed filing date of the later year’s return</li>\n</ul>\n\n<p>Note: Freestanding credits created automatically where no liabilities are outstanding for the year of claim show an EDP of the date of the claim.</p>\n\n<p>Where a freestanding credit is manually created for an averaging claim where there is an increase in the aggregate amounts given by s.59B(1)(b)TMA 1970 (see SACM11020 - Claims affecting Two or more years), treat as a set off against the tax contained in the self assessment.</p>\n\n<h2 id=\"IDAUQLVG\">Repayment supplement (RPS)</h2>\n\n<h4 id=\"from\">From</h4>\n\n<p>Repayments</p>\n\n<p>The fixed filing date of the later year’s return</p>\n\n<p>For example, claim made 2001-2002, RPS payable from 31/01/2003</p>\n\n<h4 id=\"to\">To</h4>\n\n<p>For set offs within the same SA record</p>\n\n<ul>\n  <li>The relevant due date of the charge against which the credit is being set</li>\n</ul>\n\n<p>For set offs to a different SA record or Head of Duty</p>\n\n<ul>\n  <li>The date the set off is made</li>\n</ul>\n\n<p>For repayments</p>\n\n<ul>\n  <li>The projected date of issue of the repayment</li>\n</ul>\n\n<h2 id=\"IDABTLVG\">RPS calculated automatically or manually?</h2>\n\n<ul>\n  <li>RPS will need to be calculated manually</li>\n</ul>\n\n<p>Note: For claims made in the first version of a return where FSCs are created automatically, RPS will be calculated automatically.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-04T08:42:30+01:00",
+ "section_id": "SAM110088",
+ "title": "Repayments: issue repayment: freestanding credit created manually from a ‘stand alone’ claim or a claim on a return to carry back losses or pension contributions, or a claim on a return for farmer’s averaging (Schedule 1B TMA 1970).  (Not EIS Def"
+}

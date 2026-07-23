@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35525",
+ "body": "<p>You should critically examine any claim that significant amounts of fees incurred on the structure or status of a company are revenue in character. Fees incurred in connection with the acquisition, alteration, enhancement or defence of the fundamental structure of a business are generally capital. You should disallow as capital expenditure the costs of the following:</p>\n\n<ol>\n  <li>Forming, renewing, varying or dissolving a partnership.</li>\n  <li>Negotiating a merger between companies or partnerships.</li>\n  <li>Forming and registering a company, or changing a company’s status (for example, from limited to unlimited or to a PLC).</li>\n  <li>Defending against a petition by shareholders to wind up a company.</li>\n</ol>\n\n<p>You should bear in mind that where any such fees are revenue in character they also have to satisfy the ‘wholly and exclusively’ requirement in S34(1)(a) Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005) or S54(1)(a) Corporation Tax Act 2009 - see BIM37000 onwards.</p>\n\n<p>S34(1)(a) ITTOIA 2005 invariably excludes fees in connection with the capital structure of a partnership. In the case of C Connelly &amp; Co v Wilbey [1992] 65TC208 an accountancy partnership was dissolved. The Commissioners and the courts dismissed the partners’ claim that the costs of dissolving the practice be allowed. The legal expenses had not been expended wholly and exclusively for the purposes of the partnership trade, but had been incurred to protect one partner’s interests. See also <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35545\">BIM35545</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35500",
+   "section_id": "BIM35500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:34+01:00",
+ "section_id": "BIM35525",
+ "title": "Capital/revenue divide: intangible assets: fees in connection with the capital structure of a business"
+}

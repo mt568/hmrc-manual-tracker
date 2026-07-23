@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113050",
+ "body": "<p>A work item will be created when a repayment is rejected by BACS because the bank sort code is incorrect, and will appear on the `Rejected Repayments’ work list.</p>\n\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n\n<ul>\n  <li>Amount of repayment</li>\n  <li>Error codes. These are not HMRC generated and it is recommended that you do not use this item to filter a work list</li>\n  <li>Issue date</li>\n  <li>Repayment serial number</li>\n</ul>\n\n<p>These work items will be notified to the office responsible for the processing activities by Work Management and subject to action by the officer with the user role of Payment Processor.</p>\n\n<p>In view of the nature of this work list it is for immediate action and should be reviewed daily. </p>\n\n<p>These work items are not deleted automatically from this work list. Therefore you should delete the work item manually using function WORK LIST CASES on completion of the necessary action.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113000",
+   "section_id": "SAM113000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:55:27+00:00",
+ "section_id": "SAM113050",
+ "title": "Repayments: repayment work lists: w029 rejected repayments work list"
+}

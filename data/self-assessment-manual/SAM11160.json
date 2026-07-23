@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11160",
+ "body": "<p>An item will be created on the ‘Review Informal Standovers’ work list when an informal standover is recorded on the taxpayer’s SA record using function MAINTAIN STANDOVERS.</p>\n\n<p>The item will remain on the work list for as long as the informal standover remains open.</p>\n\n<p>The item will normally be allocated to the office in which the officer who recorded the informal standover was working. However, if that office is in Banking Operations the item will be allocated to the office with processing responsibility for the taxpayer.</p>\n\n<p>Individual items on the work list may be transferred between the offices with processing, technical and recovery responsibility for the taxpayer using function RE-ALLOCATE CASES.</p>\n\n<p>The items may be filtered by reference to the following criteria</p>\n\n<ul>\n  <li>Age</li>\n  <li>Amount standing over</li>\n  <li>Charge type</li>\n</ul>\n\n<p>All entries should be reviewed regularly to ensure that each informal standover is being dealt with promptly and appropriately.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11000",
+   "section_id": "SAM11000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:55:17+00:00",
+ "section_id": "SAM11160",
+ "title": "Appeals, postponements and reviews: postponements: w019 review informal standovers work list"
+}

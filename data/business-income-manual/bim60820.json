@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60820",
+ "body": "<p>The profits should be treated as profits of a trade carried on by the chargeable company or chargeable person. Generally, the person who realises the gain is the person who is liable for the tax due (Section 356OG CTA 2010 and Section 517G ITA 2007).</p>\n\n<p>A different treatment applies in some particular circumstances, this special treatment does not apply where the fragmented activities rules apply. The special rules apply where there is another person providing the value from which the gain is derived, or the opportunity to derive that value. Where this is the case, it is that other person who is treated as receiving the income subject to tax under these provisions.</p>\n\n<p>Since the tax charge is raised on the third party (i.e. someone who is not a party to the transaction in land), clear and convincing evidence is needed to show that this person, as a matter of fact, is the provider of value or the opportunity for gain. The third party may transmit the value or opportunity directly or indirectly.</p>\n\n<p>When a person has purchased land or an interest in land at market value under a normal commercial arrangement in the absense of other factors the special rules will not apply to regard them as providing the value for a gain to be realised, or the opportunity to derive that value.</p>\n\n<p>Example 1</p>\n\n<p>Mr B transfers developed land at £1m, which is £9m undervalue, to Company A a non UK resident company in which he is the sole shareholder. Company A immediately sells the land realising a £9m profit and immediately goes into liquidation. In this scenario Mr B would be the chargeable person in respect of that £9m gain.</p>\n\n<p>Example 2</p>\n\n<p>Company B - a wholly owned subsidiary of company A - develops a property as an investment. Company A sells the shares in company B to company C as soon as the development is complete, and the transaction is caught by the enveloping rules. In this situation, company A would remain the chargeable person - not company B (merely because it had developed the property), nor, company C (as the acquirer of the shares).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60510",
+   "section_id": "BIM60510"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60800",
+   "section_id": "bim60800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-03-27T11:24:02+01:00",
+ "section_id": "bim60820",
+ "title": "Definitions: The chargeable company or person "
+}

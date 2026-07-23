@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim53251",
+ "body": "<h2>Trade profits or capital gains?</h2>\n<p>Transactions in commodities may take the following forms:</p>\n<ol start=\"1\" type=\"a\"><li>actual purchases and sales of a commodity;</li><li>'futures' contracts where there is frequently no intention of supplying or taking delivery of the commodity on maturity of the contract;</li><li>a combination of (a) and (b) above.</li></ol>\n<p>Where a person enters directly into transactions involving the purchase and sale of a commodity, the profit is normally chargeable as profits from 'a venture in the nature of trade' (see <strong>CIR v Fraser</strong> [1942] 24 TC 498, and <strong>Wisdom v Chamberlain</strong> [1968] 45 TC 92).</p>\n<p>Futures contracts entered into by a company are dealt with under the derivative contracts regime. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50000\">CFM50000</a> onwards.</p>\n<p>Profits from transactions in commodity futures on a 'recognised futures exchange' made by non-corporate taxpayers are, unless they are trade profits, treated as chargeable gains (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56004\">CG56004</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:56+01:00",
+ "section_id": "BIM53251",
+ "title": "Particular trades: commodity transactions"
+}

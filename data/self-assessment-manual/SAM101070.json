@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101070",
+ "body": "<h2 id=\"IDAGBHFD\">Creation of a work item</h2>\n\n<ul>\n  <li>A work item is created on Work List W050 ‘CID Framework Rejection’ where</li>\n  <li>Immediately after the migration of SA records to the CID framework, a duplicate live SA record is found</li>\n  <li>Following migration, a new record for a taxpayer is set up in SA and details passed to the CID framework are identified as being already held under a different UTR for which the Final Return Year signal has not been set</li>\n</ul>\n\n<p><a href=\"#Top\">Top of page</a></p>\n\n<h2 id=\"IDA0BHFD\">Migration of SA records to the CID framework</h2>\n\n<p>During migration of SA records to the CID framework a matching exercise takes place to identify any duplicate live records which already exist on TBS. Where a duplicate case is identified a work item will be created on Work List W050 for the taxpayer record that was passed through from SA. The work item will show the UTR, NINO and EMPREF for the duplicate case that exists on TBS.</p>\n\n<p>You should review both taxpayer records to establish which one contains the most up to date information and then decide which case to make dormant.</p>\n\n<p>Note: Any activity on this to set-up and close down records will generate SA250 and SA251 welcome and exit letters. Whenever you are working either of the cases identified as potential duplicates you should use Function AMEND TAXPAYERS SIGNALS to set the ‘SA Entry / Exit Letter Inhibited’ signal on both records.</p>\n\n<p><a href=\"#Top\">Top of page</a></p>\n\n<h2 id=\"IDANCHFD\">After migration</h2>\n\n<p>The Action Guides in section ‘Set Up Taxpayer Record’ in this business area stress the need to establish that there is neither a live nor dormant SA record before you set up a new SA record. However, following the migration process, there will still be instances when duplicate records are created in error.</p>\n\n<p>When a new taxpayer record is set up on SA and a duplicate live SA record with a different UTR already exists on TBS, a work item will be created on the W050 ‘CID Framework Rejection’ Work List. The work item will be created for the taxpayer record that was passed through from SA and will show the UTR, NINO and EMPREF for the duplicate case that exists on TBS.</p>\n\n<p>In all cases where a duplicate live record exists the newly created record should be made dormant. You should review both taxpayer records to establish what action has been taken on each record. If a return has already been issued from the newly created record take the action detailed in subject ‘Duplicate SA Records’ (SAM101100).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+   "section_id": "SAM101000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:43+00:00",
+ "section_id": "SAM101070",
+ "title": "Records: maintain taxpayer record: w050 cid framework rejection work list"
+}

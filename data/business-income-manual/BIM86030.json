@@ -1,0 +1,49 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86030",
+ "body": "<p>An individual who has income that falls within any of the exclusions that follows will not be eligible for the allowance on any sources of trading income or miscellaneous income for the tax year that they have this income.</p>\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86074\" rel=\"nofollow\">BIM86074</a> for an illustration of how the exclusions work.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86032",
+     "description": "",
+     "section_id": "BIM86032",
+     "title": "Income from connected partnerships"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86034",
+     "description": "",
+     "section_id": "BIM86034",
+     "title": "Rent-a-Room Receipts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86036",
+     "description": "",
+     "section_id": "BIM86036",
+     "title": "Employers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86038",
+     "description": "",
+     "section_id": "BIM86038",
+     "title": "Close Companies"
+    }
+   ],
+   "title": "Exclusions"
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-12-14T02:00:25+00:00",
+ "section_id": "BIM86030",
+ "title": "TMIA- Exclusions"
+}

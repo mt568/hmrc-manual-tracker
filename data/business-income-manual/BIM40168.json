@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40168",
+ "body": "<h2>This is direct tax guidance; for indirect tax guidance, refer to VAT Guidance.</h2>\n<p>Where the refund relates to a sum of input tax then it will be taxable where it is an adjustment to an allowable trading expense. Such refunds are taxable as they directly relate to the trading expense, following the words of Lord Blackburn in<strong> CIR v The Granite City Steamship Co. Ltd</strong>&nbsp;<strong>[1927] 13 TC 1</strong> at page 18.</p>\n<blockquote><p>I am further of opinion that the position of the Respondents is in no way different from what it would have been had their ship required to be reconditioned in consequence of serious injuries sustained in a collision or some other misadventure at sea for which their ship was not to blame. If they had recovered the cost of reconditioning either under a policy of insurance or in the settlement of an action in which their right to compensation was admitted, there could have been no justification whatever for thereafter charging the cost of reconditioning the ship to profits, unless indeed the sum recovered had been also credited to the profits.</p></blockquote>\n<p>A refund to the trader of an expense that was not allowed as a deduction, such as capital expenditure or overseas entertaining expenditure, is not taxable. Where the trader claimed capital allowances on the capital expenditure then adjustments are required; such adjustments depend on the specific fact pattern.</p>\n<p>Refer any case of doubt or difficulty to <span>Business Profits.</span></p>\n<h2>Example: taxable</h2>\n<p>A Plc makes a valid claim for input tax relating to staff costs. This has previously been ruled as not recoverable. It receives a refund of £100,000 in the year ended 31 December 2012, which the directors recognise in the accounts for that year in accordance with GAAP.</p>\n<p>Over a number of years A Plc had claimed the VAT inclusive costs as an allowable expense in arriving at their trading profits, (thereby reducing the net profit figure).</p>\n<p>The refund is a receipt of the trade in the year ended 31 December 2012. The accounts for earlier periods are not re-opened.</p>\n<h2>Example: capital expenditure</h2>\n<p>B Plc incurred costs relating to the issue of preference shares. At the time the input tax on some of the costs associated with the issue of the shares was not recovered as these costs were seen as directly connected to the issue of shares.</p>\n<p>Following the case of <strong>Kretztechnik C-465/03</strong>, B Plc successfully claimed for the input tax suffered and received a refund in 2010, which the directors recognise in the accounts for that year.</p>\n<p>As the repayment adjusts disallowable capital expenditure, it is not taxable as a receipt of B Plc.</p>\n<h2>Example: disallowable expenditure</h2>\n<p>Following the joined case of <strong>Danfoss and AstraZeneca C-371/07</strong>, C Plc made a claim for the input tax on the business entertainment of overseas clients. Recovery of such tax had previously been treated as statutorily ‘blocked’. In December 2010 HMRC agreed to make a refund.</p>\n<p>C Plc recognises the refund as a receipt in its accounts for the year ended 31 December 2010. C Plc is not taxable on the refund as it represents a reduction in the expenditure that was originally disallowed (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45000\">BIM45000</a> onwards). If the entertaining had not been disallowed, the refund would be taxable in the year ended 31 December 2010.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40150",
+   "section_id": "BIM40150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM40168",
+ "title": "Specific receipts: refunds of sums paid as VAT: input tax"
+}

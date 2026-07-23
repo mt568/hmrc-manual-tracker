@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122061",
+ "body": "<p>Where two tax returns have been issued for the same partnership in cases where there are two SA records held for that partnership, follow steps 1 - 2 below.</p>\n\n<p>For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Log receipt of both returns using function LOG RETURN</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Make the SA record for the uncompleted return dormant following the guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101092\">SAM101092</a> </td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>Note: Make sure the ‘Sources’ screen is updated appropriately for each individual partner</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:30+00:00",
+ "section_id": "SAM122061",
+ "title": "Returns: partnership returns: returns issued to partnership from two separate SA records (Action Guide)"
+}

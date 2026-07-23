@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110187",
+ "body": "<h2 id=\"IDA4MMVF\">Effective date of payment (EDP)</h2>\n\n<ul>\n  <li>The date the RPS was calculated to</li>\n</ul>\n\n<h2 id=\"IDAINMVF\">Repayment supplement (RPS)</h2>\n\n<p>Generally set off or reallocation of a RPS amount does not attract payment of RPS.</p>\n\n<p>However if RPS has been allocated to a charge, other than interest, that is subsequently amended and as a consequence creates an overpayment, then RPS will be calculated on that RPS amount as shown below</p>\n\n<h4 id=\"from\">From</h4>\n\n<p>The EDP</p>\n\n<h4 id=\"to\">To</h4>\n\n<p>If RPS has been allocated to a charge, other than interest, that is subsequently amended and as a consequence creates an overpayment</p>\n\n<ul>\n  <li>The Relevant Due Date of the outstanding charge against which RPS is reallocated</li>\n</ul>\n\n<p>Or, if the RPS is to go on record as unallocated</p>\n\n<ul>\n  <li>The date of reallocation</li>\n</ul>\n\n<p>Or, if the RPS is to be repaid</p>\n\n<ul>\n  <li>The projected date of issue of the repayment</li>\n</ul>\n\n<h2 id=\"IDAMPMVF\">RPS calculated automatically or manually?</h2>\n\n<ul>\n  <li>Automatic</li>\n</ul>\n\n<p>However, where the original RPS amount is set off / reallocated via OAS, ‘from’ dates should be provided on SA331 OAS Allocation Form (available for completion and printing from SEES) to the office with accounting responsibility as any RPS will have to be calculated manually.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-04T12:02:07+01:00",
+ "section_id": "SAM110187",
+ "title": "Repayments: issue repayment: reallocation or repayment of repayment supplement"
+}

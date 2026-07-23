@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123241",
+ "body": "<p>Where the trustee has submitted multiple Standard Accounts Information (SAI) for a business, follow steps 1 - 3 below.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Check through the sets received and determine the set which is for the latest period of account</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Enter the SAI for the latest period of account only, using the Technical Support System (TSS)</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>Enter the basis period information. This should only be completed by the trustee on the set of pages relating to the latest period of account</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:44+00:00",
+ "section_id": "SAM123241",
+ "title": "Returns: trust returns: multiple SAI for one basis period: trusts (Action Guide)"
+}

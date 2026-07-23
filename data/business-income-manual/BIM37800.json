@@ -1,0 +1,60 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim37800",
+ "body": "<p>S34 Income Tax (Trading and Other Income) Act 2005, S54 Corporation Tax Act 2009</p>\n\n<h2 id=\"introduction-and-layout-of-guidance\">Introduction and layout of guidance</h2>\n\n<p>On occasion you will need to determine if expenditure represents an expense of earning profits as opposed to an application of profits or a distribution out of profits.</p>\n\n<p>As a general proposition what a trader does with the profits once they have been earned has no bearing on the calculation of the profits for tax purposes. This follows both from the normal rules of commercial accountancy and also from the wording of S34 Income Tax (Trading and Other Income) Act 2005 in respect of unincorporated businesses and S54 Corporation Tax Act 2009 in respect of companies.</p>\n\n<p>There is a clear distinction between:</p>\n\n<ul>\n  <li>expenses incurred in earning profits, and</li>\n  <li>expenses paid out of profits</li>\n</ul>\n\n<p>Which side of the line a particular expense falls is a question of fact and you will need to establish all of the relevant circumstances to decide marginal cases.</p>\n\n<p>The courts have considered this general issue in a number of cases and the guidance that follows discusses some of these in detail.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim37000",
+   "section_id": "BIM37000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37810",
+     "description": "",
+     "section_id": "BIM37810",
+     "title": "Expense of earning or application of profits?: defalcations by controlling director"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37820",
+     "description": "",
+     "section_id": "BIM37820",
+     "title": "Expense of earning or application of profits?: rent subject to abatement of profits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37830",
+     "description": "",
+     "section_id": "BIM37830",
+     "title": "Expense of earning or application of profits?: technical assistance in return for a share of profits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37840",
+     "description": "",
+     "section_id": "BIM37840",
+     "title": "Expense of earning or application of profits?: legal costs in connection with an appeal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37850",
+     "description": "",
+     "section_id": "BIM37850",
+     "title": "Expense of earning or application of profits?: accountancy fees in connection with an appeal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37860",
+     "description": "",
+     "section_id": "BIM37860",
+     "title": "Expense of earning or application of profits?: ‘compensation for loss of office’ on share sale"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:12:49+01:00",
+ "section_id": "BIM37800",
+ "title": "Wholly and exclusively: expense of earning or application of profits?: contents"
+}

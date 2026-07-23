@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3050",
+ "body": "<p>A non-matched payment is any SA payment that cannot find an SA record with a matching Unique Taxpayer Reference (UTR). This payment cannot be posted in SA and is automatically re-routed to the OAS system.</p>\n\n<p>A payment that is re-routed to OAS is allocated an OAS number from the SA range of OAS numbers. The next available OAS number in the range 100,000 to 499,999 is allocated to a payment that is</p>\n\n<ul>\n  <li>Transferred from SA to OAS, or</li>\n  <li>Re-directed from SA to OAS because there is no matching SA record</li>\n</ul>\n\n<p>Payments posted in OAS are reviewed daily by Banking Operations. A payment remains in OAS until it is matched and transferred to a taxpayer record or repaid to the taxpayer.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3000",
+   "section_id": "SAM3000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:27+00:00",
+ "section_id": "SAM3050",
+ "title": "Amend payment: trace payment: non-matched payments"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam70151",
+ "body": "<p>If you receive a request for output from the SA system to be in Braille, audio or large print follow steps 1 - 9 below</p>\n<p>1.&nbsp;&nbsp;Confirm the type of special output required, either large print, audio or braille</p>\n<p>2.&nbsp;&nbsp;If you are setting up the SA record, set the special output signal in Function SET UP INDIVIDUAL TAXPAYER</p>\n<p>3.&nbsp;&nbsp;If the case is already set up, use TBS Function AMEND TAXPAYER DESIGNATORY DETAILS to set the special output signal.</p>\n<p>The taxpayer’s communication address will be updated automatically on the SA record to C/o the Visually Impaired Media Unit (VIMU)</p>\n<p>4.&nbsp;&nbsp;Make an SA note on the SA record that ‘All material should be referred to VIMU for conversion to (specify preferred format)’</p>\n<p>5.&nbsp;&nbsp;Send an email using the request form available on the VIMU Intranet web pages to the Visually Impaired Media Unit providing them with the customers details</p>\n<h2><a id=\"IDAU3EHI\">Capacity details present and capacitor requests correspondence to be issued in large print</a></h2>\n<p>6.&nbsp;&nbsp;Use TBS function AMEND TAXPAYER DESIGNATORY DETAILS to set the special output signal as above.</p>\n<p>Since the capacity address takes priority over the communication address, correspondence will continue to be issued to the capacitor in normal print. If the capacitor requests correspondence to be issued in large print</p>\n<p>7.&nbsp;&nbsp;Use function AMEND TAXPAYER SIGNALS to enter the original main capacity name and address in the Free Format Notes field</p>\n<p>8.&nbsp;&nbsp;Use TBS function AMEND CAPACITOR DETAILS to amend the main capacity address to</p>\n<p><span>VIMU</span></p>\n<p><span>HM Revenue and Customs</span></p>\n<p><span>Centenary Court</span></p>\n<p><span>1 Blaise Way</span></p>\n<p><span>Bradford</span></p>\n<p><span>BD1 4YL</span></p>\n<p><span>9.&nbsp;&nbsp;Send an email to VISUALLY IMPAIRED MEDIA UNIT, VIMU (PT Operations) confirming the name, address and UTR of the taxpayer together with the name and address of the capacitor who wishes to receive all outputs in large print. VIMU will update their data base with this information and ensure the capacitor receives all the outputs in the correct format</span><br /></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam70000",
+   "section_id": "SAM70000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-27T10:57:19+01:00",
+ "section_id": "SAM70151",
+ "title": "Manage work: customer service: visually impaired media unit (Action Guide)"
+}

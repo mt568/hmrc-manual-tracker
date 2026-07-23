@@ -1,0 +1,42 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40350",
+ "body": "<p>In some cases, fees are received which, whilst strictly employment income, may, by concessionary practice, be taxed as trading income. However, there may not be a similar rule to exclude the fees from Class 1 National Insurance Contributions, leading to a mismatch in treatment.</p>\n\n<p>This chapter is structured as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40351",
+     "description": "",
+     "section_id": "BIM40351",
+     "title": "Directors’ fees received by partnerships and companies"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40355",
+     "description": "",
+     "section_id": "BIM40355",
+     "title": "Other professional remuneration from offices or employments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40360",
+     "description": "",
+     "section_id": "BIM40360",
+     "title": "Articled pupils or apprentices"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:23+01:00",
+ "section_id": "BIM40350",
+ "title": "Specific receipts: fees: contents"
+}

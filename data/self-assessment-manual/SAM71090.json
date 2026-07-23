@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71090",
+ "body": "<p>Note: From 3 January 2006 work items for all cases will go directly to the Integrated Debt Management System (IDMS).</p>\n\n<p>Event</p>\n\n<p>A work item is created when either a Bankruptcy (BY) or Voluntary Arrangement (VA) insolvency reference is entered on the taxpayer record.</p>\n\n<p>Specific details</p>\n\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n\n<ul>\n  <li>BY or VA insolvency reference</li>\n</ul>\n\n<p>Allocation of responsibility</p>\n\n<p>The work item is allocated to the Recovery Office for the taxpayer. Within that office, the item will be worked by an officer with the user role of Clerical Caseworker.</p>\n\n<p>Frequency of review</p>\n\n<p>It is recommended that this list is reviewed monthly</p>\n\n<p>Updating of details</p>\n\n<p>Until the work item is cleared, the following details held on the work item are updated by Work Management immediately the corresponding entry is updated on the taxpayer record</p>\n\n<ul>\n  <li>Taxpayer name</li>\n  <li>NINO</li>\n  <li>Employers reference (EMPREF) or Schedule D register number</li>\n  <li>BY/VA reference</li>\n  <li>Number of returns outstanding</li>\n  <li>Amount of debt outstanding</li>\n  <li>Taxpayer telephone number</li>\n  <li>Confession Case signal</li>\n  <li>Outstanding return years</li>\n</ul>\n\n<p>Action to take on the work item</p>\n\n<p>Advice on the action to take to clear the work item is available in the Debt Management &amp; Banking Manual (DMBM).</p>\n\n<p>Deletion of the work item</p>\n\n<p>The work item is deleted automatically when the BY or VA insolvency reference is removed from the SA record.</p>\n\n<p>It can be deleted manually, using function WORK LIST CASES or function SELECTED CASE. However, if deleted manually and the BY or VA insolvency reference is still on the SA record, the work item will be re-created if debts or returns are outstanding.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:09+00:00",
+ "section_id": "SAM71090",
+ "title": "Manage work: work management: W014 bankruptcy or voluntary arrangement cases"
+}

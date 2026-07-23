@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim41130",
+ "body": "<p>S102, S103, S311(4) Income Tax (Trading and Other Income) Act 2005, S99, S100, S250(4) Corporation Tax Act 2009</p>\n\n<p>Connected parties might create extremely long leases and spread the reverse premium over an unrealistically long period. For example, a group property company might pay a reverse premium to a group trading company as an incentive to lease trading premises for 99 years without any provision for rent reviews. The trading company could then claim that GAAP required it to spread the receipt over 99 years, rendering the tax effect trifling.</p>\n\n<p>In order to discourage this kind of arrangement, special timing rules apply where:</p>\n\n<ul>\n  <li>two or more parties to the ‘property arrangements’ are connected persons; and</li>\n  <li>the terms of those arrangements are not such as would reasonably have been expected by parties dealing at arm’s length.</li>\n</ul>\n\n<p>‘Property arrangements’ are the property transaction (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim41051\">BIM41051</a>) and any arrangements made in connection with it, whether earlier, simultaneously or later.</p>\n\n<p>‘Connected persons’ are persons connected within the meaning of S993 Income Tax Act 2007 or S843 Corporation Tax Act 2009 at any time in the period when the property arrangements are made.</p>\n\n<p>To decide whether the terms of any arrangement are not such as would reasonably have been expected from parties dealing at arm’s length, the test is as follows. Do the terms of the deal actually made differ to a significant extent from terms which:</p>\n\n<ul>\n  <li>at the time the arrangements were made,</li>\n  <li>would be regarded as normal and reasonable,</li>\n  <li>in the market conditions then prevailing,</li>\n  <li>between persons dealing with each other at arm’s length on the open market?</li>\n</ul>\n\n<p>If you have reason to believe arrangements are uncommercial, you should seek the opinion of the District Valuer. A request for assistance should be made in the form of submission, setting out in full the terms of the arrangements made, and your reasons for seeking advice.</p>\n\n<p>If the conditions for applying these provisions are met, the receipt is to be brought into account in accordance with <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim41135\">BIM41135</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim41050",
+   "section_id": "BIM41050"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-20T11:17:21+00:00",
+ "section_id": "BIM41130",
+ "title": "Specific receipts: reverse premiums: timing of the receipt: the avoidance case: how to recognise it"
+}

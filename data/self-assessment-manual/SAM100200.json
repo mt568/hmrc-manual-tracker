@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100200",
+ "body": "<p>The Central Agent Authorisation Team (CAAT) (This content has been withheld because of exemptions in the Freedom of Information Act 2000)</p>\n\n<ul>\n  <li>Set up all new agents on the HMRC National Agent Database</li>\n  <li>Deal with all amendments to agent details</li>\n  <li>Deal with forms 64-8 received from customers advising an agent has been appointed to act. There are exceptions (listed on the back of form 64-8), which should continue to be dealt with by the appropriate processing office</li>\n</ul>\n\n<blockquote>\n  <p>Exceptions</p>\n</blockquote>\n\n<blockquote>\n  <ul>\n    <li>Forms 64-8 solely for Corporation Tax affairs</li>\n    <li>Forms 64-8 appropriate to the High Net Worth Unit</li>\n    <li>Forms 64-8 appropriate to the Manchester Expat Team</li>\n    <li>Forms 64-8 that accompany a VAT Registration application</li>\n    <li>Forms 64-8 specifically requested by an HMRC office</li>\n  </ul>\n</blockquote>\n\n<p>Use Function TAXPAYER NEW AGENT DETAILS to enter the following agent details on the taxpayer’s record</p>\n\n<ul>\n  <li>National agent code</li>\n  <li>Client reference</li>\n  <li>64-8 received</li>\n  <li>Statement to agent</li>\n</ul>\n\n<p>By setting the 64-8 signal to ‘Y’, it indicates that authority is held to issue copies of notices of liabilities to the agent. Although authority is normally given on form 64-8, it may also be contained in a letter signed by the taxpayer.</p>\n\n<p>Only one agent code can be held on a taxpayer record at any time. If advised that an agent has been replaced by another, use function AMEND TAXPAYER’S AGENT DETAILS to indicate that the first agent has ceased to act for the taxpayer.</p>\n\n<p>Where there is an NPS interest in an SA case, the CAAT team will record the Agent details on SA which in turn will flow to NPS.</p>\n\n<p>Where the form 64-8/written authority is received with other general post</p>\n\n<ul>\n  <li>Do not send items of post to CAAT</li>\n  <li>Retain and work the item of post</li>\n</ul>\n\n<h2 id=\"IDA21AFD\">Form 64-8</h2>\n\n<p>The form 64-8 provides for the taxpayer to indicate that the agent, rather than the taxpayer, should be sent a paper copy of the statement.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+   "section_id": "SAM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-06-01T07:30:05+01:00",
+ "section_id": "SAM100200",
+ "title": "Records: set up taxpayer record: set up agent for taxpayer"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141040",
+ "body": "<p>Following the use of function RECORD TRANSFER TO COP a work item may be created and entered on the ‘Transfer to COP Security Review’ work list (W033). The SA computer system will select 5 per cent of the total number of cases (subject to a daily maximum of 50 cases) where the function has been used.</p>\n\n<p>Note: Balancing payments transferred to PAYE by the automatic process will not be included for selection on this list.</p>\n\n<p>Work items will be notified to the office with processing responsibility and will be subject to review by the officer with the user role of Clerical Processing Manager. A work item is not deleted automatically from this work list. The work item should therefore be deleted manually using function WORK LIST CASES or function SELECTED CASE on completion of the necessary action.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141000",
+   "section_id": "SAM141000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:35+00:00",
+ "section_id": "SAM141040",
+ "title": "Transfer of liability: transfer from SA to PAYE: w033 transfer to COP security review work list"
+}

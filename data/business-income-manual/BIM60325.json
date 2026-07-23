@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60325",
+ "body": "<p>S756-S758 Income Tax Act 2007, S819-S821 Corporation Tax Act 2010</p>\n\n<p>For these rules to apply, the person, or persons, who obtain the gain must be either:</p>\n\n<ul>\n  <li>the person acquiring, holding or developing the land,</li>\n  <li>a person connected with such a person, or</li>\n  <li>any person who is party to an arrangement or scheme which enables the gain to be realised indirectly or via a series of transactions .</li>\n</ul>\n\n<p>See BIM60475 for the definition of connected person in this context.</p>\n\n<p>If the transactions in land anti-avoidance rules apply, the amount of the profit on the disposal of the land is taxed as if it were income, rather than as a capital gain. See BIM60333 and BIM60335.</p>\n\n<p>Generally, the person who realises the gain is the person who is liable for the tax due.</p>\n\n<p>However, the anti-avoidance rules also apply where the person falling within any of the above categories obtains the gain for another person.</p>\n\n<p>In those cases it is the person who provides value, or the opportunity for another person to realise a gain, who will be liable for the tax due under these rules (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60328\">BIM60328</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+   "section_id": "BIM60300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:11+01:00",
+ "section_id": "BIM60325",
+ "title": "Transactions in land: Person obtaining the gain"
+}

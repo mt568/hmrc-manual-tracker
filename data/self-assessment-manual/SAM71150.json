@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71150",
+ "body": "\n<h2 id=\"event\">Event</h2>\n\n<p>A work item is created on work list W050 ‘CID Framework Rejection’ where</p>\n\n<ul>\n  <li>A new record for a taxpayer is set up in SA and details passed to the CID framework are identified as being already held under a different UTR for which the Final Return Year signal has not been set</li>\n</ul>\n\n<p>When working this work list the aim is to identify which record needs to be kept and that the correct details are linked to TBS.</p>\n\n<h2 id=\"specific-details\">Specific details</h2>\n\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n\n<ul>\n  <li>Return year</li>\n  <li>UTR, NINO and EMPREF of other ‘live’ SA record</li>\n  <li>Reason rejected</li>\n</ul>\n\n<h2 id=\"allocation-of-responsibility\">Allocation of responsibility</h2>\n\n<p>The work item is allocated to the office with processing responsibility for the taxpayer. Within that office, the item will be worked by an officer with the user role of Clerical Processing Officer.</p>\n\n<h2 id=\"frequency-of-review\">Frequency of review</h2>\n\n<p>The Work List should be as directed.</p>\n\n<h2 id=\"updating-of-details\">Updating of details</h2>\n\n<p>Until the work item is cleared, the following details are updated by Work Management immediately the corresponding entry is updated on the taxpayer record</p>\n\n<ul>\n  <li>Taxpayer name</li>\n  <li>NINO</li>\n  <li>Employer reference (EMPREF) or Schedule D register number</li>\n</ul>\n\n<h2 id=\"action-to-take-on-the-work-item\">Action to take on the work item</h2>\n\n<p>Advice on the action to take to clear the work item is available in section ‘Maintain Taxpayer Record’, (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101071\">SAM101071</a>).</p>\n\n<h2 id=\"deletion-of-the-work-item\">Deletion of the work item</h2>\n\n<p>The work item is deleted automatically when</p>\n\n<ul>\n  <li>The Final Return Year signal is set on the taxpayer record for the Work List entry</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>The Final Return Year signal is set on the taxpayer record that already exists within TBS and the [Activate Case] button is selected on the Work List entry</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-03-16T11:14:07+00:00",
+ "section_id": "SAM71150",
+ "title": "Manage work: work management: W050 CID framework rejection list"
+}

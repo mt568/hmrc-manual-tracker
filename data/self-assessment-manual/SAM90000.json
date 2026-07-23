@@ -1,0 +1,51 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam90000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam90001",
+     "description": "",
+     "section_id": "SAM90001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam90010",
+     "description": "",
+     "section_id": "SAM90010",
+     "title": "Deceased cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam90020",
+     "description": "",
+     "section_id": "SAM90020",
+     "title": "Emigration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam90021",
+     "description": "",
+     "section_id": "SAM90021",
+     "title": "Emigration (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam90030",
+     "description": "",
+     "section_id": "SAM90030",
+     "title": "Period of administration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam90031",
+     "description": "",
+     "section_id": "SAM90031",
+     "title": "Period of administration (Action Guide)"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:35+00:00",
+ "section_id": "SAM90000",
+ "title": "Permanent cessation: permanent cessation: contents"
+}

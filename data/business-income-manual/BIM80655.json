@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim80655",
+ "body": "<p>The appointment of a receiver is not normally a succession. The instrument under which the receiver is appointed generally provides that he or she is deemed to be the agent of the borrower (the trader) and not of the lender, even though it is the lender who appoints the receiver. So the trade continues to be carried on in law by the same person. The appointment of a liquidator of a company is not a succession (although it will often mark the permanent discontinuance of a trade (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim80570\">BIM80570</a>)) since the liquidator merely replaces the directors as the person empowered to take decisions binding the company.</p>\n<p>But there is a change in the beneficial ownership of assets when a person becomes bankrupt. Accordingly there is a succession when a trader becomes bankrupt and his or her trade is carried on by the Official Receiver or a trustee in bankruptcy.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80500",
+   "section_id": "BIM80500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:41:13+01:00",
+ "section_id": "BIM80655",
+ "title": "Computing the amount to assess: business changes: succession and changes in ownership - insolvency"
+}

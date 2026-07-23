@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60345",
+ "body": "<p>As discussed in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60340\">BIM60340</a>, the transactions in land anti-avoidance rules are often applied to diversion schemes.</p>\n\n<p>A diversion scheme works by structuring what is, in essence, a trading transaction in land in such a way that the gain is realised by a person who is not within the charge to UK Income Tax or Corporation Tax.</p>\n\n<h3 id=\"haven-companies\">‘Haven companies’</h3>\n\n<p>For example, the UK land is purchased by a UK resident with the aim of an eventual sale to a third party. Instead of the UK resident disposing of the land to the third party at some point in the future, the UK resident intermediately sells the property to a (possibly wholly-owned) non-UK resident tax haven company. By structuring the transaction in this way the lion’s share of the overall profit is diverted to the haven company and kept out of the UK tax net.</p>\n\n<p>Sugarwhite v Budd [1988] 60 TC 679 is an example of such a diversion scheme.</p>\n\n<p>Although it may appear that the rules in S13 Taxation of Chargeable Gains Act 1992 which attribute the gains of non-resident ‘close’ companies to UK resident participants would need to be considered (see CG57200), these Income Tax rules take precedence.</p>\n\n<h3 id=\"gifting\">‘Gifting’</h3>\n\n<p>For example, land is ‘gifted’ by a UK resident land dealer to a connected UK resident individual. The ‘gift’ is an intermediate step between the acquisition of the land by the dealer and its eventual disposal by the recipient at a profit.</p>\n\n<p>The gifting element prevents us from contending that the recipient of the gift is subject to tax on trading income when the gifted land is sold. See William v Davies [1945] 26 TC 371. Instead, the profit remaining in the recipient’s hands would be assessable only as a capital gain.</p>\n\n<p>In this situation, the entire transaction is, in essence, a trading transaction. The land has passed through the hands of the connected individual merely to reduce the overall charge on trading income.</p>\n\n<h3 id=\"transactions-in-land-anti-avoidance-rules\">Transactions in land anti-avoidance rules</h3>\n\n<p>In both examples you should consider invoking the transactions in land rules in order to assess the ‘provider of the opportunity’ (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60328\">BIM60328</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+   "section_id": "BIM60300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:13+01:00",
+ "section_id": "BIM60345",
+ "title": "Transactions in land: Common situations: Diversion schemes "
+}

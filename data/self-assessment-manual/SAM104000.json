@@ -1,0 +1,27 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam104000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam104001",
+     "description": "",
+     "section_id": "SAM104001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam104002",
+     "description": "",
+     "section_id": "SAM104002",
+     "title": "Records: SA tracing "
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2017-07-06T10:12:04+01:00",
+ "section_id": "SAM104000",
+ "title": "Records: trace taxpayer record: contents"
+}

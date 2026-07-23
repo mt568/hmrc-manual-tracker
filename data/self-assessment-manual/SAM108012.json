@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108012",
+ "body": "\n<p>Where you want to add a new Permanent Note follow steps 1 - 3 below.  </p>\n\n<ol>\n  <li>\n    <p>Use function MAINTAIN PERMANENT NOTES to view the Permanent Notes already recorded  </p>\n  </li>\n  <li>\n    <p>On the view screen  </p>\n  </li>\n</ol>\n\n<pre><code>* Select the [Add Note] button\n</code></pre>\n\n<ol>\n  <li>On the New Permanent Note screen  </li>\n</ol>\n\n<pre><code>* After selecting the relevant Permanent Note from SEES Notes Paster\n* Select the [EDIT] button\n* Select the [PASTE] buttonYour Permanent Note will now be recorded.\n</code></pre>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108000",
+   "section_id": "SAM108000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:19+00:00",
+ "section_id": "SAM108012",
+ "title": "Records: SA and permanent notes: adding a new  permanent note (Action Guide)"
+}

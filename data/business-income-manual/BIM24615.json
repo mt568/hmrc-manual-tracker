@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24615",
+ "body": "<p>S104 Income Tax (Trading and Other Income) Act 2005, S101 Corporation Tax Act 2009</p>\n\n<p>The charge under these provisions applies where:</p>\n\n<blockquote>\n  <ol>\n    <li>a body corporate which has at any time carried on a trade consisting of or including mutual business (whether or not confined to its members) is being or has been wound up or dissolved;</li>\n  </ol>\n</blockquote>\n\n<blockquote>\n  <ol>\n    <li>a person receives money or money’s worth representing assets of the body corporate; and</li>\n  </ol>\n</blockquote>\n\n<blockquote>\n  <ol>\n    <li>the assets represent profits of the body corporate’s mutual business.</li>\n  </ol>\n</blockquote>\n\n<p>For the purposes of (2) above, money or money’s worth represents assets of the body corporate if:</p>\n\n<blockquote>\n  <p>(a) it forms part of the body corporate’s assets;</p>\n</blockquote>\n\n<blockquote>\n  <p>(b) it forms part of the consideration for the transfer of assets of the body corporate as part of a scheme of amalgamation or reconstruction which involves its winding-up; or</p>\n</blockquote>\n\n<blockquote>\n  <p>(c) it consists of the consideration for a transfer or surrender of a right to receive anything within (a) or (b) and does not otherwise give rise to a charge to Income Tax or Corporation Tax on the recipient.</p>\n</blockquote>\n\n<p>If the recipient of such money or money’s worth has previously made any payment to the body corporate for which the recipient was allowed a deduction in calculating the profits of its trade then the amount or value of the money or money’s worth is treated as a receipt in calculating the profits of the trade. If the recipient is no longer carrying on the trade, the amount or value is treated as a post cessation receipt (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90000\">BIM90000</a>).</p>\n\n<p>Where the transfer or surrender at (c) above is not at arm’s length, you should substitute the value of the right to receive the distribution for the consideration actually paid.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24550",
+   "section_id": "BIM24550"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:43+01:00",
+ "section_id": "BIM24615",
+ "title": "Meaning of trade: mutual trading and members clubs: distributions on winding-up: statute: what is taxed?"
+}

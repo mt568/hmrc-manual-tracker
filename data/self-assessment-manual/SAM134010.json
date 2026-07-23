@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam134010",
+ "body": "<p>Statements issued to taxpayers from August 2006 can be in either Simple Statement format or in the Open Item style. Function VIEW STATEMENT displays all statements in the Open Item style. All screen prints of statements and statements produced using the SEES Statement facility, are also produced in Open Item format.</p>\n\n<p>When a Simple Statement is due for issue the interest position on the taxpayer’s SA record is reviewed. As a first step, the interest due on all interest bearing current liabilities is determined to the statement date.</p>\n\n<p>The interest due for this statement period is then calculated as the total of</p>\n\n<ul>\n  <li>All the interest accrued to date on current liabilities, and</li>\n  <li>Interest charges raised less any interest discharged during the statement period</li>\n</ul>\n\n<p>Less  </p>\n\n<ul>\n  <li>The total interest calculated for the statement period for each previous statement issued</li>\n</ul>\n\n<p>The calculated interest on a Simple Statement is described as ‘Interest’ and the amount is shown in the Tax Due column. Where there is a reduction in the interest charged the credit amount is shown in the Credits column.</p>\n\n<p>Any accruing or charged interest can be viewed using function VIEW STATEMENT. More information about interest is provided in section ‘Interest’ in business area ‘Int/Pen/Surcharge’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam60000\">SAM60000</a> onwards).</p>\n\n<p>Notes:</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Where interest that has been charged is included in the calculation, it is only the part relating to this statement period which is included in the calculated amount</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>An individual interest charge does not appear as a separate transaction on the statement</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam134000",
+   "section_id": "SAM134000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:31+00:00",
+ "section_id": "SAM134010",
+ "title": "Statements: interest calculation: interest on simple statements"
+}

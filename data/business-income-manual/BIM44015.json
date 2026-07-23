@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44015",
+ "body": "<p>This table summarises the key features of the different kinds of approved and unapproved schemes, and the tax and NICs treatment for employers and employees.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Scheme</th>\n      <th>SIP</th>\n      <th>EMI</th>\n      <th>CSOP</th>\n      <th>SAYE</th>\n      <th>Unapproved</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Options or awards?</td>\n      <td>Awards</td>\n      <td>Options</td>\n      <td>Options</td>\n      <td>Options</td>\n      <td>Options or awards</td>\n    </tr>\n    <tr>\n      <td>Must a trust be used?</td>\n      <td>Yes</td>\n      <td>Not essential</td>\n      <td>Not essential</td>\n      <td>Not essential</td>\n      <td>Not essential</td>\n    </tr>\n    <tr>\n      <td>Income tax advantages for employees?</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>No</td>\n    </tr>\n    <tr>\n      <td>NICs advantages for employees and employers?</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>No</td>\n    </tr>\n    <tr>\n      <td>Statutory tax deductions for employers’ setting up costs?</td>\n      <td>Yes</td>\n      <td>No - general trade profits principles apply</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>No - general trade profits principles apply</td>\n    </tr>\n    <tr>\n      <td>Statutory deductions for the provision of shares?</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Yes</td>\n      <td>Only if ‘qualifying shares’, - otherwise general trade profits principles apply (including the employee benefit trust rules)</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-10T09:36:09+00:00",
+ "section_id": "BIM44015",
+ "title": "Specific deductions: employee share schemes: summary of tax and NICs treatment"
+}

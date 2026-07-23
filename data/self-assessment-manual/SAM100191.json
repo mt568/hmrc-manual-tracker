@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100191",
+ "body": "<p>When the SA record is linked to a PAYE record, follow steps 1 - 2 below</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Where the taxpayer has ceased self employment, and taken up employment, review the PAYE record for the presence of SA criteria. See the subject ‘Criteria For A PAYE / SA Record’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam100050\">SAM100050</a>)</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>Where it is clear that the PAYE record does not contain any SA selection criteria</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Decide whether a return is required for the current year because of the previous source</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* If so, use function AMEND TAXPAYER SIGNALS to set the Last SA Return Required For Year Ending field to 5 April next. For example, if today’s date falls in 2007/08 set the signal to ‘08’</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>And</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Set the SA Entry / Exit Letter Inhibited signal to ‘Y’</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* If not, use function AMEND TAXPAYER SIGNALS to set the Last SA Return Required For Year Ending field to 5 April last. For example, if today’s date falls in 2007/08 set the signal to ‘07’</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Check if it appropriate to issue an Exit letter. If is not appropriate set the SA Entry / Exit Letter Inhibited signal to ‘Y’</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>Where there is SA selection criteria on the PAYE record</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Take no further action</td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Use function AMEND TAXPAYER SIGNALS to set the No Repayment signal to ‘Y’ if a PAYE in-year repayment has been made and update SA Notes with the reason why the No Repayment signal has been set</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+   "section_id": "SAM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:27+00:00",
+ "section_id": "SAM100191",
+ "title": "Records: set up taxpayer record: SA/PAYE linked cases (Action Guide)"
+}

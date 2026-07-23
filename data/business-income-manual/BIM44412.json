@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44412",
+ "body": "<p>In most cases, the employer will pay the employee a cash amount equal to the fair value of the option at the date of cancellation. The fair value of the option at the date of cancellation may be lower than, equal to, or greater than the value at the date of grant (grant date value being the value used in calculating the SBP expense recognised in the income statement).</p>\n\n<p>The maximum deduction allowed in the period the options are cancelled will be the lower of</p>\n\n<ul>\n  <li>the amount of the SBP expense recognised in the period of cancellation which relates to the options which have been cash cancelled in that period</li>\n  <li>the amount on which the employee is subject to a charge under ITEPA 2003.</li>\n</ul>\n\n<p>It may be possible to amend earlier years and take a deduction for the amount of the SBP expense recognised in the period which relate to the cancelled options. However, the maximum cumulative relief available for the cancelled option for all available periods will be the lower of</p>\n\n<ul>\n  <li>the total amount recognised as SBP expenses over the vesting period in relation to the options which have been cash cancelled</li>\n  <li>the amount on which the employee is subject to a charge under ITEPA 2003.</li>\n</ul>\n\n<p>The amount paid to the employee on cancellation of the shares for the purpose of calculating the amount chargeable under ITEPA 2003, will usually be the fair value at cancellation. For cases where an amount is paid to the employee in excess of that fair value, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44414\">BIM44414</a>.</p>\n\n<p>If there is any uncertainty as to the amount of the allowable deduction a referral should be made to BAI Business Profits Team.</p>\n\n<h4 id=\"example-1-fair-value-at-cancellation-exceeds-fair-value-at-grant\">Example 1: fair value at cancellation exceeds fair value at grant</h4>\n\n<p>An employer cancels an option and pays an employee £1000 for the cancellation, being the fair value of the option at the date of cancellation. The whole £1000 is chargeable under ITEPA 2003.</p>\n\n<p>In that same period the employer has a total SBP expense of £4,500 which includes amounts relating to options which have been exercised in that same period and options which are yet to be exercised.</p>\n\n<p>The fair value of the cancelled option at grant was £900, of which £700 has been recognised as SBP expenses in previous periods. Therefore, in the period of cancellation the remaining £200 SBP expense would be recognised. In this example</p>\n\n<ul>\n  <li>of the £4,500 SBP expense arising in the period, only £200 relates to the cancelled option</li>\n  <li>the amount subject to the ITEPA 2003 charge is £1,000</li>\n</ul>\n\n<p>The employer can take a deduction of £200 in the period of the cancellation.</p>\n\n<p>There may be a further £700 SBP expenses available in earlier years if any of those periods can still be amended.</p>\n\n<p>Although the amount subject to a charge under ITEPA 2003 is £1,000 the total cumulative SBP expense in this example is only £900 therefore the total of all of the deductions cannot exceed £900.</p>\n\n<h4 id=\"example-2-fair-value-at-cancellation-is-less-than-fair-value-at-grant\">Example 2: fair value at cancellation is less than fair value at grant</h4>\n\n<p>If, in example 1, the cumulative SBP expense relating to the cancelled option had been £1,200 (being the fair value at grant), the calculations would remain the same but the total of the deductions available could not exceed £1,000, being the amount subject to the ITEPA charge.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-07-06T11:13:45+01:00",
+ "section_id": "BIM44412",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: qualifying shares: cash cancelled: examples"
+}

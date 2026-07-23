@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64075",
+ "body": "<p>FRS5 Application Note F refers to the public sector entity which acquires the services under a PFI contract, e.g. an NHS trust, as the ‘purchaser’, and the private sector entity which supplies the services as the ‘operator’. It also refers to the PFI asset that is usually designed and built by the operator, e.g. a road, prison, information technology system etc, as the ‘property’ and the annual service payment as the ‘unitary charge’.</p>\n\n<p>The application of FRS5 requires that the persons who prepare and audit the financial statements of the operator first consider whether the agreement can be separated into commercially independent property and service elements. If so, they then consider whether the property element is solely a payment for the property. If that is the case, SSAP21 ‘Accounting for leases and hire purchase contracts’ is applicable (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64080\">BIM64080</a>).</p>\n\n<p>If SSAP21 is not applicable, FRS5 requires that they then consider whether the operator has access to the benefits of the property and exposure to the risks inherent in those benefits (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64090\">BIM64090</a> onwards). This, rather than the legal form, determines whether an operator reports the property on its balance sheet as a fixed asset or a finance debtor for accounting purposes (see examples 1 and 2 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64100\">BIM64100</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64105\">BIM64105</a>).</p>\n\n<p>HMRC officers should refer any questions concerning the application of FRS5 to their local compliance/advisory accountant.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64070",
+   "section_id": "BIM64070"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:29+01:00",
+ "section_id": "BIM64075",
+ "title": "Measuring the profits (particular trades): Private Finance Initiative (PFI): accounting: FRS5 Application Note F"
+}

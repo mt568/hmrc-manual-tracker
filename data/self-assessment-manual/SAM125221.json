@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125221",
+ "body": "<p>Where there is an entry on the ‘Partnership online amendments’ work list, follow steps 1 - 6 below.</p>\n\n<p>This guide is presented as follows</p>\n\n<p><a href=\"#IDAXUDZC\">Technical office</a> - Steps 1 - 4<br />\n<a href=\"#IDAVZDZC\">Processing office</a> - Steps 5 - 6</p>\n\n<h2 id=\"IDAXUDZC\">Technical office</h2>\n\n<p>1. In function WORK LIST CASES</p>\n\n<ul>\n  <li>Select the entry that you want to work</li>\n  <li>Select the [View] button. You will be taken to function SELECTED CASE, to see all available details on the work item</li>\n  <li>Using function VIEW AMENDED RETURN review the processed amendment to the partnership return to decide whether a correction to or an enquiry into the partnership return is warranted</li>\n</ul>\n\n<p>2. If a correction or enquiry is warranted, take the necessary action, or</p>\n\n<p>3. If there is a revised partnership profit</p>\n\n<ul>\n  <li>Transfer the work item to the Processing office or clerical team</li>\n</ul>\n\n<p>4. Use function WORK LIST CASES or function SELECTED CASE to delete the work item</p>\n\n<ul>\n  <li>Select the [DEL] button. The work item will be deleted</li>\n</ul>\n\n<h2 id=\"IDAVZDZC\">Processing office</h2>\n\n<p>5. In function WORK LIST CASES</p>\n\n<ul>\n  <li>Select the entry that you want to work</li>\n  <li>Select the [View] button. You will be taken to function SELECTED CASE, to see all available details on the work item</li>\n  <li>View the processed amendment to the partnership return to establish the revised individual partnership share and make the appropriate amendment to each partner’s individual return (even if the partner’s record is held in another processing office). Where the partner is a company or an Expat, Complex Personal Tax Team or PD1 case, send the details to the appropriate responsible office to allow them to deal with any amendment</li>\n</ul>\n\n<p>6. Use function WORK LIST CASES or function SELECTED CASE to delete the work item</p>\n\n<ul>\n  <li>Select the [DEL] button. The work item will be deleted</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-03T09:45:42+01:00",
+ "section_id": "SAM125221",
+ "title": "Returns: returns work lists: w056 partnership online amendments (Action Guide)"
+}

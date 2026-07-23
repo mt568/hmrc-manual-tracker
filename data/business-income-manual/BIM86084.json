@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86084",
+ "body": "<p>Max works as a music producer for a large record label and has taxable employment income of £50,000 per year on which he pays tax through the PAYE system.</p>\n\n<p>Max supplements his employment income by DJing every Saturday night at a local club. Max has gross income of £1,500 a year from this trade and incurs £300 worth of allowable expenditure. Max was not always as successful in his DJing trade and has losses carried forward of £900. Max’s trading income from self-employment is relevant income.</p>\n\n<p>Max has some contacts in the music industry and hears that a neighbour would like to win an advertising contract with a big record label. Max agrees to introduce his neighbour to a contact in the industry in exchange for payment of £500. This is not a receipt from his trade as a DJ but is treated as miscellaneous income. Max’s miscellaneous income is relevant income.</p>\n\n<p>Max’s total relevant income is £2,000, so full relief cannot apply. Max’s total expenses are less than £1,000, so it is beneficial for him to elect for partial relief to apply.</p>\n\n<p>Max’s relevant income is made up of both trading income and miscellaneous income. Max can decide how he sets the £1,000 allowance for trading and miscellaneous income against his trading income and miscellaneous income provided the total amount he deducts does not exceed £1,000.</p>\n\n<p>Max is seeking to minimise his tax bill for the current year so chooses to set £600 of the allowance against his trading income and £400 against his miscellaneous income. The following table shows how Max’s total profits are calculated based on no election and if he makes an election for partial relief:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>No Election (£’s)</th>\n      <th>Election for Partial (£’s)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>DJing</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Losses b/f</td>\n      <td>(900)</td>\n      <td>(900)</td>\n    </tr>\n    <tr>\n      <td>Gross Income</td>\n      <td>1,500</td>\n      <td>1,500</td>\n    </tr>\n    <tr>\n      <td>Allowable Expenses</td>\n      <td>(300)</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Trading Allowance</td>\n      <td>-</td>\n      <td>(600)</td>\n    </tr>\n    <tr>\n      <td>Profit</td>\n      <td>1,200</td>\n      <td>900</td>\n    </tr>\n    <tr>\n      <td>Loss Relief</td>\n      <td>(900)</td>\n      <td>(900)</td>\n    </tr>\n    <tr>\n      <td>Taxable Profit</td>\n      <td>300</td>\n      <td>Nil</td>\n    </tr>\n    <tr>\n      <td>Losses c/f</td>\n      <td>Nil</td>\n      <td>Nil</td>\n    </tr>\n    <tr>\n      <td>Misc. Income</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Gross Income</td>\n      <td>500</td>\n      <td>500</td>\n    </tr>\n    <tr>\n      <td>Allowable Expenses</td>\n      <td>0</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Trading Allowance</td>\n      <td>-</td>\n      <td>(400)</td>\n    </tr>\n    <tr>\n      <td>Taxable Profit</td>\n      <td>500</td>\n      <td>100</td>\n    </tr>\n    <tr>\n      <td>Total Profit:</td>\n      <td>800</td>\n      <td>100</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86070",
+   "section_id": "BIM86070"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-24T11:38:04+00:00",
+ "section_id": "BIM86084",
+ "title": "Example: Partial relief for trading and miscellaneous income"
+}

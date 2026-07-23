@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45810",
+ "body": "<p>S59 Income Tax (Trading and Other Income) Act 2005</p>\n\n<p>The general rule described in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45801\">BIM45801</a> (that if the interest on a loan or loan stock is an allowable deduction, the costs of obtaining the loan are also deductible) is modified in the case of a convertible loan or convertible loan stock. Broadly speaking, relief is denied if a loan is convertible within three years of its issue; but, to the extent that the option is not exercised, permits relief to be given once the three year period has expired. The purpose of this restriction is to prevent the cost of raising equity capital being charged as a revenue expense by the simple expedient of issuing convertible loan stock with early conversion rights into equity.</p>\n\n<p>These provisions are described in more detail below.</p>\n\n<p>No deduction is allowed for incidental costs of obtaining finance by means of a loan or loan stock if:</p>\n\n<ol>\n  <li>the loan or stock carries the right of conversion into, or to the acquisition of, shares or other securities, and</li>\n  <li>the right is exercisable before the end of the period of three years from the date when the loan was obtained or the stock issued (‘the three-year period’).</li>\n</ol>\n\n<p>The restriction does not apply if the right is not, or is not wholly, exercised before the end of the three-year period. In such a case any incidental costs of obtaining finance incurred before the end of the three-year period are treated as incurred immediately after the end of it.</p>\n\n<p>If only part of the loan stock is converted within the three-year period then the incidental costs are allowable to the extent that they relate to the part not converted.</p>\n\n<h2 id=\"IDAZ5YEG\">Example</h2>\n\n<p>A non-resident incorporated landlord issues £50m ten-year loan stock on 1 September 2008, with conversion rights into equity exercisable six months after issue and thereafter at yearly intervals for a further three years, at rates of conversion which vary according to the date of conversion. The incidental costs of issue totalling £1.5 million are incurred at or about the time of issue. The company makes up its accounts on a calendar year basis. The following amounts of loan stock are converted into ordinary shares:</p>\n\n<blockquote>\n  <p>1 March 2009 £1 million.</p>\n</blockquote>\n\n<blockquote>\n  <p>1 March 2010 £2 million.</p>\n</blockquote>\n\n<blockquote>\n  <p>1 March 2011 £5 million.</p>\n</blockquote>\n\n<blockquote>\n  <p>1 March 2012 £10 million.</p>\n</blockquote>\n\n<p>The total stock converted within three years of the date of issue is £8m (1+2+ 5) and the proportion not converted three years after issue is therefore 42/50.</p>\n\n<p>The relief available will be 42/50 x £1.5m = £1.26m and this amount is treated as an allowable expense incurred on 1 September 2011; that is, in the accounts year ended 31 December 2011.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45800",
+   "section_id": "BIM45800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:42+01:00",
+ "section_id": "BIM45810",
+ "title": "Specific deductions - incidental costs of loan finance: convertible loan or loan stock"
+}

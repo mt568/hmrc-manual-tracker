@@ -1,0 +1,115 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim37900",
+ "body": "<p>S34 Income Tax (Trading and Other Income) Act 2005</p>\n<h2>Introduction and layout of guidance</h2>\n<p>When considering if an expense was wholly and exclusively for the purposes of the trade you are not confined to considering what was in the mind of the self-employed trader when they incurred the expenditure. Some forms of expenditure by their very nature have an inevitable non-trade purpose and therefore are always disallowed. The non-trade purpose may not be in the conscious mind of the trader but nevertheless is ever present.</p>\n<p>There have been a number of cases where the existence of a subconscious non-trade purpose precludes deduction for expenditure notwithstanding the existence of a conscious trade purpose. Lord Templeman in <strong>Caillebotte v Quinn</strong> [1975] 50 TC 222 pointed out that the carpenter in that case ate his meal not because he was a carpenter but because he was a human being (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37660\">BIM37660</a>). There are a variety of expenses that the courts have held, because of their nature, to have an intrinsic duality of purpose and as such are not an allowable deduction. These include:</p>\n<ul><li class=\"filledcircle\">ordinary ‘civilian’ clothing</li><li class=\"filledcircle\">food for sustenance</li><li class=\"filledcircle\">having somewhere to live</li><li class=\"filledcircle\">wishing to enjoy good health</li><li class=\"filledcircle\">wishing to avoid a criminal conviction - especially if there is a custodial sentence</li><li class=\"filledcircle\">helping one’s nearest and dearest</li></ul>\n<p>For expenditure that comes within these categories you do not have to establish a non-trade purpose; by their nature there is an intrinsic non-trade purpose and any expenditure is disallowed.</p>\n<p>The most famous case in this category is that of <strong>Mallalieu v Drummond</strong> [1983] 57 TC 330 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37910\">BIM37910</a>). The courts have considered a variety of such expenses in which sub-conscious motive has played a part, to a greater or lesser extent.</p>\n<p>Note that the pages in this section of the manual purely relate to the expenses of the self-employed and those trading in partnership. This guidance does not relate to expenses incurred by companies.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim37000",
+   "section_id": "BIM37000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37910",
+     "description": "",
+     "section_id": "BIM37910",
+     "title": "Expenditure having an intrinsic duality of purpose: clothing"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37920",
+     "description": "",
+     "section_id": "BIM37920",
+     "title": "Expenditure having an intrinsic duality of purpose: food and drink"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37925",
+     "description": "",
+     "section_id": "BIM37925",
+     "title": "Expenditure having an intrinsic duality of purpose: food and drink consumed at solicitors' annual conference and other matters"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37928",
+     "description": "",
+     "section_id": "BIM37928",
+     "title": "Expenditure having an intrinsic duality of purpose: living accommodation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37930",
+     "description": "",
+     "section_id": "BIM37930",
+     "title": "Expenditure having an intrinsic duality of purpose: domestic accommodation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37935",
+     "description": "",
+     "section_id": "BIM37935",
+     "title": "Expenditure having an intrinsic duality of purpose: travel between home and work"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37940",
+     "description": "",
+     "section_id": "BIM37940",
+     "title": "Expenditure having an intrinsic duality of purpose: health"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37945",
+     "description": "",
+     "section_id": "BIM37945",
+     "title": "Expenditure having an intrinsic duality of purpose: surgery"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37947",
+     "description": "",
+     "section_id": "BIM37947",
+     "title": "Medical expenses of a specific character dictated by the occupation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37950",
+     "description": "",
+     "section_id": "BIM37950",
+     "title": "Expenditure having an intrinsic duality of purpose: cost of restoring health and fitness"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37955",
+     "description": "",
+     "section_id": "BIM37955",
+     "title": "Expenditure having an intrinsic duality of purpose: avoiding a conviction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37960",
+     "description": "",
+     "section_id": "BIM37960",
+     "title": "Expenditure having an intrinsic duality of purpose: fines, penalties and damages"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37963",
+     "description": "",
+     "section_id": "BIM37963",
+     "title": "Damages and legal expenses following a breach of contract"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37965",
+     "description": "",
+     "section_id": "BIM37965",
+     "title": "Expenditure having an intrinsic duality of purpose: costs of defending against a charge of gross misconduct"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37970",
+     "description": "",
+     "section_id": "BIM37970",
+     "title": "Expenditure having an intrinsic duality of purpose: natural love and affection"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2026-06-16T01:00:00+01:00",
+ "section_id": "BIM37900",
+ "title": "Wholly and exclusively: expenditure having an intrinsic duality of purpose: contents"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44600",
+ "body": "<p>S38, S44(1) Income Tax (Trading and Other Income) Act 2005, S1290, S1296(1) Corporation Tax Act 2009</p>\n\n<p>‘Qualifying expenses’ are expenses of operating the employee benefit arrangements (but not the cost of the benefits themselves) which, if they had been incurred directly by the employer, would have been an allowable deduction in computing the employer’s taxable profits.</p>\n\n<p>Examples of non-qualifying expenses, for employers who are carrying on a trade, are:</p>\n\n<ul>\n  <li>expenses of a capital nature (such as the costs of acquiring capital assets), and</li>\n  <li>expenses not wholly and exclusively for the purpose of the employer’s trade.</li>\n</ul>\n\n<h2 id=\"disallowing-deductions\">Disallowing deductions</h2>\n\n<p>Whether an employer’s contribution has been used to meet qualifying expenses is only relevant in determining the extent to which a deduction, which would otherwise be allowable for a period, should be disallowed under the employee benefit contribution legislation.</p>\n\n<h2 id=\"allowing-deductions-in-a-later-period\">Allowing deductions in a later period</h2>\n\n<p>Using a disallowed contribution to meet qualifying expenses in a later period does not trigger a deduction for the later period.</p>\n\n<p>The only trigger for allowing a deduction for a later period is if qualifying benefits are paid out of the disallowed contribution, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44595\">BIM44595</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:17+01:00",
+ "section_id": "BIM44600",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs: timing of deductions for contributions: qualifying expenses"
+}

@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60605",
+ "body": "<p>The fragmented activities rules apply where all of the following conditions are met:</p>\n\n<ul>\n  <li>A company (‘C’) or a person chargeable to income tax (‘P’) disposes of land in the UK,</li>\n  <li>Any of conditions A to D in S356OB CTA 2010 or S517B ITA 2007 are met in relation to that land, and</li>\n  <li>A person (‘R’) who is associated w<a href=\"#_2grqrue\">i</a>th C/P at a relevant time has made a relevant contribution to:\n    <ul>\n      <li>The development of land.</li>\n      <li>Any other activities directed towards realising a profit or gain from the disposal of the land.</li>\n    </ul>\n  </li>\n</ul>\n\n<p>Where the fragmented activities rules apply, C/P and R will be considered as though they were the same person. This means, any profit or gain realised by C/P will be calculated as if C/P and R were one.</p>\n\n<p>The fragmentation rules will apply when C realises a profit or gain on the disposal of land. This means that C/P would be taxed on R’s contributions at this point. If any of those contributions have already been taxed in the UK, HMRC would not look to tax them again.</p>\n\n<p>Only profits of R that are directly attributable to C/P are taxed in that entity, while R’s other [unrelated] profits remain taxable in R.</p>\n\n<p>Where any amount is paid by R to C/P for the purpose of meeting or reimbursing the cost of corporation tax or income tax which C/P is liable to pay as a result of this rule:</p>\n\n<ul>\n  <li>The amount will not be taken into account in calculating profits or losses of R or C/P for the purposes of income tax or corporation tax; and</li>\n  <li>Will not for any purpose of the Corporation Tax Acts be regarded as a distribution.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60510",
+   "section_id": "BIM60510"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-03-23T10:16:16+00:00",
+ "section_id": "BIM60605",
+ "title": "Profits from a trade of dealing in or developing UK land: Anti-fragmentation: Fragmented activities rules"
+}

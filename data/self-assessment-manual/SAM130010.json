@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130010",
+ "body": "\n<p>The Brought Forward statement was only issued in the period November 1996 to March 1997. From April 1997, the style of the statement changed to an Open Item layout. For more information about the Open Item statement see subject ‘The Open Item Taxpayer Statement’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam130020\">SAM130020</a>).  </p>\n\n<p>The Brought Forward taxpayer statement made provision for 8 distinct areas of information. These were  </p>\n\n<ul>\n  <li>Taxpayer name and address details, the taxpayer reference and the taxpayer’s Processing Office</li>\n</ul>\n\n<p>The taxpayer reference printed on the statement is the  </p>\n\n<pre><code>* NINO and Employer Reference in the case of a PAYE taxpayer, or\n* Unique Taxpayer Reference (UTR) in all other cases\n</code></pre>\n\n<p>Note: The UTR with a suffix ‘K’ is printed in the body of the payslip and in the payslip codeline in all cases.  </p>\n\n<ul>\n  <li>The payments on account payable described as ‘Interim liabilities’</li>\n  <li>The balance brought forward from the previous statement</li>\n  <li>A list of the credits or debits, in date order, that occurred in the statement period - see section ‘Transactions on Statements’</li>\n  <li>Interest calculated over the statement period - see section ‘Interest Calculation’</li>\n  <li>The statement balance described as the ‘Current Balance’</li>\n  <li>Charges about to become due including payments on account</li>\n  <li>Messages reflecting the payment position on the taxpayer account - see section ‘Statement Messages’Automatically selected and printed statements were sequentially numbered.</li>\n</ul>\n\n<p>Each statement included a payslip. The payslip details, including any payslip amount printed, were determined during the statement selection and issue process.  </p>\n\n<p>Payslip amount  </p>\n\n<p>Each payslip has an ‘Amount due’ box in the body of the payslip where the total amount payable can be printed. The payslip codeline also provides for an amount to be shown.  </p>\n\n<p>The ‘Amount due’ box and the payslip codeline do not always show the same details. There are circumstances when the ‘Amount due’ box will be blank but an amount will be printed in the payslip codeline.  </p>\n\n<p>The payslip amount table (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam130070\">SAM130070</a>) gives examples of what amounts are printed on a payslip. Each example reflects a different set of circumstances on the taxpayer’s SA record.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130000",
+   "section_id": "SAM130000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:16+00:00",
+ "section_id": "SAM130010",
+ "title": "Statements: statement content and layout: the brought  forward taxpayer statement"
+}

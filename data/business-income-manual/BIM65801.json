@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim65801",
+ "body": "<p>S369 Income Tax (Trading and Other Income) Act 2005</p>\n<p>Bank interest received by a solicitor on the investment of their own business funds is taxable on the solicitor as savings income.</p>\n<p>Bank interest received by a solicitor on investment of clients' money is only taxable on the solicitor as savings income to the extent that it is retained and not paid over to the client (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim65805\">BIM65805</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim65810\">BIM65810</a>).</p>\n<p>Interest on money subject to a trust of which the solicitor is a trustee is not received in their capacity as an individual. Instead the trustees of the settlement are subject to tax on the income (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3036\">TSEM3036</a>).</p>\n<p>In some circumstances, interest received by a solicitor can be included in trading income. This is where:</p>\n<ul><li class=\"filledcircle\">there is an agreement between the solicitors and the client that the solicitor is beneficially entitled to interest on the client’s funds in the general client account, or</li><li class=\"filledcircle\">the solicitor is not required to account to the client for interest earned on the client’s funds in the general client account under Solicitors Account Rules. For more information on these rules, see the Solicitors Regulation Authority website.</li></ul>\n<p>AND in both cases</p>\n<ul><li class=\"filledcircle\">the fee charged by the solicitors to the client is reduced because the solicitor is entitled to the interest, so it is acknowledged that the solicitor’s income from the client is both the fee charged and the interest.</li></ul>\n<p>In which case the interest should be included in the trading income of the solicitor and charged to tax as a trade receipt for all purposes (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40810\">BIM40810</a>). This is in line with the decision in <strong>Barnetts v RCC&nbsp;</strong>[2010] TC 575.</p>\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim65830\">BIM65830</a> as regards temporary loans made by solicitors.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim65800",
+   "section_id": "BIM65800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:59+01:00",
+ "section_id": "BIM65801",
+ "title": "Solicitors: Bank interest received - Liability to tax"
+}

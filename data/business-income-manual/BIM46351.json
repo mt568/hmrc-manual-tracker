@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46351",
+ "body": "<p>S57 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S61 Corporation Tax Act 2009 (CTA 2009)</p>\n<p>The above legislation provides relief in respect of certain expenditure of a revenue nature incurred for the purposes of a trade, profession or vocation before it is commenced.</p>\n<p>The relief extends only to expenditure which:</p>\n<ul><li class=\"filledcircle\">is incurred within a period of seven years prior to the commencement of the trade, profession or vocation, and</li><li class=\"filledcircle\">is not allowable as a deduction in computing the profits of the trade, profession or vocation but would have been allowable if incurred after the trade had commenced.</li></ul>\n<p>Therefore, the 'wholly and exclusively' test (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37000\">BIM37000</a>) still has to be satisfied for the purposes of the relief and no relief can be allowed for capital expenditure (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35000\">BIM35000</a>). For the purposes of claiming capital allowances there are special provisions in S12 Capital Allowances Act 2001 to treat pre-trading capital expenditure as incurred on the date trading starts, for the purposes of capital allowances (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23020\">CA23020</a>).</p>\n<p>The cost of an advance purchase of trading stock does not qualify for relief under S57 ITTOIA 2005 or S61 CTA 2009, since its cost will be deductible in arriving at profits when trading begins. Similarly, to the extent that any other expenditure incurred in the pre-trading period will be deductible in computing taxable profits for a period after trading has commenced, e.g. rent paid in advance, that element of the expenditure will not qualify for relief under the pre-trading expenses rules.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46350",
+   "section_id": "BIM46350"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:53+01:00",
+ "section_id": "BIM46351",
+ "title": "Specific deductions: pre-trading expenditure: scope"
+}

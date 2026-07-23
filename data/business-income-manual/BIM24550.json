@@ -1,0 +1,60 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24550",
+ "body": "<p>It follows from first principles that distributions out of the surpluses from mutual trading to members by a continuing mutual concern (corporate or non-corporate) are trading receipts where the member who receives them does so because of the trade they carry on - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24555\">BIM24555</a>. In addition there are two statutory provisions:</p>\n\n<h2 id=\"s1070-corporation-tax-act-2010\">S1070 Corporation Tax Act 2010</h2>\n\n<p>There is guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24565\">BIM24565</a>.</p>\n\n<h2 id=\"s104-income-tax-trading-and-other-income-act-2005-s101-corporation-tax-act-2009\">S104 Income Tax (Trading and Other Income) Act 2005, S101 Corporation Tax Act 2009</h2>\n\n<p>There is detailed guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24600\">BIM24600</a> onwards.</p>\n\n<p>The following guidance covers:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24555",
+     "description": "",
+     "section_id": "BIM24555",
+     "title": "Distributions: the basic approach"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24560",
+     "description": "",
+     "section_id": "BIM24560",
+     "title": "Distributions: dividends from a co-operative etc society"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24565",
+     "description": "",
+     "section_id": "BIM24565",
+     "title": "Distributions: S1070 Corporation Tax Act 2010"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24600",
+     "description": "",
+     "section_id": "BIM24600",
+     "title": "Distributions: on winding-up"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24605",
+     "description": "",
+     "section_id": "BIM24605",
+     "title": "Distributions on winding-up: taxable on first principles or statute"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24615",
+     "description": "",
+     "section_id": "BIM24615",
+     "title": "Distributions on winding-up: statute: what is taxed?"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:41+01:00",
+ "section_id": "BIM24550",
+ "title": "Meaning of trade: mutual trading and members clubs: distributions: introduction and layout of guidance: contents"
+}

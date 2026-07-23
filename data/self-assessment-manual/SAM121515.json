@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121515",
+ "body": "<p>Where several years returns are received for the same UTR, the returns should be captured in chronological order (earliest year first, ending with the most recent year). This action will make sure that the charges are shown on the statement in the correct order.</p>\n\n<p>Following full capture of the return information and completion of the Coding (Integrity) Check, where appropriate, the information is passed from LDC to the main computer. The following processes are then carried out automatically</p>\n\n<ul>\n  <li>The taxpayer’s return profile is updated with details of the supplementary pages the taxpayer has returned</li>\n  <li>The date of receipt of the return is recorded as the date of capture where the return was not previously logged</li>\n  <li>Work items are created where necessary</li>\n  <li>A paper report will be produced if the main computer rejects the return following further checks</li>\n  <li>Payments on account will be calculated, except where the return information has been captured but the computer has been unable to compute the liability.</li>\n</ul>\n\n<p>In these circumstances payments on account will be calculated following use of the CREATE RETURN CHARGE function  </p>\n\n<ul>\n  <li>Issue a Tax Calculation where requested or in Self Calculation cases, where a repair(s) has been made, together with an Agents copy if a form 64-8 is held</li>\n  <li>Issue an acknowledgement of receipt of the return to an agent representing a Self calculating taxpayer, where the return was processed without the need for repair</li>\n  <li>Record the updated liability and any balancing payments on the taxpayer’s record</li>\n  <li>Make any repayment, where claimed, unless inhibited. Note: Repayments arising from a return which are less than ten pounds are not made automatically but are carried forward on the Statement of Account and set against future debts</li>\n  <li>Set certain Mandatory review signals</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:22+00:00",
+ "section_id": "SAM121515",
+ "title": "Returns: individuals returns: processing the information"
+}

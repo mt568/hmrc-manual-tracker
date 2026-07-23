@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42080",
+ "body": "<p>S31 Income Tax (Trading and Other Income) Act 2005, S51 Corporation Tax Act 2009</p>\n\n<p>In general, rules which permit a deduction take priority over rules which prohibit a deduction.</p>\n\n<p>The following prohibitive rules, however, take priority over permissive rules.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Income Tax (Trading and Other Income) Act 2005 section</th>\n      <th>Corporation Tax Act 2009 section</th>\n      <th>Prohibitive rule</th>\n      <th>Further guidance</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>36</td>\n      <td>1288</td>\n      <td>Unpaid remuneration</td>\n      <td><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47130\">BIM47130</a> onwards</td>\n    </tr>\n    <tr>\n      <td>38</td>\n      <td>1290</td>\n      <td>Employee benefit contributions</td>\n      <td><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44500\">BIM44500</a></td>\n    </tr>\n    <tr>\n      <td>48</td>\n      <td>56</td>\n      <td>Car hire</td>\n      <td><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47780\">BIM47780</a> onwards</td>\n    </tr>\n    <tr>\n      <td>55</td>\n      <td>1304</td>\n      <td>Crime-related payments</td>\n      <td><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim43100\">BIM43100</a> onwards</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>‘Prohibitive rule’ extends, for this purpose, beyond the list of provisions at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42060\">BIM42060</a> to include any provision relating to the calculation of trade profits which might be read as prohibiting or restricting the amount of a deduction.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42050",
+   "section_id": "BIM42050"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-09T11:50:00+00:00",
+ "section_id": "BIM42080",
+ "title": "Deductions: general: interaction between prohibitive and permissive rules"
+}

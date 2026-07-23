@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35540",
+ "body": "<p>A payment that has the effect of preserving the existing business, its goodwill or assets will likely be on revenue account.  This will be the case where the result of the payment is simply to maintain the existing position without addition or improvement.</p>\n<p>In <strong>Cooke v Quick Shoe Repair Service</strong> [1949] 30TC460 a partnership purchased a shoe repair business as a going concern.  The purchase agreement provided that the vendor would discharge all liabilities of the business outstanding at the date of sale.  The vendor failed so to do.  To preserve goodwill and to ensure continuity of supplies the purchaser paid certain sums in discharge of the vendor’s liability.  The partnership claimed a deduction for the payments.  At page 465 Croom-Johnson J rejected the Crown’s argument that the payments were capital:</p>\n<blockquote>The cases show that, if money is expended with a view to preserving an asset, the result of it is, once the Commissioners are satisfied of that circumstance, it may be a deductible expenditure.</blockquote>\n<p>In <strong>Quick Shoe</strong> the judge relied on the decision in <strong>Southern v Borax Consolidated Ltd</strong> [1940] 23TC597.  The Borax Company had an American subsidiary whose business of mining, preparing and shipping borax was treated for income tax purposes, by agreement, as a branch of the parent company’s business.  Borax bought land near Los Angeles for the purposes of its trade.  The subsidiary occupied the land and built wharves on it.  The city of Los Angeles claimed that the company’s title to the land was invalid and that the land belonged to the city.  The subsidiary incurred expenditure in defending its title to the land and was successful.  At page 602 Lawrence J explains that expenditure that does not alter a fixed capital asset is incurred on revenue account:</p>\n<blockquote>…in my opinion the principle which is to be deduced from the cases is that where a sum of money is laid out for the acquisition or the improvement of a fixed capital asset it is attributable to capital, but that if no alteration is made in the fixed capital asset by the payment, then it is properly attributable to revenue, being in substance a matter of maintenance, the maintenance of the capital structure or the capital assets of the company.</blockquote>\n<p>The wholly and exclusively aspect of <strong>Cooke v Quick Shoe Repair Service</strong> is discussed at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim38330\">BIM38330</a>.</p>\n<p>In <strong>Walker v The Joint Credit Card Co</strong> [1982] 55TC617 there is a possible misinterpretation of the <strong>Borax</strong> decision - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35510\">BIM35510</a>.</p>\n<p><strong>Morgan v Tate &amp; Lyle Ltd</strong> [1954] 35TC367 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35570\">BIM35570</a>) extends the <strong>Borax</strong> decision to the case of defending title to all of a taxpayer’s assets.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35500",
+   "section_id": "BIM35500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:34+01:00",
+ "section_id": "BIM35540",
+ "title": "Capital/revenue divide: intangible assets: payment to preserve existing business or asset structure"
+}

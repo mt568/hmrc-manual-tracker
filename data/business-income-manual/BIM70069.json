@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim70069",
+ "body": "<h3>VAT registered business</h3>\n<p>If a VAT registered business used VAT exclusive income and expense figures (in calculating its taxable profit) before starting to use the cash basis, and continued to do so in the cash basis, then there will be no transitional adjustment required.</p>\n<p>If a VAT registered business prepared its last tax return using VAT inclusive income and expenditure figures (in calculating its taxable profit ) before starting to use the cash basis, and continued to do so in the cash basis, there might be a need for a transitional adjustment in the following circumstances.</p>\n<p>If the business had owed VAT to HMRC at the end of its last tax period before the cash basis, it will have included the amount of VAT owed as an expense in its profit and loss account. If the business then paid that VAT to HMRC in the cash basis period, that would count as a deduction in the cash basis period. That would mean the business would have a tax deduction twice for that amount of VAT that had been owed to HMRC at the end of the last tax year.</p>\n<p>So a transitional adjustment is required to prevent this double deduction.</p>\n<h4>Example</h4>\n<p>A VAT registered business that has been using VAT inclusive income and expense figures to calculate its profits (and continues to do so in the cash basis) had owed £300 of VAT to HMRC at the end of its last tax year. This £300 is included in the total £2,000 VAT the business paid to HMRC in the cash basis period.</p>\n<p>Transitional adjustment</p>\n<table summary=\"Table showing the transitional adjustment\"><thead><tr><th scope=\"col\" width=\"310\"><p>-</p></th><th scope=\"col\"><p><strong>Amount</strong></p></th></tr></thead><tbody><tr><td width=\"310\"><p>VAT paid to HMRC in cash basis period</p></td><td><p>£2,000</p></td></tr><tr><td width=\"310\"><p>Less: VAT owed to HMRC at the end</p></td><td><p>-</p></td></tr><tr><td width=\"310\"><p>of the last tax year:</p></td><td><p>(£ 300)</p></td></tr><tr><td width=\"310\"><p>Adjusted VAT expense</p></td><td><p>£1,700</p></td></tr></tbody></table>\n<h3><strong>Finance leased assets</strong></h3>\n<p> </p>\n<p>If a business prepares a balance sheet, finance leased equipment will be shown in the balance sheet in the same way as if they owned the equipment. By concession, the lessee is allowed to treat the depreciation of that leased equipment as an allowable tax deduction (plus the lease finance charge). The depreciation plus the finance charge in most cases will approximate to the amount of the payments made under the lease.</p>\n<p>In the cash basis, a business is allowed to deduct the full amount of payments made under a lease if that particular equipment would have qualified for a deduction if it had been purchased outright by the business.</p>\n<p>This is very similar to how an item of equipment being paid for in instalments would be treated. A transitional adjustment would be required only if the amounts deducted for tax (as at the end of the last tax year before the cash basis) differed from the total lease payments made (up to the end of the last tax year).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70001",
+   "section_id": "BIM70001"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-23T09:08:50+00:00",
+ "section_id": "BIM70069",
+ "title": "Cash basis: transitional adjustments: entering the cash basis: examples: VAT, finance leasing"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123251",
+ "body": "<p>When dealing with the LDC RETURNS - LOGGING FAILURES - NO RECORD FOUND paper report follow steps 1 - 7 below. Note: If the list is received in a Banking Operations office, the return will have been sent on and can be ignored.</p>\n\n<p>For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>1. Use function LOG RETURN to log the return correctly where the Unique Taxpayer Reference (UTR) was miskeyed</p>\n\n<p>2. Use the Technical Support System (TSS) to enter the return details</p>\n\n<p>3. In Trust and Estate return cases, on receipt of the ACTION REQUIRED FOLLOWING DATE CAPTURE printout</p>\n\n<ul>\n  <li>Take the action set out in subject ‘Calculating trust liability’ (SAM123220) (including the use of function CREATE RETURN CHARGE)</li>\n</ul>\n\n<p>In Tax Return for Trustees of Registered Pension Schemes cases, on receipt of the ACTION REQUIRED FOLLOWING DATE CAPTURE printout</p>\n\n<ul>\n  <li>Take the action set out in subject ‘Processing the Pension Scheme Tax Return’ (SAM123330)</li>\n</ul>\n\n<p>4. Delete the entry from the list</p>\n\n<h3 id=\"where-the-organisation-unit-identifier-ouid-used-in-log-return-is-invalid\">Where the Organisation Unit Identifier (OUID) used in LOG RETURN is invalid</h3>\n\n<p>5. Ask your Local Administrator to correct the OUID using function LDC ADMIN 2000</p>\n\n<p>6. Use function LOG RETURN to log the return using the correct OUID</p>\n\n<p>7. Delete the entry from the list</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-09-06T10:17:58+01:00",
+ "section_id": "SAM123251",
+ "title": "Returns: trust returns: paper reports: trusts (Action Guide)"
+}

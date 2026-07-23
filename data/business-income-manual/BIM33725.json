@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33725",
+ "body": "<p>Where assets qualify for capital allowances, the allowances are due on the capital expenditure incurred by the purchaser and not on the fair value of the assets. Where there is a sale of property together with other property, S562 Capital Allowances Act 2001 requires a just apportionment to be made of 'the net proceeds of sale of the whole property'. If the purchaser takes over liabilities as well as assets then the assumption of those liabilities is part of the purchase price. So in the example in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33720\">BIM33720</a> the trader would be due capital allowances on £1,000 for the van because a just and reasonable apportionment of the total purchase price of £6,000 is to allocate that amount to the van (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca12100\" rel=\"nofollow\">CA12100</a>).</p>\n<p>The capital allowances are due when the expenditure is incurred, CAA01/S5(1)-(3) (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11800\" rel=\"nofollow\">CA11800</a>).</p>\n<p>The business succession may include the acquisition of a building or structure which has qualified for the Structures and Buildings allowance (SBA). Where this is the case the purchaser must obtain the allowance statement from a previous owner (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca94610\" rel=\"nofollow\">CA94610</a>). The allowance statement enables the purchaser, if they meet all of the qualifying conditions (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca90100\" rel=\"nofollow\">CA90100</a>), to work out how much SBA they are able to claim (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca94650\" rel=\"nofollow\">CA94650</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33700",
+   "section_id": "BIM33700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2020-03-10T08:03:57+00:00",
+ "section_id": "BIM33725",
+ "title": "Business successions: capital allowances apportionment"
+}

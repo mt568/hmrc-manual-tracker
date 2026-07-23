@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100231",
+ "body": "<p>When you want to set up a partner source on the SA record, follow steps 1 - 5 below. If the new partner source is in the construction industry, also follow step 6.</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>If not already known, establish from the partnership SA record, or the office responsible for the partnership record</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* The partnership Unique Taxpayer Reference (UTR)</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* The date the partner source commenced</td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Establish the partner’s UTR</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>Use function SET UP PARTNER, once for each partner source you want to set up. Any entries made to designatory fields must be in UPPER CASE. This will</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Create the source on the partner’s record</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Create the link between the partner’s record and the partnership record</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>The first source set up is accepted by the computer as the main source. Unless the SA record is linked to PAYE, by setting up the main source first you will not have to use function MAINTAIN SOURCES to nominate the main source</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>Use function MAINTAIN SOURCES to nominate the main source if the taxpayer has more than one trade / partner source and you did not set up the main source first</td>\n    </tr>\n    <tr>\n      <td>5.</td>\n      <td>Use function MAINTAIN RETURN PROFILE to record the supplementary pages to be issued with the basic tax return for the partner</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>### New partner source within the construction industry</td>\n    </tr>\n    <tr>\n      <td>6.</td>\n      <td>Use function MAINTAIN COMPLIANCE SIGNALS to view any entry for the nature of the taxpayer’s involvement in the construction industry. If it is no longer correct, or there is no entry</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Select the appropriate status from the options available to you in the drop down menu</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+   "section_id": "SAM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:29+00:00",
+ "section_id": "SAM100231",
+ "title": "Records: set up taxpayer record: set up partner (Action Guide)"
+}

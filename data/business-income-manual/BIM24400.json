@@ -1,0 +1,36 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24400",
+ "body": "<h2 id=\"introduction-and-layout-of-guidance\">Introduction and layout of guidance</h2>\n\n<p>An entity with a shareholding may find it more difficult to satisfy the conditions for mutual trading. This is because of the requirement that any surplus go back to contributors as contributors and not as shareholders.</p>\n\n<p>The guidance that follows covers the effects of incorporation on the issue of mutual trading:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24405",
+     "description": "",
+     "section_id": "BIM24405",
+     "title": "Incorporation: difficulties associated with having shareholders"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24410",
+     "description": "",
+     "section_id": "BIM24410",
+     "title": "Incorporation: a company trading only with its members may be non-mutual"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:38+01:00",
+ "section_id": "BIM24400",
+ "title": "Meaning of trade: mutual trading and members clubs: incorporation: contents"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33145",
+ "body": "<p>FRS 102 Section 27 Impairment of Assets Paragraph 27.2 states that an entity shall assess at each reporting date wither any inventories (stocks) are impaired by comparing the estimated selling price less costs to complete to the current carrying amount. If inventory is impaired, the entity shall reduce the carrying amount of the inventory to its selling price less costs to complete and sell.</p>\n\n<h2 id=\"IDASQD0B\">Use of formulae to calculate net realisable value</h2>\n\n<h3 id=\"applying-formulae\">Applying formulae</h3>\n\n<p>Generally the value of stocks should be made item by item, but generally accepted accounting practice permits groups of similar items to be considered together and allows net realisable value to be arrived at by applying to the cost of similar stocks a formula based on predetermined criteria. Some of the factors that such a formula would normally take into account are the age and condition, past and anticipated future demand and the scrap value of those stocks. The results of applying the formulae should be reviewed to ensure that they are likely to give a reasonable approximation of net realisable value. In particular they should be adjusted for any additional special circumstances and to take into account events occurring between the reporting date and the date when the accounts are authorised for issue which provide additional evidence of the value of stocks at the reporting date.</p>\n\n<h3 id=\"slow-moving-stock\">Slow moving stock</h3>\n\n<p>If stock is slow moving it may be a pointer that the net realisable value is likely to be less than cost, e.g. because it is likely to become obsolete before it can be sold. In some cases the formula adopted is that a percentage of the costs of each category of stock is written off depending upon its age. But the fact that stock is slow moving does not of itself mean that its net realisable value will be less than its cost. Therefore although age related formulae may often give acceptable results that is not always the case.</p>\n\n<h3 id=\"acceptable-accuracy\">Acceptable accuracy</h3>\n\n<p>Provisions and write downs arrived at using formulae, including age related formulae, are acceptable provided that each formula reflects a realistic appraisal of the future income from the particular category of stock and results in the stock being included at a reasonable estimate of its net realisable value. Pinpoint accuracy cannot be achieved but the assumptions made should be realistic.</p>\n\n<p>After reviewing the position in a particular case an Inspector may agree that certain formulae are appropriate. Inspectors should remind traders and their agents that they should check each year that the agreed formulae still give an accurate estimate of the net realisable value of the stock.</p>\n\n<p>If, for a particular accounting period, the use of a formula does not give the right result for the closing stock valuation it does not necessarily mean that the use of the same formula for the opening valuation was also wrong. On the other hand, it may be that the opening stock valuation was prepared on a basis that was also invalid. In that case, the opening stock figure must be valued on the same basis as the closing stocks. For guidance on how to handle earlier years see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34000\">BIM34000</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33100",
+   "section_id": "BIM33100"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T09:32:53+00:00",
+ "section_id": "BIM33145",
+ "title": "Stock: valuation: net realisable value: use of formulae, slow moving stock, acceptable accuracy"
+}

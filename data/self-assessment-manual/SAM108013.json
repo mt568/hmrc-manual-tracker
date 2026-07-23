@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108013",
+ "body": "\n<p>Where you want to amend a permanent note follow steps 1 - 3 below  </p>\n\n<ol>\n  <li>\n    <p>Use function MAINTAIN PERMANENT NOTES to view the permanent notes already recorded  </p>\n  </li>\n  <li>\n    <p>Select the line number of the permanent note you want to amend, then  </p>\n  </li>\n</ol>\n\n<pre><code>* Select the [Amend Note] button\n</code></pre>\n\n<ol>\n  <li>On the Amend Permanent Note screen  </li>\n</ol>\n\n<pre><code>* Amend the text of the permanent note\n* Select the [OK] button\n</code></pre>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108000",
+   "section_id": "SAM108000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:19+00:00",
+ "section_id": "SAM108013",
+ "title": "Records: SA and permanent notes: amending a permanent  note (Action Guide)"
+}

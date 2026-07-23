@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60370",
+ "body": "<p>S766 Income Tax Act 2007, S828 Corporation Tax Act 2010</p>\n\n<p>Provided certain conditions are satisfied, the gain on company shares where the gain is derived from value from land is exempt from the transactions in land anti-avoidance rules (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60305\">BIM60305</a>).</p>\n\n<p>The exemption applies provided all the following conditions are met:</p>\n\n<ul>\n  <li>the gain is obtained by the holder of the shares,</li>\n  <li>the gain arises as a result of the holder of the shares (or a person connected to such a person) acquiring, holding or developing land,</li>\n  <li>the gain arises on a disposal of shares either:</li>\n</ul>\n\n<blockquote>\n  <ul>\n    <li>in a company which holds the land as trading stock, or</li>\n    <li>in a company which directly or indirectly owns at least 90% of the ordinary share capital of another company which holds land as trading stock,</li>\n  </ul>\n</blockquote>\n\n<ul>\n  <li>all the land held by such a company is disposed of by that company in the normal course of its trade, and</li>\n  <li>all the land held by such a company is disposed of in such a way that all opportunity of profit in respect of the land arises to the company.</li>\n</ul>\n\n<p>However, this exemption does not apply where there is an ‘arrangement’ or ‘scheme’ which enables the gain to be realised indirectly or via a series of transactions.</p>\n\n<h3 id=\"need-for-a-forward-note\">Need for a forward note</h3>\n\n<p>At the time of the disposal of the shares, the question of whether this exemption applies is dependent on the fate of the land owned by the company. A forward note should therefore be made to:</p>\n\n<ul>\n  <li>periodically check what has become of the land, and</li>\n  <li>determine whether a protective assessment should be made as assessing time limits approach.</li>\n</ul>\n\n<p>Any decision in relation to a protective assessment should be made in conjunction with CTISA (Technical).</p>\n\n<p>In the event that an assessment is required, it is made on the shareholder who has disposed of the shares.</p>\n\n<p>For other exemptions from the transactions in land rules, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60360\">BIM60360</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60375\">BIM60375</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+   "section_id": "BIM60300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:14+01:00",
+ "section_id": "BIM60370",
+ "title": "Transactions in land: Exemptions: Profit chargeable as trading income"
+}

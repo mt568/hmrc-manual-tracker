@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64210",
+ "body": "<p>Under a PFI agreement, a private sector operator grants a 25 year lease, on a fully equipped hospital, to a public sector purchaser (an NHS Trust) and also agrees to provide non-clinical support services for the period of the lease. In return the operator will receive an annual service payment, the unitary charge.</p>\n\n<p>As part of the commercial arrangement, the purchaser contributes land with a current market value of £10 million, as a payment on account of future unitary receipts. The documentation makes this clear.</p>\n\n<p>For tax purposes the hospital is a fixed capital asset of a property business and the provision of the non-clinical support services is a trade. For accounting purposes the example assumes that the PFI property, i.e. the hospital, is reported as a finance debtor on the operator’s balance sheet under FRS5 Application Note F.</p>\n\n<p>Under FRS5, if the land is surplus to the project, and assuming it is not acquired as trading stock, it is reported as a fixed asset on the balance sheet of the operator at its fair value of £10m. The credit entry is to the finance debtor.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>-</th>\n      <th>Amount</th>\n      <th>-</th>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Dr</td>\n      <td>Fixed asset</td>\n      <td>£10m</td>\n      <td>Cr</td>\n      <td>Finance debtor</td>\n      <td>£10m</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Alternatively, if the land is to be used in the project, the accounting entries will not be reflected on the balance sheet, since the credit and debit are both made to the finance debtor and cancel each other out.</p>\n\n<p>For tax purposes we follow the accounting recognition of income in the profit and loss account, subject to any over-riding statutory or case law principle.</p>\n\n<p>The value of the land contributed is a prepayment of the unitary charge and a revenue receipt for tax purposes. However it has not been, and will not be, reflected in the profit and loss account. The statutory principle, that the charge to tax of a trade is made on the full amount of the profits, will therefore apply (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64125\">BIM64125</a>).</p>\n\n<p>The pre-payment is therefore included in the trading profits tax computations over the period to which the contribution relates. In the absence of evidence to the contrary, this is normally the whole of the contract period (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64180\">BIM64180</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64170",
+   "section_id": "BIM64170"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-20T10:57:11+00:00",
+ "section_id": "BIM64210",
+ "title": "Private Finance Initiative (PFI): contribution of land: example 2"
+}

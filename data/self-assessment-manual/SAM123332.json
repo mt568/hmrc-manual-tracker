@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123332",
+ "body": "<p>You must calculate the liability using TSS or manually using the working sheet in the return. The liability should be entered on the SA record using function CREATE RETURN CHARGE. Information on the source of the entry or entries in function CREATE RETURN CHARGE from the pension scheme return is available as follows:</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>Create Return Charge field</td>\n      <td>Source of entry from pension scheme return</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>Income tax due after reliefs</td>\n      <td>Box P12</td>\n    </tr>\n    <tr>\n      <td>Recoverable tax on charges</td>\n      <td>Box P13</td>\n    </tr>\n    <tr>\n      <td>Capital Gains Tax</td>\n      <td>Box P25</td>\n    </tr>\n    <tr>\n      <td>Tax deducted at source</td>\n      <td>Box P21</td>\n    </tr>\n    <tr>\n      <td>Overpayments for earlier years</td>\n      <td>Box P23</td>\n    </tr>\n    <tr>\n      <td>Underpayments for earlier years</td>\n      <td>Where the figure in box P23 is negative</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Note: If the figure in Box P23 is negative, treat it as positive and enter it in the UNDERPAYMENTS FOR EARLIER YEARS field.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:35+00:00",
+ "section_id": "SAM123332",
+ "title": "Returns: trust returns: processing the pension scheme tax return: calculation"
+}

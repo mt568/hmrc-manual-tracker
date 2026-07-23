@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64110",
+ "body": "<p>A private sector operator enters into a PFI contract with a public sector purchaser (an NHS Trust) to grant the purchaser a lease on a fully equipped hospital and provide ancillary non-clinical support services over a 25 year period. The operator constructs a hospital on land it acquires for the purposes and grants a 25-year lease to the Trust. The operator receives an annual fee, the unitary charge, which for tax purposes represents property and trading income (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64020\">BIM64020</a>).</p>\n\n<p>For tax purposes the hospital is a fixed capital asset of the operator’s property business. However, for accounting purposes it may well be determined that the benefits and risks inherent in the property do not lie with the operator (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64075\">BIM64075</a> onwards). If so, under FRS5 Application Note F the hospital is shown as a finance debtor, for accounting purposes, on the operator’s balance sheet and not as a fixed asset.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64070",
+   "section_id": "BIM64070"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:42+01:00",
+ "section_id": "BIM64110",
+ "title": "Measuring the profits (particular trades): Private Finance Initiative (PFI): accounting: FRS5 example 3"
+}

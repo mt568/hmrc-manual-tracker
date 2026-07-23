@@ -1,0 +1,10 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101010",
+ "body": "\n<p>If you change an address on the Taxpayer Business Service (TBS) then the revised details will flow automatically to the SA record.</p>\n\n<p>For the purpose of addressing output the computer uses the following order of priority.</p>\n\n<p>Where a capacity is present</p>\n\n<ul>\n  <li>\n    <p>Main capacity address (not held on PAYE)In all other cases</p>\n  </li>\n  <li>Communication address</li>\n  <li>Base address</li>\n  <li>Main source business address</li>\n</ul>\n\n<p>RLS signal</p>\n\n<p>If a capacity is present and the RLS signal is set against the main capacity address</p>\n\n<ul>\n  <li>\n    <p>The computer will not use any other addresses held on the taxpayer’s SA recordIn all other cases, if the RLS signal is set against an address on the SA system</p>\n  </li>\n  <li>\n    <p>The computer will use the next address in the order of priority</p>\n  </li>\n</ul>\n",
+ "breadcrumbs": [],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:40+00:00",
+ "section_id": "SAM101010",
+ "title": "Records: maintain taxpayer record: address flow from CID  framework to SA"
+}

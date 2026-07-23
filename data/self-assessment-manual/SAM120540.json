@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120540",
+ "body": "<p>‘Specials’ and ‘Exclusions’ are referred to in relation to problems that agents and other customers have filing SA returns online. These terms refer to two technical lists HMRC provide to software developers.</p>\n<p>‘Exclusions’ are situations where it is impossible to file a return for affected customers online. For further information, see subject ‘Exceptions to paper filing date’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam120545\">SAM120545</a>).</p>\n<p>‘Specials’ are scenarios where the return will be rejected unless a workaround is used - software developers often modify their products to incorporate these workarounds.</p>\n<p>A list of ‘Exclusions’ and ‘Specials’ is available on the HMRC website.</p>\n<p>You should accept an appeal against a penalty for the late filing of a paper return on the basis of reasonable excuse where</p>\n<ul><li class=\"dash\">It was not possible to file the return online because the case is listed as an ‘Exclusion’</li><li class=\"dash\">It was not possible to use a workaround for a scenario listed as a ‘Special’</li></ul>\n<p>You should also consider sympathetically claims for reasonable excuse where any agent or customer demonstrates (for example by providing a copy of the rejection message) that they are filing a paper return late because of an issue relating to use of the online service; see <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam120550\">SAM120550</a>.</p>\n<p>In all the above scenarios, you should aim to deal with ‘reasonable excuse’ claims sympathetically and in time, as far as possible, to prevent the issue of a formal penalty notice. To facilitate this process, agents may use a simple form which is available on the <a href=\"https://www.gov.uk/government/publications/self-assessment-reasonable-excuse-for-not-filing-return-online\">GOV.UK website</a>.</p>\n<p><strong>Note:</strong> Do not accept as a reasonable excuse any claim that the customer failed to file on time because HMRC did not make available free software appropriate to their circumstances.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120500",
+   "section_id": "SAM120500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-07-02T01:00:00+01:00",
+ "section_id": "SAM120540",
+ "title": "Returns: filing paper returns: 31 October deadline: specials and exclusions"
+}

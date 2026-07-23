@@ -1,0 +1,170 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim31500",
+ "body": "<p>This chapter explains how the Value Added Tax (VAT) rules interact with the rules for calculating the taxable profits of a trade. The chapter begins with a brief introduction to VAT and then goes on to explain the interaction in general between the two sets of tax rules. <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31545\">BIM31545</a> to <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31620\">BIM31620</a> deal with special cases. <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31625\">BIM31625</a> describes the circumstances in which you should refer to Head Office.</p>\n\n<p>The chapter only deals with VAT in the context of its interaction with trade profits and is not intended to be a comprehensive guide to VAT. Detailed VAT guidance can be found in the VAT Manuals. A general guide to VAT is contained in VAT Notice 700.</p>\n\n<p>The guidance is arranged as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31501",
+     "description": "",
+     "section_id": "BIM31501",
+     "title": "Introduction to VAT"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31505",
+     "description": "",
+     "section_id": "BIM31505",
+     "title": "Rates"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31510",
+     "description": "",
+     "section_id": "BIM31510",
+     "title": "Taxable/exempt supplies"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31515",
+     "description": "",
+     "section_id": "BIM31515",
+     "title": "Turnover below registration threshold"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31520",
+     "description": "",
+     "section_id": "BIM31520",
+     "title": "Input tax"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31525",
+     "description": "",
+     "section_id": "BIM31525",
+     "title": "General accounts treatment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31530",
+     "description": "",
+     "section_id": "BIM31530",
+     "title": "Inclusive basis"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31535",
+     "description": "",
+     "section_id": "BIM31535",
+     "title": "Trader exempt/not taxable"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31540",
+     "description": "",
+     "section_id": "BIM31540",
+     "title": "Partial exemption"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31545",
+     "description": "",
+     "section_id": "BIM31545",
+     "title": "Motor cars"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31550",
+     "description": "",
+     "section_id": "BIM31550",
+     "title": "Private motoring"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31555",
+     "description": "",
+     "section_id": "BIM31555",
+     "title": "Business entertainment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31560",
+     "description": "",
+     "section_id": "BIM31560",
+     "title": "Goods for own use"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31570",
+     "description": "",
+     "section_id": "BIM31570",
+     "title": "Interval between payment & recovery"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31575",
+     "description": "",
+     "section_id": "BIM31575",
+     "title": "Irrecoverable sums"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31580",
+     "description": "",
+     "section_id": "BIM31580",
+     "title": "Special schemes for retailers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31585",
+     "description": "",
+     "section_id": "BIM31585",
+     "title": "Flat rate schemes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31590",
+     "description": "",
+     "section_id": "BIM31590",
+     "title": "Groups & associated companies"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31595",
+     "description": "",
+     "section_id": "BIM31595",
+     "title": "Value of stock in trade"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31600",
+     "description": "",
+     "section_id": "BIM31600",
+     "title": "Starting or ceasing liability"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31605",
+     "description": "",
+     "section_id": "BIM31605",
+     "title": "Transfer as a going concern"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31610",
+     "description": "",
+     "section_id": "BIM31610",
+     "title": "Penalties & repayment supplement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31615",
+     "description": "",
+     "section_id": "BIM31615",
+     "title": "Settlements after investigation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31620",
+     "description": "",
+     "section_id": "BIM31620",
+     "title": "Timing of deduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim31625",
+     "description": "",
+     "section_id": "BIM31625",
+     "title": "Reference to BAI Business Profits"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:02+01:00",
+ "section_id": "BIM31500",
+ "title": "Value Added Tax: contents"
+}

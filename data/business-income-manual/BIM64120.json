@@ -1,0 +1,78 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64120",
+ "body": "<h2 id=\"accounting\">Accounting</h2>\n\n<p>Where, for tax purposes, a PFI property is a fixed capital asset of the private sector operator’s business, the accounting treatment may result in it being reported as either a finance debtor, or a fixed asset, on the operator’s balance sheet.</p>\n\n<p>Similarly, where the operator’s trade includes the provision of building services on revenue account for tax purposes, the accounting treatment may result in the property being reported as either a fixed asset or a finance debtor on the operator’s balance sheet (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64070\">BIM64070</a> onwards).</p>\n\n<h2 id=\"taxation\">Taxation</h2>\n\n<p>The accounting treatment does not determine the tax treatment. The question of whether expenditure is capital or revenue for tax purposes is one of law. The fact that a particular accounting treatment requires that revenue expenditure incurred and payments receivable are posted to an asset on the operator’s balance sheet does not mean that they lose their revenue character for tax purposes (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64125\">BIM64125</a>, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64130\">BIM64130</a> and example 1 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64140\">BIM64140</a>).</p>\n\n<p>The guidance on the interaction of accounting and tax in the PFI context is arranged as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64125",
+     "description": "",
+     "section_id": "BIM64125",
+     "title": "Accounting and tax: income and expenditure recognition: unitary charge"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64130",
+     "description": "",
+     "section_id": "BIM64130",
+     "title": "Accounting and tax: income and expenditure recognition: deductions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64135",
+     "description": "",
+     "section_id": "BIM64135",
+     "title": "Accounting and tax: income and expenditure recognition: table of examples"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64140",
+     "description": "",
+     "section_id": "BIM64140",
+     "title": "Accounting and tax: income and expenditure recognition: example 1"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64145",
+     "description": "",
+     "section_id": "BIM64145",
+     "title": "Accounting and tax: income and expenditure recognition: example 2"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64150",
+     "description": "",
+     "section_id": "BIM64150",
+     "title": "Accounting and tax: income and expenditure recognition: example 3"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64155",
+     "description": "",
+     "section_id": "BIM64155",
+     "title": "Accounting and tax: income and expenditure recognition: example 4"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64160",
+     "description": "",
+     "section_id": "BIM64160",
+     "title": "Accounting and tax: income and expenditure recognition: example 5"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64165",
+     "description": "",
+     "section_id": "BIM64165",
+     "title": "Accounting and tax: income and expenditure recognition: example 6"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:42+01:00",
+ "section_id": "BIM64120",
+ "title": "Private Finance Initiative (PFI): accounting and tax: contents"
+}

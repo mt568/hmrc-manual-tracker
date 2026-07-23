@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80071",
+ "body": "<p>Until 8 March 2001, local offices responsible for processing dealt with Time to Pay (TTP) requests using procedures based on the SIFTEL instructions. These offices would only handle TTP cases where the liability was less than £5,000 and the PCA signal was not set. Normally, any arrangement had to be concluded within 3 months.</p>\n\n<p>From 8 March 2001 local offices responsible for processing no longer deal with requests for payment arrangements.</p>\n\n<p>Any TTP requests, whether verbal or written, should be referred to the associated Payment Helpline.</p>\n\n<p>If you receive a Time to Pay (TTP) request in the local processing office, consider steps 1 - 4 below.</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDAF5I3H\">Telephone / verbal requests</h2>\n\n<p>1. If a request for a payment arrangement is made by telephone or in person</p>\n\n<ul>\n  <li>Refer the taxpayer to Debt Management and Banking (DMB). The telephone number is 0300 200 3820</li>\n</ul>\n\n<p>2. Use function MAINTAIN SA NOTES to record your actions and select the SA Note from the SEES Notes Paster, Time to Pay section ‘Time to pay request referred to Payment Helpline’</p>\n\n<h2 id=\"IDA5AJ3H\">Written requests</h2>\n\n<p>3. If you receive a written request for a payment arrangement</p>\n\n<ul>\n  <li>Send the correspondence with a covering note prominently headed ‘TTP Request’ to the relevant Single Point of Contact (SPOC) shown under ‘Contact Details’, then ‘SA: DMB general and campaign enquiries, DMB single point of contact office’, on the DMB Intranet page</li>\n</ul>\n\n<p>4. Use function MAINTAIN SA NOTES to record your actions. Select the SA Note from the SEES Notes Paster, Time to Pay section ‘Time to pay request referred to DMB</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80000",
+   "section_id": "SAM80000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-27T11:23:15+01:00",
+ "section_id": "SAM80071",
+ "title": "Payments: payments overview: receive time to pay request in the processing office (Action Guide)"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100260",
+ "body": "<p>From 2017, the Trust Registration Service (TRS) is used to register new Trusts for setting up on SA. Previously Trustees were required to complete form 41G (Trust) for a Trust record be set up. If notification is sent to the Central Agent Authorisation Team (CAAT) that a Trust record is needed, CAAT complete the agreed notification stencil and send it with the registration forms which may be CWF1, SA400, SA401 or SA402 to</p>\n\n<p>HMRC Trusts<br />\nNottingham</p>\n\n<p>NG2 1BB</p>\n\n<p>A Trust record should be set up on SA following the guidance at SAM100261. It must first be established that the trust is not already set up in SA.</p>\n\n<p>A trust record is appropriate for each of the following</p>\n\n<ul>\n  <li>Trust</li>\n  <li>Pension scheme, where liability arises on the trustee</li>\n  <li>Period of administration and the liability of the administration period will be dealt with within SA</li>\n</ul>\n\n<p>HMRC Trusts, Nottingham will be responsible for all Trust cases.</p>\n\n<p>Trust records for pension schemes may be set up in any office with responsibility for processing work.</p>\n\n<p>For periods of administration, SA records should usually only be set up by HMRC Administration of Estates, Cardiff. However, if the deceased’s lifetime tax affairs were dealt with by Public Department 1 (PD1), or the Lloyds Underwriters Unit, responsibility will remain with that office.</p>\n\n<p>Satisfy yourself that the trust record should be set up in your office. If not, refer the papers to the correct office. The operator in the office with responsibility for processing work will never be prompted by the SA system to transfer a trust record. More information is available in subject ‘Transfer Prompt’ (SAM103120).</p>\n\n<p>You should then decide, using the Action Guide, what computer functions to use to set up the trust record.</p>\n\n<p>When you set up the record, the system will allocate a Unique Taxpayer Reference (UTR).</p>\n\n<p>Trading sources including trading profits and profit from a profession or vocation have to be set up as sources on the SA record for compliance purposes.</p>\n\n<p>A partner source cannot be entered on a trust record. Where the trust is in partnership, follow the procedures in subject ‘Trust Record And Partner Source’ (SAM100280).</p>\n\n<p>The return for a pension scheme SA970 must be issued manually.</p>\n\n<p>Further information is available in subjects ‘Pension Schemes’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam100150\">SAM100150</a>) and ‘Periods of Administration’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam100160\">SAM100160</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+   "section_id": "SAM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2017-04-25T10:20:31+01:00",
+ "section_id": "SAM100260",
+ "title": "Records: set up taxpayer record: set up trust record"
+}

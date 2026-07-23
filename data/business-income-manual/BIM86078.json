@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86078",
+ "body": "<p>Continuing from example at BIM86076, we now consider the following tax year during which Joe has relevant income of £1,300 and allowable expenditure of £800. Joe also has losses brought forward from the earlier year of £170 (we assume that Joe has carried his losses forward under Part 4, Chapter 2, ITA 2007). As Joe’s relevant income is above £1,000 he does not qualify for full relief.</p>\n<p>Joe elects for partial relief under the trading allowance as the £1,000 trading allowance exceeds his allowable expenditure in the year so it is beneficial for him to do so. As Joe has claimed partial relief, Joe can only deduct the £1,000 trading allowance and is not allowed to deduct any of his allowable expenditure.</p>\n<p>Joe’s profits for the tax year are calculated as £1,300 relevant income less the £1,000 trading allowance, so profits of £300. Joe is not allowed to deduct any allowable expenditure from his profits, but this does not prevent Joe claiming relief for brought forward losses against these profits under the normal rules.</p>\n<p>Joe uses the £170 brought forward losses to reduce his taxable profits as follows – profits for tax year £300 less brought forward losses £170, so taxable profit is reduced to £130. Joe does this via his Self Assessment return for the year.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86070",
+   "section_id": "BIM86070"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-04-09T15:48:16+01:00",
+ "section_id": "BIM86078",
+ "title": "Example: Claiming partial relief and using losses carried forward"
+}

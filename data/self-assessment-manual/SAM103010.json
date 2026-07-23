@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103010",
+ "body": "<p>When the PAYE link is broken</p>\n\n<ul>\n  <li>Automatic processing will unset the SA signal on the PAYE record. The Unique Taxpayer Reference (UTR) will remain on that record</li>\n  <li>The current NTS index record, controlled by SA, is made historical</li>\n  <li>\n    <p>New NTS index records are created by the controlling system, respectively</p>\n\n    <ul>\n      <li>SA, for the SA record</li>\n      <li>PAYE or CODA, for the legacy system record</li>\n    </ul>\n  </li>\n</ul>\n\n<h2 id=\"paye-link\">PAYE link</h2>\n\n<p>Transfer from one PAYE main source reference to another is achieved through PAYE Employee in Year Maintenance, following which automatic processing updates the PAYE system link and moves the SA record. You cannot amend the other system reference for a PAYE link.</p>\n\n<p>The link on the SA record is updated automatically where</p>\n\n<ul>\n  <li>The PAYE source is no longer the primary source, or</li>\n  <li>The PAYE employment reference has changed</li>\n  <li>The Final Return Year signal has been set</li>\n</ul>\n\n<p>The Responsible Office for the SA record will change automatically as required, if either the PAYE link is removed due to the cessation of the PAYE source or there is a change of PAYE reference.</p>\n\n<p>Where the taxpayer’s PAYE primary source ceases, and the new primary source is to be a trading or other income, you will follow current PAYE procedures and not offer a cessation repayment.</p>\n\n<p>If PAYE is now the primary source</p>\n\n<ul>\n  <li>Check that the responsible PAYE office has a PAYE record</li>\n  <li>Ensure that the correct NINO is held on the SA record</li>\n  <li>When a PAYE record becomes live, the PAYE reference will flow to the SA record and populate the Other System and Other System Reference fields</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103000",
+   "section_id": "SAM103000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:00+00:00",
+ "section_id": "SAM103010",
+ "title": "Records: movement of taxpayer records: amending or breaking a PAYE link"
+}

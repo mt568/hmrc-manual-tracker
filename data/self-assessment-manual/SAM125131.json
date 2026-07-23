@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125131",
+ "body": "<p>Note: Check if a w059 ‘online return rejection’ work item exists. If one does exist, do not work the w042 ‘returns not captured’. You should work the w059 ‘online return rejection’ first, if not the return will no longer be accessible. Follow wO59 ‘Online return rejections’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam71163\">SAM71163</a>)</p>\n\n<p>Where there is an entry on the ‘Returns Not Captured’ Work List follow steps 1 - 8 below.</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>1. In function WORK LIST CASES</p>\n\n<ul>\n  <li>Select the entry that you want to work</li>\n  <li>Select the [View] button. You will be taken to function SELECTED CASE, to see all available details on the work item</li>\n  <li>Make a note of details, if required</li>\n</ul>\n\n<p>2. Review the entry to establish why the return details have not been captured or why there is no charge on the record</p>\n\n<p>3. Where the return has been logged and only part captured in function CAPTURE RETURN</p>\n\n<ul>\n  <li>Check the return to see why capture has not been fully completed</li>\n</ul>\n\n<h4 id=\"if-the-return-is-unsatisfactory-but-still-logged\">If the return is unsatisfactory but still logged</h4>\n\n<p>4. Unlog the return using function UNLOG RETURN. Refer to the Action Guide ‘Unlogging Unsatisfactory Individuals Returns’ in section ‘Individuals Returns’ for more information</p>\n\n<h4 id=\"if-entries-are-illegible-and-the-taxpayer-has-been-contacted-but-a-reply-is-still-outstanding\">If entries are illegible and the taxpayer has been contacted but a reply is still outstanding</h4>\n\n<p>5. Consider treating as unsatisfactory and unlog the return. Refer to the Action Guide ‘Unlogging Unsatisfactory Individuals Returns’ in section ‘Individuals Returns’ for more information</p>\n\n<h4 id=\"if-you-consider-the-return-is-not-unsatisfactory-and-you-are-able-to-repair-the-entry-or-accept-the-taxpayers-figure\">If you consider the return is not unsatisfactory and you are able to repair the entry or accept the taxpayer’s figure</h4>\n\n<p>6. Complete capture of the return using function CAPTURE RETURN</p>\n\n<p>7. If the taxpayer has been contacted concerning an obvious error and a reply is still outstanding</p>\n\n<ul>\n  <li>Use your judgement to repair or accept the entry</li>\n  <li>Complete capture of the return using function CAPTURE RETURN</li>\n</ul>\n\n<h4 id=\"if-the-return-has-been-mislaid-after-logging\">If the return has been mislaid after logging</h4>\n\n<p>8. Do not unlog the return. Refer to subject: ‘Returns mislaid after logging’ (SAM121570) for guidance</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-03T09:20:53+01:00",
+ "section_id": "SAM125131",
+ "title": "Returns: returns work lists: w042 returns not captured (Action Guide)"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40105",
+ "body": "<p>S5 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S35 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<h2 id=\"the-receipt-must-represent-a-profit-of-the-trade\">The receipt must represent a profit of the trade</h2>\n\n<p>You should not assume that an incoming payment is a trade receipt solely because nothing would have been received had the trade not been carried on. The receipt must represent the profits of the trade under S5 ITTOIA 2005 for unincorporated businesses and S35 CTA 2009 for companies.</p>\n\n<p>If a sum, resulting from a claim to compensation or damages, is referable to trading operations then it will normally be a trade receipt. This will be so even if the payer’s legal liability is never established. However, payment made to the trader as a personal matter rather than in his capacity as a trader is unlikely to be chargeable. For instance, the following receipts are unlikely to be trading receipts:</p>\n\n<ul>\n  <li>unsolicited sums which the payer is under no legal obligation to make, which might include payment for a testimonial or compensation for injured feelings, albeit with compensatory elements (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim41800\">BIM41800</a> onwards)</li>\n  <li>compensation for personal injury to a trader, even if the sum is measured by reference to loss of earnings or earning power.</li>\n</ul>\n\n<p>Thus, damages received for such personal injuries should not be included in the computation of professional or trading receipts, even sums calculated by reference to the loss of income already sustained, or the loss of future earning power. In such cases, because the receipt in the form of compensation is not taxable, it is the practice of the courts, in calculating amounts referable to the loss of earnings, to treat the compensation as if paid net of the tax liabilities that would have arisen had the individual not suffered injury and the consequent income loss. This is called the ‘Gourley principle’ after the leading case in the field, British Transport Commission v Gourley [1955] 3 All ER 796.</p>\n\n<p>It is emphasised that (b) above only applies to injuries suffered by the proprietor of the business. It does not apply to compensation received to compensate a trader for an injury to an employee, nor payments to companies. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40751\">BIM40751</a> for guidance on whether insurance proceeds are trading receipts and see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45500\">BIM45500</a> onwards for guidance on whether the insurance premiums can be deducted from trading profits.</p>\n\n<h3 id=\"savings-and-investment-income-and-miscellaneous-income\">Savings and Investment Income and Miscellaneous Income</h3>\n\n<p>If the compensation is not taxable as trading income because it does not arise from the trade, you should consider whether any liability arises under Savings and Investment Income (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2070\">SAIM2070</a> onwards), Miscellaneous Income (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim100000\">BIM100000</a> onwards), any other Income Tax charging provisions or Capital Gains Tax.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40100",
+   "section_id": "BIM40100"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:21:28+00:00",
+ "section_id": "BIM40105",
+ "title": "Specific receipts: compensation and damages: is it a trade receipt?"
+}

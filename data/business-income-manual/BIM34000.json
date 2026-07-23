@@ -1,0 +1,158 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+ "body": "<p>This chapter deals with the consequences of changes in the way in which taxable profits of a trade, profession or vocation are computed from one period of account to the next. The effect of such changes for tax purposes depends on whether they occur as a result of a change in the legislation or in our understanding of the legislation, a change of accounting policy, or to correct errors.</p>\n\n<p>A full list of the contents of this chapter is shown below. The guidance is subdivided into sections, the opening page of each section being in bold in the list below. Please click on the page number alongside to go direct to each section.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34001",
+     "description": "",
+     "section_id": "BIM34001",
+     "title": "Introduction and flowchart"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34005",
+     "description": "",
+     "section_id": "BIM34005",
+     "title": "Historic overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34010",
+     "description": "",
+     "section_id": "BIM34010",
+     "title": "HMRC ability to impose a change"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34015",
+     "description": "",
+     "section_id": "BIM34015",
+     "title": "Has there been a change of basis?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34020",
+     "description": "",
+     "section_id": "BIM34020",
+     "title": "What are invalid and valid basis?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34025",
+     "description": "",
+     "section_id": "BIM34025",
+     "title": "From invalid to valid basis"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34030",
+     "description": "",
+     "section_id": "BIM34030",
+     "title": "Invalid to valid basis: computational adjustment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34035",
+     "description": "",
+     "section_id": "BIM34035",
+     "title": "Invalid to valid basis: approach to earlier years"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34040",
+     "description": "",
+     "section_id": "BIM34040",
+     "title": "From one valid basis to another valid basis"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34045",
+     "description": "",
+     "section_id": "BIM34045",
+     "title": "Accounting policy changes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34050",
+     "description": "",
+     "section_id": "BIM34050",
+     "title": "Accounting policy changes: has there been a change?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34055",
+     "description": "",
+     "section_id": "BIM34055",
+     "title": "Accounting policy changes: Section 10 of FRS102"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34060",
+     "description": "",
+     "section_id": "BIM34060",
+     "title": "Accounting policy changes: when are they made?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34065",
+     "description": "",
+     "section_id": "BIM34065",
+     "title": "Accounting policy changes: how are they reported in accounts?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34070",
+     "description": "",
+     "section_id": "BIM34070",
+     "title": "Changes in tax adjustment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34090",
+     "description": "",
+     "section_id": "BIM34090",
+     "title": "Adjustment income and expenses: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34095",
+     "description": "",
+     "section_id": "BIM34095",
+     "title": "Adjustment income and expenses: charge to tax"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34105",
+     "description": "",
+     "section_id": "BIM34105",
+     "title": "Adjustment income and expenses: expenses already allowed"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34110",
+     "description": "",
+     "section_id": "BIM34110",
+     "title": "Adjustment income and expenses: stock and depreciation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34115",
+     "description": "",
+     "section_id": "BIM34115",
+     "title": "Adjustment income and expenses: change from realisation basis to mark to market (fair value) accounting"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34120",
+     "description": "",
+     "section_id": "BIM34120",
+     "title": "Adjustment income and expenses: change from realisation basis to mark to market (fair value) accounting: spreading election"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34130",
+     "description": "",
+     "section_id": "BIM34130",
+     "title": "Adjustment income and expenses: calculation of adjustment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34135",
+     "description": "",
+     "section_id": "BIM34135",
+     "title": "Adjustment income and expenses: meanings"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:23+01:00",
+ "section_id": "BIM34000",
+ "title": "Change of basis of computing taxable profits: contents"
+}

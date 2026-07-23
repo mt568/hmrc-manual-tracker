@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim81055",
+ "body": "<p>S219 Income Tax (Trading and Other Income) Act 2005 </p>\n<p>Where there was a change of accounting date in the previous tax year, but the three conditions in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81045\">BIM81045</a> were not met for the previous year, a change of accounting date is treated as taking place in the next year if accounts are prepared to the new accounting date in that year. </p>\n<p>The three conditions in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81045\">BIM81045</a> must be satisfied for the next year if the basis period for that year is to end with the new accounting date.</p>\n<p>Examples 5 and 6 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81060\">BIM81060</a> illustrate this.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81000",
+   "section_id": "BIM81000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:41:17+01:00",
+ "section_id": "BIM81055",
+ "title": "Computation of liability: basis periods - year after ineffective change of accounting date"
+}

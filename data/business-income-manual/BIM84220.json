@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim84220",
+ "body": "<p>A farmer has the following profits and would like to make an averaging claim in 2016/2017.</p>\n<table summary=\"Table showing the above\"><thead><tr><th scope=\"col\">Tax Year</th><th scope=\"col\">Profits</th></tr></thead><tbody><tr><td>2012/2013</td><td>£12,000</td></tr><tr><td>2013/2014</td><td>£12,000</td></tr><tr><td>2014/2015</td><td>£10,000</td></tr><tr><td>2015/2016</td><td>£10,000</td></tr><tr><td>2016/2017</td><td>£50,000</td></tr></tbody></table>\n<p>To check the volatility condition the farmer needs to compare the profits in 2016/2017 to the average of the profits in the preceding four years. That average is £11,000&nbsp;so the volatility condition is met and on the assumption that all of the other criteria in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim84100\">BIM84100</a> are met, then an averaging claim can be made.&nbsp;</p>\n<p>It is to be noted in this example that the profits for 2012/2013 to 2015/2016 have already been averaged&nbsp;with claims in&nbsp;2013/2014 and 2015/2016. It is perfectly acceptable for a particular year to&nbsp;be averaged a number of times.</p>\n<p>The averaging computation will look something like this.</p>\n<table summary=\"Table showing the averaging computation \"><thead><tr><th scope=\"col\">Tax Year</th><th scope=\"col\">Profits</th><th scope=\"col\">Averaged Profits</th></tr></thead><tbody><tr><td>2012/2013</td><td>£12,000</td><td>£18,800</td></tr><tr><td>2013/2014</td><td>£12,000</td><td>£18,800</td></tr><tr><td>2014/2015</td><td>£10,000</td><td>£18,800</td></tr><tr><td>2015/2016</td><td>£10,000</td><td>£18,800</td></tr><tr><td>2016/2017</td><td>£50,000</td><td>£18,800</td></tr></tbody></table>\n<p>Like in the example in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim84210\">BIM84210</a>,&nbsp;any adjustment to tax and class 4 NIC for the years 2012/2013 to 2015/2016 will be made in 2016/2017. In this example that adjustment will be an increase, but this will be more than offset from the savings in a £31,200 reduction in profit in 2016/2017.&nbsp;&nbsp;</p>\n<p>In this example as the volatility condition is also met for a two year averaging claim, the&nbsp;farmer&nbsp;could, as an alternative,&nbsp;chose to make a two year averaging claim instead.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim84000",
+   "section_id": "BIM84000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-24T10:07:49+00:00",
+ "section_id": "BIM84220",
+ "title": "Averaging: example of a five year claim"
+}

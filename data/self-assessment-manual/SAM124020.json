@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124020",
+ "body": "<p>When any individual’s return is amended or corrected using the AMEND RETURN function a check should be made to see whether there is a cross in the box which shows that the taxpayer wants to transfer surplus allowances.</p>\n\n<p>If there is a cross, it is necessary to recalculate the surplus allowances.</p>\n\n<p>You can deal with the amendment and leave the cross in the box if the surplus is</p>\n\n<ul>\n  <li>Unchanged or increased</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>Reduced, and the difference will be withdrawn from the spouse or civil partner</li>\n</ul>\n\n<p>A Work Item will be entered as TRANSFER OF ALLOWANCES on the ‘Returns Review’ Work List. See subject ‘Weekly Returns Review: Transfer of Allowances’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125200\">SAM125200</a>).</p>\n\n<p>If exceptionally the surplus is reduced and will not be withdrawn from the spouse or civil partner you should not use function AMEND RETURN. The amended liability should be calculated manually and the amended liability entered using function CREATE RETURN CHARGE.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124000",
+   "section_id": "SAM124000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:35+00:00",
+ "section_id": "SAM124020",
+ "title": "Returns: view and amend return: amended returns where allowances transferred to spouse or civil partner"
+}

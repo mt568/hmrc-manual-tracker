@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121400",
+ "body": "<p>Where the taxpayer claims income tax relief for Enterprise Investment Scheme subscriptions on the return (box 2 of the Other tax reliefs section of the Additional information page Ai 2, they are advised to enter details of each investment in the Additional Information box (page Ai 4 box 19).  Alternatively, the taxpayer may submit form EIS3, which contains the relevant information.  </p>\n<p>Where the relevant information has not been entered in the Additional Information box or is not readily to hand elsewhere, such as form EIS3/EIS5 or accompanying letter, the relief should not be given and the repair treated as an amendment of an obvious error.  The rest of the return can then be captured without the EIS claim.</p>\n<p>A customer service message should be issued which allows the taxpayer the right to reject the amendment.  The message should not refer to a claim being denied but merely say that you are unable to include EIS in any calculation as a valid claim has not been received, and should request the relevant missing information.</p>\n<p>If the information is subsequently provided, the return should be amended to allow the claim. </p>\n<h2><a id=\"IDADUTYD\">Time Limits for claims</a></h2>\n<p>For details of the time limits’ governing claims to EIS relief, see the Venture Capital Schemes Manual, subject ‘Income Tax relief: claiming relief: conditions’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/venture-capital-schemes-manual/vcm14130\">VCM14130</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:17+00:00",
+ "section_id": "SAM121400",
+ "title": "Returns: individuals returns: claim to relief for EIS (enterprise investment scheme) subscriptions"
+}

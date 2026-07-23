@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64371",
+ "body": "<p>S441, S442 Corporation Tax Act 2009</p>\n\n<p>Where part of the increased borrowings taken out by the private sector operator under the refinancing is used to fund the payment of a cash dividend to the shareholders, representing their share of the refinancing gain, then relief for the interest payable will generally be restricted on a just and reasonable basis under the ‘unallowable purpose’ legislation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm38010\">CFM38010</a> onwards). This reflects the legal advice we have received that borrowing to fund the payment of a dividend in such circumstances is not amongst the business or other commercial purposes of the operator, but of the shareholders.</p>\n\n<p>If, instead of a dividend being paid, the shareholders receive their share of the refinancing gain from the sale of their shares in the operator company to a new company, then the unallowable purpose legislation is not normally in point. A simplified version of the kind of structure that may be used is as follows:</p>\n\n<ul>\n  <li>the shareholders of the operator company form a new company and subscribe for shares in the same proportions as they hold in the operator company,</li>\n  <li>the shareholders sell their shares in the operator company to the new company for cash at their market value, the amount due being initially left on loan account,</li>\n  <li>the operator company refinances and uses the new increased borrowings to meet the costs of refinancing and to pay the public sector purchaser’s share of the refinancing gain (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64370\">BIM64370</a>),</li>\n  <li>the operator company uses the balance of the proceeds from the new borrowing to make an interest bearing loan to the new company to enable that company to pay the shareholders the cash consideration for the shares.</li>\n</ul>\n\n<p>It is expected that most refinancing arrangements will involve similar ‘sale to new company’ structures to enable the shareholders to receive their share of the refinancing gain. If, however, HMRC officers come across a different structure, and are considering the possible application of the unallowable purpose rules to restrict relief for a proportion of the interest payable on the new increased borrowing, they should refer the case to Counter Avoidance before taking any action.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64240",
+   "section_id": "BIM64240"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-11-28T13:38:22+00:00",
+ "section_id": "BIM64371",
+ "title": "Private Finance Initiative (PFI): refinancing gains: interest"
+}

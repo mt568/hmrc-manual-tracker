@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125200",
+ "body": "<p>A work item will be entered as TRANSFER OF ALLOWANCES on the ‘Weekly Returns Review’ Work List when a captured return includes a request to transfer surplus allowances to the spouse or civil partner.</p>\n\n<p>The ‘Weekly Returns Review’ Work List is allocated to the Clerical Processing Officer in the office with processing responsibility.</p>\n\n<p>You should</p>\n\n<ul>\n  <li>Calculate the allowances available for transfer to the spouse or civil partner</li>\n  <li>Delete the work item manually, but only when all aspects that caused the item to be created have been cleared </li>\n</ul>\n\n<p>And if reviewing the original return</p>\n\n<ul>\n  <li>Where possible amend the code using NPS for PAYE cases</li>\n  <li>Only where you are unable to amend the code should you notify the office with processing responsibility or HMRC office responsible for the spouse’s / civil partner’s taxpayer record, of the allowances available</li>\n</ul>\n\n<p>And if reviewing an amended return</p>\n\n<ul>\n  <li>Where the total surplus allowance differs from the original notification, amend the code using NPS for PAYE cases. If this is not possible, notify the office with processing responsibility or HMRC office responsible for the spouse’s/civil partner’s taxpayer record</li>\n</ul>\n\n<p>If as a result of an amended return, the surplus allowances available to the spouse or civil partner are reduced, you may decide not to withdraw the excess allowances already transferred to the spouse or civil partner. In this event, you must recalculate the SA liability manually and use function CREATE RETURN CHARGE to enter the liability on the SA record.</p>\n\n<p>When the return is unlogged, the work item is deleted automatically.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:02+00:00",
+ "section_id": "SAM125200",
+ "title": "Returns: returns work lists: w054 weekly returns review: transfer of allowances"
+}

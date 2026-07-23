@@ -1,0 +1,62 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim55000",
+ "body": "<p>Agriculture is a major industry in the UK and in some rural areas farmers comprise a significant proportion of the trading population. Farmers and their businesses vary substantially geographically, economically and socially but the tax principles about traders apply equally to them all. In addition, there are specific statutory provisions.</p>\n\n<p>Further guidance can be found in the section on computing the amount to assess as follows:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim84000\">BIM84000</a></th>\n      <th>Averaging</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85600\">BIM85600</a></td>\n      <td>Farming losses</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>This guidance in the chapters listed below covers technical issues arising from:</p>\n\n<ul>\n  <li>the application to farmers of the tax principles which apply to all traders,</li>\n  <li>the specific rules about computing farming income for tax purposes,</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55050",
+     "description": "",
+     "section_id": "BIM55050",
+     "title": "Farming in tax law: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55125",
+     "description": "",
+     "section_id": "BIM55125",
+     "title": "Single payment scheme: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55150",
+     "description": "",
+     "section_id": "BIM55150",
+     "title": "Receipts and expenses: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55300",
+     "description": "",
+     "section_id": "BIM55300",
+     "title": "Quotas: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55400",
+     "description": "",
+     "section_id": "BIM55400",
+     "title": "Stock valuation: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55500",
+     "description": "",
+     "section_id": "BIM55500",
+     "title": "Herd Basis: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55700",
+     "description": "",
+     "section_id": "BIM55700",
+     "title": "Stud farms: contents"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:59+01:00",
+ "section_id": "BIM55000",
+ "title": "Measuring the profits (particular trades): farming: contents"
+}

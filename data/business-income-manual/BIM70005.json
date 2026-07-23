@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim70005",
+ "body": "<p>The guidance within BIM70005 to BIM70100 applies to tax years ending on or before 5 April 2024 (2023/24). </p>\n<p>For tax years beginning on or after 6 April 2024 (2024/25) you should refer to the guidance within BIM72005 to BIM72073.&nbsp;</p>\n<p>S25A ITTOIA 2005, S31E ITTOIA 2005, S74E ITA 2007</p>\n<p>The cash basis is a simpler way of reporting income and expenses for income tax purposes for small businesses. It allows eligible businesses to account for business income and expenses when money is received or paid out, not on the date goods or services are invoiced. So instead of preparing a balance sheet and profit and loss account, the business records only need to show money when it comes in or goes out. As receipts are recognised as income of the period in which they are received and expenses are outgoings of the period in which they are paid, there is no need to account for debtors, creditors, stock and work in progress.</p>\n<p>Use of the cash basis is optional.</p>\n<p>Profits to be reported on the cash basis are:</p>\n<p>The total amount of receipts of the trade <strong>received</strong> during the basis period for the tax year</p>\n<p>less</p>\n<p>The total amount of expenses of the trade <strong>paid</strong> during the basis period for the tax year </p>\n<p>subject to any adjustment required or authorised by law in calculating profits for income tax purposes.</p>\n<p>The basis period for a tax year will usually be the 12 months to the date the books were made up to in that tax year. For more information on basis periods, including in the first years of trading, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81000\">BIM81000</a> onwards.</p>\n<p><strong>‘Received’ and ‘paid’</strong></p>\n<p>The business can treat income as received and expenses as paid at the date of its choosing, as long as the treatment is consistent. For example, an expense may be paid when a card payment is made, or on the date that entry is shown on the bank statement.</p>\n<p><strong>Losses</strong></p>\n<p>Where losses arise under the cash basis, they can only be relieved:</p>\n<p>Against later profits of the same trade (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85060\">BIM85060</a>)</p>\n<p>or</p>\n<p>Where the trade has ceased, against profits of the same trade for the year of cessation, and by reference to profits of the same trade for the 3 tax years prior to that in which cessation occurred (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85055\">BIM85055</a>).</p>\n<p><strong>VAT</strong>&nbsp;</p>\n<p>The cash basis does not affect the way a business should account for VAT. For VAT-registered businesses using the cash basis, business receipts and payments may be recorded either excluding or including VAT. If VAT is included, the net VAT payments to HMRC should be recorded as expenses and net repayments from HMRC as receipts.</p>\n<p>Note that the rules for determining the need for a business to register for VAT require income to be calculated in accordance with VAT rules which may not be the same as cash basis receipts.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70001",
+   "section_id": "BIM70001"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-10-01T09:43:45+01:00",
+ "section_id": "BIM70005",
+ "title": "Cash basis: overview"
+}

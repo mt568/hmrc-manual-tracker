@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40305",
+ "body": "<p>The possibility that in certain circumstances a receipt under an exclusivity agreement may have to be repaid does not cause it to be characterised as a loan (see <strong>Smart v Lincolnshire Sugar Co Ltd</strong> [1937] 20 TC 643). The two issues to consider are:</p>\n<ul><li class=\"filledcircle\">whether the receipt is on capital or on revenue account</li><li class=\"filledcircle\">if revenue, the time at which it should be recognised</li></ul>\n<h3>Revenue or capital?</h3>\n<p>Whether a receipt under an exclusivity agreement is revenue or capital, or mixed, depends upon the purpose for which it is paid. For example, see <strong>Evans v Wheatley</strong> [1958] 38 TC 216, <strong>CIR v Coia</strong> [1959] 38 TC 334, <strong>McLaren v Needham</strong> [1960] 39 TC 37 and <strong>Walter W Saunders Ltd v Dixon</strong> [1962] 40 TC 329.</p>\n<p>The terms of the written agreement need to be considered but, in the <strong>Walter W Saunders</strong> case, Wilberforce J also took into account correspondence and discussions, which supplemented the terms of the agreement. Other evidence of purpose will be particularly important in circumstances where the written agreement itself is silent as to the purpose for which the payment was made. For instance:</p>\n<ul><li class=\"filledcircle\">payments may have been staged as invoices became available for work done,</li><li class=\"filledcircle\">the supplier may have been involved in the design or planning consent etc, or</li><li class=\"filledcircle\">the payment may have been held in trust by solicitors pending acquisition of land for expansion.</li></ul>\n<p>It may also be appropriate to verify that a payment said to have been made for a capital purpose can in fact be related to specific capital expenditure.</p>\n<p>Where the trader is free to spend the lump sum as he chooses, the lump sum should be regarded as a trade receipt even if the sum was in fact used to meet capital expenditure. See <strong>Ryan v Crabtree Denims Ltd</strong> [1987] 60 TC 183.</p>\n<p>If however the evidence supports the conclusion that the sum was received specifically to meet capital expenditure, and was in fact used for that purpose, it may be accepted that the receipt is capital in nature and should not be included in arriving at the measure of trading profits. But see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca14100\">CA14100</a> onwards if capital allowances are claimed on the expenditure in question.</p>\n<h3>Timing of revenue receipts</h3>\n<p>Where a lump sum for entering into an exclusivity (solus) agreement is potentially repayable, accountancy evidence may not support the contention that the full amount should be brought into account on receipt. This is so when, as is usually the case, the right to the income is contingent on the trader continuing to operate under the terms of the agreement throughout its duration.</p>\n<p>Generally accepted accounting practice would normally be to recognise as a trade receipt the reduction in each accounting period of the amount that is repayable, as this would correspond to the amount earned in each period.</p>\n<p>The tax treatment will follow the accountancy treatment, with the result that the lump sum will be spread over the period of the agreement. See the Court of Appeal decision in <strong>Threlfall v Jones</strong> [1993] 66 TC 77.</p>\n<p>In cases of doubt or difficulty, advice may be sought from <span>Business Profits</span>.</p>\n<p>Information on the tax treatment of the payer can be found at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35550\">BIM35550</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35560\">BIM35560</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40300",
+   "section_id": "BIM40300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM40305",
+ "title": "Specific receipts: exclusivity agreements: tax and accounting treatment"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46251",
+ "body": "<p>S60-S67 Income Tax (Trading and Other Income) Act 2005, S62-S67 Corporation Tax Act 2009</p>\n\n<p>Lease premiums received by landlords in relation to leases not exceeding 50 years are treated as receipts of the landlord’s property business to an extent which varies with the length of the lease. Such leases are referred to as ‘taxed leases’. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1200\">PIM1200</a> onwards.</p>\n\n<p>This guidance deals with the deduction which can be made in calculating the profits of a trade where land subject to a taxed lease is used by the tenant in connection with a trade.</p>\n\n<p>Where land used in connection with a trade is subject to a taxed lease, the tenant under the lease is treated as incurring a revenue expense.</p>\n\n<p>The amount of the expense is based on the ‘taxed receipt’ of the landlord, which is:</p>\n\n<ul>\n  <li>so much of the premium as is treated as a receipt of the landlord, or</li>\n  <li>the amount which would be treated as a receipt but for the operation of the rule reducing its amount where the landlord also pays a premium (i.e. where the landlord is in turn a tenant under a superior lease - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2320\">PIM2320</a>).</li>\n</ul>\n\n<p>Broadly, the taxed receipt is spread across the ‘receipt period’ (usually the term of the lease) on a daily basis, and the trader is treated as incurring a revenue expense equal to the daily amount for each day on which they occupy or use the land for the purposes of the trade. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46255\">BIM46255</a> for further details.</p>\n\n<p>The deduction is available even if the premium was paid by a previous tenant. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46265\">BIM46265</a>.</p>\n\n<p>A deduction under these rules is not available for cases involving a sale with a right to reconveyance (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1224\">PIM1224</a>).</p>\n\n<p>In general, the same conditions apply as in the case of the relief allowable to an intermediate landlord with a UK property business (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2300\">PIM2300</a> onwards).</p>\n\n<p>As regards artificial leasing transactions, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46260\">BIM46260</a>, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61300\">BIM61300</a> onwards and <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1206\">PIM1206</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46250",
+   "section_id": "BIM46250"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM46251",
+ "title": "Specific deductions: premiums: introduction"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124030",
+ "body": "\n<p>Any amended return received for a year that has been, or is the subject of an enquiry must be reviewed by the Compliance Manager before the amendment is processed.  </p>\n\n<p>To check if an Individual’s or Partnership return has been, or is the subject of an enquiry use function VIEW RETURN to view the Summary Information screen. The screen will display the enquiry status as  </p>\n\n<ul>\n  <li>‘Enquiry open’, where the return is currently the subject of an enquiry</li>\n</ul>\n\n<p>Or  </p>\n\n<ul>\n  <li>‘Enquiry closed’, where the return has been the subject of an enquiry which has now closed</li>\n</ul>\n\n<p>Or  </p>\n\n<ul>\n  <li>Blank, in all other casesTo check if a Trust return or Tax Return for Trustees of approved self administered Pension Schemes has been, or is the subject of an enquiry use function VIEW COMPLIANCE SUMMARY.</li>\n</ul>\n\n<p>If the taxpayer amendment can be processed the Compliance Manager will provide you with instructions.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124000",
+   "section_id": "SAM124000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:36+00:00",
+ "section_id": "SAM124030",
+ "title": "Returns: view and amend return: amendments: section 9A  enquiries"
+}

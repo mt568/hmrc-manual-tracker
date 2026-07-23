@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45160",
+ "body": "<p>S108 and S172D Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005); S809ZH-S809ZR Income Tax Act 2007 (ITA 2007); S105, S159 Corporation Tax Act 2009 (CTA 2009); S939A-S939I Corporation Tax Act 2010 (CTA 2010)</p>\n<h2>No relief if unincorporated trader makes a donation considered tainted under Pt 13 Chap 8 ITA 2007</h2>\n<p>Traders liable to Income Tax are able to obtain relief for donations of trading stock to certain bodies under S108 ITTOIA 2005. If the conditions are met, no amount is brought into account in calculating the trading profits in relation to the stock given away (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45155\">BIM45155</a>).</p>\n<p>However, these traders must consider the tainted charity donations rules as per S108(5)(b) ITTOIA 2005 and S105(6) CTA 2009. The tainted charity donations rules do not apply to donations of trading stock by companies.</p>\n<p>If the donation is tainted under these rules, no tax relief is available under S108 ITTOIA 2005. This means that there is nothing to prevent S172D ITTOIA 2005 or S159 CTA 2009 from applying. These rules provide that where an item of trading stock is disposed of other than by way of trade, the amount that would have been received if the item had been sold in the ordinary way (the market value) should be included as a trading receipt for tax purposes (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33630\">BIM33630</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45150",
+   "section_id": "BIM45150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:27+01:00",
+ "section_id": "BIM45160",
+ "title": "Specific deductions: gifts in kind and payroll giving: relief for gifts of trading stock to charities and other bodies - tainted charity donations"
+}

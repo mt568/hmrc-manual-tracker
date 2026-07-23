@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim56206",
+ "body": "<p>S130, S134 Income Tax (Trading and Other Income) Act 2005, S150, S152 Corporation Tax Act 2009</p>\n<p>As explained in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56205\">BIM56205</a>, expenditure on the production or acquisition of an original master version would, in the absence of statutory rules, be expenditure on the provision of a fixed asset subject to the capital allowances rules for plant. Expenditure incurred ‘on the production’ or ‘on the acquisition’ of an original master version should therefore be construed in the same way as expenditure ‘on the provision’ of plant and machinery for capital allowance purposes.</p>\n<p>This means that the qualifying expenditure incurred ‘on the production’ or ‘on the acquisition’ of an original master version should be interpreted narrowly. The case of <strong>Ben-Odeco Ltd v Powlson</strong> [1978] 52 TC 459 showed that remote or indirect expenditure does not satisfy this condition and therefore does not qualify for treatment under the special rules for master versions (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca20060\">CA20060</a>).</p>\n<p>Costs such as the legal costs of drawing up a contract to acquire a sound recording are part of the expenditure on the acquisition. Similarly, direct legal costs of hiring musicians or others providing production services are part of the expenditure incurred on the production. However, legal costs such as the costs of drawing up a finance lease or licence agreement are not part of the expenditure on the production or acquisition.</p>\n<p>For Income Tax purposes, interest and the incidental costs of obtaining finance are excluded by statutory rule. For Corporation Tax purposes, such costs are dealt with under the loan relationships rules (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm30000\">CFM30000</a> onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56000",
+   "section_id": "BIM56000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56200",
+   "section_id": "BIM56200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:26+01:00",
+ "section_id": "BIM56206",
+ "title": "Films and sound recordings: master versions of sound recordings: meaning of expenditure on the production or acquisition"
+}

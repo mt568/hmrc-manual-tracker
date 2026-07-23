@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105050",
+ "body": "<p>Whether or not any computer output is addressed to the acting agent is dependent upon the 64-8 signal being present on the taxpayer record. The only exception is for a payable order and repayment notification where the agent is the authorised nominee.</p>\n\n<h2 id=\"twice-yearly-output\">Twice yearly output</h2>\n\n<p>The issue of form SA327 ‘Client’s Account Information sheets’ to authorised agents in June and December has been discontinued. The last issue of forms SA327 was June 2008.</p>\n\n<h2 id=\"day-to-day-output\">Day to day output</h2>\n\n<p>In day to day work, the following may be issued to an authorised agent</p>\n\n<ul>\n  <li>\n    <p>Notice of Penalty Assessment</p>\n\n    <ul>\n      <li>For tax years 2009-2010 and earlier, a copy of form SA326 ‘Penalty for a late return’ or form SA328 ‘Penalty for a late partnership return’</li>\n      <li>For tax years 2010-2011 onwards, a copy of SA326D ‘return notice of penalty assessment’, form SA328D ‘late partnership tax return notice of penalty assessment’, form SA370 ‘notice of penalty assessment’ or form SA371’ partnership notice of penalty assessment’</li>\n    </ul>\n  </li>\n  <li>Notice of Surcharge. Copy of form SA324 ‘Surcharge for late payment of tax’ for tax years 2009-2010 and earlier. Note: For tax years 2010-2011 and later, surcharge was replaced by late payment penalties</li>\n  <li>Repayment notification, where repayment is made to the taxpayer or a nominee other than the agent. The wording of the notification is dependant upon the method of repayment and the payee. Advice on the wording for each possible situation is available in section ‘Repayment Issue’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam110000\">SAM110000</a> onwards)</li>\n  <li>Revenue Calculation (and Continuation Sheet)</li>\n  <li>Revenue Determination. Copy of form SA323 ‘Determination of tax due’</li>\n</ul>\n\n<h2 id=\"monthly-statement-issue\">Monthly Statement issue</h2>\n\n<p>Agents may receive statements, or copies of statements, following the monthly statement selection process, as explained below.</p>\n\n<p>Taxpayers can nominate agents to receive printed statements on their behalf. This is normally done on form 64-8. The Statement to Agent signal is then set on the taxpayer record, and future statements are issued to the agent rather than the taxpayer. This applies even if the agent is an approved electronic filer.</p>\n\n<p>In electronic filer cases, where the 64-8 signal is set but the Statement to Agent signal is not set, the agent will receive an electronic statement in addition to the taxpayer receiving a printed version of the statement.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105000",
+   "section_id": "SAM105000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:10+00:00",
+ "section_id": "SAM105050",
+ "title": "Records: agent record: output to agents"
+}

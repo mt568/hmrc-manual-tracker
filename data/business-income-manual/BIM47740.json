@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim47740",
+ "body": "<p>S48 Income Tax (Trading and Other Income) Act 2005, S56 Corporation Tax Act 2009</p>\n<p>This guidance applies to expenditure incurred on hiring cars where the hire period begins on or after 1 April 2009 for Corporation Tax purposes and 6 April 2009 for Income Tax purposes. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47775\">BIM47775</a> for the election to apply the previous rules where the hire period begins on or after 1/6 April 2009 but before 1/6 April 2010.</p>\n<h2>Calculating the restriction</h2>\n<p>The deduction otherwise allowable for expenses incurred on hiring the car is reduced by 15 per cent.</p>\n<p>The expenditure affected can be wider than just the actual rent. It includes any element of unrelievable VAT. In <strong>Britax International GmbH v CIR</strong> [2002] 74TC662, <strong>Parker L J </strong>said at paragraph 72:</p>\n<blockquote>I also bear in mind that the concept of “expenditure” is wide enough to include payments which may not strictly be regarded as rentals.</blockquote>\n<h2>Maintenance agreements</h2>\n<p>If the rental agreement separately identifies charges for costs such as maintenance, then those costs should not be included when calculating the restriction and the restriction is only applied to the rental payment.</p>\n<h2>Example</h2>\n<p>Business A rents a car for three years. The car has carbon dioxide emissions of 168g/km and the business pays a rent of £6,000 per year. The business has to restrict the amount of the deduction for the car rentals. The business has to restrict their deduction by 15%.</p>\n<p>The restriction is £6,000 x 15% = £900</p>\n<p>The allowable rent is restricted to:</p>\n<p>£6,000 - £900 = £5,100</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim47700",
+   "section_id": "BIM47700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:07+01:00",
+ "section_id": "BIM47740",
+ "title": "Specific deductions: travel and subsistence: cars - restriction of hiring costs: hire periods beginning on or after 1/6 April 2009: calculation"
+}

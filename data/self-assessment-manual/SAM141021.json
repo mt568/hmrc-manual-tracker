@@ -1,0 +1,10 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141021",
+ "body": "<p>If, as a result of an HMRC error, you need to code out an underpayment after 5 April following the end of the return year you should follow the steps 1- 7 below.</p>\n\n<p>Note: From 2015-2016 Class 2 NICs will be collected as part of the SA balancing payment for self-employed customers. However, the Class 2 NIC part of the balancing payment must not be transferred to be coded out as this is <em>not</em> covered by legislation. If a customer asks for the tax element to be coded out, the method below will allow this to take place leaving the Class 2 NIC element on the statement for payment.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Ensure the criteria for collection through PAYE are met</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Where this is the case, submit the case to your Technical Support Officer for their authority to use the workaround. Where authority is given you should</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>Select Function CREATE RETURN CHARGE for the year of the return</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>In the box ‘Tax due included in later PAYE code’ enter the NET amount of the balancing charge. Do not include any late payment interest. If there is already an entry in this box, add the NET amount of the balancing charge to that entry.</td>\n    </tr>\n    <tr>\n      <td>5.</td>\n      <td>Select the [OK] button</td>\n    </tr>\n    <tr>\n      <td>6.</td>\n      <td>Make an SA note recording your actions</td>\n    </tr>\n    <tr>\n      <td>7.</td>\n      <td>Follow the guidance in the PAYE Manual at PAYE98005 to update the NPS system</td>\n    </tr>\n  </tbody>\n</table>\n\n<p> </p>\n",
+ "breadcrumbs": [],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-12-02T14:42:52+00:00",
+ "section_id": "SAM141021",
+ "title": "Transfer of liability: transfer from SA to PAYE: manual transfer of balancing payment to PAYE (Action Guide)"
+}

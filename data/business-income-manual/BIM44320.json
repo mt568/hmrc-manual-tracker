@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44320",
+ "body": "<p>S446UA Income Tax (Earnings and Pensions) Act 2003, S1009, S1017 Corporation Tax Act 2009</p>\n\n<p>Relief in respect of qualifying shares is not available unless the Income Tax position of the employee meets the relevant requirements. In practice there are few circumstances in which these requirements will not be met, unless the anti-avoidance rule below applies.</p>\n\n<h2 id=\"the-employee\">The employee</h2>\n\n<p>The employee whose income tax position is relevant is the person by reason of whose employment the shares are acquired or the share option was granted, even if the shares are acquired by someone else.</p>\n\n<h2 id=\"share-awards\">Share awards</h2>\n\n<p>Where the shares are acquired by a share award being made, rather than by exercising an existing right (such as a share option) to acquire the shares, the employee must:</p>\n\n<ol>\n  <li>be chargeable to Income Tax in respect of the award under the Income Tax (Earnings and Pensions) Act 2003; or</li>\n  <li>not be chargeable to Income Tax in respect of the award because of their residence position or where they performed the duties of their employment at relevant times.</li>\n</ol>\n\n<p>These conditions are treated as not met if the main purpose, or one of the main purposes, of the arrangements under which the right or opportunity to acquire the shares was made available was the avoidance of tax or National Insurance Contributions.</p>\n\n<p>If the shares are restricted shares, the requirement in (1) is that the employee must either be immediately chargeable to Income Tax in respect of the award or be subject to a charge to Income Tax if a chargeable event (the lifting or variation of the restrictions, or the sale of the shares with restrictions still attached) subsequently occurs.</p>\n\n<h2 id=\"share-options-and-other-rights-to-acquire-shares\">Share options and other rights to acquire shares</h2>\n\n<p>For shares acquired through a share option or other right to acquire shares the employee must satisfy one or more of the following Income Tax positions:</p>\n\n<ul>\n  <li>be chargeable to Income Tax in respect of the shares acquired through the option or other rights;</li>\n  <li>for shares acquired before 16 April 2003, be chargeable to Income Tax in respect of either the acquisition of the option, and/or the acquisition of the shares by exercising the option;</li>\n  <li>be exempt from a charge to Income Tax because the shares are acquired under a HMRC-approved CSOP, SAYE or EMI share option scheme, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44010\">BIM44010</a>;</li>\n  <li>not be chargeable to Income Tax in respect of the acquisition of the shares or the share options because of their residence position or where they performed the duties of their employment at relevant times;</li>\n  <li>for shares acquired pursuant to an option after the death of the employee, where any of the above Income Tax requirements would have been satisfied if the employee were still alive.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:08+01:00",
+ "section_id": "BIM44320",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: qualifying shares: Income Tax position of employee "
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33165",
+ "body": "<h2 id=\"IDAZYD0B\">Valuing professional work-in-progress follows GAAP</h2>\n\n<p>The proper valuation of professional work-in-progress depends on the correct application of generally accepted accounting principles (GAAP) to the facts.</p>\n\n<p>A proper basis of valuation must take into account the particular circumstances of the individual firm. Different firms in what may appear to be the same line of business may properly adopt different bases of valuation if their circumstances are different. For example, Firms A and B may both describe themselves as ‘estate agents and chartered surveyors’ but this does not necessarily mean that they must adopt the same basis for valuing work-in-progress. If Firm A does mainly surveying and valuation work and Firm B does mainly property sales then a basis of valuation that is acceptable for A may well not be acceptable for B.</p>\n\n<p>Uncompleted contracts for services should be valued in accordance with FRS 102 Section 23 Revenue. Briefly, this means that revenue for service contracts is to be accounted for under what is known as the ‘percentage of completion’ method. In very simple terms, this means that if a contract is in progress at the year end, then the supplier of services would include the proportion undertaken to that date in its accounts as revenue.</p>\n\n<p>IFRS 15 Revenue from Contracts with Customers contains a similar concept of recognising revenue over time, if performance obligations (promises in contracts with customers to transfer either goods, services or a series of distinct goods or services to the customer) are satisfied over time. An entity should measure progress towards complete satisfaction of performance obligations using either an input or output method (IFRS 15 Paragraph 41).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33100",
+   "section_id": "BIM33100"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T09:48:48+00:00",
+ "section_id": "BIM33165",
+ "title": "Stock: valuation: professional work-in-progress: general principles"
+}

@@ -1,0 +1,10 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam20130",
+ "body": "<p>A stand-alone or Revenue Assessment is an assessment made by HMRC in respect of income that</p>\n\n<ul>\n  <li>Does not form part of the customer’s self assessment, for example where the year is prior to SA</li>\n</ul>\n\n<p>Or, in some circumstances</p>\n\n<ul>\n  <li>Hasn’t been included in the customer’s self assessment, for example in the case of a discovery</li>\n</ul>\n\n<p>Examples of stand-alone or Revenue Assessment are</p>\n\n<p>| 1. | Cases where a discovery has been made under S29 TMA and either                                                               |\n||\n|    | * The enquiry window (SAM31100) for the year is no longer open<br />\n     <br />\n    Or                                              |\n|    | * An enquiry for the year has already been opened and closed                                                                 |\n| 2. | The recovery of over-repayments under S30 TMA                                                                                |\n| 3. | Cases where HMRC has an option under S63(1)(b) to revise the profits for the final 3 years of a business to the actual basis |</p>\n\n<p>Revenue assessments  are made by using SEES form RevAsst01 to create the Assessment Notice, for deceased cases use SEES form RevAsst01D. In all of the above cases Function CREATE REVENUE ASSESSMENT must be used to enter the charge arising from a  stand-alone assessment onto the customer’s SA record.</p>\n\n<p>Note: Liability arising from Revenue assessments will not be recorded using this function when amending a customer’s self assessment.</p>\n",
+ "breadcrumbs": [],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-04-05T07:42:39+01:00",
+ "section_id": "SAM20130",
+ "title": "Assessments: stand-alone assessments: summary"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim47107",
+ "body": "<p>S34(1) Income Tax (Trading and Other Income) Act 2005, S54(1) Corporation Tax Act 2009</p>\n\n<h2 id=\"non-allowable-expense-or-directors-remuneration\">Non allowable expense or Director’s remuneration?</h2>\n\n<p>Sometimes, a company may incur an expense that on enquiry is linked to the personal interests of the director.</p>\n\n<p>In this situation you should first consider whether the expenditure gives rise to benefits taxable on the director as part of their remuneration package. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20001\">EIM20001</a> onwards for further guidance on employment-related benefits.</p>\n\n<p>If the expense is taxable on the director as part of their remuneration package, then you should allow the deduction as part of the costs of employing the director.</p>\n\n<p>For example, the controlling director of a company is a keen powerboat enthusiast. The company purchased a powerboat and paid all the maintenance costs. The powerboat carried an advertising logo for the company. The company claimed the costs as advertising expenditure. On enquiry it was accepted as fact that the purpose of the expenditure on the powerboat was not advertising (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42565\">BIM42565</a>) and that the provision of the powerboat was a taxable benefit in the hands of the director. The director was not able to claim a deduction under the employment income rules.</p>\n\n<p>In this situation the costs of maintaining the powerboat are an allowable deduction for the company as part of the costs of employing the director.</p>\n\n<p>Details of the capital allowances considerations can be found at <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca27100\">CA27100</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim47000",
+   "section_id": "BIM47000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM47107",
+ "title": "Specific deductions: staffing costs: expenses linked to personal interests of a director"
+}

@@ -1,0 +1,50 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim56000",
+ "body": "\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim56005",
+     "description": "",
+     "section_id": "BIM56005",
+     "title": "Overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim56010",
+     "description": "",
+     "section_id": "BIM56010",
+     "title": "Old regime for films"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim56025",
+     "description": "",
+     "section_id": "BIM56025",
+     "title": "Non-trade businesses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim56200",
+     "description": "",
+     "section_id": "BIM56200",
+     "title": "Master versions of sound recordings: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim56500",
+     "description": "",
+     "section_id": "BIM56500",
+     "title": "Old regime for films: avoidance: contents"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:24+01:00",
+ "section_id": "BIM56000",
+ "title": "Films and sound recordings: contents"
+}

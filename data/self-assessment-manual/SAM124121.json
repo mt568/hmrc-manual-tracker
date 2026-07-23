@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124121",
+ "body": "\n<p>Where the amended return adds a second or subsequent trading source, to obtain the source reference follow steps 1 - 2 below.  </p>\n\n<p>For details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.  </p>\n\n<ol>\n  <li>\n    <p>Use function MAINTAIN SOURCES and make a note of the source reference for each source. You may want to do so on the relevant pages of the return if so use pencil  </p>\n  </li>\n  <li>\n    <p>Enter the source reference during capture of the amended return details in function AMEND RETURN</p>\n  </li>\n</ol>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124000",
+   "section_id": "SAM124000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:46+00:00",
+ "section_id": "SAM124121",
+ "title": "Returns: view and amend return: source reference  exceptions: using function amend return (Action Guide)"
+}

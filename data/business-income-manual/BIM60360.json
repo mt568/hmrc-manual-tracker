@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60360",
+ "body": "<p>S765 Income Tax Act 2007 (ITA 2007), S827 Corporation Tax Act 2010 (CTA 2010)</p>\n\n<p>In a ‘slice of the action’ contract (see BIM60350) the following legislation is normally relevant:</p>\n\n<ul>\n  <li>S756(3)(d) ITA 2007 for individuals, trustees and personal representatives</li>\n  <li>S819(2)(d) CTA 2010 (for companies)</li>\n</ul>\n\n<p>Where either of these subsections is in point, part of the overall gain may be exempted from the transactions in land rules. These exemptions can be found in the references noted at the top of this page. The effect of the exemption is to take out of the calculation of the income to be charged so much of the gain as is attributable to the period before the intention to develop the land was formed.</p>\n\n<p>Any gain which has accrued whilst the land functioned as a capital asset will not therefore be subject to Income Tax or Corporation Tax as income under the transactions in land rules. Only the gain arising after the intention to develop has been formed will be taxed as income under those rules (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60365\">BIM60365</a> for an example).</p>\n\n<p>The ‘first intention date’ is a question of fact, which should, if possible, be agreed with the other side at an early stage in the enquiries. When it has been established you should obtain a valuation of the land from the District Valuer at that date.</p>\n\n<p>CG72856 deals with the taxation of the gain attributable to the period before the intention to develop the land was formed.</p>\n\n<p>For the meaning of developed in the context of land transactions, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60460\">BIM60460</a>.</p>\n\n<p>For other exemptions from the transactions in land rules, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60370\">BIM60370</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60375\">BIM60375</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+   "section_id": "BIM60300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:14+01:00",
+ "section_id": "BIM60360",
+ "title": "Transactions in land: Common situations: 'Slice of the action' contracts: Portion of charge may be exempt"
+}

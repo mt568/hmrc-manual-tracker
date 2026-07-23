@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam60001",
+ "body": "<p>Interest is chargeable on all SA liabilities except on interest itself </p>\n\n<ul>\n  <li>From the relevant date (RD), the date by which the liability should be paid</li>\n  <li>To the effective date of payment (EDP) (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam60055\">SAM60055</a>), the date on which the payment is regarded as received by HMRC</li>\n</ul>\n\n<p>The SA system automatically calculates the interest payable. The taxpayer statement shows the amount of interest accrued to the date of issue. The actual interest charge will be raised automatically once the underlying liability has been paid and will also appear on the statement.</p>\n\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000) </p>\n\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000) </p>\n\n<p>The statutory due date (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam60080\">SAM60080</a>) is normally the relevant date unless clerically amended using function AMEND RELEVANT DATES.</p>\n\n<p>A claim to reduce the payments on account does not affect the relevant date.</p>\n\n<p>Interest will continue to accrue throughout recovery proceedings.</p>\n\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000) (This content has been withheld because of exemptions in the Freedom of Information Act 2000) </p>\n\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000) </p>\n\n<ul>\n  <li>(This content has been withheld because of exemptions in the Freedom of Information Act 2000) </li>\n  <li>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam60000",
+   "section_id": "SAM60000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:15:29+00:00",
+ "section_id": "SAM60001",
+ "title": "Interest, penalties and surcharge: interest: introduction"
+}

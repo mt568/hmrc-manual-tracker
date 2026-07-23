@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34130",
+ "body": "<p>S231 Income Tax (Trading and Other Income) Act 2005, S182 Corporation Tax Act 2009</p>\n\n<p>In what follows, the accounts for the period before the change are referred to as the ‘old accounts’ and the accounts for the period following the date of change are referred to as the ‘new accounts’.</p>\n\n<p>The amount of the adjustment is calculated by:</p>\n\n<p>Adding together</p>\n\n<ul>\n  <li>receipts which would have been included in the old accounts if they had been computed on the new basis but were not brought into the old accounts on the old basis,</li>\n  <li>expenses which had been deducted in the old accounts, but which on the new basis would be deducted in accounts after the change of basis,</li>\n  <li>the amount by which the opening stock or work-in-progress in the new accounts exceeds the closing stock or work-in-progress of the old accounts,</li>\n  <li>depreciation that has not been added back in the tax computations for the old accounts.</li>\n</ul>\n\n<p>Then deducting</p>\n\n<ul>\n  <li>receipts which had been included in the old accounts on the old basis, but would not be included in accounts after the change of basis on the new basis,</li>\n  <li>expenses which had not been deducted in the old accounts, but which on the new basis would have been deducted in accounts before the change of basis and, if the old basis had continued, would have been deducted in future accounts,</li>\n  <li>the amount by which the opening stock or work-in-progress in the new accounts is less than the closing stock or work-in-progress of the old accounts.</li>\n</ul>\n\n<p>Any of the amounts deducted in this computation cannot be deducted again in computing the profits of the trade.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34090",
+   "section_id": "BIM34090"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:26+01:00",
+ "section_id": "BIM34130",
+ "title": "Change of basis of computing taxable profits: adjustment income and expenses: calculation of adjustment"
+}

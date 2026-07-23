@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim47755",
+ "body": "<p>S50A Income Tax (Trading and Other Income) Act 2005, S58A Corporation Tax Act 2009</p>\n\n<p>This guidance applies to expenditure incurred on hiring cars where the hire period begins on or after 1 April 2009 for Corporation Tax purposes and 6 April 2009 for Income Tax purposes. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47775\">BIM47775</a> for the election to apply the previous rules where the hire period begins on or after 1/6 April 2009 but before 1/6 April 2010.</p>\n\n<p>In order to work out the number of consecutive days the same car is hired to the same taxpayer for the purpose of the short term hiring in and long term hiring out rules (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47750\">BIM47750</a>), periods of hire are linked (added together) if there is a gap of no more than 14 days between them. This is to prevent people fragmenting leases in order to meet either condition A or condition B and circumvent the restriction.</p>\n\n<p>A period of consecutive days (the main period) is linked to:</p>\n\n<ul>\n  <li>a period of consecutive days that ends not more than 14 days before the main period begins;</li>\n  <li>a period of consecutive days than begins not more than 14 days after the main period ends; and</li>\n  <li>a period of consecutive days linked to a period in (a) or (b), that is a period of consecutive days that ends or begins not more than 14 days after a linked period begins or ends.</li>\n</ul>\n\n<h2 id=\"example\">Example</h2>\n\n<p>A taxpayer hires a car for 20 days from 1 June to 20 June (the main period).</p>\n\n<p>The same taxpayer hired also hired the same car from</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Dates</th>\n      <th>Period</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>1 May to 14 May</td>\n      <td>period A</td>\n    </tr>\n    <tr>\n      <td>1 July to 7 July</td>\n      <td>period B</td>\n    </tr>\n    <tr>\n      <td>17 July to 16 August</td>\n      <td>period C</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Period A ends more than 14 days before the main period begins so it is not linked to the main period.</p>\n\n<p>Period B begins less than 14 days after the main period ends so it is linked to the main period.</p>\n\n<p>Period C begins less than 14 days after period B ends so it is linked to period B.</p>\n\n<p>The total hire period is:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>Number of days</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>1 June to 20 June</td>\n      <td>20 days</td>\n    </tr>\n    <tr>\n      <td>Plus</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>1 July to 7 July</td>\n      <td>7 days</td>\n    </tr>\n    <tr>\n      <td>Plus</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>17 July to 16 August</td>\n      <td>30 days</td>\n    </tr>\n    <tr>\n      <td>TOTAL</td>\n      <td>57 days</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>So the taxpayer must apply the restriction to the hire expenses for periods B, C and the main period but not to the hire expenses paid for period A.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim47700",
+   "section_id": "BIM47700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-13T11:07:25+00:00",
+ "section_id": "BIM47755",
+ "title": "Specific deductions: travel and subsistence: cars - restriction of hiring costs: hire periods beginning on or after 1/6 April 2009: linked periods"
+}

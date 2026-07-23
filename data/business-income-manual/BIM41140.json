@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim41140",
+ "body": "<p>S100 Income Tax (Trading and Other Income) Act 2005, S97 Corporation Tax Act 2009</p>\n\n<p>Certain inducements, which would otherwise satisfy the definition of reverse premium, are specifically excluded. They are as follows:</p>\n\n<ul>\n  <li>Payments or benefits received by individuals where the interest taken is in premises to be occupied as an only or main residence. The exclusion does not extend to second homes.</li>\n  <li>Any payment or benefit to the extent that it is consideration for the transfer of an interest in land as the first step in an ordinary sale (or lease) and leaseback transaction. For example, a trader might decide to raise money by selling trading premises at open market value, but continue to occupy by leasing them back for a commercial rent. There might conceivably be an argument that the sale price received was an ‘inducement’ to the trader to take the lease back. The legislation puts beyond doubt that the sale price is not a reverse premium. For this purpose, the definition of sale and leaseback is a transaction such as described in S681AA(1)(2), S681AB(1)(2) or S681BA Income Tax Act 2007 or S835(1)(2) or S836(1)(2) Corporation Tax Act 2010.</li>\n  <li>Any payment or benefit to the extent that it is brought into account under S532 Capital Allowances Act 2001 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim41090\">BIM41090</a>).</li>\n</ul>\n\n<p>An inducement which is not within the definition of ‘reverse premium’ may still be a revenue receipt to the extent that, on the evidence, it is in fact a contribution to a revenue expense of the tenant. An example would be a contribution towards relocation costs.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim41050",
+   "section_id": "BIM41050"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:35+01:00",
+ "section_id": "BIM41140",
+ "title": "Specific receipts: reverse premiums: specific exclusions"
+}

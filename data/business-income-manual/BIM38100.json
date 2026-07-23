@@ -1,0 +1,36 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim38100",
+ "body": "<p>S34 Income Tax (Trading and Other Income) Act 2005</p>\n\n<h2 id=\"payments-made-by-a-partnership-to-a-partner\">Payments made by a partnership to a partner</h2>\n\n<p>Payments made by a partnership on a commercial basis to a partner for the provision of goods or services should be treated as any other payment to a third party. If they are not capital, not specifically disallowed by legislation, and are wholly and exclusively for the purposes of the business then they are allowable. That the payment goes to a partner is not an automatic bar to allowance. The income arising to the partner will be taxed in the normal way.</p>\n\n<p>Payments made by a partnership towards the personal or domestic expenses of a partner are disallowed on the grounds of duality of purpose.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim37000",
+   "section_id": "BIM37000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38110",
+     "description": "",
+     "section_id": "BIM38110",
+     "title": "Partnerships: paying a partner a commercial rate for goods or services"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38120",
+     "description": "",
+     "section_id": "BIM38120",
+     "title": "Partnerships: meeting a partner's personal expenditure"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:32+01:00",
+ "section_id": "BIM38100",
+ "title": "Wholly and exclusively: partnerships: contents"
+}

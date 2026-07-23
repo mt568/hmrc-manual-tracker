@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108022",
+ "body": "<p>Where you want to add a new SA Note, follow steps 1 - 3 below.</p>\n<p>For details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.</p>\n<p>1.&nbsp; Use function MAINTAIN SA NOTES to view the SA Notes already recorded</p>\n<p>2.&nbsp; On the view screen</p>\n<ul><li>Select the [Add Note] button</li></ul>\n<p>3.&nbsp; On the New SA Note screen</p>\n<p>If you are adding a note obtained from the SEES Notes Paster</p>\n<ul><li>After selecting the relevant SA Note from the SEES Notes Paster</li><li>Select the [EDIT] button</li><li>Select the [PASTE] button</li></ul>\n<p>If you are adding a free format SA Note</p>\n<ul><li>Enter the new SA Note</li><li>Select the [OK] button</li></ul>\n<p>If you wish to add a second SA note, as a continuation of the first (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam108020\">SAM108020</a>)</p>\n<ul><li>Indicate at the start of the second note that it is a continuation of the previous SA note</li></ul>\n<p>Your new SA Note is now recorded</p>\n<p><strong><span>NOTE</span></strong><span>: there may be cases where the New SA Note\nbutton is ‘greyed out’, and you cannot add a note for a case. This is usually\nwhere a record is restricted, such as in some Wealthy Cases, where read-only\naccess is given, or some Overseas cases, where it may be necessary to be in a\ndifferent User Role in order to update the record. These cases should be\nreferred to a local SPOC or Tech for advice about how to proceed.</span></p>\n<p><br /></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108000",
+   "section_id": "SAM108000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-01-02T00:00:00+00:00",
+ "section_id": "SAM108022",
+ "title": "Records: SA and permanent notes: adding a new SA note (Action Guide)"
+}

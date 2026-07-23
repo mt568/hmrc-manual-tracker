@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40194",
+ "body": "<h2>This is direct tax guidance; for indirect tax guidance, refer to VAT Guidance.</h2>\n<p>S78 Value Added Tax Act 1994</p>\n<p>VAT legislation provides for the payment of interest on a refund of VAT in cases of official error. Such interest is income in the hands of the recipient. HMRC’s view is that the interest is therefore chargeable to tax in the period in which it is allocated to the profit and loss account.</p>\n<h2>Corporation Tax</h2>\n<p>Interest on refunded VAT is dealt with under the loan relationship regime, for which see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm30000\">CFM30000</a> onwards. That regime requires that the amounts are brought into account in accordance with generally accepted accounting practice (GAAP). Interest on refunded VAT is therefore chargeable to tax in the accounting period in which the interest is allocated to the profit and loss account in accordance with GAAP.</p>\n<p>Under the loan relationship regime as it applied to periods of account beginning before 1 January 2005, some companies argued that they were required to apportion the interest payment back to previous accounting periods by reference to the period for which the interest is calculated. So for example interest received in June 2006 for the period from March 1995 should be apportioned to the accounting periods from 1995 onwards.</p>\n<p>Their argument was based on the requirement in S85(3)(a) Finance Act 1996 (FA 2006) (now repealed) for the allocation of:</p>\n<blockquote><p>payments to the periods to which they relate, without regard to the periods in which they are made or received or in which they become due and payable.</p></blockquote>\n<p>In HMRC’s view this is not correct as S84(1) FA 1996 taxed or relieved the commercial profits of a company and for that purpose Section 85 required the profits and losses to be computed in accordance with an accruals basis of accounting, which is to say in accordance with GAAP. Section 85(3) was a functional definition of such an accruals basis of accounting.</p>\n<p>To work out the period for which the interest is a commercial or business profit (i.e. the period to which it relates) it is necessary to consider all the relevant facts surrounding the payment of interest. In the cases seen by HMRC the right to the refund was not established until the courts determined that VAT had been overpaid. Therefore before the court’s decision the company’s right to the interest did not exist, or if it did it was too uncertain to be fairly treated as a commercial or business receipt.</p>\n<p>HMRC do not regard the period to which the interest relates, is made or received, or becomes due and payable as being necessarily mutually exclusive. In the circumstances it is likely that the periods for which the interest relates, is made and received, and becomes due and payable are likely to coincide. This does not mean that the accruals basis used by the company in its accounts is contrary to what was Section 85(3) and is not an authorised accruals method of accounting.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40150",
+   "section_id": "BIM40150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:21+01:00",
+ "section_id": "BIM40194",
+ "title": "Specific receipts: refunds of sums paid as VAT: taxation of interest"
+}

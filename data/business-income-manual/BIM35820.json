@@ -1,0 +1,88 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35820",
+ "body": "\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35800",
+   "section_id": "BIM35800"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35822",
+     "description": "",
+     "section_id": "BIM35822",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35825",
+     "description": "",
+     "section_id": "BIM35825",
+     "title": "Summary of further guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35830",
+     "description": "",
+     "section_id": "BIM35830",
+     "title": "General approach"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35835",
+     "description": "",
+     "section_id": "BIM35835",
+     "title": "Practical approach - size matters"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35840",
+     "description": "",
+     "section_id": "BIM35840",
+     "title": "Practical approach - other pointers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35845",
+     "description": "",
+     "section_id": "BIM35845",
+     "title": "Piecemeal developments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35850",
+     "description": "",
+     "section_id": "BIM35850",
+     "title": "Phases of system development"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35855",
+     "description": "",
+     "section_id": "BIM35855",
+     "title": "Abortive expenditure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35860",
+     "description": "",
+     "section_id": "BIM35860",
+     "title": "Treatment of indirect costs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35865",
+     "description": "",
+     "section_id": "BIM35865",
+     "title": "Examples of revenue expenditure"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:12:28+01:00",
+ "section_id": "BIM35820",
+ "title": "Capital/revenue divide: computer software: in-house software development costs: contents"
+}

@@ -1,0 +1,42 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim51640",
+ "body": "<p>The guidance on private street works is arranged as follows</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim51500",
+   "section_id": "BIM51500"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51645",
+     "description": "",
+     "section_id": "BIM51645",
+     "title": "England/Wales"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51650",
+     "description": "",
+     "section_id": "BIM51650",
+     "title": "Payments to local authorities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51655",
+     "description": "",
+     "section_id": "BIM51655",
+     "title": "Payments to local authorities: Interest"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:48+01:00",
+ "section_id": "BIM51640",
+ "title": "Builders, property dealers & developers: private street works"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam62030",
+ "body": "<p><strong>This guidance applies to 2009-10 and earlier. Different rules apply to 2010-11 and later tax years. Guidance regarding tax years 2010-11 onwards can be found under </strong><a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam61200\">SAM61200</a> <strong>onwards.</strong></p>\n<p>There are a limited number of situations where as a concession the relevant date can be deferred. Generally this applies where the Department has been at fault. If you require more information on this subject see subject ‘Concessional Dates’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam60040\">SAM60040</a>)</p>\n<p>If the relevant date for interest purposes is deferred then the surcharge trigger date (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam62080\">SAM62080</a>) should also be deferred. You should defer the surcharge trigger date to 28 days after the deferred relevant date. Because there is no computer functionality for this purpose you will have to use the TTP (Time to Pay) signal and set the TTP start and end dates (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam62070\">SAM62070</a>) accordingly.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam62000",
+   "section_id": "SAM62000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-07-02T01:00:00+01:00",
+ "section_id": "SAM62030",
+ "title": "Interest, penalties and surcharge: surcharge: effects of amendments to relevant dates for interest"
+}

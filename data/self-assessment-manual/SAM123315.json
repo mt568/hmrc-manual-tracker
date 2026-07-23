@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123315",
+ "body": "<p>The TSS facility produces a printout which details the action to be taken in connection with the return. The printout will always include</p>\n\n<ul>\n  <li>The figures to be entered on the trust / pension scheme SA record using function CREATE RETURN CHARGE</li>\n  <li>A list of the supplementary pages submitted with the return for comparison with the return profile</li>\n</ul>\n\n<p>Note: From 6 April 2000 the return profile is updated automatically following the capture of the return on TSS  </p>\n\n<p>And could also include the following  </p>\n\n<ul>\n  <li>A list of repairs</li>\n  <li>A prompt to deal with the repayment request made on the return</li>\n  <li>A prompt to make the necessary changes to the SA record. For example a change to the trustee’s name or address</li>\n  <li>A prompt that the case needs to be submitted to IR (Trusts) / Pension Schemes Services</li>\n  <li>A prompt that the return contained a claim to reduce payments on account</li>\n  <li>A prompt to issue the case to the Centre for Non Residents in respect of a double taxation claim</li>\n  <li>A prompt to make the SA trust / pension scheme record dormant where it has ceased</li>\n  <li>A prompt to set certain compliance signals</li>\n</ul>\n\n<p>Note: From 6 April 2000 the Mandatory review and Potential Selection for Enquiry signal are passed automatically from TSS to SA  </p>\n\n<ul>\n  <li>A prompt to deal with trading losses brought back</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:33+00:00",
+ "section_id": "SAM123315",
+ "title": "Returns: trust returns: TSS printout for trust and pension scheme returns"
+}

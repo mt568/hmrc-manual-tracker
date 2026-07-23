@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64395",
+ "body": "<p>S130, S132, S133, S185 Corporation Tax Act 2010</p>\n\n<p>In many PFI projects the private sector operator is a consortium company. That is:</p>\n\n<ol>\n  <li>a directly held company owned by the consortium members, or</li>\n  <li>a company owned 90% by a holding company owned by the consortium members.</li>\n</ol>\n\n<p>Where losses arise in a consortium company, group relief will be available where the consortium company is a ‘trading company’, that is ‘a company the business of which consists wholly or mainly in the carrying on of a trade’. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64400\">BIM64400</a>.</p>\n\n<p>If a consortium company is a trading company, any trading losses, UK property business losses and certain other losses are capable of being surrendered as consortium relief assuming that all the other relevant conditions are met.</p>\n\n<p>For guidance on group relief generally, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm80100\">CTM80100</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64240",
+   "section_id": "BIM64240"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:57+01:00",
+ "section_id": "BIM64395",
+ "title": "Private Finance Initiative (PFI): group relief"
+}

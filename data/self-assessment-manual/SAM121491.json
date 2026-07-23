@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121491",
+ "body": "<p>Following capture of the return where payments on account are not required under the 80 per cent test, follow steps 1 - 7 below.</p>\n\n<p>For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>This guide is presented as follows</p>\n\n<p><a href=\"#IDAVJ33H\">Payments on account to be set to zero for the year following the return year and a return for that year is not recorded as issued. (The annual selection process has not yet taken place)</a> - Steps 1 - 4<br />\n<a href=\"#IDALM33H\">Payments on account to be set to zero for the year following the return year but a return for that year is recorded as issued</a> - Steps 5 - 7</p>\n\n<h2 id=\"IDAVJ33H\">Payments on account to be set to zero for the year following the return year and a return for that year is not recorded as issued. (The annual selection process has not yet taken place)</h2>\n\n<p>1. Use function AMEND TAXPAYER SIGNALS to enter the year of the return in the Last SA Return Required for Year Ending 5th April field. For example if payments on account are not due for 2007/08 following capture of the 2006/07 return, enter ‘07’</p>\n\n<p>2. Access function CREATE RETURN CHARGE for the return year and select the [OK] button. This will remove the payments on account</p>\n\n<p>3. Use function AMEND TAXPAYER SIGNALS to delete the entry in the Last SA Return Required for Year Ending 5th April field</p>\n\n<p>4. Make an SA Note to check the payments on account position if the return is subsequently amended</p>\n\n<p>Note: If an amendment is made to the return and payments on account are created but are not required under the 80 per cent test, repeat the above action</p>\n\n<h2 id=\"IDALM33H\">Payments on account to be set to zero for the year following the return year but a return for that year is recorded as issued</h2>\n\n<p>Using the SA return, for example where payments on account for 2008/09 to be set to zero you should be using the 2007/08 return</p>\n\n<p>5. Add together the figures from boxes A185, A156 and A157</p>\n\n<p>6. Access function CREATE RETURN CHARGE for the return year and enter the total of boxes A185, A156 and A157 in the field ‘ Notional Tax / Tax Credits’. Do not alter any other amounts</p>\n\n<p>7. Select the [OK] button</p>\n\n<p>Note: If an amendment is made to the 2007/08 or subsequent year’s return and payments on account for the year following the return year are created but are not required under the 80 per cent test, repeat Steps 5 - 7</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-31T09:25:03+01:00",
+ "section_id": "SAM121491",
+ "title": "Returns: individuals returns: notional tax and payments on account: individuals (Action Guide)"
+}

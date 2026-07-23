@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44460",
+ "body": "<p>There are two main kinds of ‘group schemes’ set up by the parent company of a group to provide its shares to employees of any company in the group:</p>\n\n<ul>\n  <li>UK parent companies typically set up an employee share ownership trust through which shares in the parent company are provided to employees of group companies, funded by contributions from their employing companies.</li>\n  <li>If the employing company is a member of a multinational group of companies the parent company may charge the employing company (an ‘intra-group recharge’) for allowing its employees to benefit under a global group scheme.</li>\n</ul>\n\n<p>The main issues to consider in relation to intra-group recharges for employee share schemes where the shares concerned are non-qualifying shares are:</p>\n\n<ul>\n  <li>are the employees concerned working wholly and exclusively for the UK company;</li>\n  <li>whether the transfer pricing legislation applies to determine the amount of the allowable deduction for UK tax purposes.</li>\n</ul>\n\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44463\">BIM44463</a> for a tax case on this area.</p>\n\n<h2 id=\"timing-of-the-deduction\">Timing of the deduction</h2>\n\n<p>If a deduction is in principle allowable for an intra-group recharge, the employee benefit trusts anti-avoidance legislation in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44500\">BIM44500</a> onwards applies to determine when it is allowable. The legislation’s ‘matching’ effect defers the timing of the deduction until, and restricts it to the extent that, the employee receives benefits in the form of money or assets (including the ‘non-qualifying shares’) on which both Income Tax and NICs liability arises.</p>\n\n<p>All ‘non-qualifying shares’ are deemed to be readily convertible assets. Liability to Income Tax (collected under PAYE) and NICs arise when an employee acquires them, so they are ‘qualifying benefits’ for the purposes of the employee benefit trust legislation.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:31+01:00",
+ "section_id": "BIM44460",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: non-qualifying shares: through global share schemes"
+}

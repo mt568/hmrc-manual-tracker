@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86086",
+ "body": "<p>Kavita commences a new trade as a photographer on 1 January 2018, and makes up her accounts for 12 months to 31 December 2018 showing turnover of £12,000 and expenses of £600. The basis periods (BP) in this case are 1 January 2018 to 5 April 2018 (for 2017/18 tax year), and 1 January 2018 to 31 December 2018 (for 2018/19 tax year).</p>\n\n<p>Partial relief applies for both 2017/18 (BP 1 January 2018 to 5 April 2018) and 2018/19 (BP 1 January 2018 to 31 December 2018).</p>\n\n<p>Profits assessable for 2017/18 would be £2,000. This is calculated as 3 months of the total 12 months’ worth of receipts (£12,000 x 3/12) = £3,000, less the £1,000 allowance due for the tax year = £2,000.</p>\n\n<p>Profits assessable for 2018/19 would be £11,000. This is calculated as all the receipts in the tax year £12,000 less the £1,000 allowance due for the tax year = £11,000.</p>\n\n<p>In 2018/19, Kavita can claim overlap profit to carry forward as there is an overlap period 1 January 2018 to 5 April 2018 which was in the basis periods for both 2017/18 and 2018/19.</p>\n\n<p>The overlap profit is the amount which has been taxed twice, which in this case is £2,000.</p>\n\n<p>Another way of thinking about how the overlap profits is calculated, is to reduce the non-adjusted overlap profits for the overlap period by the greater of the deductible amounts in 2017/18 and 2018/19.</p>\n\n<p>The non-adjusted overlap profit for the overlap period in the above example is £3,000. The deductible amount due for 2017/18 falling in the overlap period is the full £1,000 allowance. The deductible amount due for 2018/19 falling in the overlap period is £250 (calculated as 3 months of the £1,000 allowance due across the full year). The £1,000 in 2017/18 is the greater deductible amount so we subtract this from the non-adjusted overlap profits to arrive at the overlap profit.</p>\n\n<p>£3,000 non-adjusted overlap profit - £1,000 deductible amount for 2017/18 = £2,000 overlap profit.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86070",
+   "section_id": "BIM86070"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-04-09T16:05:28+01:00",
+ "section_id": "BIM86086",
+ "title": "TMIA – Examples: Creation of overlap relief when an individual claims partial relief in both years"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44560",
+ "body": "<p>S33 Income Tax (Trading and Other Income) Act 2005, S53 Corporation Tax Act 2009</p>\n\n<p>Whether an employer’s contribution to a general-purpose employee benefit trust is usually allowable as a deduction (at some time) depends on whether it is:</p>\n\n<ul>\n  <li>revenue (not capital) expenditure; and</li>\n  <li>wholly and exclusively for the purposes of the employer’s trade, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44565\">BIM44565</a>.</li>\n</ul>\n\n<h2 id=\"capital-or-revenue-expenditure\">Capital or revenue expenditure</h2>\n\n<p>General guidance on the capital / revenue divide is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35000\">BIM35000</a> onwards. Decided tax cases show that there is nothing inherently capital about making contributions to employee benefit trusts after they have been set up.</p>\n\n<p>However, the contributions paid by the employer will be capital expenditure if the terms of the trust deed show that they have not been alienated entirely from the employer. This was the case in Rutter v Charles Sharpe &amp; Co Ltd [1979] 53TC163 where there was provision for shares to be sold by the trustees and the proceeds paid to the company. It was held that each payment made to the trustees gave rise to a corresponding asset of a durable nature and so all of the employer’s contributions were on capital account.</p>\n\n<p>The tax case law in this area relates mainly to employee benefit trusts set up to provide share-related benefits to employees and directors (employee share ownership trusts). More detailed information about the relevant tax case law is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44458\">BIM44458</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:19+01:00",
+ "section_id": "BIM44560",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs: deductions for employers’ contributions:  capital or revenue expenditure"
+}

@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim39540",
+ "body": "<p>The following guidelines will cover most cases and are intended to ensure consistency of approach.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Period of borrowing</th>\n      <th>Amount of borrowing - Fixed</th>\n      <th>Amount of borrowing - Fluctuating</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Less than 12 months</td>\n      <td>Revenue</td>\n      <td>Revenue</td>\n    </tr>\n    <tr>\n      <td>12 months or longer</td>\n      <td>Capital</td>\n      <td>‘Use’ test is relevant</td>\n    </tr>\n    <tr>\n      <td>Less than 12 months but renewable beyond then</td>\n      <td>Revenue but see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39530\">BIM39530</a></td>\n      <td>Revenue but see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39530\">BIM39530</a></td>\n    </tr>\n  </tbody>\n</table>\n\n<p>These guidelines should be applied flexibly and with common sense, for instance in deciding the nature of a borrowing for a period of less than, or not significantly more than, a year.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim39500",
+   "section_id": "BIM39500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-09T10:20:21+00:00",
+ "section_id": "BIM39540",
+ "title": "Foreign exchange: gains or losses: capital or revenue: summary"
+}

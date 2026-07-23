@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46255",
+ "body": "<p>S61 Income Tax (Trading and Other Income) Act 2005, S63 Corporation Tax Act 2009</p>\n<p>The tenant under a taxed lease is treated as incurring a revenue expense for each day:</p>\n<ol start=\"1\" type=\"a\"><li>which is within the receipt period of the taxed receipt (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46251\">BIM46251</a>); and</li><li>on which the tenant occupies or uses (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46270\">BIM46270</a>) the whole or part of the land subject to the lease for the purposes of a trade.</li></ol>\n<p>The amount of the expense for each day is equal to the amount of the taxed receipt divided by the number of days in the receipt period.</p>\n<p>If only part of the land is occupied or used for trade purposes, the amount of the expense is reduced according to the fraction of the land occupied or used, calculated on a just and reasonable basis.</p>\n<p>If there is more than one taxed receipt in respect of the lease, this rule applies separately to each of them.</p>\n<p>The effect of this is that, subject to the provisions against double allowance (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46280\">BIM46280</a>), the part of the premium taxable on the landlord is spread across the term of the lease and a deduction allowed accordingly. Where the land is occupied wholly for the purposes of the trade for the whole of a period of account lasting one year, therefore, the deduction is equal to 365 times the daily expense.</p>\n<h2>Example</h2>\n<p>On 1 July 2012 A Limited grants a 21-year lease of a property to B Limited for a premium of £300,000 and a rent of £5,000 per annum.</p>\n<p>The amount included in the property business property of A Limited (the taxed receipt) is £300,000 x ((50-20)/50) = £180,000 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1205\" rel=\"nofollow\">PIM1205</a>).</p>\n<p>B Limited occupies the property partly for trade and partly for residential purposes, the proportions being two-thirds and one-third respectively.</p>\n<p>The annual trading deduction due to B Limited is computed as follows:</p>\n<table><tbody><tr><td width=\"365\"><p>Annual deduction for taxed receipt as above (£180,000/7,665) x 365</p></td><td><p>£8,572</p></td></tr><tr><td width=\"365\"><p>Trading proportion thereof</p></td><td><p><span class=\"uToSpan\">2/3</span></p></td></tr><tr><td width=\"365\"><p>Annual trading deduction (£8,572 x 2/3)</p></td><td><p>£5,715</p></td></tr><tr><td width=\"365\"><p>Annual deduction for rent payable (£5,000 x 2/3)</p></td><td><p><span class=\"uToSpan\">£3,334</span></p></td></tr><tr><td width=\"365\"><p>Total annual deductions in respect of lease</p></td><td><p><span class=\"uToSpan\">£9,049</span></p></td></tr></tbody></table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46250",
+   "section_id": "BIM46250"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM46255",
+ "title": "Specific deductions: premiums: calculation of revenue expense"
+}

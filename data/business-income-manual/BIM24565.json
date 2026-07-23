@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24565",
+ "body": "<p>S1070 Corporation Tax Act 2010 (CTA 2010)</p>\n<p>Where a company carrying on a mutual trade (or other mutual business) makes a distribution to its members you need to establish if that distribution comes from the surplus from the company’s trading with its members or from trading with non-members or a mixture of both.</p>\n<ul><li class=\"filledcircle\">Distributions out of a mutual surplus give rise to taxable receipts.</li><li class=\"filledcircle\">Distributions out of taxable income give rise to non-taxable receipts.</li></ul>\n<p>Section 1070(2) ensures that the normal Corporation Tax provisions (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm15120\" rel=\"nofollow\">CTM15120</a>) only apply to distributions deriving from:</p>\n<ul><li class=\"filledcircle\">profits that have been brought into charge to Corporation Tax, or</li><li class=\"filledcircle\">income of the company that consists of exempt ABGH distributions (defined by section 1070(5A)) or, prior to 2016/17, &nbsp;franked investment income.</li></ul>\n<p>Section 1070(3) restricts the effect of Section 1070(2) to distributions made to a person participating in the mutual activities of the mutual business and deriving from those activities.</p>\n<p>In the case of a mutual insurance business, Section 1070(4) provides that the Corporation Tax provisions concerning distributions do not apply to distributions made to persons participating in the mutual activities of the life insurer and derived from those activities.</p>\n<p>Section 1070(5) notes that the fact that a distribution by a company carrying on a mutual business to a person participating in those activities is derived from the mutual activities does not change the character of the distribution for Corporation Tax or Income Tax in the hands of the recipient.</p>\n<p>The result is that Section 1070 applies the normal Corporation Tax provisions concerning distributions to a mutual trader (and to companies carrying on mutual insurance or other mutual business). In effect the provisions make clear, for example, that distributions to trading members out of mutual surpluses are trading receipts in the hands of the recipient to the extent that the distribution represents a return of payments made.</p>\n<p>The reasoning behind this is that anything which is not a return of contributions must have arisen from the concern’s non-mutual operations and will have been taxed in the hands of the concern.</p>\n<p>Section 1070 applies if a company has carried on a mutual trade or has never carried on a trade or a business of holding investments. In both cases, the distributions legislation is limited to such distributions as are made out of profits brought into charge to Corporation Tax or out of franked investment income, that is income not derived from mutual trading.</p>\n<p>The legislation is not specific as to the source of the sums to be distributed. The point is whether they have been subject to Corporation Tax or not. Hence, any sums exempted from Corporation Tax under the Substantial Shareholdings Exemption (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53005\">CG53005</a> onwards) would not be subject to the provisions of the distributions legislation.</p>\n<p>A company that is limited by guarantee has no share capital. Where such a company makes a distribution to its members on a winding-up, the distribution is not excluded from the definition of ‘distribution’ by S1030 CTA 2010 because it is not ‘a distribution made in respect of share capital in a winding-up’. To secure that companies limited by guarantee receive comparable treatment to companies limited by share capital, you should treat distributions in a winding-up by a company limited by guarantee as capital distributions.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24550",
+   "section_id": "BIM24550"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-11-13T16:24:04+00:00",
+ "section_id": "BIM24565",
+ "title": "Meaning of trade: mutual trading and members clubs: distributions: S1070 Corporation Tax Act 2010"
+}

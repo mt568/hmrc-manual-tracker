@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123101",
+ "body": "<p>Where a return for an out of date year has not been captured in TSS by the relevant 5th April, follow steps 1 - 9 below.</p>\n\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</p>\n\n<p>For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"if-the-return-was-received-within-the-relevant-time-limit-4-years-from-the-end-of-the-tax-year--if-later-within-12-months-of-the-date-of-issue-of-a-determination\">If the return was received within the relevant time limit (4 years from the end of the tax year , if later, within 12 months of the date of issue of a Determination)</h2>\n\n<p>1. Use function CREATE RETURN CHARGE to record the return charge</p>\n\n<h2 id=\"IDA2EJWE\">All other cases</h2>\n\n<h3 id=\"if-a-revenue-determination-has-been-made-in-an-amount-greater-than-that-shown-on-the-return\">If a Revenue Determination has been made in an amount greater than that shown on the return</h3>\n\n<p>2. Write to the trustee along the following lines</p>\n\n<ul>\n  <li>‘Thank you for the information contained in the form you sent me for (year). The time limit for a (year) self assessment ran out on 31 January (year). I received your form after this date, therefore the Determination of tax I sent you on (date) remains in force’</li>\n</ul>\n\n<p>3. File the return in the normal way</p>\n\n<h3 id=\"if-a-revenue-determination-has-been-made-in-an-amount-less-than-that-shown-on-the-return\">If a Revenue Determination has been made in an amount less than that shown on the return</h3>\n\n<p>4. Pass the return to the RISK Team to consider any action under discovery provisions</p>\n\n<p>5. If the RISK Team confirms no further action is required, write to the trustee as Step 2</p>\n\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</p>\n\n<p>Notes:</p>\n\n<ul>\n  <li>In all circumstances the Revenue Determination constitutes the self assessment and creates the payment on account for the subsequent year</li>\n  <li>The amount of any fixed automatic penalty should not exceed the tax shown on the return, even though the return does not displace the Revenue Determination</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-09-05T11:07:34+01:00",
+ "section_id": "SAM123101",
+ "title": "Returns: trust returns: returns for out of date years: trusts (Action Guide)"
+}

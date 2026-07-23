@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71161",
+ "body": "<p>Event</p>\n\n<p>A work item is created when a customer submits an online amendment to an individual return for 2008/2009 onwards, which includes a claim to carry back losses under TMA1970 Schedule 1B and the box14/15 entry on the amendment differs from the box 14/15 entry claim on the previous version of the return.</p>\n\n<p>The amendment will be processed but a work item will be created on the W057 work list for the creation of a Freestanding Credit to be considered. A work item will also be created on the W030 ‘Inhibited Automatic Repayments’ work list where a repayment has been requested on the return amendment.</p>\n\n<p>Specific details</p>\n\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n\n<ul>\n  <li>Return year</li>\n  <li>Electronic Amendment Timestamp</li>\n</ul>\n\n<p> </p>\n\n<p>Allocation of responsibility</p>\n\n<p>The work items will be reviewed by the office responsible for processing.</p>\n\n<p>Frequency of review</p>\n\n<p>This work list should be as directed.</p>\n\n<p>Updating of details</p>\n\n<p>Until the work item is cleared, the following details held on the work item are updated by Work Management immediately the corresponding entry is updated on the taxpayer record</p>\n\n<ul>\n  <li>Taxpayer name</li>\n  <li>NINO</li>\n  <li>Employer reference (EMPREF)</li>\n</ul>\n\n<p> </p>\n\n<p>Action to take on the work item</p>\n\n<p>Advice on the action to take to clear the work items is available in section ‘Returns Work Lists’, as follows</p>\n\n<ul>\n  <li>Review FSC from Return Amendment (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125230\">SAM125230</a>)</li>\n  <li>Review FSC from Return Amendment (AG) (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125231\">SAM125231</a>)</li>\n</ul>\n\n<p> </p>\n\n<p>Deletion of the work item</p>\n\n<p>The work items must be deleted manually.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-03-22T12:30:23+00:00",
+ "section_id": "SAM71161",
+ "title": "Manage work: work management: W057 review FSC from return amendment"
+}

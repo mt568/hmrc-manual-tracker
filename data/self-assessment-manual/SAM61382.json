@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61382",
+ "body": "<p>Where an appeal is received against a late payment penalty in a Time to Pay (TTP) case and should be rejected, follow steps 1 - 4 below.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Issue SEES letters SA633 and SA634 to customer/agent as applicable</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Make an SA Note on the customers record of action taken</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>BF the case for 45 days</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>If the case has not been referred to the Appeals Review Unit</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Close the Appeal</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Issue SEES Deemed Determination letter (SA636) to customer/agent as applicable</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61000",
+   "section_id": "SAM61000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:15:51+00:00",
+ "section_id": "SAM61382",
+ "title": "Interest, penalties and surcharge: penalties: rejecting an appeal - time to pay cases (Action Guide)"
+}

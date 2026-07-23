@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim51430",
+ "body": "<p>S19 Income Tax (Trading and Other Income) Act 2005, S42 Corporation Tax Act 2009</p>\n<p>Rents receivable from tied houses are required by the above legislation to be included in the computation of trading profits and not property income. Rents paid are admissible deductions.</p>\n<p>Under generally accepted accounting practice (GAAP) it is the rent receivable/payable which must be brought into account, not the rent actually received/paid. The allowable expenses in relation to the tied houses must be similarly computed (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim51405\">BIM51405</a>-<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim51425\">BIM51425</a> for details of the deductible expenses). Any deduction allowed subsequently for rent waived should not exceed the untaxed rent previously brought into account in respect of the period for which the rent is waived. An allowance should not be made for rent waived if the waiver does not arise wholly out of the normal trading relationship between brewer and tied tenant - as might be the case, for example, where the tenant is a subsidiary company.</p>\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61410\">BIM61410</a> in connection with the disallowance of rent attributable to domestic accommodation in the accounts of publicans.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim51400",
+   "section_id": "BIM51400"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:40+01:00",
+ "section_id": "BIM51430",
+ "title": "Breweries: tied houses - rent receivable and paid"
+}

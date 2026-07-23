@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim20230",
+ "body": "<p>A single isolated transaction can amount to the carrying on of a trade for tax purposes, but it is generally not easy to show that that is the case. The transaction, if it is to be trading for tax purposes, has to be a venture in the nature of trade (<strong>S989 Income Tax Act 2007, S1119 Corporation Tax Act 2010</strong>) (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim20050\">BIM20050</a>).</p>\n<h2><a id=\"IDAPEACC\">Test to be applied</a></h2>\n<p>The test to be applied is whether the operations involved in the transaction are of the same kind or character, and carried on in the same way, as those which are characteristic of ordinary admitted trading in the line of business in which the transaction was carried out. See <strong>CIR v Livingston and Others</strong> [1926] 11 TC 538 at page 542. This test requires an examination of all the badges of trade to evaluate the extent to which they characterise the facts of the case under consideration.</p>\n<p>This approach was adopted in <strong>CIR v Fraser</strong> [1942] 24 TC 498. Fraser, who was a woodcutter, had bought a consignment of whisky in bond and sold it through an agent at a profit. Although many of the badges of trade were either neutral or favourable to the taxpayer, the court said at pages 502 and 503:</p>\n<blockquote>‘The purchaser of a large quantity of a commodity like whisky, greatly in excess of what could be used by himself, his family and friends, a commodity which yields no pride of possession, which cannot be turned to account except by a process of realisation, I can scarcely consider to be other than an adventurer in a transaction in the nature of a trade… Most important of all, the actual dealings of the respondent with the whisky were exactly of the kind that take place in ordinary trade.’</blockquote>\n<p>See also <strong>Rutledge v CIR</strong> [1929] 14 TC 490 for a closely parallel case.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20200",
+   "section_id": "BIM20200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-11-13T15:36:02+00:00",
+ "section_id": "BIM20230",
+ "title": "Meaning of trade: badges of trade: isolated transactions"
+}

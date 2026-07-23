@@ -1,0 +1,123 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106001",
+     "description": "",
+     "section_id": "SAM106001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106010",
+     "description": "",
+     "section_id": "SAM106010",
+     "title": "Notification of bankruptcy"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106020",
+     "description": "",
+     "section_id": "SAM106020",
+     "title": "Bankruptcy: administration completed"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106030",
+     "description": "",
+     "section_id": "SAM106030",
+     "title": "Bankruptcy: taxpayer records"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106031",
+     "description": "",
+     "section_id": "SAM106031",
+     "title": "Bankruptcy: taxpayer records (Action Guide menu)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106032",
+     "description": "",
+     "section_id": "SAM106032",
+     "title": "Bankruptcy: existing SA record with linked PAYE record (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106033",
+     "description": "",
+     "section_id": "SAM106033",
+     "title": "Bankruptcy: PAYE source with unlinked/dormant or no SA record (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106034",
+     "description": "",
+     "section_id": "SAM106034",
+     "title": "Bankruptcy: SA only record with no PAYE source (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106040",
+     "description": "",
+     "section_id": "SAM106040",
+     "title": "Bankruptcy: trustee's record"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106050",
+     "description": "",
+     "section_id": "SAM106050",
+     "title": "Disposal of bankrupt's records by the official receiver"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106060",
+     "description": "",
+     "section_id": "SAM106060",
+     "title": "Employee bankrupt: coding action and provisional PAYE income claim"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106070",
+     "description": "",
+     "section_id": "SAM106070",
+     "title": "Income or capital gains arising during final year of bankruptcy / sequestration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106071",
+     "description": "",
+     "section_id": "SAM106071",
+     "title": "Final year of bankruptcy / sequestration (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106080",
+     "description": "",
+     "section_id": "SAM106080",
+     "title": "Interest claimed and statements"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106090",
+     "description": "",
+     "section_id": "SAM106090",
+     "title": "Issue of statements"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106100",
+     "description": "",
+     "section_id": "SAM106100",
+     "title": "Payments on account for year of bankruptcy or sequestration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106110",
+     "description": "",
+     "section_id": "SAM106110",
+     "title": "Return for the year of bankruptcy / sequestration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106120",
+     "description": "",
+     "section_id": "SAM106120",
+     "title": "Voluntary arrangements"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:11+00:00",
+ "section_id": "SAM106000",
+ "title": "Records: bankruptcy: contents"
+}

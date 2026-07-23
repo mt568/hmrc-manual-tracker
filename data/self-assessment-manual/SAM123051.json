@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123051",
+ "body": "<p>When you receive a part year return for the current year follow steps 1 - 4 below. For details of how to access the function, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Do not attempt to use function LOG RETURN to record the date of receipt</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Pass the return through to the officer with the user role of Clerical Processing Officer to calculate the liability to the date of cessation</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>Pass the trust folder with the return to the Compliance Manager to consider whether any further liability arises on the cessation of the trust</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>Following instructions from the Compliance Manager</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Use function CREATE RETURN CHARGE to record the liability on the trust’s SA record</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Further information on permanent cessations can be found at <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam90000\">SAM90000</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:40+00:00",
+ "section_id": "SAM123051",
+ "title": "Returns: trust returns: part year trust returns for the current tax year (Action Guide)"
+}

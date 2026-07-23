@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim85070",
+ "body": "<p>Sch1B Para2 Taxes Management Act 1970 (TMA 1970), S64, S72, S83, S89 Income Tax Act 2007 (ITA 2007)</p>\n\n<p>Where a person makes a claim requiring relief for a loss incurred in a later year to be given by reference to the tax payable in an earlier year, the claims do not have to be made in a return. Thus they can be made as stand-alone claims. We take the view that such a claim can even be made before the return, for the year in which the loss arose, is submitted. The claims involved are:</p>\n\n<ul>\n  <li>Carry back of trade losses S64(2)(b) or S64(2)(c) ITA 2007</li>\n  <li>Carry back of losses in the early years of a trade under S72 ITA 2007</li>\n  <li>Terminal loss relief under S89 ITA 2007 (for years other than cessation).</li>\n</ul>\n\n<p>For information on claims affecting two or more years see <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-claims-manual/sacm11000\">SACM11000</a> onwards.</p>\n\n<p>Some claims must be made in a return, if possible, so the claim is reflected in the self assessment for the year. These are claims under:</p>\n\n<ul>\n  <li>S64(2)(a) ITA 2007 to set losses against income of the same year, or</li>\n  <li>S83 ITA 2007 to carry forward losses against subsequent profits of the same trade, or</li>\n  <li>S89 ITA 2007 to set a terminal loss against profits of the trade of the year of discontinuance.</li>\n</ul>\n\n<p>Claims under S83 and S89 ITA 2007 can be made up to four years after the end of the tax year to which the claim relates so it is not always possible to make these claims in a return. The return amendment window is likely to be closed before the claim time-limit expires. In these circumstances the claim is under the Sch1A TMA 1970 `stand-alone’ procedures. For information on Sch1A and claims outside a return, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-claims-manual/sacm3030\">SACM3030</a></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim85000",
+   "section_id": "BIM85000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM85070",
+ "title": "Trade losses - claims to relief: claims involving more than one year"
+}

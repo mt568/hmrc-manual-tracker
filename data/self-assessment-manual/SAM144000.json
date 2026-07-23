@@ -1,0 +1,40 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam144000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam144001",
+     "description": "",
+     "section_id": "SAM144001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam144010",
+     "description": "",
+     "section_id": "SAM144010",
+     "title": "Types of Digital Exemptions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam144020",
+     "description": "",
+     "section_id": "SAM144020",
+     "title": "Applying for a Digital Exemption"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam144030",
+     "description": "",
+     "section_id": "SAM144030",
+     "title": "After a customer has applied for a digital exemption – what happens next?"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2026-07-22T01:00:00+01:00",
+ "section_id": "SAM144000",
+ "title": "Making Tax Digital for income tax Self-Assessment: digital exemptions: contents"
+}

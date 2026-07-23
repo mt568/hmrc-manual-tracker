@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35465",
+ "body": "<p>Whether relief is available for an item of expenditure depends on what has actually been done, not what might have been done.</p>\n<p>Sometimes a taxpayer will decide not to restore an asset to what it had been, but will choose to alter or improve the asset. In this situation the taxpayer cannot claim relief for notional repairs — in other words, what it would have cost to repair the asset had that course been followed.</p>\n<h3>Enlarged building</h3>\n<p>In <strong>William P Lawrie v CIR</strong> [1952] 34TC20 the firm’s business was the manufacture of concrete slabs and blocks. The trade was carried on in a wooden building with an asbestos, corrugated iron and glass roof supported by brick piers. The roof leaked and the pillars were shaky. The firm was advised to reconstruct the roof rather than attempt repairs. The firm decided to enlarge the building and have a new roof. The following works were carried out:</p>\n<ul><li class=\"filledcircle\">the end walls were demolished and rebuilt to a greater height;</li><li class=\"filledcircle\">the side walls were extended, heightened and reinforced;</li><li class=\"filledcircle\">the brick piers were replaced by steel columns and the new roof was made of corrugated asbestos and perspex.</li></ul>\n<p>The firm claimed five-sixths of the cost of the roof as repairs, conceding that the balance arose through enlargement of the floor space.</p>\n<p>The Court of Session dismissed the argument that the expenditure should be dissected to attribute part to a hypothetical repair. Lord Carmont explained the court’s decision at page 26 of 34TC:</p>\n<blockquote>Any sum claimed by the taxpayer as having been actually spent on repair can be analysed by the Inspector, or by the Commissioners, with a view to determining whether or not it is a repair or a renewal, but once it is determined that the matter is a renewal the whole of the sum must be treated as capital outlay and it is not allowable to split up the cost of renewal so determined, with a view to showing that a certain part of it should be debited to income because that amount would have been expended if the necessary work had been done as a repair, because that course would be going back on the decision that has already been arrived at, viz., that the work done should be charged as a renewal.</blockquote>\n<h3>A new reservoir</h3>\n<p>In the case of <strong>Margrett v The Lowestoft Water &amp; Gas Co</strong> [1935] 19TC481, the company had an old reservoir, which was of an open type. As the old reservoir was beyond repair, it was replaced by a new covered type on a site some distance away.</p>\n<p>At page 488 Finlay J ruled out the possibility of a deduction for notional repairs; what the company would have spent restoring the reservoir to original performance if they had not decided to have a new one:</p>\n<blockquote>I think that the expenditure on the new reservoir was a perfectly simple example of capital expenditure and was not in any sense expenditure upon repairs. If they had repaired the old reservoir they would have incurred a certain amount of expense, but it seems to me that that does not make it possible to dissect the capital sum which they spent upon the new reservoir and to say that that amount which would have been spent in repairing the old reservoir can notionally be treated as being a sum expended for repairs. The answer is that that is not what happened. They have chosen not to repair the old but to build a new reservoir, and that is just capital expenditure.</blockquote>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35400",
+   "section_id": "BIM35400"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:32+01:00",
+ "section_id": "BIM35465",
+ "title": "Capital/revenue divide: tangible assets: no deduction for notional repairs"
+}

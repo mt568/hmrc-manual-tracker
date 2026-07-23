@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72100",
+ "body": "<p>The Repayment Authoriser in an office with processing responsibility is responsible for pre and post repayment checks, including dealing with work items appearing on the following work lists</p>\n\n<ul>\n  <li>‘Repayments to be Authorised or Cancelled’</li>\n  <li>‘Post Repayment Check’</li>\n</ul>\n\n<p>The following list shows the functions linked to this role.</p>\n\n<p>For details of how to access any of these functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>On accessing the function, system help is available to you at function, screen, field, and error message levels.</p>\n\n<p>For ease of reference, the functions are grouped under the following sub-headings</p>\n\n<p><a href=\"#IDAOADPI\">Appeals</a><br />\n<a href=\"#IDAWADPI\">Compliance</a><br />\n<a href=\"#IDACBDPI\">Office</a><br />\n<a href=\"#IDAKBDPI\">Operator</a><br />\n<a href=\"#IDASBDPI\">Returns</a><br />\n<a href=\"#IDA4BDPI\">Statements</a><br />\n<a href=\"#IDACDDPI\">Taxpayer</a><br />\n<a href=\"#IDASDDPI\">Work</a></p>\n\n<h2 id=\"IDAOADPI\">Appeals</h2>\n\n<p>Maintain Appeal</p>\n\n<h2 id=\"IDAWADPI\">Compliance</h2>\n\n<p>View Compliance History</p>\n\n<p>View Compliance Summary</p>\n\n<h2 id=\"IDACBDPI\">Office</h2>\n\n<p>Maintain Responsible Office</p>\n\n<h2 id=\"IDAKBDPI\">Operator</h2>\n\n<p>Compose New Secondary Password</p>\n\n<h2 id=\"IDASBDPI\">Returns</h2>\n\n<p>Maintain Return Summary</p>\n\n<p>View Return</p>\n\n<h2 id=\"IDA4BDPI\">Statements</h2>\n\n<p>Authorise Selected Repayments</p>\n\n<p>Cancel Draft Repayment</p>\n\n<p>Cancel Selected Repayments</p>\n\n<p>Confirm Cancelled Repayment</p>\n\n<p>Confirm Manual Repayment</p>\n\n<p>View Payment Details</p>\n\n<p>View Repayment</p>\n\n<p>View Statement</p>\n\n<h2 id=\"IDACDDPI\">Taxpayer</h2>\n\n<p>Case Summary</p>\n\n<p>Maintain SA Notes</p>\n\n<p>View Taxpayer Designatory Details</p>\n\n<h2 id=\"IDASDDPI\">Work</h2>\n\n<p>Immediate Action Work Lists</p>\n\n<p>Office Work List Summary</p>\n\n<p>Operator Work List Summary</p>\n\n<p>Taxpayer Work List</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-02T11:42:26+01:00",
+ "section_id": "SAM72100",
+ "title": "Manage work: access to records: repayment authoriser"
+}

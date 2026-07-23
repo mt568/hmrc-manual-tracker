@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121531",
+ "body": "<p>Follow steps 1 - 6 below if you are processing a return</p>\n<ul><li class=\"dash\">On or before 31 December following the end of the return year and you consider a repair or correction&nbsp;is required to the return</li></ul>\n<blockquote><p>Or</p></blockquote>\n<ul><li class=\"dash\">After 31 December and repairs are identified that <strong>do not</strong> increase the liability <span>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</span> or do increase the liability <span>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</span> but a repayment is due</li></ul>\n<p>For details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.</p>\n<h2><a id=\"IDAPLWSH\">If the entry to be repaired forms part of the Standard Accounts information</a></h2>\n<p>1.&nbsp; Refer the case to the HO Tech before you repair an entry to consider the effect on</p>\n<ul><li>The income tax basis period information, if the accounting period and basis period differ, and/or</li><li>Any Farmer’s averaging adjustment</li></ul>\n<h2><a id=\"IDAXNWSH\">Where the HO Tech advises you to continue with the repair and in all other cases</a></h2>\n<p>2.&nbsp; Where working form a paper return, make a pencil note of the new ‘repaired’ figure by the appropriate box on the return</p>\n<p>3.&nbsp; Repair the figure entered by selecting the ‘Repair’ option from the ‘Edit’ menu heading or by selecting the ‘R’ key in function CAPTURE RETURN. You will be presented with the REPAIRS EXPLANATIONS screen</p>\n<p>4.&nbsp; Select the abbreviated reason for the repair/correction from the REPAIR EXPLANATIONS screen</p>\n<p><strong>Note:</strong> Where some or all of the repairs have been made using information held on our systems and the total number of repairs exceed 10, a standard message will be given which states that a separate letter will be sent explaining the repairs, but where the number of messages is less than 10, the following standard message will be given</p>\n<p>`We enclose our tax calculation. This takes into account changes we have made, as shown on page 2 overleaf’</p>\n<p>Therefore you must select the additional customer service message `I will send you a separate letter explaining further changes made’</p>\n<p>5.&nbsp; Select the [Save] and then [Close] buttons</p>\n<p>6.&nbsp; Proceed to the next entry to be captured</p>\n<p>7.&nbsp; When capture of the return has finished, prepare SEES letter SA806 detailing the repairs/corrections and send to the customer, and agent if there is one</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-31T09:31:35+01:00",
+ "section_id": "SAM121531",
+ "title": "Returns: individuals returns: repairing obvious errors: individuals (Action Guide)"
+}

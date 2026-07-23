@@ -1,0 +1,38 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim67200",
+ "body": "<p>This section looks at the taxation of traders offering DVDs and blu-ray discs for hire.</p>\n\n<p>The tax treatment of similar items (such as computer and console games) follows the same lines.</p>\n\n<h2 id=\"acquisition-for-resale\">Acquisition for resale</h2>\n\n<p>A DVD/blu-ray disc acquired primarily for resale at a profit is simply stock in trade. The cost of the DVD/blu-ray disc is a revenue expense. Any stock at the period end should be valued in accordance with <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33100\">BIM33100</a> onwards.</p>\n\n<h2 id=\"acquisition-for-hiring-out\">Acquisition for hiring out</h2>\n\n<p>A DVD/blu-ray disc acquired for hiring out should not be treated as stock, even if it is to be sold at the end of its useful life.</p>\n\n<p>The following sections look at the ways in which relief for the cost of acquiring hire DVDs/blu-ray discs is available. Whichever basis is used should be followed consistently from year to year.</p>\n\n<p>Where the issue is one of timing, you should consider the tax ultimately at issue when deciding how far to pursue enquiries.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67205",
+     "description": "",
+     "section_id": "BIM67205",
+     "title": "DVD and blu-ray disc traders: Capital allowances"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67210",
+     "description": "",
+     "section_id": "BIM67210",
+     "title": "DVD and blu-ray disc traders: Renewals allowance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67220",
+     "description": "",
+     "section_id": "BIM67220",
+     "title": "DVD and blu-ray disc traders: Valuation basis"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:38:03+01:00",
+ "section_id": "BIM67200",
+ "title": "DVD and blu-ray disc traders: contents"
+}

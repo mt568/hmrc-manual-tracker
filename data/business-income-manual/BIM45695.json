@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45695",
+ "body": "<p>This chapter applies for Income Tax purposes to the computation of trade profits and property income. References in the text to a ‘business’ should therefore be taken to include both trades and property businesses. The chapter does not apply for Corporation Tax purposes, where there are separate rules in the loan relationships legislation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm11000\">CFM11000</a>).</p>\n<p>S34 Income Tax (Trading and Other Income) Act 2005</p>\n<h2>General business accounts</h2>\n<p>Many businesses operate accounts with overdraft facilities where all banking transactions are put through a single account. Normally it is not practical to separate tranches of borrowings for different specific purposes, or to ascertain which tranche is paid back and which continues.</p>\n<p>Where the account is being used solely for business purposes, then the interest is an allowable deduction in the accounts.&nbsp;There is guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45700\">BIM45700</a>\nto <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45725\">BIM45725</a> on how to assess the deductibility of interest in situations where\nan account is used to process business and personal transactions.</p>\n<h2>Offset accounts</h2>\n<p>Offset accounts are those accounts that combine functions that historically were carried out using separate bank accounts - such as loans, savings accounts and current accounts. Interest is computed on the net borrowing from the bank.</p>\n<p>If the borrowing element of an offset account was not wholly and exclusively for business purposes then an interest apportionment would be appropriate.</p>\n<h3>Example</h3>\n<p><span>Using an offset account Blaze and Rod borrowed £100,000 for the purchase\nof their own home. They then borrowed a further £250,000 to buy caravans to\nhire out as part of their business. Both their salaries are paid into the\naccount together with caravan rental income of £2,000 a month. They pay all of\ntheir private expenses from the account. A reasonable apportionment of the\ninterest charge would have to be made between the identifiable private and\nbusiness purposes.</span><br /></p>\n<p>It is likely that the balance of the offset account will fluctuate. There is guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26260\" rel=\"nofollow\">EIM26260</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26261\" rel=\"nofollow\">EIM26261</a> on the allocation of debt repayments in these sorts of circumstances.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45650",
+   "section_id": "BIM45650"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-07-01T01:00:00+01:00",
+ "section_id": "BIM45695",
+ "title": "Specific deductions - interest: General business accounts, mixed use accounts and offset accounts"
+}

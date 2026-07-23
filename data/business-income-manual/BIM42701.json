@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42701",
+ "body": "<p>S35, S259 Income Tax (Trading and Other Income) Act 2005, S55, S303, S479 Corporation Tax Act 2009</p>\n<h2>Income Tax</h2>\n<p>A deduction is not allowed for a debt owed to a trader except:</p>\n<ul><li class=\"filledcircle\">a bad debt;</li><li class=\"filledcircle\">a doubtful debt to the extent estimated to be bad. In the case of the bankruptcy or insolvency of the debtor, this means the debt except to the extent that any amount may reasonably be expected to be received on the debt;</li><li class=\"filledcircle\">a debt or part of a debt released by the creditor wholly and exclusively for the purposes of the trade as part of a statutory insolvency arrangement.</li></ul>\n<p>‘Statutory insolvency arrangement’ means:</p>\n<ul><li>(a) a voluntary arrangement under the Insolvency Act 1986, Sch4 or Sch5 Bankruptcy (Scotland) Act 1985 or the Insolvency (Northern Ireland) Order 1989, or</li><li>(b) a compromise or arrangement under Part 26 Companies Act 2006, or</li><li>(c) an arrangement or compromise of a kind corresponding to those in (a) or (b) above under the law of a territory outside the UK.</li></ul>\n<p>A deduction for a bad or doubtful debt is to be made in arriving at the profits of the year in which the debt becomes bad or doubtful.</p>\n<p>Subject to the points made in the rest of this section, a useful starting point in quantifying the amount of any deduction available in respect of doubtful debts will be the amount reserved in the taxpayer's books, provided this is based on a separate valuation of each debt.</p>\n<p>As regards debts claimed to be bad or doubtful on account of currency restrictions, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42750\">BIM42750</a>.</p>\n<p>A general reserve, for example, one calculated as a percentage of total debts or of total sales, should not be admitted as a deduction if made without regard to the circumstances of the particular debtors.</p>\n<p>Where appropriate, enquiry should be made of the office dealing with the debtors' tax liabilities as to the extent to which their circumstances justify the deductions claimed.</p>\n<h2>Corporation Tax</h2>\n<p>Bad debts of companies which are in respect of trade receipts are dealt with under the loan relationship rules. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm41030\">CFM41030</a>.</p>\n<p>The following applies only to non-money debts which are not within the derivative contracts or intangible fixed assets regimes (for which see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50000\">CFM50000</a> onwards and <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-intangibles-research-and-development-manual/cird10000\">CIRD10000</a> onwards respectively). ‘Non-money debt’ means a debt which is not a money debt for the purposes of the loan relationship rules. Broadly, a money debt is one falling to be settled by the payment of money or the issue or transfer of shares (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm31020\">CFM31020</a> for detailed guidance).</p>\n<p>A deduction is not allowed for a non-money debt owed to a company except:</p>\n<ul><li class=\"filledcircle\">by way of impairment loss; or</li><li class=\"filledcircle\">so far as the debt is released by the creditor wholly and exclusively for the purposes of the trade as part of a statutory insolvency arrangement.</li></ul>\n<p>‘Impairment loss’ is not defined in the legislation for the purpose of this rule. It is derived from terminology used in accounting standards. A debit in the accounts of a company for an impairment loss is arrived at using a similar, but not identical, process to making a provision for a bad or doubtful debt. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm33220\">CFM33220</a> for guidance on impairment losses relating to financial assets.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42700",
+   "section_id": "BIM42700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-10-17T16:13:01+01:00",
+ "section_id": "BIM42701",
+ "title": "Specific deductions: bad & doubtful debts: overview"
+}

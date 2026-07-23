@@ -1,0 +1,102 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45500",
+ "body": "<p>Whether insurance premiums are deductible from trading profits depends on what is insured and whether the insurance has been taken out for the purposes of the trade.</p>\n\n<p>In most situations, if the insurance premiums are allowable deductions from trading profits, the receipts from the policy are taxable as trading income. Where no deduction is allowed, often the receipts are not taxable as revenue.</p>\n\n<p>The cost of fee protection insurance is not allowable when the risks covered include the cost of negotiating additional tax liabilities resulting from careless or deliberate inaccuracies, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46452\">BIM46452</a>.</p>\n\n<p>Guidance on the tax treatment of insurance receipts is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40750\">BIM40750</a> onwards.</p>\n\n<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45501",
+     "description": "",
+     "section_id": "BIM45501",
+     "title": "Fixed assets"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45505",
+     "description": "",
+     "section_id": "BIM45505",
+     "title": "Trading stock and debts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45510",
+     "description": "",
+     "section_id": "BIM45510",
+     "title": "Loss of profits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45515",
+     "description": "",
+     "section_id": "BIM45515",
+     "title": "Professional negligence"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45520",
+     "description": "",
+     "section_id": "BIM45520",
+     "title": "Employee indemnity"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45525",
+     "description": "",
+     "section_id": "BIM45525",
+     "title": "Employees and other key persons"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45530",
+     "description": "",
+     "section_id": "BIM45530",
+     "title": "Key persons: non-trade purposes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45560",
+     "description": "",
+     "section_id": "BIM45560",
+     "title": "Own health policies and own insurance funds"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45565",
+     "description": "",
+     "section_id": "BIM45565",
+     "title": "Locum and fixed overheads"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45575",
+     "description": "",
+     "section_id": "BIM45575",
+     "title": "Customers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45580",
+     "description": "",
+     "section_id": "BIM45580",
+     "title": "Export Credit Guarantee scheme"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45590",
+     "description": "",
+     "section_id": "BIM45590",
+     "title": "Premiums paid to mutual concerns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45595",
+     "description": "",
+     "section_id": "BIM45595",
+     "title": "Premium tax"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:31+01:00",
+ "section_id": "BIM45500",
+ "title": "Specific deductions: insurance: contents"
+}

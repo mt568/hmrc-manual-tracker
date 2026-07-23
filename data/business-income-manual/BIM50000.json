@@ -1,0 +1,363 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+ "body": "<p>This section deals with the law and practice which relates only to the trade profits of particular trades.</p>\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim50150",
+     "description": "",
+     "section_id": "BIM50150",
+     "title": "Actors and other entertainers: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim50301",
+     "description": "",
+     "section_id": "BIM50301",
+     "title": "Agricultural societies"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim50600",
+     "description": "",
+     "section_id": "BIM50600",
+     "title": "Athletes: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim50650",
+     "description": "",
+     "section_id": "BIM50650",
+     "title": "Athletes - lottery sports fund athlete personal awards: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim50700",
+     "description": "",
+     "section_id": "BIM50700",
+     "title": "Authors & literary profits: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51100",
+     "description": "",
+     "section_id": "BIM51100",
+     "title": "Barristers: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51251",
+     "description": "",
+     "section_id": "BIM51251",
+     "title": "Bookmakers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51400",
+     "description": "",
+     "section_id": "BIM51400",
+     "title": "Breweries: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51450",
+     "description": "",
+     "section_id": "BIM51450",
+     "title": "Broadcasting: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51500",
+     "description": "",
+     "section_id": "BIM51500",
+     "title": "Builders, property dealers & developers: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52001",
+     "description": "",
+     "section_id": "BIM52001",
+     "title": "Motor dealers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52500",
+     "description": "",
+     "section_id": "BIM52500",
+     "title": "Cemeteries and crematoria: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52550",
+     "description": "",
+     "section_id": "BIM52550",
+     "title": "Check traders: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52750",
+     "description": "",
+     "section_id": "BIM52750",
+     "title": "Care providers: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim53251",
+     "description": "",
+     "section_id": "BIM53251",
+     "title": "Commodity transactions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim53951",
+     "description": "",
+     "section_id": "BIM53951",
+     "title": "Diving industry"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim54000",
+     "description": "",
+     "section_id": "BIM54000",
+     "title": "Doctors and dentists: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55000",
+     "description": "",
+     "section_id": "BIM55000",
+     "title": "Farming: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim56000",
+     "description": "",
+     "section_id": "BIM56000",
+     "title": "Film and audio products: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim56800",
+     "description": "",
+     "section_id": "BIM56800",
+     "title": "Financial traders – instruments and shares: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim57001",
+     "description": "",
+     "section_id": "BIM57001",
+     "title": "Fishing: grants to decommission fishing vessels"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim57600",
+     "description": "",
+     "section_id": "BIM57600",
+     "title": "Franchising: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim58200",
+     "description": "",
+     "section_id": "BIM58200",
+     "title": "Grant aided bodies: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim58401",
+     "description": "",
+     "section_id": "BIM58401",
+     "title": "Greyhound stadium proprietors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim58600",
+     "description": "",
+     "section_id": "BIM58600",
+     "title": "Historic houses: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim58801",
+     "description": "",
+     "section_id": "BIM58801",
+     "title": "Horserace Betting Levy Board"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim59501",
+     "description": "",
+     "section_id": "BIM59501",
+     "title": "Internet trading and e-commerce"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60000",
+     "description": "",
+     "section_id": "BIM60000",
+     "title": "Land: trading transactions: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60201",
+     "description": "",
+     "section_id": "BIM60201",
+     "title": "Land: profits arising out of land"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+     "description": "",
+     "section_id": "BIM60300",
+     "title": "Land transactions (before 16 March 2016): contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60510",
+     "description": "",
+     "section_id": "BIM60510",
+     "title": "Land Transactions (from 16 March 2016): Contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61001",
+     "description": "",
+     "section_id": "BIM61001",
+     "title": "Leasing: general"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61200",
+     "description": "",
+     "section_id": "BIM61200",
+     "title": "Leasing: avoidance: assets other than land: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61300",
+     "description": "",
+     "section_id": "BIM61300",
+     "title": "Leasing: avoidance: sale and leaseback of land: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61400",
+     "description": "",
+     "section_id": "BIM61400",
+     "title": "Licensed trade: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61551",
+     "description": "",
+     "section_id": "BIM61551",
+     "title": "Lloyd’s underwriters"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61600",
+     "description": "",
+     "section_id": "BIM61600",
+     "title": "Lotteries promoted by sport supporters’ societies: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim61851",
+     "description": "",
+     "section_id": "BIM61851",
+     "title": "Marine pilots"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim62000",
+     "description": "",
+     "section_id": "BIM62000",
+     "title": "Mineral extraction: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim62101",
+     "description": "",
+     "section_id": "BIM62101",
+     "title": "Missionaries"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim62200",
+     "description": "",
+     "section_id": "BIM62200",
+     "title": "Moneylenders: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim62600",
+     "description": "",
+     "section_id": "BIM62600",
+     "title": "Nurseries and market gardens: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim62651",
+     "description": "",
+     "section_id": "BIM62651",
+     "title": "Nurses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim63151",
+     "description": "",
+     "section_id": "BIM63151",
+     "title": "Pawnbrokers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+     "description": "",
+     "section_id": "BIM64000",
+     "title": "Private finance initiative: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim65001",
+     "description": "",
+     "section_id": "BIM65001",
+     "title": "Prostitution"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim65150",
+     "description": "",
+     "section_id": "BIM65150",
+     "title": "Research grants and fellowships: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim65800",
+     "description": "",
+     "section_id": "BIM65800",
+     "title": "Solicitors: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66000",
+     "description": "",
+     "section_id": "BIM66000",
+     "title": "Sports testimonials: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66200",
+     "description": "",
+     "section_id": "BIM66200",
+     "title": "Subcontractors: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66300",
+     "description": "",
+     "section_id": "BIM66300",
+     "title": "Sub-postmasters: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66601",
+     "description": "",
+     "section_id": "BIM66601",
+     "title": "Theatre backers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66650",
+     "description": "",
+     "section_id": "BIM66650",
+     "title": "Timber merchants: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67000",
+     "description": "",
+     "section_id": "BIM67000",
+     "title": "Underwriting of shares: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67200",
+     "description": "",
+     "section_id": "BIM67200",
+     "title": "DVD and blu-ray traders: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67400",
+     "description": "",
+     "section_id": "BIM67400",
+     "title": "Waste disposal: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67600",
+     "description": "",
+     "section_id": "BIM67600",
+     "title": "Wayleaves"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67701",
+     "description": "",
+     "section_id": "BIM67701",
+     "title": "Woodlands"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2017-01-27T22:40:56+00:00",
+ "section_id": "BIM50000",
+ "title": "Measuring the profits (particular trades): contents"
+}

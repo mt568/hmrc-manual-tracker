@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40182",
+ "body": "<h2>This is direct tax guidance; for indirect tax guidance, refer to VAT Guidance.</h2>\n<p>An entity may be entitled to the refund of a sum originally paid as VAT simply because they are the party entitled to make the claim.</p>\n<p>The right to claim the refund of a sum paid as VAT can be transferred. This was confirmed by the Court of Appeal in <strong>Midland Co-Operative Society Ltd v Commissioners of HMCE [2008] EWCA Civ 305</strong>. The most common situation where a transfer occurs is where a company is sold out of a group; but there can be various reasons for such a transfer. You may see the right to refund described as a ‘chose in action’.</p>\n<p>Where the refund is received because the entity:</p>\n<ul><li class=\"filledcircle\">is the party entitled to make the claim under the VAT legislation, or</li><li class=\"filledcircle\">acquired the right to make the claim,</li></ul>\n<p>then the entity is taxable under the ‘sweep up’ element of the miscellaneous income provisions where it is income of the type which is taxable under the Taxes Acts. This includes refunds that would have been taxable in the hands of the trader. For further information on this point see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim100125\">BIM100125</a>.</p>\n<p>The refund of a sum that would not have been taxable on the trader is not taxable as miscellaneous income. Such sums include refunds of expenditure originally disallowed as a trading expense for direct tax purposes either because it was a capital payment or it was a payment disallowed by statute (for example, overseas entertaining expenditure).</p>\n<h2>Example</h2>\n<p>A Ltd ran the car dealerships of the MNO VAT group.</p>\n<p>In 2008, the directors of M Plc decided to move out of car dealing and as a result, A Ltd, together with its trade, was sold.</p>\n<p>N Ltd, the current representative member, subsequently made claims for refunds of sums wrongly paid as VAT. In doing so N Ltd was acting on behalf of the MNO VAT group as a whole.</p>\n<p>HMRC agreed the claim, and the refund was received by N Ltd, acting as representative member for the MNO VAT group.</p>\n<p>Under VAT legislation the MNO VAT group is entitled to the refund and under the terms of the sale agreement the MNO VAT group is not obliged to pay the money onto A Ltd.</p>\n<p>The directors of M Plc decide to recognise the refunds in respect of A Ltd, which is no longer in the MNO VAT group, in the accounts of M Plc.</p>\n<p>M Plc is entitled to the refund as a result of its rights as part of the MNO VAT group, the sums received are taxable as miscellaneous income.</p>\n<h2>Doubts and difficulties</h2>\n<p>Refer any cases of doubt or difficulty to <span>Business Profits</span>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40150",
+   "section_id": "BIM40150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM40182",
+ "title": "Specific receipts: refunds of sums paid as VAT: refund accounted for by someone other than the trader who made the overpayment: miscellaneous income"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103070",
+ "body": "<p>Note: From October 2010, entries for processing and compliance have been removed, leaving collection entries only.</p>\n\n<p>A work item has been allocated to you, and included on the ‘Potential Transfer’ work list, because one of the following events has occurred</p>\n\n<ul>\n  <li>The office with processing responsibility for the taxpayer has used function MAINTAIN RESPONSIBLE OFFICE to transfer their responsibility for the taxpayer</li>\n  <li>The office with responsibility for processing, debt management, or technical Revenue activity, has changed an address or main source on the taxpayer record, and the transfer prompt, function CASE AVAILABLE FOR TRANSFER, was invoked by the computer. It should be noted that the office which made the address or main source change will not receive a work item</li>\n  <li>The office with banking and accounting responsibility has changed an address on the taxpayer record, and the responsible office rules suggest that a transfer of your responsibility for the SA record is appropriate</li>\n</ul>\n\n<p>The list entry shows the Organisation Unit to which responsibility should apparently be transferred.</p>\n\n<p>If you decide to transfer responsibility</p>\n\n<pre><code>* The work item is deleted automatically when function MAINTAIN RESPONSIBLE OFFICE is used to transfer responsibility for your area of Revenue activity\n* Any other current work items for the taxpayer, allocated to your Organisation Unit, are transferred automatically\n</code></pre>\n\n<p>If you decide not to transfer responsibility, you should delete the work item manually. The [Del] button in function WORK LIST CASES or function SELECTED CASE serves this purpose.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103000",
+   "section_id": "SAM103000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:04+00:00",
+ "section_id": "SAM103070",
+ "title": "Records: movement of taxpayer records: w013 potential transfer cases"
+}

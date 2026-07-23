@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72050",
+ "body": "<p>The section ‘Movement Of Taxpayer Records’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam103000\">SAM103000</a> onwards), gives detailed advice on transferring responsibility for SA taxpayer records. In particular, it includes the following subjects<br />\n </p>\n\n<ul>\n  <li>‘SA Responsible Office Rules’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam103090\">SAM103090</a>)</li>\n  <li>‘When To Transfer Processing Responsibility’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam103140\">SAM103140</a>)</li>\n  <li>‘Transfer Prompt’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam103120\">SAM103120</a>)</li>\n</ul>\n\n<p>The operator may initiate transfer of processing responsibility. Where a link to PAYE is in place, this is achieved through PAYE ‘pulling’ the record and automatic processing taking the SA record. In all other circumstances, SA function MAINTAIN RESPONSIBLE OFFICE is used to ‘push’ the SA record to the new office, after any legacy system link is broken or created as necessary.  </p>\n\n<p>An operator with technical or recovery active responsibility may also use MAINTAIN RESPONSIBLE OFFICE to transfer their responsibility for the SA record.  </p>\n\n<p>An Office with accounting responsibility, and passive technical and recovery responsibility, may be transferred as a result of the transfer of processing responsibility. The computer will review those responsibilities, following transfer of processing responsibility, and where appropriate transfer the responsibility automatically.  </p>\n\n<p>The facility for bulk transfer of taxpayer records in PAYE and CODA will continue to be used. A facility for bulk transfer of SA records is available.  </p>\n\n<p>Access rights to a taxpayer record will be re-assigned automatically whenever responsibility for the taxpayer is transferred, whether it be<br />\n </p>\n\n<ul>\n  <li>A single record transfer authorised by the SA operator</li>\n  <li>A bulk transfer prompted by an office re-organisation</li>\n  <li>A single or bulk transfer prompted by the PAYE system</li>\n</ul>\n\n<p> </p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:24+00:00",
+ "section_id": "SAM72050",
+ "title": "Manage work: access to records: transfer of responsibility  for taxpayers"
+}

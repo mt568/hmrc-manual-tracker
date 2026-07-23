@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim39555",
+ "body": "<p>If a business has, for example, monetary assets of $10,000 and monetary liabilities of $10,000, any exchange differences that arise on the assets will be cancelled out by equal and opposite exchange differences on the liabilities.  The assets and liabilities are ’matched’.</p>\n<p>The 1984 case of <strong>Pattison v Marine Midland Ltd</strong> [1983] 57 TC 219 concerned a bank that matched its US dollar loans to customers with a borrowing of $15 million in the form of an issue of 10-year loan stock.  Exchange gains arose on the loans to customers, and losses on the loan stock, but to the extent that the dollar liabilities were matched by dollar assets, nothing was taken to the profit and loss account.</p>\n<p>The Revenue wanted to tax the whole of the exchange gains (which were on revenue account), while disallowing the losses on the capital borrowing.  The House of Lords held that no profit or loss arose on the dollar assets that were equal, in dollar terms, to the dollar liabilities.</p>\n<p>HMRC applies the <strong>Marine Midland</strong> decision to all unincorporated traders who have matched assets and liabilities in foreign currencies, not just those in the financial sector.  (The case is no longer relevant to companies because exchange gains and losses on the monetary assets or liabilities of companies are taxed or relieved under the loan relationship rules - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39501\">BIM39501</a>.)  Where assets and liabilities are matched in a particular currency, and no exchange differences are taken to the profit and loss account, you should not make any adjustment for tax purposes, regardless of the capital or revenue nature of the assets or liabilities.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim39500",
+   "section_id": "BIM39500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:10+01:00",
+ "section_id": "BIM39555",
+ "title": "Foreign exchange: matched assets and liabilities"
+}

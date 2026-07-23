@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71030",
+ "body": "\n<p>When certain events occur in the SA system, details are passed to Work Management to create a work item.  </p>\n\n<p>The trigger event(s) differ for each work item.  </p>\n\n<p>Some of the details apply only to specific work items. For example  </p>\n\n<ul>\n  <li>The amount of a debt</li>\n  <li>\n    <p>The number of returns outstandingThe following details are common to all work items</p>\n  </li>\n  <li>UTR</li>\n  <li>Taxpayer name</li>\n  <li>\n    <p>Date the work item was createdOther details, although potentially common to all work items, will not apply to every item. For example</p>\n  </li>\n  <li>Employers reference (EMPREF)</li>\n  <li>NINO</li>\n  <li>Schedule D register numberThe Index of Work Lists in the left bar provides more information.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:05+00:00",
+ "section_id": "SAM71030",
+ "title": "Manage work: work management: how work items are  created"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40805",
+ "body": "<p>The fact that the recipient of interest or dividends carries on a trade, profession or vocation does not in itself displace the general rule that the income should be brought to account for tax under its normal head of charge.</p>\n\n<p>There are (limited) circumstances, as mentioned in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40801\">BIM40801</a>, in which interest and dividend income may be regarded as a trade receipt. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40810\">BIM40810</a> for the treatment for the purposes of loss relief of income, which would be a trading receipt if it were not subject to tax under other provisions.</p>\n\n<p>The interest or dividend will not qualify as a trade receipt unless it has satisfied at least one of the three tests described below.</p>\n\n<h2 id=\"general-test---whether-an-integral-part-of-the-business\">General test - whether an integral part of the business</h2>\n\n<p>The general test is that interest and dividends normally rank as trade receipts only where it is an integral part of the business operations to employ capital to produce such income, for example, in the case of banks and other financial concerns.<br />\n(See Nuclear Electric Plc v Bradley [1996] 68TC670 where the House of Lords approved the reasoning in an earlier Court of Session case, Bank Line Ltd v CIR [1974] 49TC307; and, by way of contrast, Liverpool and London and Globe Insurance Co v Bennett [1913] 6TC327.)</p>\n\n<h2 id=\"hmrc-practice-regarding-interest\">HMRC practice regarding interest</h2>\n\n<p>In the particular case of interest on investments, the HMRC view is that interest on an investment may be treated as trading income if:</p>\n\n<ul>\n  <li>the investment is for a short term and</li>\n  <li>it is an integral feature of the trading activity to make such an investment and</li>\n  <li>the funds deposited can be regarded as continuing to be employed in the business and to form part of the current working capital.</li>\n</ul>\n\n<p>Investments made in the course of banking, insurance and other financial trades will normally meet these conditions.<br />\nSee for example the Liverpool and London and Globe Insurance case.</p>\n\n<p>Investments by non-financial concerns are unlikely to meet these conditions, if for example they:</p>\n\n<ul>\n  <li>endure from one period of account to another, or</li>\n  <li>represent capital even if it is only temporarily surplus to requirements, or</li>\n  <li>although short term, represent part of a series of deposits which together constitute a long term setting aside of part of the capital.</li>\n</ul>\n\n<p>A non-financial concern may charge a price for its goods or services which reflects the fact that interest will be earned over a relatively brief period on the cash received from customers before the money has to be used to meet the related business expenditure.</p>\n\n<p>In this situation the tests set out above are likely to be satisfied.<br />\nDepending on the particular facts one example of such a business might be a package tour operator.</p>\n\n<h2 id=\"trade-interest-and-interest-on-current-account-balances\">Trade interest and interest on current account balances</h2>\n\n<p>You should also accept that interest arising in the following circumstances has the character of a trade receipt:</p>\n\n<ul>\n  <li>interest arising on balances outstanding in respect of goods or services supplied to customers (‘trade interest’);</li>\n  <li>interest on business current account balances with a bank (so long as the balances do not exceed the ordinary banking requirements of the trade).</li>\n</ul>\n\n<p>As regards bank interest etc received by a solicitor in the exercise of his profession, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim65800\">BIM65800</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40800",
+   "section_id": "BIM40800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-10-16T13:50:33+01:00",
+ "section_id": "BIM40805",
+ "title": "Specific receipts: interest and dividends: whether trade receipt"
+}

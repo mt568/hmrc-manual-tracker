@@ -1,0 +1,405 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110001",
+     "description": "",
+     "section_id": "SAM110001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110005",
+     "description": "",
+     "section_id": "SAM110005",
+     "title": "Allocated payment or credit"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110010",
+     "description": "",
+     "section_id": "SAM110010",
+     "title": "Automatic freestanding credits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110020",
+     "description": "",
+     "section_id": "SAM110020",
+     "title": "Automatic repayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110030",
+     "description": "",
+     "section_id": "SAM110030",
+     "title": "BACS repayment rejection"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110031",
+     "description": "",
+     "section_id": "SAM110031",
+     "title": "BACS rejection notified by HMRC Finance (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110035",
+     "description": "",
+     "section_id": "SAM110035",
+     "title": "Balancing Charge Credit (BCC)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110040",
+     "description": "",
+     "section_id": "SAM110040",
+     "title": "Cancellation of a repayment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110041",
+     "description": "",
+     "section_id": "SAM110041",
+     "title": "Cancellation of a repayment (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110050",
+     "description": "",
+     "section_id": "SAM110050",
+     "title": "Class 4 NIC refunds"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110060",
+     "description": "",
+     "section_id": "SAM110060",
+     "title": "PAYE repayment systems"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110070",
+     "description": "",
+     "section_id": "SAM110070",
+     "title": "Effective dates of payment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110080",
+     "description": "",
+     "section_id": "SAM110080",
+     "title": "Freestanding credits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110081",
+     "description": "",
+     "section_id": "SAM110081",
+     "title": "Freestanding credits (Action Guide menu)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110082",
+     "description": "",
+     "section_id": "SAM110082",
+     "title": "Creating a freestanding credit (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110083",
+     "description": "",
+     "section_id": "SAM110083",
+     "title": "Cancelling / amending a freestanding credit (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110085",
+     "description": "",
+     "section_id": "SAM110085",
+     "title": "Freestanding credit created manually from a brought back claim (Schedule 1B TMA 1970)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110086",
+     "description": "",
+     "section_id": "SAM110086",
+     "title": "Freestanding credit created manually from a stand alone claim for error or mistake relief (S33 TMA 1970) or overpayment relief (Schedule 1AB TMA 1970)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110087",
+     "description": "",
+     "section_id": "SAM110087",
+     "title": "Freestanding credit created manually from a stand alone claim made after the time limit for amending the return (Schedule 1A TMA 1970)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110088",
+     "description": "",
+     "section_id": "SAM110088",
+     "title": "Freestanding credit created manually from a ‘stand alone’ claim or a claim on a return to carry back losses or pension contributions, or a claim on a return for Farmer’s Averaging (Schedule 1B TMA 1970). (Not EIS Deferral claims)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110089",
+     "description": "",
+     "section_id": "SAM110089",
+     "title": "Freestanding credit created manually on the SA record from a PAYE / CODA overpayment, including pre-SA SC60 deductions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110090",
+     "description": "",
+     "section_id": "SAM110090",
+     "title": "In-year repayments to pension schemes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110100",
+     "description": "",
+     "section_id": "SAM110100",
+     "title": "In-year repayments to subcontractors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110101",
+     "description": "",
+     "section_id": "SAM110101",
+     "title": "In-year repayments to subcontractors (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110110",
+     "description": "",
+     "section_id": "SAM110110",
+     "title": "Local office payable orders"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110111",
+     "description": "",
+     "section_id": "SAM110111",
+     "title": "Local office payable orders (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110115",
+     "description": "",
+     "section_id": "SAM110115",
+     "title": "Method of repayment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110116",
+     "description": "",
+     "section_id": "SAM110116",
+     "title": "Repay to card"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110120",
+     "description": "",
+     "section_id": "SAM110120",
+     "title": "Missing repayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110121",
+     "description": "",
+     "section_id": "SAM110121",
+     "title": "Missing repayments (Action Guide menu)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110122",
+     "description": "",
+     "section_id": "SAM110122",
+     "title": "Missing BACS repayment (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110123",
+     "description": "",
+     "section_id": "SAM110123",
+     "title": "Missing payable order (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110124",
+     "description": "",
+     "section_id": "SAM110124",
+     "title": "Missing card repayment (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110125",
+     "description": "",
+     "section_id": "SAM110125",
+     "title": "No repayment' signal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110130",
+     "description": "",
+     "section_id": "SAM110130",
+     "title": "Nominations and assignments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110131",
+     "description": "",
+     "section_id": "SAM110131",
+     "title": "Nominations and deeds / letters of assignment (Action Guide menu)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110132",
+     "description": "",
+     "section_id": "SAM110132",
+     "title": "Assignment received (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110133",
+     "description": "",
+     "section_id": "SAM110133",
+     "title": "Taxpayer repaid in error (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110140",
+     "description": "",
+     "section_id": "SAM110140",
+     "title": "Non-automatic repayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110141",
+     "description": "",
+     "section_id": "SAM110141",
+     "title": "Non-automatic repayments (Action Guide menu)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110142",
+     "description": "",
+     "section_id": "SAM110142",
+     "title": "Repayment of an overpayment (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110143",
+     "description": "",
+     "section_id": "SAM110143",
+     "title": "Repayment of a payment made in error (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110144",
+     "description": "",
+     "section_id": "SAM110144",
+     "title": "Reallocation of a payment allocated in error"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110160",
+     "description": "",
+     "section_id": "SAM110160",
+     "title": "Overpayments in closed cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110170",
+     "description": "",
+     "section_id": "SAM110170",
+     "title": "Permanent cessation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110180",
+     "description": "",
+     "section_id": "SAM110180",
+     "title": "Permanent overpayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110185",
+     "description": "",
+     "section_id": "SAM110185",
+     "title": "R002 repayment notice"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110187",
+     "description": "",
+     "section_id": "SAM110187",
+     "title": "Reallocation or repayment of Repayment Supplement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110190",
+     "description": "",
+     "section_id": "SAM110190",
+     "title": "Repayment authorisation (or cancellation)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110200",
+     "description": "",
+     "section_id": "SAM110200",
+     "title": "Repayment donated to charity (facility withdrawn for all tax years from April 2012)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110201",
+     "description": "",
+     "section_id": "SAM110201",
+     "title": "Repayment donated to charity (facility withdrawn for all tax years from April 2012) (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110205",
+     "description": "",
+     "section_id": "SAM110205",
+     "title": "Repayment inhibitions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110210",
+     "description": "",
+     "section_id": "SAM110210",
+     "title": "Repayment prior to transfer into SA"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110220",
+     "description": "",
+     "section_id": "SAM110220",
+     "title": "Repayment set-off (BCC and FSC)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110225",
+     "description": "",
+     "section_id": "SAM110225",
+     "title": "Repayment status"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110227",
+     "description": "",
+     "section_id": "SAM110227",
+     "title": "Repayments to trusts and estates"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110230",
+     "description": "",
+     "section_id": "SAM110230",
+     "title": "S144 TCGA adjustments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110231",
+     "description": "",
+     "section_id": "SAM110231",
+     "title": "S144 TCGA adjustments by the creation of a Freestanding Credit"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110240",
+     "description": "",
+     "section_id": "SAM110240",
+     "title": "Schedule 1B claims - additional repayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110241",
+     "description": "",
+     "section_id": "SAM110241",
+     "title": "Schedule 1B claims - additional repayments (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110245",
+     "description": "",
+     "section_id": "SAM110245",
+     "title": "Special action in BACS repayment cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110250",
+     "description": "",
+     "section_id": "SAM110250",
+     "title": "Structured action requests - SARs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110260",
+     "description": "",
+     "section_id": "SAM110260",
+     "title": "Unallocated payment on SA"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110270",
+     "description": "",
+     "section_id": "SAM110270",
+     "title": "In-year repayments - small pension taken as a lump sum (formerly known as trivial commutations) and Flexible Pension Payments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110271",
+     "description": "",
+     "section_id": "SAM110271",
+     "title": "In-year repayments - small pension taken as a lump sum payment (formerly known as trivial commutations) and Flexible Pension Payments(Action Guide)"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2023-04-03T10:10:10+01:00",
+ "section_id": "SAM110000",
+ "title": "Repayments: issue repayment: contents"
+}

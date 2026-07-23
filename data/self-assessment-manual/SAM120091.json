@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120091",
+ "body": "<p>The automatic process to select cases for the issue of a CY-1 return on 6 April in any year is known as ITAR (Income Tax Annual Return selection). The selection process normally takes place in mid / late February and identifies that a return for the tax year which will end on the following 5 April is to be included in the bulk issue.</p>\n\n<p>Where the ITAR date has passed, follow steps 1 - 6 below.</p>\n\n<p>For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>1. Using Function RECORD RETURN REQUEST</p>\n\n<h2 id=\"IDADMJ4F\">If you want to request automatic issue of an original return for the year that will be CY-1 at the following 6 April (for example, year ending 5 April next)</h2>\n\n<p>2. Select the section of the screen indicating the current year</p>\n\n<p>3. Select ‘Late Issue / Reissue - original not served’ from the drop-down menu in the Request Reason field</p>\n\n<p>The return will be issued as soon as possible after the following 5 April</p>\n\n<h2 id=\"IDAYNJ4F\">If you want to request automatic issue of an original return for the year that is CY-1 at the present date (for example, year ending 5 April next)</h2>\n\n<p>4. Select the section of the screen indicating the previous year</p>\n\n<p>5. Indicate whether Failure To Notify applies by selecting the appropriate reason from the drop-down menu in the Failure To Notify field. Note: In a partnership case you must always select ‘Not Failure To Notify’</p>\n\n<p>6. Select ‘Late Issue / Reissue - original not served’ from the drop-down menu in the Request Reason field</p>\n\n<p>The return will be issued as soon as possible after the request is made</p>\n\n<p>Note: If a return has already been issued for the year in question, you will not be allowed to automatically re-issue a further original return for that year</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120000",
+   "section_id": "SAM120000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-10T09:02:01+01:00",
+ "section_id": "SAM120091",
+ "title": "Returns: return issue: requesting automatic issue of returns after ITAR (Action Guide)"
+}

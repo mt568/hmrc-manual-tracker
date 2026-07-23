@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122031",
+ "body": "<p>Where corrections are made to the entries on the front of the form, follow steps 1 - 4 below.</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>1. Use function AMEND TAXPAYER NAME AND ADDRESS to</p>\n\n<ul>\n  <li>Amend the name and / or base address</li>\n</ul>\n\n<p>You may be presented with function CASE AVAILABLE FOR TRANSFER</p>\n\n<ul>\n  <li>Make a note of the proposed new responsible office</li>\n  <li>Leave the ‘N’ entry in the Please Confirm If Transfer Required? field</li>\n  <li>Select the [OK] button</li>\n</ul>\n\n<p>2. Use function MAINTAIN TRADE to</p>\n\n<ul>\n  <li>Amend business name and / or business address</li>\n  <li>Amend the trade description where necessary. You may be presented with function CASE AVAILABLE FOR TRANSFER</li>\n  <li>Make a note of the proposed new responsible office</li>\n  <li>Leave the ‘N’ entry in the Please Confirm If Transfer Required? field</li>\n  <li>Select the [OK] button</li>\n</ul>\n\n<p>3. Make a pencil note on the return that the changes have been dealt with</p>\n\n<p>4.If a transfer is appropriate</p>\n\n<ul>\n  <li>Use function MAINTAIN RESPONSIBLE OFFICE to</li>\n  <li>Transfer responsibility to the office noted earlier</li>\n  <li>Ensure SA Notes are updated to reflect where papers are held</li>\n</ul>\n\n<p>For more information see section ‘Movement of Taxpayer Records’ in business area ‘Records’</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-09-01T10:11:56+01:00",
+ "section_id": "SAM122031",
+ "title": "Returns: partnership return details: partnership detail changes (Action Guide)"
+}

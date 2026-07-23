@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam131040",
+ "body": "\n<p>The ‘Inhibited Statements’ work list identifies cases where the Statement inhibited signal is set on the taxpayer record.  </p>\n\n<p>The list is allocated to the Clerical Processing Manager user role in the office with processing responsibility, and Worklist Manager user role in Debt Management offices and offices with technical responsibility.  </p>\n\n<p>A work item is created each time function INHIBIT STATEMENT is used to set the Statement inhibited signal on the taxpayer record to ‘Y’. Each work item shows taxpayer name, UTR, creation date and operator ID.  </p>\n\n<p>The list is used by the Statement Control Officer (SCO) to check the quality and security of the cases where the function has been used. The SCO uses the manual register of statement inhibition cases to identify approved inhibition cases.  </p>\n\n<p>Each entry on the work list is checked. If the inhibition is valid and is to remain on the work list no action is taken to delete the item. Where the inhibition can be lifted, function INHIBIT STATEMENT is used to set the Statement inhibited signal to ‘N’ and the work list entry is automatically deleted.  </p>\n\n<p>The work list will include entries for any cases where the Banking Operations offices have set the Statement inhibited signal. A Banking Operations office case is identified by reference to the Action Note in SA Notes. In addition to the normal security checks, the SCO contacts the Banking Operations office SCO to confirm that statements should remain inhibited where statements have been  </p>\n\n<ul>\n  <li>Inhibited by Banking Operations offices, and</li>\n  <li>The signal remains set for 3 months or more</li>\n</ul>\n\n<p>Note: The work items on the work list will be deleted automatically when the Statement Inhibited signal is set to ‘N’ and cannot be deleted manually.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam131000",
+   "section_id": "SAM131000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:21+00:00",
+ "section_id": "SAM131040",
+ "title": "Statements: statement issue: w040 inhibited statements  work list"
+}

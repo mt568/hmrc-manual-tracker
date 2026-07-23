@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim85635",
+ "body": "<p>S67, S69 Income Tax Act 2007</p>\n\n<p>The five year rule does not deny relief where the trade was set up and commenced within the five years prior to the year of claim. This includes a notional commencement when a person enters the UK (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim80610\">BIM80610</a>) and where there has been a complete change in the persons carrying on the trade. However, it is worth noting:</p>\n\n<ul>\n  <li>A new partner joining a firm is not a deemed commencement for the purposes of the five year rule. In other words it is necessary to look at tax years before the date of joining the partnership to determine whether a particular partner’s loss relief needs to be restricted.</li>\n  <li>Husband and wife, or civil partners, are to be treated as if they were the same person. Any transfer of the trade between them will, therefore, not affect the operation of the five year rule. A widow, widower, or surviving civil partner, is not, however, to be treated for these purposes as a wife, husband or civil partner, so that when a trade passes to a widow, widower, or surviving civil partner on death, a new run of losses must accrue before the five year rule becomes effective to deny loss relief.</li>\n  <li>If a husband and wife, or civil partners, or either of them, control a farming or market gardening company and succeed to the company’s trade, or if they, or either of them, carry on a trade which is taken over by the company, they and the company are regarded as the same person and the trade is treated as a continuous trade without regard to any discontinuance. (In this connection, ‘control’ has the meaning given by S450, S451 Corporation Tax Act 2010. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm60200\">CTM60200</a> onwards.)</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim85600",
+   "section_id": "BIM85600"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM85635",
+ "title": "Farming losses: notional cessations and recommencements"
+}

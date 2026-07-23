@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120035",
+ "body": "<p>The filing date of a partnership return for a partnership consisting solely of individuals is calculated as follows</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Situation</th>\n      <th>Issue date recorded</th>\n      <th>Filing date 2007/08 and later</th>\n      <th>Filing date 2006/07 and earlier</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Annual bulk issue</td>\n      <td>Actual date of issue</td>\n      <td>31 October following the end of the tax year for a paper return, or 31 January following the end of the tax year for an online return</td>\n      <td>31 January following the end of the tax year</td>\n    </tr>\n    <tr>\n      <td>Late issue of an original return and Re-issue of a return where original not served</td>\n      <td>Actual date of issue / re-issue</td>\n      <td>The later of 31 October following the end of the tax year for a paper return, or 31 January following the end of the tax year for an online return and 3 months from the date of issue/reissue</td>\n      <td>The later of 31 January following the end of the tax year, or where issue / re-issue takes place after 31 October, 3 months from the date of issue / re-issue</td>\n    </tr>\n    <tr>\n      <td>Duplicate return</td>\n      <td>Date of issue as originally recorded</td>\n      <td>Filing date as originally recorded</td>\n      <td>Filing date as originally recorded</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120000",
+   "section_id": "SAM120000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-27T11:56:15+01:00",
+ "section_id": "SAM120035",
+ "title": "Returns: return issue: filing date: partnership - solely individuals"
+}

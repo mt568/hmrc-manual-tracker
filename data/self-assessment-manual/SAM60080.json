@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam60080",
+ "body": "<p>The Statutory due dates for payment of SA liability are</p>\n<table summary=\"Table showing the statutory due dates for payment of SA liability\"><thead><tr><th scope=\"col\" width=\"266\"><p><strong>Liability/charge</strong></p></th><th scope=\"col\"><p><strong>Statutory due date</strong></p></th></tr></thead><tbody><tr><td width=\"266\"><p>First payment on account&nbsp;(see Note 1)</p></td><td><p>31 January before the end of the year of self assessment</p></td></tr><tr><td width=\"266\"><p>Second payment on account&nbsp;(see Note 1)</p></td><td><p>31 July after the year of self assessment</p></td></tr><tr><td width=\"266\"><p>Balancing payment&nbsp;(see Notes 1 and 2)</p></td><td><p>31 January after the year of self assessment</p></td></tr><tr><td width=\"266\"><p>Interest</p></td><td><p>Date the interest charge is created</p></td></tr><tr><td width=\"266\"><p>Penalties</p></td><td><p>30 days after the date of the notice of penalty</p></td></tr><tr><td width=\"266\"><p>Surcharge</p></td><td><p>30 days after the date of the notice of surcharge</p></td></tr><tr><td width=\"266\"><p>Revenue assessment</p></td><td><p>30 days after the assessment is made</p></td></tr><tr><td width=\"266\"><p>Determination</p></td><td><p>31 January after the year of self assessment</p></td></tr></tbody></table>\n<p><strong>Notes:</strong>&nbsp;</p>\n<p>1.&nbsp;&nbsp;Statutory Due Dates (SDD) are set out in the legislation. The SDD is normally also the Relevant due date (RDD) for interest purposes. An RDD can be amended manually using function AMEND RELEVANT DATES. For information about amending an RDD see business areas ‘Amend Payment’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam1000\">SAM1000</a>) and subject ‘Amending the Relevant Date’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam60050\">SAM60050</a>)</p>\n<p>2.&nbsp;&nbsp;When a claim to adjust payments on account is processed the due dates <strong>do not </strong>change</p>\n<p>3.&nbsp;&nbsp;The balancing payment due date is amended if</p>\n<ul><li class=\"dash\">There is no failure to notify chargeability, and</li><li class=\"dash\">HMRC issue the tax return after 31 October</li></ul>\n<p>Where the balancing payment is amended the RDD for one or both payments on account for the following year is similarly amended.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam60000",
+   "section_id": "SAM60000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-06-15T01:00:00+01:00",
+ "section_id": "SAM60080",
+ "title": "Interest, penalties and surcharge: interest: statutory due dates"
+}

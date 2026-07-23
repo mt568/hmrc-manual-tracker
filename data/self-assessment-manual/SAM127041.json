@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127041",
+ "body": "<p>Where a return has been received which is not signed or the signature is not acceptable, follow steps 1 - 5 below.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Cross through the date stamp and unlog the return</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Check whether the return is unsatisfactory in any way. See subject ‘HMRC Netherton: Unsatisfactory Returns’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam127080\">SAM127080</a>)</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>Send the whole return back to the taxpayer or agent who submitted it (only to an agent where 64-8 held), and enclose letter SA603, SA604 or SA605 as appropriate. Note: Where an agent is acting, a letter should also be issued to the other party notifying them of the action taken</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>Make an SA Note taken from the SEES Notes Paster (Returns &gt; SA Returns &gt; SA Return Logged/ Unlogged/ Repaired/ Unsatisfactory), showing the original date of receipt, the date the return is sent back and the reason for sending it back. Delete the contents of the BF Box</td>\n    </tr>\n    <tr>\n      <td>5.</td>\n      <td>If the unsatisfactory return was received before the filing date (or in the corresponding 21 day period up to any other filing date) and is being sent back on or after 10 October, or in the corresponding 21 day period before any other filing date, you should</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Follow the guidance for unsatisfactory returns at <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam127081\">SAM127081</a> </td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127000",
+   "section_id": "SAM127000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:11+00:00",
+ "section_id": "SAM127041",
+ "title": "Returns: returns processed at HMRC Netherton: HMRC Netherton: return is not signed (Action Guide)"
+}

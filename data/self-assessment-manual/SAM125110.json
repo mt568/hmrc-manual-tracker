@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125110",
+ "body": "<h2 id=\"husband-and-wife-cases\">Husband and wife cases</h2>\n\n<p>There is a bulk issue of the non-statutory forms from live PAYE primary source records in April, where the selection criteria is met.</p>\n\n<p>You now have to</p>\n\n<ul>\n  <li>Review the PAYE Service Targeted Review Forms where there is a live PAYE primary source, and update the ‘575 to Husband’ indicator as necessary. More information can be found in the PAYE Manual at PAYE79042</li>\n  <li>Prepare a form 575 manually, addressing it to the husband</li>\n  <li>If this is done for annual bulk issue, hold the form 575 with other forms to be issued manually</li>\n</ul>\n\n<h2 id=\"civil-partnership-cases\">Civil partnership cases</h2>\n\n<p>There is not a bulk issue of the non-statutory forms from live PAYE main source records in April as the ‘575 to Husband’ signal cannot be set in these cases.</p>\n\n<p>You now have to</p>\n\n<ul>\n  <li>Review the PAYE Service Targeted Review Forms where there is a live PAYE primary source. Do not enter the ‘575 to Husband’ indicator. More information can be found in the PAYE Manual at PAYE79042</li>\n  <li>Prepare a form 575 manually, addressing it to the civil partner with the PAYE primary source</li>\n  <li>If this is done for annual bulk issue, hold the form 575 with other forms to be issued manually</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:58+00:00",
+ "section_id": "SAM125110",
+ "title": "Returns: returns work lists: w035 manual issue of review form 575"
+}

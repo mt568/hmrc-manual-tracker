@@ -1,0 +1,48 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33600",
+ "body": "\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33605",
+     "description": "",
+     "section_id": "BIM33605",
+     "title": "Ways of disposing of or acquiring stock"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33610",
+     "description": "",
+     "section_id": "BIM33610",
+     "title": "Sales/purchases not at market value"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33630",
+     "description": "",
+     "section_id": "BIM33630",
+     "title": "‘Own goods’"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33650",
+     "description": "",
+     "section_id": "BIM33650",
+     "title": "Transfer pricing and thin capitalisation"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:20+01:00",
+ "section_id": "BIM33600",
+ "title": "Stock: non-trading transactions in stock: contents"
+}

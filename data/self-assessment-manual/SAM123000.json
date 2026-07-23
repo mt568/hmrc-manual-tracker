@@ -1,0 +1,363 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123001",
+     "description": "",
+     "section_id": "SAM123001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123010",
+     "description": "",
+     "section_id": "SAM123010",
+     "title": "Acknowledging returns: trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123020",
+     "description": "",
+     "section_id": "SAM123020",
+     "title": "Bare trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123030",
+     "description": "",
+     "section_id": "SAM123030",
+     "title": "Cessation or death of a trustee"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123031",
+     "description": "",
+     "section_id": "SAM123031",
+     "title": "Cessation or death of a trustee (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123035",
+     "description": "",
+     "section_id": "SAM123035",
+     "title": "Computer generated versions of tax returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123038",
+     "description": "",
+     "section_id": "SAM123038",
+     "title": "Filing dates"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123040",
+     "description": "",
+     "section_id": "SAM123040",
+     "title": "Logging trust returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123041",
+     "description": "",
+     "section_id": "SAM123041",
+     "title": "Logging trust returns (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123050",
+     "description": "",
+     "section_id": "SAM123050",
+     "title": "Part year trust returns for the current tax year"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123051",
+     "description": "",
+     "section_id": "SAM123051",
+     "title": "Part year trust returns for the current tax year (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123060",
+     "description": "",
+     "section_id": "SAM123060",
+     "title": "Payment received with trust return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123070",
+     "description": "",
+     "section_id": "SAM123070",
+     "title": "Return profile. Trust and estate returns only"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123080",
+     "description": "",
+     "section_id": "SAM123080",
+     "title": "Return issued to trust in error"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123090",
+     "description": "",
+     "section_id": "SAM123090",
+     "title": "Return receipt (trust): responsible office elsewhere"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123091",
+     "description": "",
+     "section_id": "SAM123091",
+     "title": "Return receipt (trust): responsible office elsewhere (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123100",
+     "description": "",
+     "section_id": "SAM123100",
+     "title": "Returns for out of date years: trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123101",
+     "description": "",
+     "section_id": "SAM123101",
+     "title": "Returns for out of date years: trusts (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123110",
+     "description": "",
+     "section_id": "SAM123110",
+     "title": "Reviewing enclosures: trust return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123120",
+     "description": "",
+     "section_id": "SAM123120",
+     "title": "Storing trust returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123130",
+     "description": "",
+     "section_id": "SAM123130",
+     "title": "Trustee detail changes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123131",
+     "description": "",
+     "section_id": "SAM123131",
+     "title": "Trustee detail changes (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123140",
+     "description": "",
+     "section_id": "SAM123140",
+     "title": "Unsolicited returns: trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123141",
+     "description": "",
+     "section_id": "SAM123141",
+     "title": "Unsolicited returns: trusts (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123150",
+     "description": "",
+     "section_id": "SAM123150",
+     "title": "Accounting periods and basis periods: trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123160",
+     "description": "",
+     "section_id": "SAM123160",
+     "title": "Prior year adjustments: trust returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123161",
+     "description": "",
+     "section_id": "SAM123161",
+     "title": "Prior year adjustments: trust returns (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123170",
+     "description": "",
+     "section_id": "SAM123170",
+     "title": "Provisional or estimated figures: trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123180",
+     "description": "",
+     "section_id": "SAM123180",
+     "title": "SAI: completion of trust return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123185",
+     "description": "",
+     "section_id": "SAM123185",
+     "title": "SAI: examples of omission of particular boxes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123190",
+     "description": "",
+     "section_id": "SAM123190",
+     "title": "Subcontractor returns: trust return review"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123200",
+     "description": "",
+     "section_id": "SAM123200",
+     "title": "Unlogging unsatisfactory trust returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123201",
+     "description": "",
+     "section_id": "SAM123201",
+     "title": "Unlogging unsatisfactory trust returns (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123210",
+     "description": "",
+     "section_id": "SAM123210",
+     "title": "Unsatisfactory trust returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123211",
+     "description": "",
+     "section_id": "SAM123211",
+     "title": "Unsatisfactory trust returns (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123214",
+     "description": "",
+     "section_id": "SAM123214",
+     "title": "Accept the trustee's figure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123220",
+     "description": "",
+     "section_id": "SAM123220",
+     "title": "Calculating trust liability"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123221",
+     "description": "",
+     "section_id": "SAM123221",
+     "title": "Calculating trust liability (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123230",
+     "description": "",
+     "section_id": "SAM123230",
+     "title": "Capture of trust return after 31 December: RC cases only"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123240",
+     "description": "",
+     "section_id": "SAM123240",
+     "title": "Multiple SAI for one basis period: trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123241",
+     "description": "",
+     "section_id": "SAM123241",
+     "title": "Multiple SAI for one basis period: trusts (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123250",
+     "description": "",
+     "section_id": "SAM123250",
+     "title": "Paper reports: trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123251",
+     "description": "",
+     "section_id": "SAM123251",
+     "title": "Paper reports: trusts (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123260",
+     "description": "",
+     "section_id": "SAM123260",
+     "title": "Repairing box 17.1"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123270",
+     "description": "",
+     "section_id": "SAM123270",
+     "title": "Repairing obvious errors: trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123271",
+     "description": "",
+     "section_id": "SAM123271",
+     "title": "Repairing obvious errors: trusts (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123280",
+     "description": "",
+     "section_id": "SAM123280",
+     "title": "Repairing returns after 31 December: trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123281",
+     "description": "",
+     "section_id": "SAM123281",
+     "title": "Repairing returns after 31 December: trusts (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123290",
+     "description": "",
+     "section_id": "SAM123290",
+     "title": "Repairing trust returns: guidelines for small repairs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123300",
+     "description": "",
+     "section_id": "SAM123300",
+     "title": "Return charge to be created for return issued in error"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123301",
+     "description": "",
+     "section_id": "SAM123301",
+     "title": "Return charge to be created for return issued in error (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123310",
+     "description": "",
+     "section_id": "SAM123310",
+     "title": "Returns mislaid after logging: trusts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123311",
+     "description": "",
+     "section_id": "SAM123311",
+     "title": "Returns mislaid after logging: trusts (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123315",
+     "description": "",
+     "section_id": "SAM123315",
+     "title": "TSS printout for trust and pension scheme returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123320",
+     "description": "",
+     "section_id": "SAM123320",
+     "title": "Unlogging returns where there is a charge on the record"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123330",
+     "description": "",
+     "section_id": "SAM123330",
+     "title": "Processing the pension scheme tax return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123331",
+     "description": "",
+     "section_id": "SAM123331",
+     "title": "Processing the pension scheme tax return (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123332",
+     "description": "",
+     "section_id": "SAM123332",
+     "title": "Processing the pension scheme tax return: calculation"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:37+00:00",
+ "section_id": "SAM123000",
+ "title": "Returns: trust returns: contents"
+}

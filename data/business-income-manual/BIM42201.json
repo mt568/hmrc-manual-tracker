@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42201",
+ "body": "<p>The treatment of any transaction in the accounts of a trader is followed for tax if:</p>\n\n<ul>\n  <li>it is consistent with generally accepted accounting practice (GAAP), which includes the admission of hindsight to the extent permissible by FRS 102 Section 32 Events after the End of the Reporting Period and IAS 10 Events after the Reporting Period, and;</li>\n  <li>it does not violate any specific statutory rule or a more general principle developed by the courts to give effect to the statutory requirement that the charge to tax is on the ’full amount’ of the profits.</li>\n</ul>\n\n<p>In recent years the courts have become increasingly reluctant to discern general tax principles which over-ride GAAP governing the time at which income or expenditure is recognised, particularly if the accounting method adopted is the only acceptable method under GAAP of handling a timing issue. For a detailed review of the case law on timing matters see the Master of the Rolls’ judgment in Threlfall v Jones [1993] 66TC77.</p>\n\n<p>In some situations, the correct application of GAAP permits an expense to be either wholly charged in the year incurred or spread over a longer period, for example, development expenditure where there is a reasonable certainty that it will give rise to revenue in the future. Where the latter treatment is adopted in accounts, an adjustment is sometimes sought in the tax computation to allow the whole cost in the year it was incurred. This is based on a contention that there is a tax principle (derived from Vallambrosa Rubber Co Ltd v Farmer [1910] 5TC529, and Duple Motor Bodies Ltd v Ostime [1961] 39TC537) that revenue expenditure is allowable in the period in which it is incurred which overrides GAAP treatment. The argument for the existence of such an overriding principle was rejected by the Court of Appeal in Threlfall v Jones [1993] 66TC77. We consider that the expenditure should be allowed for tax purposes when it is recognised in the accounts.</p>\n\n<p>The cases of Owen v Southern Railway of Peru Ltd [1956] 36TC602, and CIR v The Titaghur Jute Factory Co Ltd [1977] 53TC675, established that a deduction may be allowed for a contingent liability provided that:</p>\n\n<p>(a) the profit would not be adequately stated if the obligation was not taken into account, and</p>\n\n<p>(b) it has been possible to arrive at a sufficiently reliable figure.</p>\n\n<p>The admissibility of provisions was considered in the case of Johnston v Britannia Airways Ltd [1994] 67TC99, where it was concluded that essentially the same considerations apply to provisions as apply generally to timing issues (although accounting standards have altered the treatment under GAAP of provisions of the type considered in that case). See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46500\">BIM46500</a> onwards for detailed guidance on provisions.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42200",
+   "section_id": "BIM42200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T14:06:37+00:00",
+ "section_id": "BIM42201",
+ "title": "Deductions: timing: date allowable"
+}

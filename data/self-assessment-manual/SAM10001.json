@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10001",
+ "body": "<p>An appeal may be made against two types of SA items</p>\n\n<ul>\n  <li>SA charge based item</li>\n  <li>SA non charge based item</li>\n</ul>\n\n<p>Appeals can only be recorded onto a taxpayer’s SA record by an operator with the role of Appeals Handler, or by an operator with the role of Review Interest Officer. When an appeal is received in your office, you should find out who should handle it and, if necessary, forward the appeal without delay to the appropriate office.</p>\n\n<p>Appeals against charge based items may be accompanied by an application to postpone tax and / or NIC. Guidance on postponement applications is dealt with in the section ‘Postponements’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam11000\">SAM11000</a>).</p>\n\n<p>When you record an appeal on the taxpayer’s SA record, an item will be created on the ‘Open Appeals’ Work List. There is, however, little interaction with other SA functions and you should note the following points</p>\n\n<ul>\n  <li>Any postponement application accompanying the appeal should be separately handled using function MAINTAIN STANDOVERS</li>\n  <li>Recording an appeal does not cause a message to appear on the taxpayer’s statement of account, though the advisory message ‘NOTE: OPEN APPEAL’ is displayed in function VIEW STATEMENT</li>\n  <li>An acknowledgement of the appeal will not automatically be issued when you use function CREATE APPEAL. This must be issued separately using the appropriate appeal acknowledgement form (SAM10180)</li>\n  <li>Cancelling or amending a charge, for example a penalty or a charge arising from a Revenue assessment, will not cause the appeal to be cancelled. This will have to be done separately using function MAINTAIN APPEAL</li>\n  <li>If you record an appeal on a partnership record it will not flow automatically to the records of associated partners. If the appeal is against a fixed automatic penalty charged in respect of the failure to submit a partnership return, record the appeal only on the partnership record. Do not record the appeal on the associated partners’ records. The informal standover of the penalty should, however, be recorded on the records of the partners upon whom the penalty has been charged</li>\n</ul>\n\n<p>Appeals against legacy system items and other non SA items continue to be handled under current instructions and procedures.</p>\n\n<p>Technical instructions in respect of an appeal relating to an enquiry are contained in the Enquiry Manual. This section does not duplicate those instructions, but concentrates on how to handle the appeal using the SA computer system.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10000",
+   "section_id": "SAM10000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:20+00:00",
+ "section_id": "SAM10001",
+ "title": "Appeals, postponements and reviews: appeals: introduction"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam60051",
+ "body": "<p>If you need to amend the relevant date (RD) follow steps 1 - 6 below.</p>\n\n<p>Note: Whenever you amend the relevant date for interest purposes, consider the surcharge position. See subject ‘Effects of Amendments to Relevant Dates for Interest’ (SAM62030) for more information.</p>\n\n<p>For details of how to access any of the SA functions, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam003\">SAM003 - Functions Index</a>.</p>\n\n<p>This guide is presented as follows</p>\n\n<p><a href=\"#IDAF2SDH\">Interest objection received</a> - Steps 1 - 3<br />\n<a href=\"#IDA2ETDH\">Amending the relevant date following return capture</a> - Steps 4 - 6</p>\n\n<h2 id=\"IDAF2SDH\">Interest objection received</h2>\n\n<p>1. A Review Interest Officer (RIO) should examine the facts and if the taxpayer appears to be right</p>\n\n<ul>\n  <li>Prepare form AZ63(SA) in duplicate as follows</li>\n  <li>Complete Section A</li>\n  <li>Complete Section B2</li>\n  <li>Stamp the form</li>\n  <li>Pass the form to an Interest Supervisor (Grade HO or above) to sign</li>\n</ul>\n\n<p>2. The Interest Supervisor should</p>\n\n<ul>\n  <li>Examine the case papers</li>\n  <li>Complete and sign Section C</li>\n  <li>Return the papers with one copy of the form AZ63(SA) to the RIO to effect the amendment</li>\n  <li>Retain the other copy of the form AZ63(SA) centrally for use in future quality reviews</li>\n</ul>\n\n<p>3. On receipt of the signed form AZ63(SA) the RIO should</p>\n\n<ul>\n  <li>If amendment is agreed use function AMEND RELEVANT DATES to amend the relevant date. Interest will be recalculated automatically. In the event of disagreement the Interest Supervisor will give advice</li>\n  <li>In all cases, write to the taxpayer to advise the outcome</li>\n  <li>Use function MAINTAIN SA NOTES to record the action taken</li>\n  <li>Retain the papers where you change the relevant date until any quality review has been completed</li>\n</ul>\n\n<h2 id=\"IDA2ETDH\">Amending the relevant date following return capture</h2>\n\n<p>On receipt of the papers the Review Interest Network Officer should</p>\n\n<p>4. Review each case</p>\n\n<p>5. Use function AMEND RELEVANT DATES to change the relevant date(s) if necessary. See SAM60052 for examples</p>\n\n<p>6. Use function MAINTAIN SA NOTES to make a note that the relevant date(s) has changed</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam60000",
+   "section_id": "SAM60000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-17T09:12:51+01:00",
+ "section_id": "SAM60051",
+ "title": "Interest, penalties and surcharge: interest: amending the relevant date (RD) (Action Guide)"
+}

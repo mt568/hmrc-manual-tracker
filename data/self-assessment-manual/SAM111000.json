@@ -1,0 +1,39 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam111000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam111001",
+     "description": "",
+     "section_id": "SAM111001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam111010",
+     "description": "",
+     "section_id": "SAM111010",
+     "title": "Calculation of repayment supplement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam111020",
+     "description": "",
+     "section_id": "SAM111020",
+     "title": "Repayment supplement enquiries"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam111030",
+     "description": "",
+     "section_id": "SAM111030",
+     "title": "Repayment supplement / interest charges"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2023-09-12T14:42:35+01:00",
+ "section_id": "SAM111000",
+ "title": "Repayments: repayment interest: contents"
+}

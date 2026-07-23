@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam20110",
+ "body": "<p>The SA system will automatically compute Section 101, FA2009 interest (from 31 October 2011), (section 86 TMA 1970 interest up to 30 October 2011) on the basis of the entries you make in the various fields in function CREATE REVENUE ASSESSMENT. These may be</p>\n\n<ul>\n  <li>FIRST POA - 31st January during the year of assessment</li>\n  <li>SECOND POA - 31st July following the end of the year of assessment</li>\n  <li>BALANCE - 31st January following the end of the year of assessment</li>\n</ul>\n\n<p>If you need to record any other relevant date(s) for Section 101, FA2009 interest purposes use function AMEND RELEVANT DATES.</p>\n\n<p>To determine the correct relevant dates, (and the entries you should make in function CREATE REVENUE ASSESSMENT), you must consider</p>\n\n<ul>\n  <li>The type of assessment being made</li>\n  <li>The year of assessment</li>\n</ul>\n\n<p>For discovery, consider if the assessment is for one year only, or for consecutive years.</p>\n\n<p>Use the tables below to determine the relevant date(s) for Section 101, FA2009 interest.</p>\n\n<h4 id=\"revenue-assessment-type-discovery\">Revenue Assessment Type: Discovery</h4>\n\n<ul>\n  <li>1995-96 - The balancing payment due date for the year of assessment</li>\n  <li>1996-97 or later (first or only year) - The balancing payment due date for the year of assessment</li>\n  <li>1996-97 or later (other years) - The due dates of the payments on account, and the balancing payment for the year of assessment</li>\n</ul>\n\n<h4 id=\"revenue-assessment-type-recovery-of-over-repayment-of-tax\">Revenue Assessment Type: Recovery of over-repayment of tax</h4>\n\n<ul>\n  <li>All years - The date the repayment being recovered was made</li>\n</ul>\n\n<h4 id=\"revenue-assessment-type-withdrawal-of-capital-gains-roll-over-relief\">Revenue Assessment Type: Withdrawal of Capital Gains roll-over relief</h4>\n\n<ul>\n  <li>All years - The due date of the balancing payment for the year of assessment</li>\n</ul>\n\n<h4 id=\"revenue-assessment-type-adjustment-to-years-prior-to-cessation-of-self-assessment\">Revenue Assessment Type: Adjustment to years prior to cessation of Self Assessment</h4>\n\n<ul>\n  <li>All years - 30 days after the date of issue of the Notice of assessment</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam20000",
+   "section_id": "SAM20000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-12T09:23:06+01:00",
+ "section_id": "SAM20110",
+ "title": "Assessments: stand-alone assessments: relevant dates for section 101, FA2009 interest purposes"
+}

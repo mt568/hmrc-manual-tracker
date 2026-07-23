@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45351",
+ "body": "<p>A hire purchase agreement provides for the asset being hired to become the property of the hire purchaser automatically at the end of the hire period, or gives the hirer an option to buy the asset for a specified price (often a nominal amount). The seller retains ownership until the hirer has fulfilled the conditions specified in the agreement.</p>\n<p>Payments under a hire purchase contract are therefore made up of:</p>\n<ul><li class=\"filledcircle\">revenue payments for hire of the asset, which are deductible in calculating the hirer’s taxable profits, and</li><li class=\"filledcircle\">capital payments for the purchase of the asset (or for the option to do so), which are not deductible but which may qualify for capital allowances (under S67 Capital Allowances Act 2001; see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23310\">CA23310</a> onwards).</li></ul>\n<p>That the payments should be split in this way was confirmed in the case of <strong>Darngavil Coal Co Ltd v Francis</strong> [1913] 7 TC 1, although it gives no guidance on how to apportion each payment between the revenue and capital components.</p>\n<p>In a typical hire purchase agreement where the hirer acquires ownership of the asset at the end of the hire period either automatically or on payment of a nominal amount, the revenue ’hire' element of the payments should be taken to be the difference between the sum of all the instalments under the agreement and the value of the asset at the date the hire purchase agreement was entered into.</p>\n<p>The timing of deductions for the revenue ‘hire’ expenditure is based on the accounting treatment, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45355\">BIM45355</a>.</p>\n<p>A lease purchase agreement is a type of hire purchase agreement.</p>\n<p>For the treatment of hire purchase payments by businesses using the cash basis, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70040\">BIM70040</a>.</p>\n<h2>Where ownership transferred immediately</h2>\n<p>An agreement that transfers ownership immediately is an agreement for purchase by instalments (capital expenditure). None of the expenditure by the purchaser is revenue ‘hire’ expenditure.</p>\n<p>Under such an agreement the vendor can only sue for instalments in arrear and has no right to recover the asset.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45350",
+   "section_id": "BIM45350"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:30+01:00",
+ "section_id": "BIM45351",
+ "title": "Specific deductions: hire purchase: principles of an agreement"
+}

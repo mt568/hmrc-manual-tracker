@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim85630",
+ "body": "<p>S67, S70 Income Tax Act 2007</p>\n<p>In determining for the purpose of the five year test whether a loss was incurred in any particular tax year, the period to be taken is the year to 5 April. Where accounts are made up to a date other than 5 April, it may therefore be necessary to apportion the results of different periods of account.</p>\n<h4>Example</h4>\n<p>Starskie has traded as a farmer since 2010 and makes up their accounts annually to 31 December. Their results were as follows:</p>\n<table summary=\"Table showing the results\"><thead><tr><th scope=\"col\" width=\"207\"><p><strong>Year ended</strong></p></th><th scope=\"col\"><p><strong>Trade profit or loss before capital allowances</strong></p></th></tr></thead><tbody><tr><td width=\"207\"><p>Year ended 31.12.14</p></td><td><p>Loss £3700</p></td></tr><tr><td width=\"207\"><p>Year ended 31.12.15</p></td><td><p>Loss £1100</p></td></tr><tr><td width=\"207\"><p>Year ended 31.12.16</p></td><td><p>Loss £4800</p></td></tr><tr><td width=\"207\"><p>Year ended 31.12.17</p></td><td><p>Loss £7000</p></td></tr><tr><td width=\"207\"><p>Year ended 31.12.18</p></td><td><p>Loss £2600</p></td></tr><tr><td width=\"207\"><p>Year ended 31.12.19</p></td><td><p>Profit £1200</p></td></tr><tr><td width=\"207\"><p>Year ended 31.12.20</p></td><td><p>Loss £4400</p></td></tr><tr><td width=\"207\"><p>Year ended 31.12.21</p></td><td><p>Loss £5300</p></td></tr></tbody></table>\n<p>Starskie claims trade loss relief against general income for 2020-21. At first sight it may appear that the five year rule does not apply as they made a profit in the year ended 31 December 2019. A different picture emerges however when profits or losses are computed by reference to tax years.</p>\n<table summary=\"Table showing the computation\"><thead><tr><th scope=\"col\" width=\"97\"><p><strong>Tax year</strong></p></th><th scope=\"col\" width=\"377\"><p>-</p></th><th scope=\"col\"><p><strong>Losses</strong></p></th></tr></thead><tbody><tr><td width=\"97\"><p>2015-16</p></td><td width=\"377\"><p>(270/365 x L £1100 = L £814) + (95/366 x L £4800 = L £1246)</p></td><td><p>= Loss £2060</p></td></tr><tr><td width=\"97\"><p>2016-17</p></td><td width=\"377\"><p>(270/366 x L £4800 = L £3541) + (96/365 x L £7000 = L £1841)</p></td><td><p>= Loss £5382</p></td></tr><tr><td width=\"97\"><p>2017-18</p></td><td width=\"377\"><p>(270/365 x L £7000 = L £5164) + (95/365 x L £2600 = L £677)</p></td><td><p>= Loss £5841</p></td></tr><tr><td width=\"97\"><p>2018-19</p></td><td width=\"377\"><p>(270/365 x L £2600 = L £1923) + (95/365 x P £1200 = P £312)</p></td><td><p>= Loss £1611</p></td></tr><tr><td width=\"97\"><p>2019-20</p></td><td width=\"377\"><p>(270/365 x P £1200 = P £888) + (95/366 x L £4400 = L £1142)</p></td><td><p>= Loss £254</p></td></tr><tr><td width=\"97\"><p>2020-21</p></td><td width=\"377\"><p>(270/366 x L £4400 = L £3246) + (96/365 x L £5300 = L £1394)</p></td><td><p>= Loss £4640</p></td></tr></tbody></table>\n<p>We can now see that they made a trading loss, computed without regard to capital allowances, in each of the five preceding tax years. The five year rule therefore applies and the loss incurred for the year ended 31.12.2020 of £4400 is not available for trade loss relief against general income.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim85600",
+   "section_id": "BIM85600"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-24T11:26:20+00:00",
+ "section_id": "BIM85630",
+ "title": "Farming losses: loss considered is loss incurred in year to 5 April"
+}

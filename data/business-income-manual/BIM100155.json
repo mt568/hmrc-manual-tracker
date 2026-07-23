@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim100155",
+ "body": "<p>S687-S689 Income Tax (Trading and Other Income) Act 2005, S979-S981 Corporation Tax Act 2009</p>\n<h2>Expenses</h2>\n<p>Expenses are allowable in computing income within the sweep-up charge, but there is only limited legislation on exactly what expenses are deductible. For example, there are rules disallowing business entertaining expenditure (similar to those which apply to trade profits - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45000\">BIM45000</a>) where the activity concerned is a business.</p>\n<p>In practice you should follow the rules governing trade profits, so far as they are applicable (see the speech of Rowlatt J in <strong>Curtis Brown Ltd v Jarvis </strong>[1929] 14TC744 at pages 752-753).</p>\n<h2>Capital Allowances</h2>\n<p>There is normally no entitlement to capital allowances in respect of miscellaneous income. You should refer any case of doubt or difficulty to <span>Business Profits</span>.</p>\n<h2>Interest</h2>\n<p>Interest paid is normally not an allowable deduction in arriving at the profits chargeable under the miscellaneous income sweep-up provisions. This is because in the case of profits of a casual or occasional nature it is difficult for interest to satisfy the ‘wholly and exclusively’ test, and raising funds to support the activity would itself point to trading.</p>\n<h2>VAT</h2>\n<p>If any expenses deductible in computing miscellaneous income have borne VAT, which is irrecoverable, the deduction should be the amount inclusive of VAT. Otherwise, if the VAT is recoverable, then the allowable expense is the amount net of VAT.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim100000",
+   "section_id": "BIM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM100155",
+ "title": "Miscellaneous income: deductions"
+}

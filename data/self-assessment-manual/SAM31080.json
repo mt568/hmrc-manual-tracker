@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31080",
+ "body": "<p>Enquiry status starts from Caseflow actions and flows to SA via linked processes.</p>\n<p>The Enquiry Signal is set automatically when Compliance opens an&nbsp;enquiry on the Caseflow system.&nbsp;&nbsp;The signal will remain during the enquiry.&nbsp; When the enquiry is complete, it must be closed manually on Caseflow by the Compliance caseworker, and this should remove the Enquiry signal on SA.</p>\n<p>The enquiry status flows over from Caseflow to control downstream processes and maintain compliance integrity as to prevent incorrect repayment.</p>\n<p><br /></p>\n<p>Function VIEW COMPLIANCE SUMMARY shows the enquiry status for each tax year. If there is no enquiry for the tax year the status will appear as ‘NONE’.<br /><br />Where there is, or has been, an enquiry for the tax year, the entry will show</p>\n<ul><li class=\"dash\">The enquiry type, that is, S9A or S12AC</li><li class=\"dash\">Whether the enquiry for the tax year is OPEN, PRESENT or CLOSED</li></ul>\n<blockquote><p><strong>Note: </strong>‘OPEN’ or ‘PRESENT’ indicates the enquiry is underway for the tax year. ‘CLOSED’ is shown where the enquiry has been settled for the tax year, that is, a settlement date has been entered on the SA record.&nbsp;The enquiry signal cannot be set in the SA system. The enquiry status flows over from Caseflow and SA reflects what is set there.</p></blockquote>\n<p>The following entries may appear on an SA record type of individual or trust</p>\n<ul><li class=\"dash\">S9A OPEN</li><li class=\"dash\">S9A CLOSED</li><li class=\"dash\">S9A OPEN / S12AC PRESENT</li><li class=\"dash\">S9A OPEN / S12AC CLOSED</li><li class=\"dash\">S9A CLOSED / S12AC PRESENT</li><li class=\"dash\">S12AC PRESENT</li></ul>\n<blockquote><p><strong>Note: </strong>There is not an indicator to deal with a situation where a S12AC enquiry is closed and there has been no S9A enquiry for that tax year. In this case the enquiry status on the partner’s SA record will, on settlement of the S12AC enquiry, change from ‘S12AC PRESENT’ to ‘NONE’</p></blockquote>\n<p>The following entries may appear on an SA record type of partnership</p>\n<ul><li class=\"dash\">S12AC OPEN</li><li class=\"dash\">S12AC CLOSED</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31000",
+   "section_id": "SAM31000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-01-14T00:00:00+00:00",
+ "section_id": "SAM31080",
+ "title": "Compliance: enquiry work: enquiry status"
+}

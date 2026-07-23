@@ -1,0 +1,27 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35850",
+ "body": "<h2 id=\"broken-down-into-five-stages\">Broken down into five stages</h2>\n\n<p>Having established whether, and if so which, computer software projects are of a capital nature it remains necessary to identify the relevant capital expenditure. Not all expenditure which is in some sense associated with a capital project is itself capital. The question to be asked is on what particular expenditure is incurred. In other words it is necessary to establish for what the payment was made. For abortive expenditure see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35325\">BIM35325</a>.</p>\n\n<h3 id=\"nature-of-trade-test\">Nature of trade test</h3>\n\n<p>The trading test is not one of purpose. Thus expenditure may have too loose an association with a particular capital project to qualify as capital even though it may be intended to promote the capital project.</p>\n\n<h3 id=\"stages-in-system-development\">Stages in system development</h3>\n\n<p>In deciding what expenditure is integral to development of the new system it may be useful to identify the stages in the development and implementation of a project:</p>\n\n<ol>\n  <li>Initial research expenditure and preliminary planning.</li>\n</ol>\n\n<blockquote>\n  <ul>\n    <li>Decision to develop.</li>\n  </ul>\n</blockquote>\n\n<ol>\n  <li>Practical test and trial exercises.</li>\n  <li>Design and development of full working systems.</li>\n</ol>\n\n<blockquote>\n  <ul>\n    <li>Decision to implement.</li>\n  </ul>\n</blockquote>\n\n<ol>\n  <li>Costs associated with implementation (especially staff training and procedural changes).</li>\n  <li>Upgrading, updating and error correction.</li>\n</ol>\n\n<p>First stage</p>\n\n<p>Expenditure at the first stage will often be divided into an initial feasibility study and, if the decision is to proceed, expenditure on a much more expensive full study. In many cases it will not be possible to show that expenditure at the full study stage, still less the feasibility stage, is incurred on the capital asset. Normally it consists of ascertaining the needs of potential users, investigating the possibilities, albeit in some detail, and drawing up specifications. At this stage very little writing of computer programmes would be expected. The purpose of this expenditure may be the development of a software based system but the objective link between the expenditure and the software is too remote to count.</p>\n\n<p>Second and third stages</p>\n\n<p>Expenditure at the second and third stages will normally be capital (even though the expenditure may prove abortive if the decision is subsequently taken not to implement). At this stage the software can be viewed as a business tool which has been successfully created. An exception would be recurring royalties for a licence to use any bought-in software as the base for the in-house project even though the rights obtained under the licence are of a capital nature. Compare the treatment of rents payable for the occupation of premises that are a capital asset of a business.</p>\n\n<p>Fourth stage</p>\n\n<p>To the extent that the fourth stage, that of implementation, consists of teaching staff how to use the software the costs should be regarded as revenue (just as the costs of teaching staff to use bought-in software or any item of new capital equipment would normally be regarded as revenue).</p>\n\n<p>Fifth stage</p>\n\n<p>Costs incurred at the fifth stage would normally be regarded as no more than piecemeal improvement and should be allowed (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35845\">BIM35845</a>).</p>\n\n<h3 id=\"consider-analogy-of-revenue-systems\">Consider analogy of revenue systems</h3>\n\n<p>In developing a perspective on the treatment of computer software expenditure it may be helpful to bear in mind the likely treatment of the HMRC computer systems were it necessary to apply tax law to them. Major systems such as COP, CODA, CT Pay and File, which were developed in-house, would clearly be of a capital nature. Even so, most expenditure incurred on ‘upgrading’ those systems subsequent to ‘roll-out’ would probably be revenue. Expenditure on creating the small pieces of software which exist to support various minor technical computations required under current tax law would be revenue.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35800",
+   "section_id": "BIM35800"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35820",
+   "section_id": "BIM35820"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:12:30+01:00",
+ "section_id": "BIM35850",
+ "title": "Capital/revenue divide: computer software: in-house software development costs: phases of system development"
+}

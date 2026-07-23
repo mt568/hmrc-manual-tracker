@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11150",
+ "body": "<p>An item will be created on the ‘Open Appeals’ work list in either of the following circumstances</p>\n\n<ul>\n  <li>An appeal is recorded on the taxpayer’s SA record using function CREATE APPEAL</li>\n</ul>\n\n<p>Or  </p>\n\n<ul>\n  <li>A formal standover is recorded on the taxpayer’s SA record using function MAINTAIN STANDOVERS</li>\n</ul>\n\n<p>The work items are directed initially at the office with processing responsibility for the taxpayer. They can, however be transferred to and from the office with technical responsibility using function RE-ALLOCATE CASES.</p>\n\n<p>The item will remain on the work list as long as the appeal and / or the formal standover remains open.</p>\n\n<p>In practice it would be unusual for a formal standover to be accepted in the absence of an appeal.</p>\n\n<p>The items will be allocated to officers with the role of Appeals Handler in the office with processing or technical responsibility for the taxpayer.</p>\n\n<p>The items may be filtered by reference to the following criteria</p>\n\n<ul>\n  <li>Appeal type (appeal or formal standover)</li>\n  <li>Age</li>\n  <li>Amount standing over</li>\n</ul>\n\n<p>All entries should be reviewed regularly to ensure that each open appeal and associated formal standover is being dealt with promptly and appropriately.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11000",
+   "section_id": "SAM11000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:55:17+00:00",
+ "section_id": "SAM11150",
+ "title": "Appeals, postponements and reviews: postponements: w015 open appeals work list"
+}

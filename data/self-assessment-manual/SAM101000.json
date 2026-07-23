@@ -1,0 +1,333 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101001",
+     "description": "",
+     "section_id": "SAM101001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101010",
+     "description": "",
+     "section_id": "SAM101010",
+     "title": "Address flow from CID framework to SA"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101020",
+     "description": "",
+     "section_id": "SAM101020",
+     "title": "Address: computer review"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101030",
+     "description": "",
+     "section_id": "SAM101030",
+     "title": "Address RLS"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101031",
+     "description": "",
+     "section_id": "SAM101031",
+     "title": "Address RLS (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101040",
+     "description": "",
+     "section_id": "SAM101040",
+     "title": "Automatic removal of cases from SA using CY-1 return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101042",
+     "description": "",
+     "section_id": "SAM101042",
+     "title": "Criteria for auto removal of cases from SA using CY-1 return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101043",
+     "description": "",
+     "section_id": "SAM101043",
+     "title": "Automatic removal of ceased self employed and/or partner cases from SA"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101050",
+     "description": "",
+     "section_id": "SAM101050",
+     "title": "Automatic unsetting of 'Last SA return required' signal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101060",
+     "description": "",
+     "section_id": "SAM101060",
+     "title": "Breaking the SA and PAYE link"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101070",
+     "description": "",
+     "section_id": "SAM101070",
+     "title": "W050 CID framework rejection work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101071",
+     "description": "",
+     "section_id": "SAM101071",
+     "title": "W050 CID framework rejection work list (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101075",
+     "description": "",
+     "section_id": "SAM101075",
+     "title": "SA exceptions from Frameworks merging process"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101076",
+     "description": "",
+     "section_id": "SAM101076",
+     "title": "SA exceptions from Frameworks merging process (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101080",
+     "description": "",
+     "section_id": "SAM101080",
+     "title": "Deferred class 4 NIC"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101090",
+     "description": "",
+     "section_id": "SAM101090",
+     "title": "Dormant records"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101091",
+     "description": "",
+     "section_id": "SAM101091",
+     "title": "Dormant record (Action Guide menu)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101092",
+     "description": "",
+     "section_id": "SAM101092",
+     "title": "Dormant records: making a record dormant (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101093",
+     "description": "",
+     "section_id": "SAM101093",
+     "title": "Dormant records: re-activating a dormant record (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101094",
+     "description": "",
+     "section_id": "SAM101094",
+     "title": "Dormant records: automation of dormant record process"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101100",
+     "description": "",
+     "section_id": "SAM101100",
+     "title": "Duplicate SA records"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101101",
+     "description": "",
+     "section_id": "SAM101101",
+     "title": "Duplicate SA records (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101105",
+     "description": "",
+     "section_id": "SAM101105",
+     "title": "SA mixed records"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101106",
+     "description": "",
+     "section_id": "SAM101106",
+     "title": "SA mixed records (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101110",
+     "description": "",
+     "section_id": "SAM101110",
+     "title": "Employer compliance system - expenses and benefits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101120",
+     "description": "",
+     "section_id": "SAM101120",
+     "title": "HMRC delay in using information"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101121",
+     "description": "",
+     "section_id": "SAM101121",
+     "title": "HMRC delay in using information (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101130",
+     "description": "",
+     "section_id": "SAM101130",
+     "title": "I filers exception printout"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101131",
+     "description": "",
+     "section_id": "SAM101131",
+     "title": "I filers exception printout (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101140",
+     "description": "",
+     "section_id": "SAM101140",
+     "title": "Inhibit auto closure signal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101150",
+     "description": "",
+     "section_id": "SAM101150",
+     "title": "Inhibition of statements"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101160",
+     "description": "",
+     "section_id": "SAM101160",
+     "title": "Liability unlikely"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101170",
+     "description": "",
+     "section_id": "SAM101170",
+     "title": "Linking SA and PAYE records"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101180",
+     "description": "",
+     "section_id": "SAM101180",
+     "title": "Maintain agent for taxpayer"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101190",
+     "description": "",
+     "section_id": "SAM101190",
+     "title": "Maintain capacities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101200",
+     "description": "",
+     "section_id": "SAM101200",
+     "title": "Maintain company record"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101210",
+     "description": "",
+     "section_id": "SAM101210",
+     "title": "Maintain individual record"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101220",
+     "description": "",
+     "section_id": "SAM101220",
+     "title": "Maintain partner"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101230",
+     "description": "",
+     "section_id": "SAM101230",
+     "title": "Maintain partnership record"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101240",
+     "description": "",
+     "section_id": "SAM101240",
+     "title": "Maintain taxpayer return profile"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101250",
+     "description": "",
+     "section_id": "SAM101250",
+     "title": "Maintain trade"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101260",
+     "description": "",
+     "section_id": "SAM101260",
+     "title": "Maintain trust record"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101270",
+     "description": "",
+     "section_id": "SAM101270",
+     "title": "Maintaining addresses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101290",
+     "description": "",
+     "section_id": "SAM101290",
+     "title": "Nominated partner"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101310",
+     "description": "",
+     "section_id": "SAM101310",
+     "title": "W045 Pensioner and low income review list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101320",
+     "description": "",
+     "section_id": "SAM101320",
+     "title": "W046 Pensioner and low income quality review list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101330",
+     "description": "",
+     "section_id": "SAM101330",
+     "title": "Postcodes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101340",
+     "description": "",
+     "section_id": "SAM101340",
+     "title": "W032 RLS cases work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101350",
+     "description": "",
+     "section_id": "SAM101350",
+     "title": "View taxpayer's details"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101360",
+     "description": "",
+     "section_id": "SAM101360",
+     "title": "Who can amend a taxpayer record"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101370",
+     "description": "",
+     "section_id": "SAM101370",
+     "title": "Budget Payment Plan signal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101380",
+     "description": "",
+     "section_id": "SAM101380",
+     "title": "Scottish income tax"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101390",
+     "description": "",
+     "section_id": "SAM101390",
+     "title": "Welsh income tax"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2019-08-06T07:35:06+01:00",
+ "section_id": "SAM101000",
+ "title": "Records: maintain taxpayer record: contents"
+}

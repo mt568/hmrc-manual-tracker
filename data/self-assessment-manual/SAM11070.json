@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11070",
+ "body": "<p>Decisions to informally postpone all or part of an SA charge will not necessarily be dealt with in conjunction with an appeal. When the decision has been taken to informally standover all or part of a charge you will be responsible for</p>\n\n<ul>\n  <li>Recording the informal standover against the appropriate charge on the taxpayer’s SA record using the Informal Standover option in function MAINTAIN STANDOVERS</li>\n  <li>Notifying the taxpayer, or representative, of the action you have taken</li>\n</ul>\n\n<p>The maximum amount of the charge that you can informally standover is</p>\n\n<ul>\n  <li>\n    <p>The original charge</p>\n\n    <p>Less the sum of  </p>\n\n    <ul>\n      <li>Any adjustments made to the charge</li>\n      <li>Amounts remitted</li>\n      <li>Amounts transferred to PAYE</li>\n      <li>Any amount already formally stoodover</li>\n    </ul>\n  </li>\n</ul>\n\n<p>Amendment to standover </p>\n\n<p>An informal standover may be adjusted or reduced to NIL at any time, depending upon the circumstances of the case, using function MAINTAIN STANDOVERS.</p>\n\n<p>An informal standover may also be adjusted automatically when the original charge, less adjustments, remissions, transfers to PAYE and formal standovers is reduced to less than the amount already informally stoodover.</p>\n\n<p>Note: When the original charge is amended, although formal standovers are automatically cancelled, related informal standovers need to be reviewed and reduced to NIL where appropriate.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11000",
+   "section_id": "SAM11000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:33+00:00",
+ "section_id": "SAM11070",
+ "title": "Appeals, postponements and reviews: postponements: handling an informal standover"
+}

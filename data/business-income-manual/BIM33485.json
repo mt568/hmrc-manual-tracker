@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33485",
+ "body": "<p>S165 Corporation Tax Act 2009 and S176 Income Tax (Trading and Other Income) Act 2005</p>\n<h2><a id=\"IDAXKE0B\">Normal commercial transactions</a></h2>\n<p>Where the sale price is not determined by tax considerations a trader will generally sell stock at cessation to another trader, whether connected or not, at a price in a range between its book value and its arm's length value.  If stock is sold at book value the vendor does not realise the profit inherent in stock that has appreciated in value since it was bought.  But the stock may be sold at a price that enables the trader to realise some or all of the profits inherent in the stock.</p>\n<p><a href=\"#Top\">Top of page</a></p>\n<h2><a id=\"IDASIE0B\">Interpretation of the legislation</a></h2>\n<p>The legislation says that the value of the stock is `the amount in fact realised on the sale'.  In the simple case where only stock is sold by the ceasing trader to a third party purchaser this will be the amount paid for the stock.</p>\n<p>Often the stock will be sold together with other assets of the business and in some cases the purchaser will also take on existing liabilities of the ceasing business.  The sale contract may specify amounts for individual assets or it may just refer to a single figure of consideration.</p>\n<p><a href=\"#Top\">Top of page</a></p>\n<h2><a id=\"IDA3PE0B\">Apportionment of sale consideration</a></h2>\n<p>Where stock is sold together with other assets of the business a just and reasonable apportionment has to be made of the consideration given, irrespective of whether a price for stock has been specified in the sales contract.  This may well mean that the figure provided in the sale agreement (if any) for stock is the right figure to use.  But if the figure in the sale agreement is very different from the fair value figure shown in the purchaser’s accounts then the tax figure should be arrived at by a just and reasonable apportionment. </p>\n<p>For example, a ceasing trader sells his closing stock, his tools and van and signs over the lease of a lock-up garage on which he has paid £1,000 in rent for the next five months. The consideration for the entire sale is £6,000.  The second hand value of the van is £1,000 and his tools had been insured for £750.  It would be reasonable to apportion £3,250 for stock.</p>\n<p><a href=\"#Top\">Top of page</a></p>\n<h2><a id=\"IDAFPE0B\">Consideration given</a></h2>\n<p>Where the stock is transferred and the purchaser takes over liabilities of the business as well as other assets then the consideration given will include the value of taking over the liabilities as well as any cash or non cash payment given, see examples in the business successions guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33700\">BIM33700</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33450",
+   "section_id": "BIM33450"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:17+01:00",
+ "section_id": "BIM33485",
+ "title": "Stock: valuation on discontinuance of business: transfer to unconnected trader - amount realised on sale"
+}

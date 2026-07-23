@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122041",
+ "body": "<p>Where you discover an ‘Away’ return follow steps 1 - 5 below.</p>\n\n<p>The guide is presented as follows</p>\n\n<p><a href=\"#IDA30SXD\">In all cases</a> - Step 1<br />\n<a href=\"#IDAX1SXD\">Before logging (if it is obvious from the return or enclosures that this is an ‘Away’ case)</a> - Steps 2 - 3<br />\n<a href=\"#IDAB3SXD\">‘Away’ returns received and logged before 31 October but not sent to the appropriate office before December cut-off date</a> - Steps 4 - 5</p>\n\n<p>For details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDA30SXD\">In all cases</h2>\n\n<p>1. Stamp the date of receipt on the front of the return. Where the filing date falls on a day when the office is closed, all returns received in the post on the day following closure should be date stamped as received on the filing date</p>\n\n<h2 id=\"IDAX1SXD\">Before logging (if it is obvious from the return or enclosures that this is an ‘Away’ case)</h2>\n\n<p>2. Record receipt of the return using function LOG RETURN</p>\n\n<p>3. Send the return to the appropriate office immediately by Tax Post Direct, with a covering note to say the return has been logged</p>\n\n<h2 id=\"IDAB3SXD\">‘Away’ returns received and logged before 31 October but not sent to the appropriate office before December cut-off date</h2>\n\n<p>4. Capture the return details, except for returns applicable to Public Departments 1. (Under no circumstances should you capture any returns in respect of cases applicable to Public Departments 1 (PD1), which will include the office reference of 940. These should be sent immediately to PD1 by Tax Post Direct, marked for the attention of the Area Operations Manager)</p>\n\n<p>5. Send the return to the appropriate office immediately by Tax Post Direct, with a covering note giving details of the action taken</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-09-01T10:18:33+01:00",
+ "section_id": "SAM122041",
+ "title": "Returns: partnership returns: return receipt (partnership): responsible office elsewhere (Action Guide)"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140021",
+ "body": "<p>Where a non-SA PAYE case needs to be brought into SA to recover an underpayment, follow steps 1 - 2 below.</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Before setting up an SA record, you must satisfy yourself that one does not already exist. A record may have been set up in the past to account for liability in a single year only</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>Where a dormant record is traced</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* If necessary, ask for the record to be transferred to you</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>And then</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Re-activate that record</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>Where a dormant record is not traced</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Set up an SA record</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>Detailed information about how to create or re-activate an SA record is provided in section ‘Set Up Taxpayer Record’ in business area ‘Records’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam100000\">SAM100000</a> onwards)</td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Provided you are sure that there will be no ongoing SA liability</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Use function AMEND TAXPAYER SIGNALS to set the ‘Last SA Return Required For Year Ending 5 April’ signal to the last year for which an SA return is required</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>Note: You must carry out this action to make sure that future tax returns are not issued unnecessarily</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Issue the SA return, or returns, using function RECORD DATE OF CLERICAL ISSUE to record the date of issue, and the non-standard filing date, where appropriate</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>Note: Where the total underpayment has arisen over more than one year, a return will need to be issued for each year involved in the reconciliation</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Make a note in SA Notes of the reason for issuing an SA return</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>Note: You can only issue an SA return and collect the underpayment if the date is no later than 23 December three years after the end of the tax year in which the underpayment arose</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140000",
+   "section_id": "SAM140000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:34+00:00",
+ "section_id": "SAM140021",
+ "title": "Transfer of liability: transfer from PAYE to SA: one or more tax year PAYE cases (Action Guide)"
+}

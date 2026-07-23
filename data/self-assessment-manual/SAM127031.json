@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127031",
+ "body": "<p>Where a return with an entry at box 7.4 has been received, follow steps 1 - 3 below</p>\n\n<p>1. Log the return using function LOG RETURN</p>\n\n<h2 id=\"IDA4OVXH\">If form SA108 and capital gains computation is enclosed</h2>\n\n<p>2. Forward the return for capture and retention to the relevant Processing office</p>\n\n<h2 id=\"IDAUPVXH\">If neither form SA108 nor capital gains computation is enclosed</h2>\n\n<p>3. Forward the return to the relevant Processing office for unsatisfactory returns procedure</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127000",
+   "section_id": "SAM127000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-03T10:19:47+01:00",
+ "section_id": "SAM127031",
+ "title": "Returns: returns processed at HMRC Wolverhampton: HMRC Wolverhampton: return indicates capital gains form completed (Action Guide)"
+}

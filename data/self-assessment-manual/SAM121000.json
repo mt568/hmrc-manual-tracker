@@ -1,0 +1,660 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121001",
+     "description": "",
+     "section_id": "SAM121001",
+     "title": "Introduction"
+    }
+   ]
+  },
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121010",
+     "description": "",
+     "section_id": "SAM121010",
+     "title": "Acknowledging returns: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121020",
+     "description": "",
+     "section_id": "SAM121020",
+     "title": "Computer generated versions of tax returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121021",
+     "description": "",
+     "section_id": "SAM121021",
+     "title": "Manually altered earlier years returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121025",
+     "description": "",
+     "section_id": "SAM121025",
+     "title": "Filing dates"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121030",
+     "description": "",
+     "section_id": "SAM121030",
+     "title": "Logging individuals' returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121031",
+     "description": "",
+     "section_id": "SAM121031",
+     "title": "Logging individuals' returns (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121035",
+     "description": "",
+     "section_id": "SAM121035",
+     "title": "Returns with capital gains pages"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121040",
+     "description": "",
+     "section_id": "SAM121040",
+     "title": "Part year individual returns for the current year"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121050",
+     "description": "",
+     "section_id": "SAM121050",
+     "title": "Payment received with individual return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121065",
+     "description": "",
+     "section_id": "SAM121065",
+     "title": "Return batch identifier"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121070",
+     "description": "",
+     "section_id": "SAM121070",
+     "title": "Return receipt (individual): responsible office elsewhere"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121071",
+     "description": "",
+     "section_id": "SAM121071",
+     "title": "Return receipt (individual): responsible office elsewhere (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121080",
+     "description": "",
+     "section_id": "SAM121080",
+     "title": "Returns for out of date years: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121090",
+     "description": "",
+     "section_id": "SAM121090",
+     "title": "Reviewing enclosures: individual return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121100",
+     "description": "",
+     "section_id": "SAM121100",
+     "title": "Short tax returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121110",
+     "description": "",
+     "section_id": "SAM121110",
+     "title": "Storing individual returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121120",
+     "description": "",
+     "section_id": "SAM121120",
+     "title": "Taxpayer detail changes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121121",
+     "description": "",
+     "section_id": "SAM121121",
+     "title": "Taxpayer detail changes (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121130",
+     "description": "",
+     "section_id": "SAM121130",
+     "title": "Taxpayer is deceased"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121140",
+     "description": "",
+     "section_id": "SAM121140",
+     "title": "Voluntary (unsolicited) returns: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121141",
+     "description": "",
+     "section_id": "SAM121141",
+     "title": "Voluntary (unsolicited) returns: individuals (Action Guide)"
+    }
+   ],
+   "title": "Action to take on receipt of the return"
+  },
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121150",
+     "description": "",
+     "section_id": "SAM121150",
+     "title": "Accounting periods and basis periods: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121160",
+     "description": "",
+     "section_id": "SAM121160",
+     "title": "Arrears of pension"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121161",
+     "description": "",
+     "section_id": "SAM121161",
+     "title": "Arrears of pension (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121170",
+     "description": "",
+     "section_id": "SAM121170",
+     "title": "Mandatory boxes: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121171",
+     "description": "",
+     "section_id": "SAM121171",
+     "title": "Mandatory boxes: individuals (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121180",
+     "description": "",
+     "section_id": "SAM121180",
+     "title": "Prior year adjustments: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121181",
+     "description": "",
+     "section_id": "SAM121181",
+     "title": "Prior year adjustments: individuals (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121190",
+     "description": "",
+     "section_id": "SAM121190",
+     "title": "Provisional or estimated figures: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121200",
+     "description": "",
+     "section_id": "SAM121200",
+     "title": "Return entries to be calculated"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121201",
+     "description": "",
+     "section_id": "SAM121201",
+     "title": "Return entries to be calculated (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121210",
+     "description": "",
+     "section_id": "SAM121210",
+     "title": "Returns which include a PAYE source of income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121211",
+     "description": "",
+     "section_id": "SAM121211",
+     "title": "Returns which include a PAYE source of income (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121220",
+     "description": "",
+     "section_id": "SAM121220",
+     "title": "SAI: completion of individual's return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121225",
+     "description": "",
+     "section_id": "SAM121225",
+     "title": "SAI: examples of omission of particular boxes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121230",
+     "description": "",
+     "section_id": "SAM121230",
+     "title": "Subcontractor returns: individuals return review"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121240",
+     "description": "",
+     "section_id": "SAM121240",
+     "title": "Taxpayer carries out more than one trade"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121241",
+     "description": "",
+     "section_id": "SAM121241",
+     "title": "Taxpayer carries out more than one trade (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121250",
+     "description": "",
+     "section_id": "SAM121250",
+     "title": "Unlogging unsatisfactory individuals returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121251",
+     "description": "",
+     "section_id": "SAM121251",
+     "title": "Unlogging unsatisfactory individuals returns (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121260",
+     "description": "",
+     "section_id": "SAM121260",
+     "title": "Unsatisfactory individuals returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121261",
+     "description": "",
+     "section_id": "SAM121261",
+     "title": "Unsatisfactory individuals returns (Action Guide)"
+    }
+   ],
+   "title": "Preparing for capture of the return"
+  },
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121265",
+     "description": "",
+     "section_id": "SAM121265",
+     "title": "Accept the taxpayer's figure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121268",
+     "description": "",
+     "section_id": "SAM121268",
+     "title": "Auto-coding"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121270",
+     "description": "",
+     "section_id": "SAM121270",
+     "title": "Bankruptcy cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121271",
+     "description": "",
+     "section_id": "SAM121271",
+     "title": "Bankruptcy cases (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121272",
+     "description": "",
+     "section_id": "SAM121272",
+     "title": "Bankruptcy cases: appropriate amount of pre-Relevant Date liability"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121275",
+     "description": "",
+     "section_id": "SAM121275",
+     "title": "Calculation will be wrong"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121280",
+     "description": "",
+     "section_id": "SAM121280",
+     "title": "Capture of individuals returns after 31 Dec: RC cases only"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121290",
+     "description": "",
+     "section_id": "SAM121290",
+     "title": "Capture of individuals returns after 31 October"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121310",
+     "description": "",
+     "section_id": "SAM121310",
+     "title": "Capture of returns issued in error"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121311",
+     "description": "",
+     "section_id": "SAM121311",
+     "title": "Capture of returns issued in error (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121370",
+     "description": "",
+     "section_id": "SAM121370",
+     "title": "Capture operators guidance: 2007-08 return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121371",
+     "description": "",
+     "section_id": "SAM121371",
+     "title": "Capture operators guidance - return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121380",
+     "description": "",
+     "section_id": "SAM121380",
+     "title": "Charge"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121390",
+     "description": "",
+     "section_id": "SAM121390",
+     "title": "Charitable giving (facility withdrawn from April 2012)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121400",
+     "description": "",
+     "section_id": "SAM121400",
+     "title": "Claim to relief for EIS (Enterprise Investment Scheme) subscriptions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121405",
+     "description": "",
+     "section_id": "SAM121405",
+     "title": "Claim to relief for SEIS (Seed Enterprise Investment Scheme)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121410",
+     "description": "",
+     "section_id": "SAM121410",
+     "title": "Composite returns for non-resident partners"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121420",
+     "description": "",
+     "section_id": "SAM121420",
+     "title": "Computer calculation is incorrect: creating a return charge"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121421",
+     "description": "",
+     "section_id": "SAM121421",
+     "title": "Computer calculation is incorrect: creating a return charge (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121430",
+     "description": "",
+     "section_id": "SAM121430",
+     "title": "Credibility check"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121431",
+     "description": "",
+     "section_id": "SAM121431",
+     "title": "Credibility check (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121435",
+     "description": "",
+     "section_id": "SAM121435",
+     "title": "Customer service message"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121440",
+     "description": "",
+     "section_id": "SAM121440",
+     "title": "Error and warning messages: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121441",
+     "description": "",
+     "section_id": "SAM121441",
+     "title": "Error and warning messages: individuals (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121450",
+     "description": "",
+     "section_id": "SAM121450",
+     "title": "HMRC delay in using information"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121451",
+     "description": "",
+     "section_id": "SAM121451",
+     "title": "HMRC delay in using information (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121455",
+     "description": "",
+     "section_id": "SAM121455",
+     "title": "Manual tax calculations: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121460",
+     "description": "",
+     "section_id": "SAM121460",
+     "title": "Manuscript entries on 'identical' 3rd party software returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121480",
+     "description": "",
+     "section_id": "SAM121480",
+     "title": "Multiple SAI for one basis period: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121481",
+     "description": "",
+     "section_id": "SAM121481",
+     "title": "Multiple SAI for one basis period: individuals (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121490",
+     "description": "",
+     "section_id": "SAM121490",
+     "title": "Notional tax and payments on account: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121491",
+     "description": "",
+     "section_id": "SAM121491",
+     "title": "Notional tax and payments on account: individuals (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121500",
+     "description": "",
+     "section_id": "SAM121500",
+     "title": "Paper reports: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121501",
+     "description": "",
+     "section_id": "SAM121501",
+     "title": "Paper reports: individuals (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121504",
+     "description": "",
+     "section_id": "SAM121504",
+     "title": "Payments to employees involved in accidents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121507",
+     "description": "",
+     "section_id": "SAM121507",
+     "title": "Pensions: unauthorised payments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121510",
+     "description": "",
+     "section_id": "SAM121510",
+     "title": "Permanent cessation cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121512",
+     "description": "",
+     "section_id": "SAM121512",
+     "title": "Points to consider where box TC CAL 1 or 2 differs from computer calculated amount"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121515",
+     "description": "",
+     "section_id": "SAM121515",
+     "title": "Processing the information"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121520",
+     "description": "",
+     "section_id": "SAM121520",
+     "title": "Repairing tax calculation summary boxes 1 and 2"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121530",
+     "description": "",
+     "section_id": "SAM121530",
+     "title": "Repairing obvious errors: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121531",
+     "description": "",
+     "section_id": "SAM121531",
+     "title": "Repairing obvious errors: individuals (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121540",
+     "description": "",
+     "section_id": "SAM121540",
+     "title": "Repairing returns after 31 December: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121541",
+     "description": "",
+     "section_id": "SAM121541",
+     "title": "Repairing returns after 31 December: individuals (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121550",
+     "description": "",
+     "section_id": "SAM121550",
+     "title": "Repairing individuals returns: guidelines for small repairs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121560",
+     "description": "",
+     "section_id": "SAM121560",
+     "title": "Rent a room for traders"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121561",
+     "description": "",
+     "section_id": "SAM121561",
+     "title": "Rent a room for traders (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121570",
+     "description": "",
+     "section_id": "SAM121570",
+     "title": "Returns mislaid after logging: individuals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121571",
+     "description": "",
+     "section_id": "SAM121571",
+     "title": "Returns mislaid after logging: individuals (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121590",
+     "description": "",
+     "section_id": "SAM121590",
+     "title": "Saving individual return details"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121591",
+     "description": "",
+     "section_id": "SAM121591",
+     "title": "Saving individual return details (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121600",
+     "description": "",
+     "section_id": "SAM121600",
+     "title": "State pension lump sum deferral"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121610",
+     "description": "",
+     "section_id": "SAM121610",
+     "title": "Student loan cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121615",
+     "description": "",
+     "section_id": "SAM121615",
+     "title": "Swiss Tax Agreement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121620",
+     "description": "",
+     "section_id": "SAM121620",
+     "title": "Tax equalised employees"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121621",
+     "description": "",
+     "section_id": "SAM121621",
+     "title": "Tax equalised employees (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121630",
+     "description": "",
+     "section_id": "SAM121630",
+     "title": "Top slicing relief"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121640",
+     "description": "",
+     "section_id": "SAM121640",
+     "title": "Unlogging captured returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121650",
+     "description": "",
+     "section_id": "SAM121650",
+     "title": "When to use function create return charge"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121660",
+     "description": "",
+     "section_id": "SAM121660",
+     "title": "Earlier years adjustment (EYA) in code"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121661",
+     "description": "",
+     "section_id": "SAM121661",
+     "title": "Earlier years adjustment (EYA) in code (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121665",
+     "description": "",
+     "section_id": "SAM121665",
+     "title": "Class 2 National Insurance"
+    }
+   ],
+   "title": "Capture of the return information and post capture checks"
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-09-08T11:53:44+01:00",
+ "section_id": "SAM121000",
+ "title": "Returns: individuals returns: contents"
+}

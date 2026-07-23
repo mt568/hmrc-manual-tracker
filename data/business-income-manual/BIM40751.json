@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40751",
+ "body": "<p>The deductibility of insurance premiums for tax purposes will not determine whether a recovery forms part of trading income.</p>\n<p>The following recoveries are trading receipts:</p>\n<ul><li class=\"filledcircle\">Recoveries to compensate the trader for a hole in the commercial profits - either because an incoming fails to materialise or an additional outgoing is incurred, and even if the compensation exceeds the hole in profits or there is eventually no matching revenue outgoing. See <strong>London &amp; Thames Haven Oil Wharves Ltd v Attwooll</strong> [1966] 43TC491 and <strong>Donald Fisher (Ealing) Ltd v Spencer</strong> [1989] 63TC168.</li><li class=\"filledcircle\">Insurance of stock-in-trade - including the excess, if any, of the amount received over the cost to the trader of the stock concerned or its value in his books. See <strong>Green v J Gliksten &amp; Son Ltd</strong> [1929] 14TC364.</li><li class=\"filledcircle\">Capital recoveries in respect of fixed assets, to the extent that they are used to make good a loss or expense deducted in calculating the profits of a trade: see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40755\">BIM40755</a>,</li></ul>\n<p>For recoveries from:</p>\n<ul><li class=\"filledcircle\">key person insurance policies, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45525\">BIM45525</a>,</li><li class=\"filledcircle\">permanent health insurance policies, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45560\">BIM45560</a>,</li><li class=\"filledcircle\">locum and fixed practice overheads insurance, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45565\">BIM45565</a>.&nbsp;</li></ul>\n<h2>Time included in trade profits</h2>\n<p>The time at which recoveries should be included in trade profits will be based on the principles of generally accepted accounting practice. Facts such as the date of the event that gave rise to the receipt, and the ascertainment of the indemnified losses, will be relevant (<strong>Rownson, Drew and Clydesdale Ltd v CIR</strong> [1931] 16TC595).</p>\n<h2>Chargeable events</h2>\n<p>Where the proceeds of life insurance policies are not trading receipts, liability may arise under the chargeable events legislation in S461-S546 Income Tax (Trading and Other Income) Act 2005, see <a href=\"https://www.gov.uk/government/publications/statement-of-practice-6-1992\">Statement of Practice SP6/92</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40750",
+   "section_id": "BIM40750"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:29+01:00",
+ "section_id": "BIM40751",
+ "title": "Specific receipts: insurance recoveries: whether trading receipts"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34035",
+ "body": "<p>A change of basis is required where it can be shown that the existing basis is invalid. Except in the circumstances detailed at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34030\">BIM34030</a> an invalid basis brings income to account later than is correct or it allows expenditure earlier than is permissible or it undervalues stock. In these situations, a change of basis will usually result in some profits dropping out of charge in the year of change because of the necessity to value the opening figure for the year of change on the same basis as the closing figure, but how much will depend on the precise facts.</p>\n<p>In considering whether to reopen earlier years read the guidance on discovery assessments at <a href=\"https://www.gov.uk/hmrc-internal-manuals/enquiry-manual/em3201\">EM3201</a> onwards. For each reopened year, the opening and closing adjustments should be made on the same basis having full regard to the facts and circumstances of each year. For example an accounts enquiry might reveal that the basis on which stocks had been valued was not in accordance with GAAP and that stock had been understated. In these circumstances it is not correct to suggest that the revised closing value of trading stock should be scaled back to earlier years on a pro rata basis. Each earlier year must be considered on the basis of the facts that existed at the time. When considering reopening earlier years take full account of the time limits.</p>\n<p>Continuing the example from <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34030\">BIM34030</a> and assuming that the conditions of S29 Taxes Management Act 1970 have been met. The accounting period to 31/12/2010 had a closing provision of £225,000 on turnover of £750,000. The provision should have been £30,000. So the 2011 accounts should have started on a valid basis with a provision of £30,000 and ended with £40,000, giving an allowable deduction of £10,000. Instead on the invalid basis they started with a provision of £225,000 and finished with a provision of £300,000, giving a claimed deduction of £75,000. The profits should be increased by £65,000.</p>\n<p>This recomputation of profits on the valid basis would be done for all years for which assessments could be made and for which it is appropriate.</p>\n<p>For advice about whether adjustments are culpable consult <span>Tax Administration Litigation &amp; Advice </span></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34025",
+   "section_id": "BIM34025"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-09-02T01:00:00+01:00",
+ "section_id": "BIM34035",
+ "title": "Change of basis of computing taxable profits: invalid to valid basis: approach to earlier years"
+}

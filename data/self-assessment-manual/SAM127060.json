@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127060",
+ "body": "<p> </p>\n\n<p> </p>\n\n<p>Some Short Tax Returns (SA200) will not be suitable for scanning and processing through Automated Data Capture, and they should be captured through Local Data Capture.  </p>\n\n<p>Examples include where<br />\n </p>\n\n<p> </p>\n\n<ul>\n  <li>The return is torn or damaged</li>\n  <li>There is no barcode, or the barcode has been written on or smudged</li>\n  <li>\n    <p>Marks are made on the return</p>\n\n    <ul>\n      <li>Over location markers at the side and top of the form</li>\n      <li>Over the barcode</li>\n      <li>Over page numbers at the base of the form</li>\n      <li>Over the word ‘Your’ on the front page</li>\n    </ul>\n  </li>\n</ul>\n\n<p>In these cases, the return should be logged then forwarded to the appropriate office with processing responsibility for manual capture.<br />\n </p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127000",
+   "section_id": "SAM127000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2017-09-05T14:20:52+01:00",
+ "section_id": "SAM127060",
+ "title": "Returns: returns processed at HMRC Wolverhampton: HMRC  Wolverhampton: returns which cannot be scanned"
+}

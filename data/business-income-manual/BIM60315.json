@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60315",
+ "body": "<p>The table below summarises the territorial scope of the transactions in land rules.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Residence of taxpayer</th>\n      <th>Where land is located</th>\n      <th>Application of the transactions in land provisions</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>United Kingdom</td>\n      <td>Wholly in the United Kingdom</td>\n      <td>The provisions apply (assuming all the other conditions are met).</td>\n    </tr>\n    <tr>\n      <td>United Kingdom</td>\n      <td>Wholly outside the United Kingdom</td>\n      <td>The provisions do not apply.</td>\n    </tr>\n    <tr>\n      <td>United Kingdom</td>\n      <td>Partly in the United Kingdom, partly outside the United Kingdom</td>\n      <td>The provisions apply to the whole of the gain (assuming all the other conditions are met).</td>\n    </tr>\n    <tr>\n      <td>Non-United Kingdom</td>\n      <td>Wholly in the United Kingdom</td>\n      <td>The provisions apply (assuming all the other conditions are met).</td>\n    </tr>\n    <tr>\n      <td>Non-United Kingdom</td>\n      <td>Wholly outside the United Kingdom</td>\n      <td>The provisions do not apply.</td>\n    </tr>\n    <tr>\n      <td>Non-United Kingdom</td>\n      <td>Partly in the United Kingdom, partly outside the United Kingdom</td>\n      <td>The provisions apply (assuming all the other conditions are met), but only to the gain attributable to the United Kingdom land.</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>For detail of the conditions which must be met for the transactions in land rules to apply, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60310\">BIM60310</a>.</p>\n\n<h3 id=\"withholding-tax-on-payments-to-non-residents\">Withholding tax on payments to non-residents</h3>\n\n<p>HMRC has the power under S769(3) Income Tax Act 2007 as read with Section 944 to direct that payments made to non-resident individuals, trustees or personal representatives which are likely to fall within the transaction in land rules should be paid under deduction of tax.</p>\n\n<p>This provision changes the contractual relations between the parties. No attempt to invoke the provision in a working case should be made without prior specific reference to CTISA (Technical), who will consider such cases on an individual basis and decide whether a direction should be made.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+   "section_id": "BIM60300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-17T09:50:01+00:00",
+ "section_id": "BIM60315",
+ "title": "Transactions in land: Territorial scope"
+}

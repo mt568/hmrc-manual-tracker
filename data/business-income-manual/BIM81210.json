@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim81210",
+ "body": "<h2 id=\"s7b-d-ittoia-2005\">S7B-D ITTOIA 2005</h2>\n\n<p>Where a trader prepares accounts to a date shortly before the end of the tax year, or where the trade starts shortly before the end of the first tax year, special rules apply. The effect of these rules is that profits do not need to be apportioned.</p>\n\n<p>If the circumstances are relevant, the special rules apply automatically unless the trader elects otherwise. An election must be made on or before the first anniversary of the normal Self Assessment filing date for the tax year to which it relates.</p>\n\n<p>Any election applies to:</p>\n\n<ul>\n  <li>that tax year and the following four tax years, or</li>\n  <li>that tax year and the following tax years up to and including the tax year of cessation, if this is earlier</li>\n</ul>\n\n<h3 id=\"accounting-date-falls-between-31-march-and-4-april-inclusive\">Accounting date falls between 31 March and 4 April inclusive</h3>\n\n<p>Where the accounting date falls between 31 March and 4 April inclusive in the tax year, the profits for the days after the accounting date up to and including 5 April are treated as nil for the tax year, and as arising in the following tax year. These rules do not apply for the tax year of cessation.</p>\n\n<h4 id=\"example-3-accounting-date-31-march\">Example 3: Accounting date 31 March</h4>\n\n<p>The trader prepares accounts to 31 March each year. The accounts for the 12 months to 31 March 2026 show a profit of £42,000. The profits for the 2025-26 tax year are those of the 12 months to 31 March 2026.</p>\n\n<p>There is no requirement to apportion the profits. The 5 days’ profits from 1 to 5 April 2026, which would count as profits for the 2025-26 tax year if there were no special rules, are instead treated as arising in 2026-27.</p>\n\n<h3 id=\"trade-commences-between-1-and-5-april\">Trade commences between 1 and 5 April</h3>\n\n<p>Where the trade commences between 1 and 5 April and the trade does not cease in that tax year, the profits and losses of the tax year of commencement are treated as nil. Any profits or losses which would otherwise have arisen in this tax year are treated as arising in the following year.</p>\n\n<h4 id=\"example-4-trade-commences-1-april\">Example 4: Trade commences 1 April</h4>\n\n<p>A trade commences on 1 April 2025 and the first accounts are prepared to 31 March 2026. The profits and losses for 2024-25 are treated as nil. The 5 days’ profits from 1 to 5 April 2025, which would count as profits for the 2024-25 tax year if there were no special rules, are instead treated as arising in 2025-26.</p>\n\n<p>The profits for 2025-26 are the profits as included in the first accounts (from 1 April 2025 to 31 March 2026).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81000",
+   "section_id": "BIM81000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81200",
+   "section_id": "BIM81200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-03-04T12:43:03+00:00",
+ "section_id": "BIM81210",
+ "title": "Late accounting date rules"
+}

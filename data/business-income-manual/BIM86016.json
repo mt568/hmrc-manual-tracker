@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86016",
+ "body": "<p>If the individual qualifies for partial relief and their relevant income for the tax year is all from one trade, then the profit for the tax year of the relevant trade is calculated using the following steps.</p>\n<p><br /></p>\n<p><strong>Step 1 – calculate total receipts of the trade</strong></p>\n<p>Calculate the total amount which would be brought into account as a receipt in calculating the profit of the relevant trade for the tax year.</p>\n<p><strong>Step 2 – subtract the deductible amount from receipts</strong> </p>\n<p>Subtract the trading allowance from the total receipts for the relevant trade given in Step 1 above. You cannot also deduct any expenses that would otherwise be allowable.</p>\n<p>This will give the figure of taxable profits for the trade. The amount subtracted under this step cannot be used to produce a loss for the trade.</p>\n<p>If an individual is claiming overlap relief during the year (because they are in their final year of trading or have recently changed accounting date), continue to Step 3.</p>\n<p><strong>Step 3 – subtract overlap relief</strong></p>\n<p>The subtotal given in Step 2 is then reduced by subtracting a deduction for overlap profit allowed in calculating the profits of the trade for the tax year.</p>\n<p>Guidance on overlap relief can be found at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86044\" rel=\"nofollow\">BIM86044</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86015",
+   "section_id": "BIM86015"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T02:00:25+00:00",
+ "section_id": "BIM86016",
+ "title": "TMIA - Computation: Partial Relief: Single Trade"
+}

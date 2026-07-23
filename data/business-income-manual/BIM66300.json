@@ -1,0 +1,32 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim66300",
+ "body": "<p>This section contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66301",
+     "description": "",
+     "section_id": "BIM66301",
+     "title": "Sub-postmasters: how chargeable"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66305",
+     "description": "",
+     "section_id": "BIM66305",
+     "title": "Sub-postmasters: consideration paid for appointment as"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:38:01+01:00",
+ "section_id": "BIM66300",
+ "title": "Sub-postmasters: contents"
+}

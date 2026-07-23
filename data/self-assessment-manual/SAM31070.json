@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31070",
+ "body": "\n<p>The setting of Automatic Move status to ‘N’ on a Revenue activity inhibits its transfer to another office as part of a bulk transfer on SA. It does not stop</p>\n\n<ul>\n  <li>An operator using function MAINTAIN RESPONSIBLE OFFICE to transfer the activity</li>\n  <li>Transfer prompts being presented to the operator. For details of the circumstances in which transfer prompts are presented see subject ‘Transfer Prompt’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam103120\">SAM103120</a>)</li>\n  <li>Update of SA processing office responsibility on movement of a linked PAYE record to another office<br />\nOn registering a S9A enquiry, the Automatic Move is set to ‘N’ as for any Revenue Activity with active responsibility. Where the enquiry is registered from a ‘Technical’ work item on the CQI Workbench, the technical activity will become active, and the Automatic Move signal is set to ‘N’.</li>\n</ul>\n\n<p>On registering a S12AC enquiry the computer sets Automatic Move status to ‘N’ for the technical activity only for the partnership. On the linked partners’ SA records it is set to ‘N’ on any active responsibility.  </p>\n\n<p>Note: If the enquiry is registered on the CQI Workbench in an Organisation Unit that does not have SA responsibility, the Automatic Move is still set to ‘N’ according to the rules above, but this will not transfer the SA responsibility to the Organisation Unit that opened the enquiry. In these cases an ‘Organisation Unit mismatch’ Advisory message will be entered on the CQI Workbench.  </p>\n\n<p>Automatic Move is inhibited whilst an enquiry is underway so an office can consider transfer of its responsibility for the SA record after the bulk transfer.  </p>\n\n<p>Except for linked partners’ SA records the computer uses the rules in the above table to reset the Automatic Move status to ‘Y’ when a settlement date is passed from the CQI Workbench to the SA record in respect of the S9A or S12AC enquiry.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31000",
+   "section_id": "SAM31000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:32+00:00",
+ "section_id": "SAM31070",
+ "title": "Compliance: enquiry work: the automatic move signal"
+}

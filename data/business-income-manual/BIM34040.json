@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34040",
+ "body": "<p>A valid basis is one that is in accordance with the law or practice applicable for that accounting period, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34020\">BIM34020</a>. A change in basis will occur when either:</p>\n\n<ul>\n  <li>our view of tax law alters so that adjustments made to the accounts profits to determine the taxable profits change, or</li>\n  <li>there is a change in accounting policy.</li>\n</ul>\n\n<p>A valid basis could also consist of accounts which conflicted with tax requirements but which had tax computation adjustments to produce the same result as accounts that conformed to tax requirements. Where a business which has adopted this route at arriving at a valid basis changes the accounting policy to a valid basis this should be treated as a change from one valid basis to another.</p>\n\n<p>Where there is a change from one valid basis to another, an adjustment must be calculated to ensure that over the lifetime of a business receipts will be taxed once and once only and deductions will be given once and once only. For Income Tax purposes an adjustment resulting in a profit is subject to a stand-alone tax charge as ‘adjustment income’ and a negative adjustment is treated as an allowable deduction in computing the profits of the trade. For Corporation Tax purposes, adjustments are treated as receipts or deductions in computing the trade profits.</p>\n\n<p>Changes in accounting policy are dealt with at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34045\">BIM34045</a> onwards, and changes in tax adjustments are dealt with at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34070\">BIM34070</a>. The tax treatment of adjustment amounts is dealt with at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34090\">BIM34090</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:26+01:00",
+ "section_id": "BIM34040",
+ "title": "Change of basis of computing taxable profits: from one valid basis to another valid basis"
+}

@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim52510",
+ "body": "<h2>What to do in practice</h2>\n<p>This page discusses the tax treatment of lump sums received for grave maintenance (covered in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim52505\">BIM52505</a>) in more detail.</p>\n<h3>Treatment under generally accepted accounting practice (GAAP)</h3>\n<p>The usual treatment of lump sums received for grave maintenance under GAAP is:</p>\n<ul><li>the lump sums received during the year should be brought into the computation, less the capitalised value of the corresponding liability for maintenance etc</li><li>the actual expenses of maintenance etc of the graves should be allowed as a deduction</li><li>all income derived from the investment of the lump sums should be taxed in accordance with the relevant rules. For unincorporated businesses, the tax treatment would depend on the facts (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40805\">BIM40805</a>). For companies, the loan relationship rules would apply (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm30000\">CFM30000</a>)</li></ul>\n<p>Although the GAAP treatment above should be followed, we have no objection to the trader:</p>\n<ul><li>excluding such lump sums from the trading receipts</li><li>bringing into credit the whole of the income arising from the investment of the lump sums as if it were interest. This means that in the case of an unincorporated business, the tax treatment would depend on whether it is an integral part of the business operations to employ capital to produce such income, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40805\">BIM40805</a>. In the case of a company the loan relationship rules would apply, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm30000\">CFM30000</a></li><li>deducting the actual annual expenses of maintenance etc of the graves as a deduction</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim52500",
+   "section_id": "BIM52500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:50+01:00",
+ "section_id": "BIM52510",
+ "title": "Cemeteries and crematoria: lump sums/graves maintenance: computing profit"
+}

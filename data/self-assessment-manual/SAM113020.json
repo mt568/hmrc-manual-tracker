@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113020",
+ "body": "<p>From 6 April 2015, no work items will populate the W047 work list.</p>\n\n<p>Cases will be selected and work items created on the ‘Overpayments in Closed Cases’ work list when a charge for the final year is recorded (even if zero), and</p>\n\n<ul>\n  <li>The total overpayment credit on the record is £500 or more</li>\n</ul>\n\n<p>And</p>\n\n<ul>\n  <li>The ‘Final Return Year’ signal is set either manually or automatically</li>\n</ul>\n\n<p>Cases will populate this work list irrespective of whether the ‘Final Return Year’ signal is or was set before or after the charge for the final year is recorded.</p>\n\n<p>The cases selected will be notified by Work Management to the office responsible for the processing activities.</p>\n\n<p>This work list should be reviewed weekly.</p>\n\n<p>The work item should be deleted manually using function WORK LIST CASES on completion of the necessary action.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113000",
+   "section_id": "SAM113000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:55:24+00:00",
+ "section_id": "SAM113020",
+ "title": "Repayments: repayment work lists: w047 overpayments in closed cases work list"
+}

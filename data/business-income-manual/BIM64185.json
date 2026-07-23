@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64185",
+ "body": "<h2 id=\"specific-allocation\">Specific allocation</h2>\n\n<p>Where a private sector operator receives money’s worth, e.g. land, or money as a capital contribution towards the construction costs of a fixed capital asset of its business, the agreement may specify how it is to be allocated. Provided that the allocation is supported by the facts, it is followed for tax purposes.</p>\n\n<p>For example, if the contribution is towards the capital construction costs of a building, some elements of which qualify as plant and machinery, the agreement may specify that the contribution is towards expenditure that does not attract capital allowances. Provided that there is sufficient capital construction expenditure that does not qualify for capital allowances, the allocation should be accepted.</p>\n\n<h2 id=\"general-allocation\">General allocation</h2>\n\n<p>Where a contribution towards the capital construction costs of a fixed capital asset of a business does not specify how it is to be allocated, it should be apportioned on a just and reasonable basis across the various categories of construction expenditure, i.e. buildings, plant etc.</p>\n\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64375\">BIM64375</a> concerning the capital allowance consequences of a contribution allocated to plant and machinery.</p>\n\n<h2 id=\"excess-contributions\">Excess contributions</h2>\n\n<p>If the contribution exceeds the specific category of expenditure against which it is allocated, the excess has to be reallocated. In these circumstances it is necessary to consider the particular facts in each case to determine whether the excess is a payment of the unitary charge (the annual service payment).</p>\n\n<p>An excess of contributions over related costs will only occur if the capital expenditure over the life of the PFI project is less than the amount of the contribution.</p>\n\n<p>For example, a contribution of £5 million is made towards a fixed capital asset that does not qualify for capital allowances. In the first year only £1 million is spent but, by the end of the construction period, £6 million has been spent on non-qualifying assets. In these circumstances there is no need for a reallocation.</p>\n\n<p>However, if at the end of the construction period only £3 million had been spent on non-qualifying assets, then the remaining £2 million has to be reallocated.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64170",
+   "section_id": "BIM64170"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:46+01:00",
+ "section_id": "BIM64185",
+ "title": "Private Finance Initiative (PFI): contribution of land: allocation against capital expenditure"
+}

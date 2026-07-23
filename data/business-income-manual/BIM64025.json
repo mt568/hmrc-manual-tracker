@@ -1,0 +1,72 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64025",
+ "body": "<p>The scope of a trade is essentially a question of fact, consideration of which is fundamental when deciding whether income is taxable as trading income or expenditure is allowable as a trading deduction (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim21000\">BIM21000</a> onwards).</p>\n\n<p>The approach adopted by the courts in deciding the scope of a trade is to establish the person’s stated purpose and then consider whether or not the facts support their contention. Where the facts are at odds with the stated purpose, it may be disregarded. In CIR v The Hyndland Investment Co Ltd [1929] 14TC694, a case that concerned whether or not a property company was carrying on a trade, Lord President Clyde noted, at page 699:</p>\n\n<blockquote>\n  <p>‘the question is not what business does the taxpayer profess to carry on, but what business does he actually carry on.’</p>\n</blockquote>\n\n<p>In marginal cases, where the facts are equivocal, the intention of the taxpayer is a further factor to consider.</p>\n\n<p>In the context of the PFI, questions concerning the scope of the operator’s trade generally arise in relation to the design and construction costs of the PFI property. That is, does the trade include the provision of design and construction services or, to put the question another way, is such expenditure capital or revenue for tax purposes?</p>\n\n<p>The guidance on the scope of PFI trades is arranged as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64030",
+     "description": "",
+     "section_id": "BIM64030",
+     "title": "Scope of trade: relevant factors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64035",
+     "description": "",
+     "section_id": "BIM64035",
+     "title": "Scope of trade: range of activities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64040",
+     "description": "",
+     "section_id": "BIM64040",
+     "title": "Scope of trade: example 1"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64045",
+     "description": "",
+     "section_id": "BIM64045",
+     "title": "Scope of trade: example 2"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64050",
+     "description": "",
+     "section_id": "BIM64050",
+     "title": "Scope of trade: example 3"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64055",
+     "description": "",
+     "section_id": "BIM64055",
+     "title": "Scope of trade: example 4"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64060",
+     "description": "",
+     "section_id": "BIM64060",
+     "title": "Scope of trade: example 5"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim64065",
+     "description": "",
+     "section_id": "BIM64065",
+     "title": "Commencement of trade"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:37+01:00",
+ "section_id": "BIM64025",
+ "title": "Measuring the profits (particular trades): Private Finance Initiative (PFI): scope of trade: contents"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103131",
+ "body": "<p>When you identify a case for transfer to National Claims Office, follow steps 1 - 6 below.</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Use function VIEW STATEMENT to view the payment details. If there are outstanding SA liabilities, the case is not appropriate for transfer to Claims office, as an annual repayment case, at this stage</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Use function MAINTAIN RESPONSIBLE OFFICE to view the details of the office with technical responsibility. Liaise with that office to confirm that they have no objection to the taxpayer being taken out of SA.</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>If you are satisfied that the case may now become an annual repayment claim case</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Use function AMEND TAXPAYER SIGNALS to enter the end of the last SA year, for example 12, in the Last SA Return Required For Year Ending 5 April field. Do not transfer the SA record to the National Claims Office </td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>If there was a link to a PAYE record, on the following day </td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Check that the SA signal has been removed from the PAYE record</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>Complete form R48A (NCO). This form is available in Excel, SEES, Forms and Letters, under the PAYE category ‘R-Prefix’ forms. You must make sure the NINO box is completed</td>\n    </tr>\n    <tr>\n      <td>5.</td>\n      <td>Write to the taxpayer and any acting agent to advise them of the change of responsible office</td>\n    </tr>\n    <tr>\n      <td>6.</td>\n      <td>Issue the form R48A (NCO) to the address on the form and attach the relevant papers</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103000",
+   "section_id": "SAM103000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:07+00:00",
+ "section_id": "SAM103131",
+ "title": "Records: movement of taxpayer records: transfer-out annual claims case (Action Guide)"
+}

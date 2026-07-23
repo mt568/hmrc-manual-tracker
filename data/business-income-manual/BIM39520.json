@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim39520",
+ "body": "<p>A business may hold monetary assets that are denominated in a foreign currency.  Examples are foreign currency bank accounts, trade debts, loan notes or bonds, or foreign currency held in notes or coins.  It may also have foreign currency liabilities - for example, debts owed to suppliers, bank overdrafts or long-term bank loans.</p>\n<p>Exchange gains or losses will be <strong>realised</strong> when such monetary items are settled.  The accounts will also show <strong>unrealised</strong> gains or losses where such assets or liabilities exist at the end of the period of account and are retranslated into sterling at the closing rate (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39510\">BIM39510</a>).</p>\n<p>In deciding whether an exchange gain should be taxed as trading income, or a loss relieved, you apply normal principles.  A gain is taxable if:</p>\n<ul><li class=\"filledcircle\">it is a receipt from a trade, and</li><li class=\"filledcircle\">it is not on capital account.</li></ul>\n<p>An exchange loss is a trading expense if:</p>\n<ul><li class=\"filledcircle\">it is not on capital account, and</li><li class=\"filledcircle\">it is a loss incurred wholly and exclusively for the purposes of the trade.</li></ul>\n<p>S25 Income Tax (Trading and Other Income) Act 2005 requires trading profits to be computed in accordance with generally accepted accounting practice, subject to any over-riding rule of law.  So in general a business must bring into its computation all exchange gains and losses shown in its accounts, whether realised or unrealised, provided they conform to the general principles above.</p>\n<p>There is an exception where exchange differences on assets and liabilities are ’matched’.  This is covered at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39555\">BIM39555</a>.</p>\n<ul><li class=\"filledcircle\">For general guidance on the capital/revenue divide see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35000\">BIM35000</a> onwards.</li><li class=\"filledcircle\">For general guidance on wholly and exclusively see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37000\">BIM37000</a> onwards.</li><li class=\"filledcircle\">For more detail on exchange differences arising on liabilities see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39525\">BIM39525</a> onwards.</li><li class=\"filledcircle\">For monetary assets see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39545\">BIM39545</a> onwards.</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim39500",
+   "section_id": "BIM39500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:09+01:00",
+ "section_id": "BIM39520",
+ "title": "Foreign exchange: monetary assets and liabilities: general principles"
+}

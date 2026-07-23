@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42520",
+ "body": "<p>S54 Income Tax (Trading and Other Income) Act 2005, S1303 Corporation Tax Act 2009</p>\n\n<p>No deduction is allowed in computing the taxable profits of a trade for any of the following:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Interest, penalty or surcharge</th>\n      <th>Description of tax, levy or duty</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Interest under any provision of Part 9 Taxes Management Act 1970 (This applies to profits chargeable to Income Tax only)</td>\n      <td>Income Tax, Capital Gains Tax and Corporation Tax</td>\n    </tr>\n    <tr>\n      <td>Interest required to be paid under the construction industry scheme</td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>Penalty under S60-S70 Value Added Tax Act 1994 (VATA 1994)</td>\n      <td>Value Added Tax</td>\n    </tr>\n    <tr>\n      <td>Interest under S74, S85A VATA 1994</td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>Surcharge under S59 VATA 1994</td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>Penalty under S8-S11 Finance Act 1994 (FA 1994)</td>\n      <td>Excise duties</td>\n    </tr>\n    <tr>\n      <td>Penalty under Sch7 Paras12-19 FA 1994</td>\n      <td>Insurance Premium Tax</td>\n    </tr>\n    <tr>\n      <td>Interest under S60(8) or Sch 7 Para 21 FA 1994</td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>Penalty under Sch5 Par 5 Finance Act 1996 (FA 1996)</td>\n      <td>Landfill Tax</td>\n    </tr>\n    <tr>\n      <td>Interest under S56(5) or Sch5 Paras26, 27 FA 1996</td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>Penalty under any provision of Sch6 Finance Act 2000</td>\n      <td>Climate change levy</td>\n    </tr>\n    <tr>\n      <td>Interest under any of Paras70, 81-85, 109 and 123(6) of that Schedule</td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>Penalty under any provision of Part2 Finance Act 2001 (FA 2001)</td>\n      <td>Aggregates levy</td>\n    </tr>\n    <tr>\n      <td>Interest under S42(6), Sch5 Paras5-9, Sch8 Para6, Sch10 Para5 FA 2001</td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>Penalty under S25 or S26 Finance Act 2003 (FA 2003)</td>\n      <td>Customs, export and import duties</td>\n    </tr>\n    <tr>\n      <td>Penalty and interest under Part 4 FA 2003</td>\n      <td>Stamp Duty Land Tax</td>\n    </tr>\n    <tr>\n      <td>Penalty under Sch24 Finance Act 2007</td>\n      <td>Various taxes and excise duties</td>\n    </tr>\n    <tr>\n      <td>Penalty under Sch41 Finance Act 2008</td>\n      <td>Various taxes and excise duties</td>\n    </tr>\n    <tr>\n      <td>Penalty under Sch 16 Finance Act (No. 2) 2017</td>\n      <td>Various taxes</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>S54 Income Tax (Trading and Other Income) Act 2005 and s1303 Corporation Tax Act 2009 specifically disallow deductions of some HMRC penalties, including some that relate to offences concerning direct tax (e.g. under Schedule 24 and Schedule 41), included in the list as part of the introduction of the single penalties regime. There are HMRC penalties that are not included in the above list. This does not mean that they are allowable deductions. HMRC penalties are not considered normal recurring expenses incurred in agreeing the tax liability (see BIM46450). It is also unlikely that HMRC penalties will have been incurred wholly and exclusively for the purposes of the trade (see BIM37000).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42500",
+   "section_id": "BIM42500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2019-03-07T09:38:25+00:00",
+ "section_id": "BIM42520",
+ "title": "Specific deductions: administration: interest, penalties and surcharges on UK taxes"
+}

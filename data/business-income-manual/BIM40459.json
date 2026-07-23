@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40459",
+ "body": "<p>Employment-Related Schemes include the Coronavirus Job Retention Scheme (CJRS) and the Coronavirus Statutory Sick Pay Rebate Scheme (CSSPRS) and include any extensions to these schemes. The definition may be extended by regulation to include other schemes.</p>\n\n<p>The timing of recognition of income received under Employment-Related Schemes should follow GAAP, or where applicable the Cash Basis.</p>\n\n<p>A Coronavirus Support Payment under an employment-related scheme is referable to the business of the person entitled to the payment. For CJRS, the person entitled to the payment is the PAYE employer (which may be different to the actual employer).</p>\n\n<p>In certain circumstances, a Coronavirus Support Payment made under an Employment-Related Scheme may not be referable to a business. For example, where CJRS is paid to an individual who employs a nanny in a private capacity to look after his/her children. In this scenario, the receipt of the CJRS by the individual employer will not be a taxable receipt if there is no business to which the payment is referable (and, as a result, there should also be no allowable tax deduction for the corresponding employment costs of the furloughed employee).</p>\n\n<p>Pre-trading expenditure funded by Employment-Related Scheme payments</p>\n\n<p>Where a payment is received from an Employment Related Scheme before a trade has commenced for tax purposes, the amount of any related pre-trading expenditure will be reduced by the amount of that payment.</p>\n\n<p>Example: New business in receipt of CJRS before trade commences</p>\n\n<p>In February 2020, a new sole trade business is formed and employs a manager to help set up and run a restaurant. As a result of the coronavirus pandemic, the restaurant is delayed in opening its doors and, for trading income purposes, no trade has commenced. The business furloughs its manager and receives CJRS income which it uses to pay the salary of its furloughed manager.</p>\n\n<p>If the trade eventually commences without the income being brought into account in calculating the profits of that newly commenced trade, any pre-trading expenditure (under section 57 ITTOIA 2005) of the sole trader which relates to the employment costs covered by the CJRS is reduced by the CJRS income received.</p>\n\n<p>Anti-avoidance (Paragraph 5 of Schedule 16 FA 2020)</p>\n\n<p>Where the receipt of an Employment-Related Scheme would not be taxable income of the recipient of the coronavirus support payment, but another person obtains a deduction for the same employment costs to which the coronavirus support payment relates, the recipient is taxable on the coronavirus support payment. If you suspect avoidance, please contact Business Profits for advice.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40450",
+   "section_id": "BIM40450"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2020-11-05T15:36:07+00:00",
+ "section_id": "BIM40459",
+ "title": "Specific receipts: Coronavirus Support Payments - Employment-Related Schemes"
+}

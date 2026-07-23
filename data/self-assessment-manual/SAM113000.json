@@ -1,0 +1,93 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113001",
+     "description": "",
+     "section_id": "SAM113001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113010",
+     "description": "",
+     "section_id": "SAM113010",
+     "title": "W030 Inhibited automatic repayments work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113011",
+     "description": "",
+     "section_id": "SAM113011",
+     "title": "W030 Inhibited automatic repayments work list (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113020",
+     "description": "",
+     "section_id": "SAM113020",
+     "title": "W047 Overpayments in closed cases work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113021",
+     "description": "",
+     "section_id": "SAM113021",
+     "title": "W047 Overpayments in closed cases work list (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113030",
+     "description": "",
+     "section_id": "SAM113030",
+     "title": "W044 Over-repayments work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113031",
+     "description": "",
+     "section_id": "SAM113031",
+     "title": "W044 Over-repayments work list (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113050",
+     "description": "",
+     "section_id": "SAM113050",
+     "title": "W029 Rejected repayments work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113051",
+     "description": "",
+     "section_id": "SAM113051",
+     "title": "W029 Rejected repayments work list (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113060",
+     "description": "",
+     "section_id": "SAM113060",
+     "title": "W043 Repayments for quality checks work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113061",
+     "description": "",
+     "section_id": "SAM113061",
+     "title": "W043 Repayments for quality checks work list (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113070",
+     "description": "",
+     "section_id": "SAM113070",
+     "title": "W028 Repayments to be authorised or cancelled work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113071",
+     "description": "",
+     "section_id": "SAM113071",
+     "title": "W028 Repayments to be authorised or cancelled work list (Action Guide)"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2020-03-02T09:14:39+00:00",
+ "section_id": "SAM113000",
+ "title": "Repayments: repayment work lists: contents"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120050",
+ "body": "<p>A work item is created when the automatic selection process selects a record for issue of an SA return, but is unable to issue the return or SA316 (Notice to Complete a Tax Return to the taxpayer automatically.</p>\n<h2><a>Specific details</a></h2>\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n<ul><li>Taxpayer type</li><li>Return year</li></ul>\n<p>And as appropriate</p>\n<ul><li>Welsh language signal</li><li>Deceased signal set</li><li>RLS signal set</li><li>Manual return signal set for any other reason</li></ul>\n<h2><a>File held by HO Tech (previously Inspectors)</a></h2>\n<p>You may only have a dummy file, showing that the main file is held by the\nHO Tech (previously Inspectors). This may be because the HO Tech has accepted a\nrequest to not capture the return details. It is important that the return is\neasily identifiable when filed by the taxpayer.</p>\n<p><span>For this reason, you must agree with the HO Tech how the return to be\nissued manually is to be marked. </span></p>\n<h2><a>Action</a></h2>\n<p>You need to</p>\n<ul><li>Issue the return making sure the date of issue is clearly entered on the front, guidance notes where applicable, and any supplementary pages manually</li></ul>\n<p><strong>Note:</strong>&nbsp;<strong>Do not</strong> enclose guidance notes where applicable, if an agent represents the individual, trust or partnership<br /></p>\n<p>Check SA Notes and SA Permanent Notes to determine if a non-standard filing date applies</p>\n<p>Use function RECORD DATE OF CLERICAL ISSUE to</p>\n<ul><li>Record the date of issue</li><li>Record the non-standard filing date, where appropriate</li></ul>\n<p><br /><strong>Note:</strong> It is important that you make a Permanent Note to record a non-standard filing date in every case for further information later<br /></p>\n<p>Detailed advice is available on the action to take to clear these work items in section ‘Returns Work Lists’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125000\">SAM125000</a> onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120000",
+   "section_id": "SAM120000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:55:39+00:00",
+ "section_id": "SAM120050",
+ "title": "Returns: return issue: manual issue of returns"
+}

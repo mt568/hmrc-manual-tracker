@@ -1,0 +1,177 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim70001",
+ "body": "\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70005",
+     "description": "",
+     "section_id": "BIM70005",
+     "title": "Overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70010",
+     "description": "",
+     "section_id": "BIM70010",
+     "title": "Eligibility"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70011",
+     "description": "",
+     "section_id": "BIM70011",
+     "title": "Eligibility: partnerships"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70015",
+     "description": "",
+     "section_id": "BIM70015",
+     "title": "Receipts: overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70020",
+     "description": "",
+     "section_id": "BIM70020",
+     "title": "Receipts: capital receipts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70025",
+     "description": "",
+     "section_id": "BIM70025",
+     "title": "Receipts: value of trading stock on cessation of trade, value of work in progress on cessation of profession or vocation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70030",
+     "description": "",
+     "section_id": "BIM70030",
+     "title": "Expenses: overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70035",
+     "description": "",
+     "section_id": "BIM70035",
+     "title": "Expenses: capital expenditure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70036",
+     "description": "",
+     "section_id": "BIM70036",
+     "title": "Expenses: capital expenditure: Land"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70037",
+     "description": "",
+     "section_id": "BIM70037",
+     "title": "Expenses: capital expenditure: Intangible Assets"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70038",
+     "description": "",
+     "section_id": "BIM70038",
+     "title": "Expenses: capital expenditure: Financial Assets"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70039",
+     "description": "",
+     "section_id": "BIM70039",
+     "title": "Expenses: capital expenditure: Transitional arrangements 2017- 2018"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70040",
+     "description": "",
+     "section_id": "BIM70040",
+     "title": "Expenses: interest payments and incidental costs of obtaining finance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70050",
+     "description": "",
+     "section_id": "BIM70050",
+     "title": "Rules not applied in calculating profits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70055",
+     "description": "",
+     "section_id": "BIM70055",
+     "title": "Leaving the cash basis"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70060",
+     "description": "",
+     "section_id": "BIM70060",
+     "title": "Transitional adjustments: entering the cash basis: overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70065",
+     "description": "",
+     "section_id": "BIM70065",
+     "title": "Transitional adjustments: entering the cash basis: examples: debtors, creditors, stock"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70066",
+     "description": "",
+     "section_id": "BIM70066",
+     "title": "Transitional adjustments: entering the cash basis: examples: accruals and prepayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70067",
+     "description": "",
+     "section_id": "BIM70067",
+     "title": "Transitional adjustments: entering the cash basis"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70068",
+     "description": "",
+     "section_id": "BIM70068",
+     "title": "Transitional adjustments: entering the cash basis: examples: successions between connected persons"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70069",
+     "description": "",
+     "section_id": "BIM70069",
+     "title": "Transitional adjustments: entering the cash basis: examples: VAT, finance leasing"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70070",
+     "description": "",
+     "section_id": "BIM70070",
+     "title": "Transitional adjustments: leaving the cash basis: overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70071",
+     "description": "",
+     "section_id": "BIM70071",
+     "title": "Transitional adjustments: leaving the cash basis: calculation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70072",
+     "description": "",
+     "section_id": "BIM70072",
+     "title": "Transitional adjustments: leaving the cash basis: prepayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70073",
+     "description": "",
+     "section_id": "BIM70073",
+     "title": "Transitional adjustments: leaving the cash basis: capital expenditure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70075",
+     "description": "",
+     "section_id": "BIM70075",
+     "title": "Alternative basis: contents"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2025-11-11T15:47:07+00:00",
+ "section_id": "BIM70001",
+ "title": "Cash basis - tax years ending on or before 5 April 2024: contents"
+}

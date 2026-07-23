@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50010",
+ "body": "<p>The Priority Collection Action (PCA) signal can be set or unset by any office with SA function AMEND TAXPAYER SIGNALS and from September 2015, should only be set in Deceased cases. If the signal was on the record for any reason other than Deceased and in Large business Unit cases, it will be automatically unset.</p>\n\n<p>Setting the PCA signal will</p>\n\n<ul>\n  <li>Inhibit automatic repayments</li>\n  <li>Prevent the issue of the SA359 letter</li>\n  <li>Present overdue debt and return work item(s), for any amount, to IDMS as soon as the debt and / or return becomes overdue</li>\n</ul>\n\n<p>It is important to unset the PCA signal if any future recovery action would be appropriate for the automatic SA reminder letters.</p>\n\n<p>Further information about the PCA signal is available in the Debt Management &amp; Banking Manual (DMBM515080).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50000",
+   "section_id": "SAM50000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-03-10T09:33:12+00:00",
+ "section_id": "SAM50010",
+ "title": "Debt and return pursuit: overview: PCA signal"
+}

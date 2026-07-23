@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim85703",
+ "body": "<p>S24A Income Tax Act 2007 (ITA 2007)</p>\n\n<p>From 6 April 2013 a general reliefs cap was introduced to restrict the amount of certain reliefs that an individual can claim against their income for any given tax year. Sideways loss relief comes within the reliefs cap. Both S64 and S72 ITA 2007 are included in the list of reliefs at s24A(6) ITA 2007.</p>\n\n<p>The cap limits individuals to a maximum deduction of certain reliefs in any given tax year to the greater of:</p>\n\n<ul>\n  <li>£50,000</li>\n  <li>25% of the individual’s ‘adjusted total income’</li>\n</ul>\n\n<p>Calculation steps for ‘adjusted total income’ are given at s24A(8) ITA 2007. This is sometimes referred to as net adjusted income.</p>\n\n<p>The cap does not apply to trade losses so far as they are relieved against profits of the same trade. The cap also has no effect on losses created by overlap relief or to the extent that the loss is augmented by overlap relief. Detailed rules on exclusions from the cap can be found at s24A(7) ITA 2007.</p>\n\n<p>Helpsheet204 Limit on Income Tax Reliefs provides more information and examples.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim85700",
+   "section_id": "BIM85700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2021-04-12T19:22:08+01:00",
+ "section_id": "BIM85703",
+ "title": "Trade losses - restriction of relief: interaction with the income tax reliefs cap"
+}

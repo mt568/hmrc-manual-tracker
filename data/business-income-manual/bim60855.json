@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60855",
+ "body": "<p>The definition of related party is narrower than the definition of associated party. Section 356OT CTA 2010 and Section 517U ITA 2007 define related parties for the purposes of this legislation.</p>\n\n<p>A person is related to the person acquiring, holding or developing land in the three circumstances:</p>\n\n<ul>\n  <li>Throughout any period for which they are consolidated for accounting purposes,</li>\n  <li>On any day on which the participation condition is met in relation to them, or</li>\n  <li>On any day on which the 25% investment condition is met in relation to them.</li>\n</ul>\n\n<p>Consolidation for accounting purposes</p>\n\n<p>Consolidation for accounting purposes occurs in the following three circumstances:</p>\n\n<p>(a) The companies’ financial results for a period are required to be comprised in group accounts,</p>\n\n<p>(b) The companies’ financial results for the period would be required to be comprised in group accounts but for the application of an exemption, or</p>\n\n<p>(c) The companies’ financial results for a period are in fact comprised in group accounts.</p>\n\n<p>“Group accounts” means accounts prepared under Section 399 of the Companies Act 2006, or any corresponding provision of the law of a territory outside the United Kingdom.</p>\n\n<p>Participation condition</p>\n\n<p>The participation condition is met in relation to A and B (“the relevant parties”) on a day if, [within the period of 6 months beginning with that day]—</p>\n\n<p>(a) one of the relevant parties directly or indirectly participates in the management, control or capital of the other, or</p>\n\n<p>(b) the same person or persons directly or indirectly participate in the management, control or capital of each of the relevant parties.</p>\n\n<p>Sections 157 to 163 TIOPA 2010 define participation in the management, control or capital of a person. Guidance on these Sections can be found at Intm412060.</p>\n\n<p>25% investment condition</p>\n\n<p>The 25% investment condition is met if:</p>\n\n<p>(a) One of them has a 25% investment in the other, or</p>\n\n<p>(b) A third person has a 25% investment in each of them.</p>\n\n<p>Attributing rights</p>\n\n<p>The rights of one person should be attributed to another in the following circumstances</p>\n\n<ul>\n  <li>Members of the same family (spouse, civil partner, brother, sister, child, parent, grandparent or grandchild).</li>\n  <li>One person regularly acts in accordance with the wishes of the other person.</li>\n  <li>They have entered into an agreement which has a material impact on the value or control of relevant rights or interests.</li>\n  <li>The ownership or control of rights or interests is managed by the same person or persons.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60510",
+   "section_id": "BIM60510"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60800",
+   "section_id": "bim60800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2017-01-28T22:10:22+00:00",
+ "section_id": "bim60855",
+ "title": "Definitions: Related parties"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3040",
+ "body": "<p>A non-cheque payment falls into one of two categories. The two categories are Giro Payments and Electronic Transfers.</p>\n\n<p>The types of payment included in each category are listed in the table below.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Giro payment</th>\n      <th>Electronic transfer</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Note: Bank Giro payments are notified on tape and on paper. Tape and paper Bank Giro payments are identified separately. Paper Bank Giro and Direct Credits cannot be distinguished. Both are described as ‘Bank Giro (Paper)’</td>\n      <td>Note: BACS and Direct Debit payments cannot be distinguished. Both are described as ‘BACS’ payments</td>\n    </tr>\n    <tr>\n      <td>Bank Giro</td>\n      <td>BACS</td>\n    </tr>\n    <tr>\n      <td>Girobank</td>\n      <td>Direct Debit</td>\n    </tr>\n    <tr>\n      <td>Direct Credit</td>\n      <td>-</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Note: You cannot trace a cash or Postal Order payment using function TRACE NON-CHEQUE PAYMENT because cash and Postal Orders are converted to cheques before being banked by Banking Operations.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3000",
+   "section_id": "SAM3000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-12T09:49:17+01:00",
+ "section_id": "SAM3040",
+ "title": "Amend payment: trace payment: types of non-cheque payment"
+}

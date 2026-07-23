@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121240",
+ "body": "<p>When a sole trading source is set up for Self Assessment, the computer allocates a unique identifier to that source. This is not known by the taxpayer and is not on the return. The unique identifier known as the source reference is shown in function MAINTAIN SOURCES.</p>\n\n<p>Where a taxpayer includes more than one trading source in their SA return, the source reference must be entered for each source during capture. This will allow the Compliance Officer to distinguish the sources during Check Later.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:09+00:00",
+ "section_id": "SAM121240",
+ "title": "Returns: individuals returns: taxpayer carries out more than one trade"
+}

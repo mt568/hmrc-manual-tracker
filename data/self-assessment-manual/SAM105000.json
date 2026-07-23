@@ -1,0 +1,45 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105001",
+     "description": "",
+     "section_id": "SAM105001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105010",
+     "description": "",
+     "section_id": "SAM105010",
+     "title": "Agent maintainer"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105020",
+     "description": "",
+     "section_id": "SAM105020",
+     "title": "Setting up new SA agent codes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105050",
+     "description": "",
+     "section_id": "SAM105050",
+     "title": "Output to agents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105070",
+     "description": "",
+     "section_id": "SAM105070",
+     "title": "Statement to agent notification"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:09+00:00",
+ "section_id": "SAM105000",
+ "title": "Records: agent record: contents"
+}

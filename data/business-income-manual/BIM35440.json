@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35440",
+ "body": "<p>The basic starting point in identifying the entirety which is the subject of an item of expenditure is simply: does this look like a separate asset? Is it something that stands apart from other assets, or is it something that is removable?</p>\n<p>Essentially what is the entirety is a question of fact for the First-tier Tribunal as shown by the comments of Donovan J in <strong>Phillips v Whieldon Sanitary Potteries Ltd</strong> [1952] 33TC213 at page 220 where he said:</p>\n<blockquote>This appears to me to be a question of fact which is proper to be decided by the Commissioners [the predecessors of the Tribunal] upon the evidence brought before them in each case.</blockquote>\n<p>In approaching this issue, it is worth remembering the comments of Lord Nicholls of Birkenhead in the Privy Council case of <strong>Auckland Gas Co Ltd v CIR</strong> [2000] 73TC266 where he said at 270:</p>\n<blockquote>Authority on the question of repair or replacement is of limited assistance. The physical objects to which the test of repair has to be applied vary widely. So does the nature of the work done. Judicial dicta applicable to one set of circumstances may be unhelpful or misleading when applied in different circumstances.</blockquote>\n<p>Whilst we therefore need to be cautious, general principles can be drawn from the decisions of the courts.</p>\n<ul><li class=\"filledcircle\">A superficial description of an asset may not be enough to determine whether it is an entirety. A chimney that stood by itself, connected to the rest of the factory only by flues was found to be a separate asset (<strong>Bullcroft Main Collieries Ltd v O’Grady</strong> [1932] 17TC93), but a chimney that stood within a factory and looked like a pillar in the factory building was simply a part of the factory (<strong>Samuel Jones &amp; Co</strong>&nbsp;<strong>(Devonvale) Ltd v CIR</strong> [1951] 32TC513).</li><li class=\"filledcircle\">When looking at a network (pipe, road, rail etc), then an identifiable sector of that network can be the entirety. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35470\">BIM35470</a>, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35475\">BIM35475</a>.</li><li class=\"filledcircle\">You need to be careful to ensure that it is more than a part of the asset that has been replaced. Resurfacing a road does not mean that there is a new road; it means that there is a new surface to the road. It is no more a replacement of the road than a new roof replaces a building, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35485\">BIM35485</a>.</li><li class=\"filledcircle\">If the asset under consideration was designed and built as a single unit rather than developed as separate units over time this may point to the asset as a whole being the entirety. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35490\">BIM35490</a>.</li></ul>\n<p>At the other end of the scale, a fixture that is legally part of the building is unlikely to be seen as a separate asset to the building. For further guidance on what is a fixture, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26025\" rel=\"nofollow\">CA26025.</a></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35400",
+   "section_id": "BIM35400"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2020-02-28T10:49:54+00:00",
+ "section_id": "BIM35440",
+ "title": "Capital/revenue divide: tangible assets: identifying the entirety"
+}

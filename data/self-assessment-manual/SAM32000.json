@@ -1,0 +1,81 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32001",
+     "description": "",
+     "section_id": "SAM32001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32010",
+     "description": "",
+     "section_id": "SAM32010",
+     "title": "Automated risk assessment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32020",
+     "description": "",
+     "section_id": "SAM32020",
+     "title": "Compliance signals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32030",
+     "description": "",
+     "section_id": "SAM32030",
+     "title": "Enquiries in student loan and/or postgraduate loan cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32040",
+     "description": "",
+     "section_id": "SAM32040",
+     "title": "Mandatory enquiries"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32050",
+     "description": "",
+     "section_id": "SAM32050",
+     "title": "Manual risk assessment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32060",
+     "description": "",
+     "section_id": "SAM32060",
+     "title": "Personal return compliance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32070",
+     "description": "",
+     "section_id": "SAM32070",
+     "title": "Profiling"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32080",
+     "description": "",
+     "section_id": "SAM32080",
+     "title": "Segmentation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32090",
+     "description": "",
+     "section_id": "SAM32090",
+     "title": "ITSA segment types"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32100",
+     "description": "",
+     "section_id": "SAM32100",
+     "title": "Mandatory review for possible enquiry signal - reasons"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:33+00:00",
+ "section_id": "SAM32000",
+ "title": "Compliance: risk and enquiry: contents"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45781",
+ "body": "<p>This chapter applies for Income Tax purposes to the computation of trade profits and property income. References in the text to a ‘business’ should therefore be taken to include both trades and property businesses. The chapter does not apply for Corporation Tax purposes, where there are separate rules in the loan relationships legislation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm11000\" rel=\"nofollow\">CFM11000</a>).</p>\n<p>S34 Income Tax (Trading and Other Income) Act 2005, S564A-S564Y Income Tax Act 2007</p>\n<p>Alternative finance returns are treated for UK tax purposes in the same way as interest. If a business has used an alternative finance arrangement rather than a conventional loan to purchase an asset or obtain funding for their business the alternative finance return paid by the business should be deducted from the profits of the business in the same way as interest paid.</p>\n<p>Where an asset is bought and sold under an alternative finance return arrangement the difference between the sale and purchase price of the asset is brought into account as the alternative finance return. Consequently the difference between the purchase and sale price of the asset should not be brought into account as consideration for the asset for any other tax purpose, for example if there is a later capital gain arising on the asset or capital allowances are claimed on it.</p>\n<p>For example if a trader buys new plant and machinery using an alternative finance arrangement under which he pays an alternative finance return then the price paid by the trader will include the alternative finance return charged by the financial institution. In any capital allowances computation the trader should deduct the amount of the alternative finance return to arrive at the correct purchase price for capital allowances. The trader will obtain relief for the alternative finance return as an expense and not through capital allowances.</p>\n<p>This rule is disregarded only where the Taxes Acts specify that the consideration for the sale or purchase of the asset should be an amount other than the actual amount paid, for example some capital gains computations use market value rather than the actual amount paid for the asset.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45650",
+   "section_id": "BIM45650"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:21:28+00:00",
+ "section_id": "BIM45781",
+ "title": "Specific deductions: interest: alternative finance arrangements - tax treatment"
+}

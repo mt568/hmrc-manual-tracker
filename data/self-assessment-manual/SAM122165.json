@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122165",
+ "body": "\n<p>If a computer error message shows a difference between the figure supplied and the computer calculated figure you may over-ride the error and accept the supplied figure.  </p>\n\n<p>There is no computer limit on the amount that can be accepted.  </p>\n\n<ul>\n  <li>If the difference is small the supplied figure should be accepted to avoid repairing a small amount.You must always make a note against the return entry where you have accepted the figure.</li>\n</ul>\n\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)   </p>\n\n<p>There may not be an error even though a computer message is displayed and there will be cases where there is an error but you cannot identify the cause. If you have difficulty in identifying the error you must accept the taxpayer’s figure.  </p>\n\n<p>If the error is caused by the taxpayer leaving a box empty and you decide to accept the empty box, you must enter 0 (zero) in the box before you type ‘A’ to accept. If this is not done the return will be rejected by the main computer as the accept signal is not stored by LDC without a 0 (zero) entry.  </p>\n\n<p>If a computer warning message is displayed you should select the [Close] button (1996/97) or [Noted] button (1997/98) if you have copied the amount correctly, there is no need to note the entry as accepted.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:32+00:00",
+ "section_id": "SAM122165",
+ "title": "Returns: partnership returns: accept the figure"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44270",
+ "body": "<p>S1007, S1015 Corporation Tax Act 2009</p>\n\n<p>For relief to be available, requirements must be satisfied relating to:</p>\n\n<ul>\n  <li>the kind of shares acquired,</li>\n  <li>the company whose shares are acquired,</li>\n  <li>the income tax position of the employee,</li>\n  <li>the business for the purposes of which the share options were granted or the share awards were made.</li>\n</ul>\n\n<p>The first two requirements determine whether the shares acquired are ‘qualifying shares’, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44285\">BIM44285</a> onwards. In practice these are the main requirements in determining whether relief is available.</p>\n\n<h2 id=\"income-tax-position-of-the-employee\">Income tax position of the employee</h2>\n\n<p>Guidance on the required Income Tax position of the employee acquiring the shares is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44320\">BIM44320</a>. In practice there are very few circumstances in which this requirement will not be satisfied.</p>\n\n<h2 id=\"business-for-purposes-of-which-options-or-awards-granted\">Business for purposes of which options or awards granted</h2>\n\n<p>The business for the purposes of which the share options were granted or share awards were made must be carried on by the employing company, and the employing company either must be chargeable to Corporation Tax on its profits from that business or would be so chargeable but for the exemption for foreign permanent establishments under S18A Corporation Tax Act 2009. The employing company is the company with which the employee has the contract of employment.</p>\n\n<p>Guidance on the required business test is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44305\">BIM44305</a>. In practice there are very few circumstances in which this requirement will not be satisfied.</p>\n\n<p>From 6th April 2015, relief on an acquisition of shares may be given to a Host employer within the charge to Corporation Tax, in relation to an individual who works for them for example on a secondment, but is employed by an overseas company not within the charge to Corporation Tax, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44307\">BIM44307</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2019-04-23T10:57:53+01:00",
+ "section_id": "BIM44270",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: qualifying shares: requirements for relief "
+}

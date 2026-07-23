@@ -1,0 +1,36 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34025",
+ "body": "<p>Where a business has been using an invalid basis of computing profits and changes to a valid basis the profits for any affected periods of account must be computed on the new valid basis. This is covered in the following two pages:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34030",
+     "description": "",
+     "section_id": "BIM34030",
+     "title": "Invalid to valid basis: computational adjustment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34035",
+     "description": "",
+     "section_id": "BIM34035",
+     "title": "Invalid to valid basis: approach to earlier years"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:03+01:00",
+ "section_id": "BIM34025",
+ "title": "Change of basis of computing taxable profits: from invalid to valid basis: contents"
+}

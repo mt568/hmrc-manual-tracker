@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10071",
+ "body": "<p>This Action Guide assumes that</p>\n\n<ul>\n  <li>You have received an appeal</li>\n  <li>The appeal is proper to your office (see subject ‘Who Should Handle an Appeal?’)</li>\n</ul>\n\n<p>To handle an appeal against an SA non charge based item consider steps 1 - 6 below.</p>\n\n<p>The guide is presented as follows</p>\n\n<p><a href=\"#IDALNJ3G\">Recording the appeal on the SA system</a> - Steps 1 - 3<br />\n<a href=\"#IDAZSJ3G\">Issuing acknowledgement of the appeal</a> - Steps 4 - 5<br />\n<a href=\"#IDASVJ3G\">Retaining appeal papers</a> - Step 6</p>\n\n<h2 id=\"IDALNJ3G\">Recording the appeal on the SA system</h2>\n\n<p>1. Select function MAINTAIN APPEAL from the Function Menu</p>\n\n<p>2. Check, by reference to earlier appeal papers in the file or enquiry papers, whether an open appeal already exists for this item</p>\n\n<ul>\n  <li>If an open appeal already exists</li>\n  <li>Refer the appeal back to the person dealing with the appeal for instruction, and take no further action</li>\n  <li>If no open appeal already exists</li>\n  <li>Select the [New Appeal] button to take you to function CREATE APPEAL</li>\n</ul>\n\n<p>3. Enter the following details in function CREATE APPEAL</p>\n\n<ul>\n  <li>Year ended</li>\n  <li>Appeal Type</li>\n</ul>\n\n<p>When you select the [OK] button you will be returned to function MAINTAIN APPEAL</p>\n\n<h2 id=\"IDAZSJ3G\">Issuing acknowledgement of the appeal</h2>\n\n<p>4. In Excel, select SEES then Forms and Letters to</p>\n\n<ul>\n  <li>Select form SA525 for issue to the appellant</li>\n  <li>Enter the appellant’s details for inclusion on the form</li>\n  <li>Print off 2 copies of the form</li>\n</ul>\n\n<p>5. Issue one copy of the form to the appellant</p>\n\n<h2 id=\"IDASVJ3G\">Retaining appeal papers</h2>\n\n<p>6. File the appeal papers away, including the other copy of form SA525. If the appeal relates to an enquiry, file with the enquiry papers</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10000",
+   "section_id": "SAM10000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-07-27T08:40:47+01:00",
+ "section_id": "SAM10071",
+ "title": "Appeals, postponements and reviews: appeals: handling an appeal against a non charge based item (Action Guide)"
+}

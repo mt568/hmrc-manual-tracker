@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60350",
+ "body": "<p>As discussed in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60340\">BIM60340</a>, the transactions in land anti-avoidance rules are often applied to ‘slice of the action’ contracts.</p>\n\n<p>‘Slice of the action’ contracts are so called because they confer upon a landowner (who holds the land as an investment) the right to share in the proceeds of any subsequent development by the purchaser. In these cases, the contract for sale of the land to a builder or developer provides for consideration that is, in whole or in part, contingent upon the successful development of the land.</p>\n\n<p>A common arrangement is for the landowner to receive a fixed sum at the time of the disposal, plus a percentage of the sale proceeds of each building subsequently constructed by the purchaser on the land.</p>\n\n<p>Such ‘slice of the action’ contracts fall within the transactions in land anti-avoidance rules. The activity carried on by the purchaser, who acquires, develops and sells the land, is a trading activity. The vendor, in entering into the slice of the action contract, is able to share in the proceeds of that trading activity. However, the vendor cannot be taxed on the trading income because he is not a builder; the contingent consideration is a capital receipt on the disposal of a capital asset. You should accept that the fixed initial payment is not caught by the anti-avoidance rules, since it is not contingent upon the development. This means that this payment is, if the transaction is not caught by any other anti-avoidance rules, chargeable to tax as a capital receipt.</p>\n\n<p>You should argue that the contingent part is within the transactions in land rules. Page v Lowther [1983] 57 TC 199 provides the authority for applying those provisions in these circumstances.</p>\n\n<p>However, it is possible that an element of the contingent payment may not arise as result of the development and therefore remains within the charge to Capital Gains Tax (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60360\">BIM60360</a> and an example at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60365\">BIM60365</a>).</p>\n\n<p>For guidance on how to identify a ‘slice of the action’ case, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60355\">BIM60355</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+   "section_id": "BIM60300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:13+01:00",
+ "section_id": "BIM60350",
+ "title": "Transactions in land: Common situations: 'Slice of the action' contracts"
+}

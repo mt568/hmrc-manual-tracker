@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44275",
+ "body": "<p>S1013, S1021 Corporation Tax Act 2009</p>\n\n<p>The way that the relief is given depends on the nature of the business carried on by the employing company for the purposes of which the share options were granted or share awards were made:</p>\n\n<ul>\n  <li>for trades and property businesses - the amount of the relief is allowed as a deduction in computing the taxable profits;</li>\n  <li>for a company carrying on investment business (except where the business concerned is a property business) - the amount of the relief is treated as management expenses;</li>\n  <li>if the company is a company in relation to which the I-E insurance company rules apply, relief for a share award is treated as ordinary BLAGAB management expenses and relief for a share option is referable to the company’s basic life assurance and general annuity business.</li>\n</ul>\n\n<h2 id=\"more-than-one-business\">More than one business</h2>\n\n<p>If the share options were granted or share awards made for the purposes of more than one business carried on by the employing company (for example a trade and a property business), the amount of the deduction is apportioned between them on a just and reasonable basis.</p>\n\n<p>The precise basis on which the relief is apportioned between the different businesses in computing the taxable profits from each for the accounting period concerned will only be relevant in practice if there are different rules for setting off any losses from the different businesses.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:06+01:00",
+ "section_id": "BIM44275",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: qualifying shares: how the relief is given "
+}

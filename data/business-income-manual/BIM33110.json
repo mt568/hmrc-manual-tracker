@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33110",
+ "body": "<h2><a id=\"IDA10C0B\">Opening and closing stock in trading accounts</a></h2>\n<p>The tax case <strong>Whimster and Co. v CIR</strong> [1925] 12 TC 813, established that the correct way of computing trading profits for tax purposes was to bring in opening stock and closing stock into the computation at the lower of cost or market value (the modern rule being the lower of cost and net realisable value).  </p>\n<p>This rule was discussed in <strong>Threlfall v Jones and Gallagher v Jones</strong> [1993] 66 TC 77, in the context of deciding when expenditure should be brought into account. Lord Nolan discussed the long-standing practice of bringing into account unsold stock-in-trade at the beginning and at the end of the period at the lower of cost or market value and the reasoning behind and the effect of that practice.  He considered Lord Reid’s judgment in the case of <strong>Ostime v Duple</strong>&nbsp;<strong>Motor Bodies Ltd</strong> [1961] 39 TC 537, [1961] 1 WLR 739 and came to the conclusion that, as a matter of legal analysis, the above practice involved the deduction of the whole of the expenses incurred during the period but the crediting against them of a closing figure for unsold stock and for work-in-progress as a notional receipt, although he noted that Lord Reid had also described the effect in practice in the following terms: </p>\n<blockquote>So the question is not what expenditure it is proper to leave in the account as attributable to goods sold during the year, but what expenditure it is proper, in effect, to exclude from the account by setting against it a figure representing stock-in-trade and work in progress.</blockquote>\n<p>The rest of this chapter discusses valuation methods in detail.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33100",
+   "section_id": "BIM33100"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:11+01:00",
+ "section_id": "BIM33110",
+ "title": "Stock: valuation: tax treatment of trading stock - Lord Nolan in Threlfall v Jones"
+}

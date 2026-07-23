@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim61205",
+ "body": "<p>S681D-S681DP Income Tax Act 2007, S870-S886 Corporation Tax Act 2010</p>\n\n<p>The capital sums legislation deals with the case of a taxpayer who:</p>\n\n<ul>\n  <li>having had tax relief (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61210\">BIM61210</a>) in respect of a payment under a lease of an asset other than land or buildings,</li>\n  <li>obtains or has obtained at any time a capital sum (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61215\">BIM61215</a>) in respect of the lessee’s interest in the lease.</li>\n</ul>\n\n<p>The amount on which relief has been obtained (or, if less, the capital sum) is subject to a stand-alone charge to Income Tax or Corporation Tax. The charge to Income Tax is for the tax year of receipt of the capital sum. The charge to Corporation Tax operates by treating the company as receiving the taxable amount at the time the capital sum is obtained.</p>\n\n<p>Where receipt of the capital sum preceded the tax-relieved payment, the normal time limit for adjustment by assessment or otherwise is extended to:</p>\n\n<ul>\n  <li>for Corporation Tax, six years from the end of the accounting period, and</li>\n  <li>for Income Tax, the fifth anniversary of the 31 January next following the tax year,</li>\n</ul>\n\n<p>in which the relieved payment was made.</p>\n\n<p>The capital sums legislation does not apply:</p>\n\n<ul>\n  <li>to leases entered into on or before 14 April 1964, or</li>\n  <li>where the leased trading assets legislation applies to the tax-relieved payment, or would apply but for the exclusion for long funding finance leases (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61240\">BIM61240</a>).</li>\n</ul>\n\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61220\">BIM61220</a> for the application of the legislation where the capital sum is received by an associated person.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim61200",
+   "section_id": "BIM61200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:19+01:00",
+ "section_id": "BIM61205",
+ "title": "Leasing: avoidance: assets other than land: capital sums"
+}

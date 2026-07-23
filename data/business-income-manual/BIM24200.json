@@ -1,0 +1,138 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24200",
+ "body": "<p>You need to consider two interrelated questions:</p>\n\n<ul>\n  <li>first, is there a trade (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24045\">BIM24045</a>), and</li>\n  <li>second, if there is a trade, is that trade a mutual trade (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24100\">BIM24100</a>).</li>\n</ul>\n\n<p>The first of these questions, whether or not a trade exists, is all too often overlooked. This is of particular relevance for social and recreational clubs. This subject represents one strand of the ‘mutuality’ case law (mutual insurance being the other major strand - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24100\">BIM24100</a> onwards).</p>\n\n<p>The use of the term ‘mutual trading’ in the context of a members’ club is misleading, since when members of such clubs come together to provide facilities for themselves, their activities do not normally constitute a trade, because they lack the necessary commerciality.</p>\n\n<p>If there is no trade, there can be no mutual trade and therefore you do not need to consider the issue any further.</p>\n\n<p>So the practical starting point in an apparent case of mutual trading, is to consider whether there is any trade at all.</p>\n\n<p>Allowable expenditure in ‘mixed’ cases, including part mutual and part non-mutual trading, is considered at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24450\">BIM24450</a> onwards.</p>\n\n<p>The following guidance covers:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24205",
+     "description": "",
+     "section_id": "BIM24205",
+     "title": "Members' clubs: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24210",
+     "description": "",
+     "section_id": "BIM24210",
+     "title": "Members’ clubs: distinction between proprietary and members’ clubs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24215",
+     "description": "",
+     "section_id": "BIM24215",
+     "title": "Members' clubs: Tax Bulletin article"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24220",
+     "description": "",
+     "section_id": "BIM24220",
+     "title": "Members' clubs: classes of club membership"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24225",
+     "description": "",
+     "section_id": "BIM24225",
+     "title": "Members’ clubs: temporary membership"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24230",
+     "description": "",
+     "section_id": "BIM24230",
+     "title": "Members’ clubs: Tax Bulletin article on temporary membership"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24235",
+     "description": "",
+     "section_id": "BIM24235",
+     "title": "Members’ clubs: voting rights"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24240",
+     "description": "",
+     "section_id": "BIM24240",
+     "title": "Members' clubs: different forms of club"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24245",
+     "description": "",
+     "section_id": "BIM24245",
+     "title": "Members' clubs: incorporated as industrial & provident societies"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24250",
+     "description": "",
+     "section_id": "BIM24250",
+     "title": "Members' clubs: incorporated as limited company"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24255",
+     "description": "",
+     "section_id": "BIM24255",
+     "title": "Members' clubs: incorporated as limited company: conditions to be satisfied for members’ club treatment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24260",
+     "description": "",
+     "section_id": "BIM24260",
+     "title": "Members' clubs: incorporated as limited company: shareholder inequality"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24300",
+     "description": "",
+     "section_id": "BIM24300",
+     "title": "Members' clubs: guidance for customers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24305",
+     "description": "",
+     "section_id": "BIM24305",
+     "title": "Members' clubs: interest paid or received"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24315",
+     "description": "",
+     "section_id": "BIM24315",
+     "title": "Members' clubs: commission income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24320",
+     "description": "",
+     "section_id": "BIM24320",
+     "title": "Members' clubs: community associations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24345",
+     "description": "",
+     "section_id": "BIM24345",
+     "title": "Cricket clubs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24350",
+     "description": "",
+     "section_id": "BIM24350",
+     "title": "Golf clubs: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24365",
+     "description": "",
+     "section_id": "BIM24365",
+     "title": "Rugby clubs: introduction"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:31+01:00",
+ "section_id": "BIM24200",
+ "title": "Meaning of trade: mutual trading and members clubs: members’ clubs: layout of guidance: contents"
+}

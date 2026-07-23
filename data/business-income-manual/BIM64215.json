@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64215",
+ "body": "<p>Under a PFI agreement, a private sector operator grants a 25 year lease, on a fully equipped school, to a public sector purchaser (a local authority) and also agrees to provide ancillary support services for the period of the lease. In return the operator will receive an annual service payment, the unitary charge.</p>\n\n<p>As part of the commercial arrangement, the purchaser provides land with a current market value of £10 million, as a contribution towards the construction costs of the hospital, and the documentation makes this clear.</p>\n\n<p>For tax purposes the school is a fixed capital asset of a property business and the provision of the ancillary support services is a trade. For accounting purposes the example assumes that the PFI property, i.e. the school, is shown as a fixed asset on the operator’s balance sheet under FRS5 Application Note F at the cost of construction, £100m.</p>\n\n<p>Under FRS5, assuming it is not acquired as trading stock, the land contributed is also reported as a fixed asset on the balance sheet of the operator, at its fair value of £10m. Either as part of the project asset, if the land is to be used in the project, or otherwise as a separate fixed asset on the operator’s balance sheet. The credit entry is to deferred income.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>-</th>\n      <th>Amount</th>\n      <th>-</th>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Dr</td>\n      <td>Fixed asset</td>\n      <td>£10m</td>\n      <td>Cr</td>\n      <td>Deferred income</td>\n      <td>£10m</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>The deferred income is released to the profit and loss account over the period to which the contribution relates (normally the whole of the contract period).</p>\n\n<p>For tax purposes the value of the land is a capital receipt and an adjustment is required in the tax computation to deduct the deferred income credited to the profit and loss account.</p>\n\n<p>If the agreement specifies the type of construction costs to be met by the contribution, this is followed when deciding whether any reduction in expenditure qualifying for capital allowances is required (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64185\">BIM64185</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64375\">BIM64375</a>).</p>\n\n<p>The value of the land is deducted from the construction costs to arrive at the base cost of the hospital for the purposes of tax on chargeable gains (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64200\">BIM64200</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64170",
+   "section_id": "BIM64170"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-20T10:59:38+00:00",
+ "section_id": "BIM64215",
+ "title": "Private Finance Initiative (PFI): contribution of land: example 3"
+}

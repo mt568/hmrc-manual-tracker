@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121481",
+ "body": "\n<p>Where the taxpayer has submitted multiple Standard Accounts Information (SAI) for a business follow steps 1 - 3 below.  </p>\n\n<p>For details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<ol>\n  <li>\n    <p>Check through the sets received and determine the set which is for the latest period of account  </p>\n  </li>\n  <li>\n    <p>Capture the SAI for the latest period of account only, using function CAPTURE RETURN  </p>\n  </li>\n  <li>\n    <p>Capture the basis period information. This should only be completed by the taxpayer on the set of pages relating to the latest period of account</p>\n  </li>\n</ol>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:21+00:00",
+ "section_id": "SAM121481",
+ "title": "Returns: individuals returns: multiple SAI for one basis  period: individuals (Action Guide)"
+}

@@ -1,0 +1,39 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50500",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50501",
+     "description": "",
+     "section_id": "SAM50501",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50510",
+     "description": "",
+     "section_id": "SAM50510",
+     "title": "General information"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50520",
+     "description": "",
+     "section_id": "SAM50520",
+     "title": "Digital outputs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50530",
+     "description": "",
+     "section_id": "SAM50530",
+     "title": "Making Tax Digital for Business"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2019-01-18T07:46:39+00:00",
+ "section_id": "SAM50500",
+ "title": "Digital services - overview: contents"
+}

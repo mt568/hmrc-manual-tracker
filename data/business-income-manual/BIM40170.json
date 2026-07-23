@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40170",
+ "body": "<h2>This is direct tax guidance; for indirect tax guidance, refer to VAT Guidance.</h2>\n<p>Where an entity recognises in their accounts in accordance with GAAP a refund of a sum originally paid as VAT then:</p>\n<ul><li class=\"filledcircle\">the refund is taxable as part of the trading profits, where they are currently carrying on the trade in which the payment to HMRC was made.</li><li class=\"filledcircle\">the refund is taxable as a post cessation receipt, where they used to carry on the trade in which the payment to HMRC was made.</li></ul>\n<p>This applies either where the entity carried on the trade at the time the payment to HMRC was made or where the entity subsequently succeeded to the trade.</p>\n<h2>Same Trade</h2>\n<p>Some refunds of sums originally paid as VAT have been made a number of years after the original payment to HMRC. Over time, a trade can evolve so much that the present incarnation is almost unrecognisable as the trade originally carried on.</p>\n<ul><li class=\"filledcircle\">If the changes are the result of ‘organic growth’, a development over time without sudden and dramatic change, then the trade remains the same trade and the refund is taxable as trading income.</li><li class=\"filledcircle\">If the trade has been taken over and subsumed in a wider trade, then the refund is taxable as trading income of that wider trade.</li></ul>\n<p>Notwithstanding that a trade may have evolved such as to be virtually unrecognisable as the trade in which the payment was originally made, it will only be a different trade if there has been <span class=\"legalq\">a sudden and dramatic change in the trade brought about by either the acquisition or the loss of activities on a considerable scale </span>(for more information on this point see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim80595\">BIM80595</a>).</p>\n<h2>Different Trade</h2>\n<p>Where the original trade has ceased and a new trade taken its place, then the refund of a sum originally paid as VAT is taxable under the post cessation receipts legislation.</p>\n<h2>Example</h2>\n<p>X Ltd is a retailer and over the years its activities have changed. For example in 2005 it started selling mobile phones and in 2008 it stopped selling food. It has followed a strategy of concentrating on its internet arm as opposed to High Street outlets.</p>\n<p>X Ltd finds that it has over-paid VAT because it had wrongly treated one of its food lines as subject to VAT.</p>\n<p>In December 2011 HMRC agree the claim.</p>\n<p>In accordance with GAAP, the directors of X Ltd recognise the refund in the profit &amp; loss account of X Ltd for the year ended 31 December 2011.</p>\n<p>Although X Ltd no longer sells food and is now known more as an internet retailer than for its High Street outlets, the changes in the trade have been gradual or ‘organic’. It is still carrying on the same trade so the refund is taxable as part of the trading profits of X Ltd for the year ended 31 December 2011.</p>\n<h2>Doubts and difficulties</h2>\n<p>Refer any cases of doubt or difficulty to <span>Business Profits</span></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40150",
+   "section_id": "BIM40150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM40170",
+ "title": "Specific receipts: refunds of sums paid as VAT: refund received by the trader or successor"
+}

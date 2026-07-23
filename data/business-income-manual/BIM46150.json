@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46150",
+ "body": "<h2>Employer Financed Retirement Benefits scheme</h2>\n<p>S196A, S246A Finance Act 2004</p>\n<p>The following measures are designed to deter the creation of devices which seek to generate a deduction for an employer’s contribution to an employer-financed retirement benefits scheme (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46140\">BIM46140</a>) effectively ahead of the benefits being paid from it, contrary to the intent of the applicable legislation.</p>\n<p>If the provision of benefits under a registered pension scheme is dependent upon benefits not being provided under an employer-financed retirement benefits scheme, then the relief for the contribution to the registered pension scheme is restricted.</p>\n<p>If the transfer value of rights under a registered pension scheme is reduced because benefits are provided under an employer financed retirement benefits scheme then the relief for the contribution to the registered pension scheme is restricted.</p>\n<p>If the provision of benefits under an employer-financed retirement benefits scheme results in the reduction of benefits payable&nbsp; under a registered pension scheme, then the expense to the employer of providing the benefits under the employer-financed retirement benefits scheme is <strong>not</strong> an allowable deduction in arriving at the trade profits. Where relief for contributions to the registered pension scheme has already been restricted, however, this rule is disapplied to the extent of that restriction.</p>\n<p>If you need advise, contact IPD Technical (Pensions), see <a href=\"https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm011300\" rel=\"nofollow\">PTM011300</a>.</p>\n<h2>Employer asset-backed contributions</h2>\n<p>S196B-S196L Finance Act 2004</p>\n<p>Under legislation introduced with effect from 29 November 2011 and 22 February 2012, employers are not able to claim an upfront deduction for a contribution to a registered pension scheme if the contribution is made using certain asset-backed contribution arrangements.&nbsp;</p>\n<p>These are arrangements that allow an employer to use non-cash assets to underpin and/or act as a guarantee for regular income stream payments to the pension scheme. The arrangements do not usually result in the outright disposal of the asset to the scheme.</p>\n<p>Detailed guidance on asset-backed contribution arrangements is available in the Pension Tax Manual beginning at <a href=\"https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043300\" rel=\"nofollow\">PTM043300</a>.</p>\n<p>If you need advice, contact IPD Technical (Pensions), see <a href=\"https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm011300\" rel=\"nofollow\">PTM011300</a>&nbsp;</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46000",
+   "section_id": "BIM46000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM46150",
+ "title": "Specific deductions: pension schemes: anti avoidance"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127071",
+ "body": "<p>Where the taxpayer has notified a change of address at box 1.2 on the return and / or has made an amendment to the details on the front of the form, follow steps 1 - 7 below</p>\n\n<p>1. Log the return using function LOG RETURN</p>\n\n<h2 id=\"IDAIQG1H\">Where the taxpayer has made an amendment to the details on the front of the form</h2>\n\n<p>2. Update TBS with the taxpayer’s new address (the SA record will be automatically updated overnight)</p>\n\n<p>3. Make a pencil note on the return that the changes have been dealt with</p>\n\n<p>4. Pass the return back for ADC processing</p>\n\n<p>5. Where necessary, arrange for transfer of the SA record</p>\n\n<h2 id=\"IDAOSG1H\">Where there is an entry at box 1.2 but no new address has been manually entered</h2>\n\n<p>6. Select the SA Note (Return box 1.2 completed but no new address supplied) from the SEES Notes Paster</p>\n\n<p>7. Pass the return back for ADC processing</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127000",
+   "section_id": "SAM127000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-03T10:38:12+01:00",
+ "section_id": "SAM127071",
+ "title": "Returns: returns processed at HMRC Wolverhampton: HMRC Wolverhampton: taxpayer address changes (Action Guide)"
+}

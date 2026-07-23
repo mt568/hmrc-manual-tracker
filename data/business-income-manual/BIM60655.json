@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60655",
+ "body": "<p>In a ‘slice of the action’ contract the effect of the exemption from the transactions in UK land rules can be significant. Normally, it removes an amount equal to the value of the land at the first intention date from the calculation of income chargeable to tax under those rules.</p>\n\n<p>Example</p>\n\n<p>A landowner agrees to sell some fields to a land developer for a fixed payment of £1m and a further payment of £0.5m which is contingent on the properties being built on the site being sold.</p>\n\n<ul>\n  <li>The initial fixed payment of £1m is made on 5/8/2016 ,</li>\n  <li>Further payments of £0.5m contingent on the development are agreed , and</li>\n  <li>The value when the contract is signed on 5/8/2016 (the first intention date) is £1.2m.</li>\n</ul>\n\n<p>The amount excluded from the calculation of the chargeable income is £1.2m, this amount is subject to chargeable gains tax or corporation tax on chargeable gains. The amount of income subject to income tax or corporation tax is £0.3m: the total payments received (£1.5m) less the value of the land at the first intention date (£1.2m).</p>\n\n<p>If, exceptionally, the first intention date value is less than the fixed initial payment, the amount of the gain taxed as income is the entirety of the contingent payments. The fixed initial payment is not within the calculation of the income since it is not contingent upon the development.</p>\n\n<p>Example</p>\n\n<p>A landowner sells land held for investment purposes to a developer for £5.2m. The developer intends to build 10 houses on the land. At the date of sale the land is valued at £5m and in this case this is the first intention date. The contract of sale specifies that £1m will be paid to the landowner when the first house is sold. At the date of sale £5.2m is recognised for capital gains tax purposes. Three years later the first house is sold. At this point condition D is met and the £1m will be taxed as trading income.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60510",
+   "section_id": "BIM60510"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2017-01-28T22:37:13+00:00",
+ "section_id": "BIM60655",
+ "title": "Profits from a trade of dealing in or developing UK land: 'Slice of the action' contracts: Portion of charge may be exempt: Example"
+}

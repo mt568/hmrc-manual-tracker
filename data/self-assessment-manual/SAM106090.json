@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106090",
+ "body": "<p>Where the Official Receiver is the trustee in all cases (except those non Official Receiver cases below)</p>\n<ul><li class=\"dash\">Use function MAINTAIN STATEMENT INHIBITION to set the Statement inhibited signal</li></ul>\n<blockquote><p><strong>Note:</strong> The Statement inhibited signal only prevents the issue of statements. All other printed output is issued normally<br /></p></blockquote>\n<p>Following use of function MAINTAIN STATEMENT INHIBITION, a work item is created on the ‘Inhibited Statements’ Work List,&nbsp; see section ‘Statement Issue’ in business area ‘Statements’</p>\n<p>In none Official Receiver cases in England and Wales</p>\n<ul><li class=\"dash\">Inhibit statement issue <strong>only</strong> if requested to do so</li></ul>\n<p>After entering the Insolvency Reference on the SA record, statements issued</p>\n<ul><li class=\"dash\">Show accruing interest (until the liability is remitted)</li><li class=\"dash\">Will be marked ‘For information only’</li></ul>\n<p>Statements should continue to be issued to the taxpayer and not the supervisor of the VA in Voluntary Arrangement (VA) cases.</p>\n<p>This applies to both</p>\n<ul><li class=\"dash\">Pre VA cases (liabilities included in the VA) bearing the original UTR</li><li class=\"dash\">Post VA cases (liabilities outside the VA) for which a second record has been set up</li></ul>\n<p>Both pre and post VA records should show the taxpayers address.</p>\n<p><strong>Sending statements to the supervisor is a breach of taxpayer confidentiality.</strong></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106000",
+   "section_id": "SAM106000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-12-04T00:00:00+00:00",
+ "section_id": "SAM106090",
+ "title": "Records: bankruptcy: issue of statements"
+}

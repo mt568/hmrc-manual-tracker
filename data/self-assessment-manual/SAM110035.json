@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110035",
+ "body": "<p>Balancing charge credit (BCC) including PAYE and CIS deductions.</p>\n\n<h2 id=\"IDA02ZDH\">Effective date of payment (EDP)</h2>\n\n<ul>\n  <li>The fixed filing date of that year’s return. (31 January following the end of the tax year</li>\n</ul>\n\n<p>This fixed filing date also applies to failure to notify and late issue return cases.</p>\n\n<p>Where the BCC is to be set off or reallocated against a non SA liability or an earlier year within SA, the EDP should be amended to the earlier of</p>\n\n<ul>\n  <li>The fixed filing date</li>\n</ul>\n\n<blockquote>\n  <p>And</p>\n</blockquote>\n\n<ul>\n  <li>The date the return was received</li>\n</ul>\n\n<p>To amend the EDP the credit should be transferred to OAS and then transferred back, amending the EDP in the process.</p>\n\n<p>If a BCC is to be set off / reallocated prior to the fixed filing date, as a concession it should be given an EDP of the date the return was received. The SA system will not accept an EDP in the future.</p>\n\n<h2 id=\"IDAJ4ZDH\">Repayment supplement (RPS)</h2>\n\n<p>BCCs attract RPS irrespective of whether they have previously been allocated to a charge or not.</p>\n\n<h3 id=\"from\">From</h3>\n\n<p>The fixed filing date of the return (31 January following the end of the tax year). This date also applies to failure to notify and late issue return cases</p>\n\n<h3 id=\"to\">To</h3>\n\n<p>Where the amount is to be repaid</p>\n\n<ul>\n  <li>The projected date of issue of the repayment</li>\n</ul>\n\n<p>If reallocated within the same UTR</p>\n\n<ul>\n  <li>The Relevant Due Date of the outstanding charge against which the credit is to be set</li>\n</ul>\n\n<p>If reallocated to a different UTR or Head of Duty</p>\n\n<ul>\n  <li>The date of reallocation</li>\n</ul>\n\n<p>If the credit is to go on the record as unallocated</p>\n\n<ul>\n  <li>The date of reallocation</li>\n</ul>\n\n<h2 id=\"IDAWA0DH\">RPS calculated automatically or manually?</h2>\n\n<p>RPS will be calculated automatically with the following exceptions</p>\n\n<ul>\n  <li>If the BCC is set off / reallocated via OAS, RPS ‘from’ dates should be provided on form SA331 OAS Allocation Form (available for completion and printing from SEES) to the office with accounting responsibility as any RPS will have to be calculated manually</li>\n  <li>In the case of a failure to notify or a late issue return, the RPS will only be automatically calculated from the due date of the return. The additional RPS due from 31 January will need to be calculated manually</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-03T10:17:55+01:00",
+ "section_id": "SAM110035",
+ "title": "Repayments: issue repayment: balancing charge credit (BCC)"
+}

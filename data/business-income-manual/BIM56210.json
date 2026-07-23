@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim56210",
+ "body": "<p>S133, S135 Income Tax (Trading and Other Income) Act 2005, S151, S152 Corporation Tax Act 2009</p>\n<h2>Meaning of relevant period</h2>\n<p>The legislation requires that any revenue expenditure on the production or acquisition of an original master version of a sound recording must be allocated to a relevant period. Identifying the relevant period in which the completion or acquisition of a film occurs was also needed when allocating expenditure under the special rules for qualifying British films - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56010\">BIM56010</a>.</p>\n<p>A relevant period is a period for which the accounts of the trade or business of exploiting the master version are made up. If no accounts are made up for a period the relevant period for Corporation Tax purposes is the accounting period of the company (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm01400\">CTM01400</a> onwards). For Income Tax purposes where no accounts are drawn up, the relevant period is, in the case of a trade, the basis period for the tax year or, in the case of a non-trade business, the tax year.</p>\n<p>A common situation where accounts are not drawn up for a relevant period is where a partnership is formed but does not start trading until some time later, and the first partnership accounts include a period before trading commences. The relevant period only starts on the date when trading commences and that date does not coincide with the first day for which accounts are made up. For a partnership trading in the exploitation of master recordings the start of trading is a question of fact, but will not normally begin until the partnership has acquired a master version and begun to exploit it (for example, by leasing or licensing it to someone). For guidance on when a trade commences, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim80505\">BIM80505</a>.</p>\n<h3>Example</h3>\n<p>A partnership of individuals is formed on 1 May 2012 with a view to trading in the exploitation of the master version of sound recordings through sale and leaseback. It first acquires an original master version of a recording on 21 March 2013, and immediately leases the recording back to the producer. Partnership accounts are completed for the 11 months to 31 March 2013, and annually to 31 March thereafter. As trading only starts on 21 March 2013 and partnership accounts cover periods before and after trading commenced, no accounts of the trade or business are drawn up for a period (i.e., there is no period matching the period of trading). Therefore the relevant period is the basis period for the year of assessment, which is 21 March 2013 to 5 April 2013.</p>\n<h2>Allocation of income and expenditure</h2>\n<p>The legislation provides rules for allocation of revenue expenditure on the production or acquisition of a sound recording to relevant periods and over-rides accountancy practice. There are two alternative methods of allocating expenditure; the <strong>income matching</strong> method (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56215\">BIM56215</a>) and the <strong>cost recovery</strong> method (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56230\">BIM56230</a>). These methods usually produce results similar to the normal accounting practice of matching income with the expenditure necessary to earn that income.</p>\n<p>Under the income matching or cost recovery methods expenditure cannot normally be deducted until the value of the sound recording starts to be realised, which is when income begins to arise from exploitation of the master version. This may be when a sound recording starts to generate income on release or by the outright sale of the master version, and will often coincide with the commencement of trading.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56000",
+   "section_id": "BIM56000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56200",
+   "section_id": "BIM56200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:26+01:00",
+ "section_id": "BIM56210",
+ "title": "Films and sound recordings: master versions of sound recordings: allocation of expenditure to relevant periods"
+}

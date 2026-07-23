@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim55520",
+ "body": "<p>S111-S129 Income Tax (Trading and Other Income) Act 2005, S109-S127 Corporation Tax Act 2009</p>\n<p>Whether or not a particular animal which has left the herd is replaced by a particular animal which comes into the herd is a question of fact to be agreed or determined, in the absence of agreement, by the Tribunal. In practice replacement treatment may be applied where the new animal joins the herd within twelve months of the old animal leaving it, even though this may be in a different accounting period. If the profit or loss on disposal of the old animal has already been brought into the computation of trading profits (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55550\">BIM55550</a>) for a previous accounting period, it will need to be taken out again.</p>\n<p>Replacement treatment may also be applied to animals joining the herd after the 12 month period has elapsed if, exceptionally, the taxpayer can demonstrate that there is a causal connection between the departure of the old animal and the introduction of the new. The fact that the introduction of the new animal restores the position to what it was previously in terms of numbers is not in itself enough. The farmer has to show that there was a definite and identifiable intention that the old animal should be replaced by the new one.</p>\n<p>Normally farmers will replace animals shortly after they die or are disposed of. But there are some special cases where replacement treatment may be appropriate even though the interval is more than 12 months. Where replacements are bought in, it is unlikely that there would be sufficient evidence to support such a view. But where the replacements are home bred, and particularly in the case of small herds where there may be insufficient home bred replacements `in the pipeline' to replace unexpected disposals (perhaps resulting from injury or illness), then an interval longer than 12 months may be reasonable on the facts of the case.</p>\n<p>The actual number of animals in the herd at a particular accounting date is not of special significance since an animal disposed of before the accounting date may, as a matter of fact, be replaced in a later period. But if an animal which enters the herd does not replace one which has left it, then the herd is increased in size and the new animal cannot be regarded as a replacement.</p>\n<p>The argument should not be accepted that there is a basic or notional herd size which, in any year, is the maximum number previously reached and that, if numbers drop and later increase, then animals entering the herd up to the previous maximum must be replacements. </p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55000",
+   "section_id": "BIM55000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55500",
+   "section_id": "BIM55500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:37+01:00",
+ "section_id": "BIM55520",
+ "title": "Farming: herd basis: what constitutes a replacement"
+}

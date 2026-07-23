@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim37030",
+ "body": "<p>S7 Income Tax (Trading and Other Income) Act 2005, S8 Corporation Tax Act 2009</p>\n<h2>The interaction with the accountancy concept of ‘materiality’</h2>\n<p>S7(1) Income Tax (Trading and Other Income) Act 2005 for unincorporated businesses and S8(3) Corporation Tax Act 2009 for companies provide that tax is charged on the full amount of profits arising in the accounting period.</p>\n<p>As explained in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37020\">BIM37020</a>, ‘profits’ is not synonymous with income. Profits must be computed in accordance with the rules of generally accepted accounting practice unless there is a specific statutory override. There is guidance on the relationship between accountancy and tax at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31000\">BIM31000</a> onwards.</p>\n<p>The use of the words ‘full amount’ to qualify ‘profits’ means that the accountancy concept of ‘materiality’ is not imported into the computation of taxable profits. In practice, on de minimis grounds, you should not seek to identify trivial disallowable items. Also, in relation to businesses with an annual turnover of £5m or more, you should accept tax computations where the figures are rounded to the nearest £1,000 (see <a href=\"https://www.gov.uk/government/publications/statement-of-practice-15-1993/statement-of-practice-15-1993\" rel=\"nofollow\">Statement of Practice 15/93 (GOV.UK)</a>). See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31045\">BIM31045</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31047\">BIM31047</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim37000",
+   "section_id": "BIM37000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim37010",
+   "section_id": "BIM37010"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2021-12-08T09:19:18+00:00",
+ "section_id": "BIM37030",
+ "title": "Wholly and exclusively: statutory background: what the guidance covers: tax is charged on the full amount of profits"
+}

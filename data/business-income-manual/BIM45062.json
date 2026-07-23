@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45062",
+ "body": "<p>S45 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S1298 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<p>This example relates to <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45060\">BIM45060</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45061\">BIM45061</a>.</p>\n\n<p>Company X is a book publisher. During the year, it pays £40,000 to Company Y, an events organiser, to arrange the hospitality at some of its book launches. The actual cost to Company Y of arranging these launches is £37,000.</p>\n\n<p>Company X also pays £50,000 to Company Z, a public relations company. This is made up of £5,000 for organising a Christmas party for Company X’s customers and £45,000 for publicising the company and its products. Company Z spends £3,000 on working lunches with journalists in connection with Company X’s business.</p>\n\n<p>The effect upon each company’s tax computations is as follows:</p>\n\n<h4 id=\"company-x\">Company X</h4>\n\n<table>\n  <tbody>\n    <tr>\n      <td>£40,000 paid to Company Y for book launches</td>\n      <td>Not allowable. Payment has been made for business entertainment</td>\n    </tr>\n    <tr>\n      <td>£5,000 paid to Company Z for Christmas party</td>\n      <td>Not allowable. Payment has been made for business entertainment</td>\n    </tr>\n    <tr>\n      <td>£45,000 paid to Company Z for publicity</td>\n      <td>Allowed in full (the £3,000 has not been specifically reimbursed and is added back in Company Z’s computation)</td>\n    </tr>\n  </tbody>\n</table>\n\n<h4 id=\"company-y\">\nCompany Y</h4>\n\n<table>\n  <tbody>\n    <tr>\n      <td>£37,000 expended on book launches</td>\n      <td>Allowed in full. Expenditure has been incurred by Company Y as agent for Company X and reimbursed in full. Not business entertaining expenditure in Company Y’s hands</td>\n    </tr>\n  </tbody>\n</table>\n\n<h4 id=\"company-z\">\nCompany Z</h4>\n\n<table>\n  <tbody>\n    <tr>\n      <td>£4,500 expended on Christmas party</td>\n      <td>Allowed in full. Expenditure has been incurred by Company Z as agent for Company X and reimbursed in full. Not business entertaining expenditure in Company Z’s hands</td>\n    </tr>\n    <tr>\n      <td>£3,000 expended on lunches with journalists</td>\n      <td>Not allowable. Company Z has incurred expenditure as principal and not agent. The journalists do not pay for their lunch and the expenditure is not specifically reimbursed by Company X. The expense is therefore outside the exclusion at S46(2) ITTOIA 2005 for unincorporated businesses and S1299(2) CTA 2009 for companies (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45061\">BIM45061</a>)</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45000",
+   "section_id": "BIM45000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-13T08:23:50+00:00",
+ "section_id": "BIM45062",
+ "title": "Specific deductions: entertainment: expenditure paid to specialist providers: example"
+}

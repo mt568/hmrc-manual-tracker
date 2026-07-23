@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122060",
+ "body": "<p>There are cases where there are two SA records for one partnership on the computer. This means that the partnership will be issued automatically with two returns. In the majority of cases the partnership will contact you to ask you which return should be completed. You should establish the background to the error and decide</p>\n\n<ul>\n  <li>Which tax return is to be completed</li>\n</ul>\n\n<p>And  </p>\n\n<ul>\n  <li>Which record is to be made dormant for the year following the return year</li>\n</ul>\n\n<p>Then follow the guidance under subject ‘How to make a record dormant’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101092\">SAM101092</a>).</p>\n\n<p>Note: If the record for the uncompleted return is not updated correctly, automatic penalties will be charged on the individual partners incorrectly.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:29+00:00",
+ "section_id": "SAM122060",
+ "title": "Returns: partnership returns: returns issued to partnership from two separate SA records"
+}

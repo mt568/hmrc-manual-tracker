@@ -1,0 +1,27 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44636",
+ "body": "<p>Part 7A Income Tax (Earnings and Pensions) Act 2003 (ITEPA 2003), S40, S41 Income Tax (Trading and Other Income) Act 2005, S1292, S1293 Corporation Tax Act 2009</p>\n<p>The ‘disguised remuneration legislation’ in Part 7A ITEPA 2003 was introduced in 2011 to tackle arrangements involving third parties which seek to avoid or defer the payment of Income Tax. It is wide ranging anti-avoidance legislation.</p>\n<p>Broadly, an amount treated as the employee’s employment income arising under the disguised remuneration legislation attracts tax relief for the employer under the EBT legislation to the extent that the income arising occurs in respect of an underlying contribution to an EBT (or other arrangement) paid by that employer.&nbsp;Additional rules apply to employee benefit contributions made or to be made on or after 1 April 2017 (CT) or 6 April 2017 (IT). These rules may prevent a deduction being allowable at any time even when qualifying benefits are provided.&nbsp;This is explained more fully at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44571\" rel=\"nofollow\">BIM44571</a> and in the example at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44611\" rel=\"nofollow\">BIM44611</a>.</p>\n<p>Relief is only potentially available for an employer to the extent that it has not already been given in respect of the underlying contribution. If an amount treated as the employee’s employment income under the disguised remuneration legislation relates to a contribution made by the employer that has already been fully relieved then no further deduction is allowable.</p>\n<p>An employer may have entered into an agreement with HMRC in respect of tax years before 6 April 2011. In this case Sch 2 Para 59 Finance Act 2011 may apply to give a credit reducing the value of the chargeable relevant step under the legislation. In that event the available deduction for the employer relating to the underlying contribution will be reduced by the amount of the credit given. There are no circumstances where the overall total Corporation Tax relief due will be in excess of the underlying contribution.</p>\n<h2>How the legislation works</h2>\n<p>A ‘relevant step’ within the meaning of the disguised remuneration legislation is treated as a qualifying benefit for the purposes of the EBT legislation if the value of the step counts as employment income.</p>\n<p>The amount of the qualifying benefit is not to exceed the amount charged to Income Tax in respect of the relevant step (or the amount that would be so charged if the employee worked in the UK).</p>\n<p>There are circumstances when a greater amount of income will arise under the disguised remuneration legislation than was originally contributed by the employer. This might happen where an EBT receives investment income and then loans this to an employee. The total amount loaned, including any sourced from investment income of the EBT rather than the employer, may potentially attract an Income Tax charge. In these circumstances, the deduction the employer is able to claim will be limited to the amount of the original contribution although any tax/NIC paid in respect of the charge by the employer should be considered for relief under normal principles.</p>\n<h2>Guidance on the disguised remuneration legislation</h2>\n<p>This can be found in the Employment Income Manual at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45000\" rel=\"nofollow\">EIM45000</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44573",
+   "section_id": "BIM44573"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM44636",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs: timing of deductions for contributions: disguised remuneration"
+}

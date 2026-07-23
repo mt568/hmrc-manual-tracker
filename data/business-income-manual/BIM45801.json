@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45801",
+ "body": "<p>S58, S59 Income Tax (Trading and Other Income) Act 2005</p>\n\n<p>A deduction in computing the taxable profits of a trade is allowable for certain incidental costs (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45815\">BIM45815</a>) of obtaining finance by means of a loan or the issue of loan stock where the interest on that loan or stock is itself an allowable deduction. The legislation gives relief where such costs would otherwise be disallowed as incidental costs of the capital transaction of obtaining finance.</p>\n\n<p>The relief applies in the limited and relatively self-contained area of raising loan finance for trade purposes. It does not extend to costs that may arise as a consequence of the particular terms on which loan finance may be raised.</p>\n\n<p>Relief is not withheld if the expenditure is, in the event, abortive.</p>\n\n<p>The legislation allowing a deduction in computing trade profits is also applied to the profits of a property business - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim00570\">BIM00570</a>.</p>\n\n<p>Note that the rules apply only to Income Tax (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45800\">BIM45800</a>). Nonetheless they apply to some companies because non-resident companies are liable to Income Tax in some cases. So, for example, the rules apply to a non-resident incorporated landlord.</p>\n\n<h2 id=\"relief-limited-to-loans-and-loan-stock\">Relief limited to loans and loan stock</h2>\n\n<p>The relief relates only to the incidental costs of obtaining business finance by means of a loan or the issue of loan stock. The relief does not extend to any costs connected with other methods of financing a business, for example, through bills of exchange, leasing assets, or buying assets on credit or hire purchase; nor does it extend to any form of equity finance.</p>\n\n<p>Alternative finance arrangements are included as loans within the relief and references to interest are to be taken to include alternative finance returns or profit share returns payable under an alternative finance arrangement. Alternative finance arrangements, alternative finance returns and profit share returns are described in <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm44000\">CFM44000</a> onwards.</p>\n\n<p>A simple avoidance device for incorporated borrowers would be to raise equity by the issue of loan stock convertible to equity shortly afterwards. This is prevented by the anti-avoidance rules described in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45810\">BIM45810</a>.</p>\n\n<h2 id=\"loan-not-wholly-for-trade-purposes\">Loan not wholly for trade purposes</h2>\n\n<p>Where a loan is not applied wholly for trade purposes and part of the interest on it is allowable in accordance with <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45670\">BIM45670</a>, you should regard the incidental costs relating to the allowable part of the loan as qualifying for relief.</p>\n\n<h2 id=\"how-relief-given\">How relief given</h2>\n\n<p>The costs allowable are deducted when computing the taxable trade profits. The rules are silent as to the time at which any permitted deduction is given (with the exception of the special rule for convertible loans and convertible loan stock, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45810\">BIM45810</a>). Accordingly the timing of any deduction is determined by the normal rules (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42200\">BIM42200</a> onwards). In particular, where incidental costs have been spread or deferred in accounts, and those accounts have been correctly prepared under generally accepted accounting practice (GAAP), it is not permissible to make a computational adjustment to deduct all the costs in the year the loan finance is obtained.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45800",
+   "section_id": "BIM45800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM45801",
+ "title": "Specific deductions - incidental costs of loan finance: scope of the legislation"
+}

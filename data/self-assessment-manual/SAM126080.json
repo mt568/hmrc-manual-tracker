@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam126080",
+ "body": "<p>The filing date and the due date for the balancing payment is by concession 3 months and 7 days after the date of issue where</p>\n\n<ul>\n  <li>A paper return is issued late, that is after 31 October following the end of the return year</li>\n</ul>\n\n<p>And  </p>\n\n<ul>\n  <li>There has been no Failure to Notify chargeability, that is by 5 October following the end of the return year</li>\n</ul>\n\n<p>When you use function RECORD RETURN REQUEST to issue a paper return or use function RECORD DATE OF CLERICAL ISSUE to record the date of issue of a return or notice to file issued manually, you must indicate whether or not Failure to Notify applies.</p>\n\n<p>When the return is successfully filed online, if it was issued after 31 October following the end of the return year, the computer will automatically set the relevant due date of the balancing payment for interest purposes to</p>\n\n<ul>\n  <li>31 January in a Failure to Notify case</li>\n  <li>3 months and 7 days after the date of issue of the return, if Failure to Notify does not apply</li>\n</ul>\n\n<p>If Failure to Notify does not apply, the due dates of the payments on account for the current year will be set to the later of</p>\n\n<ul>\n  <li>The standard due date for the payment on account</li>\n</ul>\n\n<p>And  </p>\n\n<ul>\n  <li>The return due date</li>\n</ul>\n\n<p>Note: The computer system uses the balancing payment due date when calculating any late payment penalties (surcharge for tax years 2010-11 and earlier). So where there is no failure this will be three months and seven days after the issue of the return, but where there is failure to notify this will be 31 January.</p>\n\n<p>If you select the wrong entry in the Failure To Notify field when using function RECORD RETURN REQUEST or RECORD DATE OF CLERICAL ISSUE, provided the return has not been filed you can use function RECORD DATE OF CLERICAL ISSUE to correct the selection. At any time after a charge has been entered on the record, the only way to change the relevant due date for interest purposes for that year, is by use of function AMEND RELEVANT DATES.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam126000",
+   "section_id": "SAM126000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:07+00:00",
+ "section_id": "SAM126080",
+ "title": "Returns: filing returns online: late issue of return"
+}

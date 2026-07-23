@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim52790",
+ "body": "<h2>Example 1</h2>\n<p>For the 2023-24 tax year, Mr Jones provides foster care for one fourteen year old for the whole tax year and one eight year old for twelve weeks of the year. No other foster carers live in his house. His annual accounting date is 5 April. His qualifying amount will be made up as follows:</p>\n<table summary=\"Table showing the qualifying amount\" width=\"27\"><thead><tr><th scope=\"col\" width=\"307\"><p><br /></p></th><th scope=\"col\"><p><strong>Amount</strong></p></th></tr></thead><tbody><tr><td width=\"307\"><p>Fixed amount</p></td><td><p>£18,140</p></td></tr><tr><td width=\"307\"><p>Child 1 (52 x £450)</p></td><td><p>£23,400</p></td></tr><tr><td width=\"307\"><p>Child 2 (12 x £375)</p></td><td><p>£4,500</p></td></tr><tr><td width=\"307\"><p>TOTAL</p></td><td><p>£46,040</p></td></tr></tbody></table>\n<p>If Mr Jones had total receipts from foster care of £50,000 and incurred allowable expenses of £42,000, he could choose between being taxed on:</p>\n<ul><li class=\"filledcircle\">£8,000 (£50,000 receipts less £42,000 expenses) using the profit method, or</li><li class=\"filledcircle\">£3,960 (£50,000 receipts less £46,040 qualifying amount) using the simplified method.</li></ul>\n<p>On the other hand, if Mr Jones had total receipts from foster care of £35,000, his receipts from foster care would be exempt for the year. This is because his total receipts would be less than his qualifying amount.</p>\n<h2>Example 2</h2>\n<p>For the 2023-24 tax year, Mrs Smith provides foster care for one fifteen year old for the whole tax year and one six year old for ten weeks of the year. No other foster carers live in her house. Her annual accounting date is 5 April. Her qualifying amount for the year will be made up as follows:</p>\n<table summary=\"Table showing the qualifying amount for the year\" width=\"27\"><thead><tr><th scope=\"col\" width=\"307\"><p><br /></p></th><th scope=\"col\"><p><strong>Amount</strong></p></th></tr></thead><tbody><tr><td width=\"307\"><p>Fixed amount</p></td><td><p>£18,140</p></td></tr><tr><td width=\"307\"><p>Child 1 (52 x £450)</p></td><td><p>£23,400</p></td></tr><tr><td width=\"307\"><p>Child 2 (10 x £375)</p></td><td><p>£3,750</p></td></tr><tr><td width=\"307\"><p>TOTAL</p></td><td><p>£49,040</p></td></tr></tbody></table>\n<p>If Mrs Smith had total receipts from foster care of £52,000 and incurred allowable expenses of £45,000, she could choose between being taxed on:</p>\n<ul><li class=\"filledcircle\">£7,000 (£52,000 receipts less £45,000 expenses) using the profit method; or</li><li class=\"filledcircle\">£2,960 (£52,000 receipts less £49,040 qualifying amount) using the simplified method.</li></ul>\n<p>On the other hand, if Mrs Smith had total receipts from foster care of £35,000 for the year, her receipts from foster care would be exempt. This is because her total receipts would be less than her qualifying amount.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim52750",
+   "section_id": "BIM52750"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2024-03-13T14:18:21+00:00",
+ "section_id": "BIM52790",
+ "title": "Care providers: qualifying care relief: foster carers: examples"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44265",
+ "body": "<p>S1001-S1038 Corporation Tax Act 2009</p>\n\n<p>A specific statutory Corporation Tax deduction is allowable in computing the taxable profits of a business of whatever nature for providing employees with shares which satisfy certain qualifying conditions (‘qualifying shares’).</p>\n\n<p>The statutory deduction applies whatever way the employing company chooses to structure and fund the employee share schemes from which its employees may benefit. It is irrelevant whether a trust is used in conjunction with a scheme, whether new shares are issued or whether existing shares are purchased in the market. Although there are separate sections in the legislation dealing with share awards and share options, the requirements for relief and the effect of the deduction are the same.</p>\n\n<p>The statutory deduction overrides the accounting treatment. No other deduction for the cost of providing ‘qualifying shares’ is allowable for any Corporation Tax purposes, either to the company entitled to the statutory deduction or to any other company.</p>\n\n<p>There are therefore two steps required in computing a company’s taxable profits:</p>\n\n<ol>\n  <li>add back any deduction in the company’s profit and loss account which relates to the costs of providing employees with ‘qualifying shares’,</li>\n  <li>deduct the amount allowed to that company as the statutory deduction.</li>\n</ol>\n\n<h2 id=\"providing-shares-to-persons-who-are-not-employees\">Providing shares to persons who are not employees</h2>\n\n<p>The statutory deduction also applies where qualifying shares are provided to persons who are not employees, if they acquire the shares (or options to acquire the shares) by reason of their, or another person’s, office or employment with the company entitled to the deduction. This may therefore include qualifying shares acquired by ex-employees, directors, ex-directors, and relatives of employees or directors.</p>\n\n<h2 id=\"incidental-expenses\">Incidental expenses</h2>\n\n<p>Deductions for expenditure not directly relating to providing the shares themselves (such as administrative expenses of operating the employee share scheme or trust through which the shares are provided) are not affected by the statutory deduction.</p>\n\n<p>The timing and amount of deductions for funding such incidental expenditure continues to be determined by general principles for computing taxable profits.</p>\n\n<p>For incidental expenditure met out of employers’ contributions to an employee share ownership trust or a general employee benefit trust, the timing of deductions may be affected by the EBT anti-avoidance legislation if there is a significant delay between the employer’s contribution and the trustees using it to meet the incidental costs. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44500\">BIM44500</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:05+01:00",
+ "section_id": "BIM44265",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: qualifying shares:  introduction"
+}

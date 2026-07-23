@@ -1,0 +1,27 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35822",
+ "body": "<h2>Follow the same basic approach</h2>\n<p>The basic approach to determining whether expenditure on computer software is capital is set out in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35810\">BIM35810</a>. To recap the key points:</p>\n<ul><li class=\"filledcircle\">It is necessary to obtain an understanding of the business function or effect of a concern's software rather than the nature of computer programs themselves and how they are written.</li><li class=\"filledcircle\">Software normally functions as a tool enabling business to be carried on more efficiently.</li><li class=\"filledcircle\">The scope, power, longevity of such a tool and its centrality to the functions of the business will all bear on its treatment.</li></ul>\n<p><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35820\">BIM35820</a> considers in more detail the treatment of costs of developing software to fit a trader's specific needs. This guidance should be applied whether the software is developed by a trader's own employees or whether outside consultants are engaged. There is no presumption that because expenditure on software is incurred in-house it is more likely to be revenue than it would be if the same software were developed for a concern by an independent software house. For the role of the commercial accounting treatment of the expenditure in question see the general comments in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35200\">BIM35200</a> onwards. That treatment, though not decisive, will remain relevant to the tax position. The fact that expenditure on in-house software costs has been taken to the balance sheet does not mean that it is necessarily capital for tax purposes but it is a factor in support of capital treatment. If such expenditure turns out to be revenue for tax purposes then it does not follow that a deduction is due in the year it is incurred.</p>\n<h2>Corporation Tax intangible assets regime</h2>\n<p>Licences and rights over software that was created or acquired from an unrelated party by a company, on or after 1 April 2002, usually fall within the Corporation Tax intangible fixed assets regime.</p>\n<p>Detailed guidance on the intangible assets rules for companies is in the Corporate Intangibles Research &amp; Development Manual (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-intangibles-research-and-development-manual/cird10000\">CIRD10000</a> onwards).</p>\n<h2>Relevance of accounting treatment</h2>\n<p>Conversely, the fact that expenditure on in-house software costs has been written off immediately to the profit and loss account does not mean that it is necessarily revenue for tax purposes. Indeed, where the payment is clearly capital by reference to the other relevant factors,&nbsp;<strong>ECC Quarries Ltd v Watkis</strong> [1975] 51TC153 - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35325\">BIM35325</a>&nbsp;-&nbsp;is authority for capital treatment even if an immediate write off is the only available accountancy treatment. For guidance on this topic, please contact an HMRC Advisory Accountant.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35800",
+   "section_id": "BIM35800"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35820",
+   "section_id": "BIM35820"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-09-02T01:00:00+01:00",
+ "section_id": "BIM35822",
+ "title": "Capital/revenue divide: computer software: in-house software development costs: introduction"
+}

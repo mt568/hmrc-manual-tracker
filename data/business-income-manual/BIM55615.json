@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim55615",
+ "body": "<p>It may occasionally happen that a farmer retains an existing herd of animals but changes the purpose for which it is kept. This is most common when a farmer ceases dairy production.</p>\n<h3>Example</h3>\n<p>Megan, an established dairy farmer with a herd of 50 cows on the herd basis, decides to go out of dairying. There are basically two options open to them:</p>\n<ul><li class=\"filledcircle\">They may dispose of their herd virtually immediately so that any profit on the sale of the herd will be tax free under the herd basis provisions, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55540\">BIM55540</a>. If they then acquire a new suckler herd for the purpose of beef production, a fresh herd basis election will be necessary, otherwise the stock in trade basis will apply.</li><li class=\"filledcircle\">They may convert to beef suckler production - the breeding of beef calves - using the existing herd as a basis. In that case, the existing herd basis election will no longer apply, as it was made for a production herd of a particular class (dairy cows) and cannot relate to the herd of a different class (beef cows) they are now keeping, even though the actual animals involved are the same. A fresh herd basis election may however be made in respect of the beef herd.</li></ul>\n<p>If a fresh election is made, the existing animals should come out at market value and go straight into the new herd at the same value.</p>\n<p>If no new herd basis election is made the stock in trade basis will apply from the date milk production ceases and the herd should then be brought into the profit and loss account at market value. For this purpose the treatment outlined at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55540\">BIM55540</a> for a whole herd disposal without replacement should be followed substituting market value for sale proceeds. Subsequent sales should be credited to the profit and loss account in the usual way.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55000",
+   "section_id": "BIM55000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55500",
+   "section_id": "BIM55500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:23+01:00",
+ "section_id": "BIM55615",
+ "title": "Farming: herd basis: change in purpose for which a herd is kept"
+}

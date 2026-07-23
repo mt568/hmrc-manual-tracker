@@ -1,0 +1,96 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim38300",
+ "body": "<p>S34 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S54 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<h2 id=\"introduction-and-layout-of-guidance\">Introduction and layout of guidance</h2>\n\n<p>On the occasion of the commencement, cessation or sale of a trade you need to consider if the expenses arising are incurred for the purposes of carrying on and earning the profits of the trade or for the purposes of the commencement, cessation or sale.</p>\n\n<p>You will also in this context have to pay particular attention to the issue of whether the expenditure is on capital account (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35000\">BIM35000</a> onwards). Capital expenditure may well satisfy S34 ITTOIA 2005 for unincorporated businesses and S54 CTA 2009 for companies, but, with the exception of specific statutory reliefs, is disallowed for tax purposes under S33 ITTOIA 2005 or S53 CTA 2009. One example of a specific statutory relief for capital expenditure is S58 ITTOIA 2005 (costs of incidental loan finance). Note that, for companies chargeable to Corporation Tax, such costs are dealt with under the loan relationship rules.</p>\n\n<p>The guidance below covers the following cases:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim37000",
+   "section_id": "BIM37000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38310",
+     "description": "",
+     "section_id": "BIM38310",
+     "title": "Commencement, cessation or sale of business: costs of going out of business"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38315",
+     "description": "",
+     "section_id": "BIM38315",
+     "title": "Commencement, cessation or sale of business: severance payments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38320",
+     "description": "",
+     "section_id": "BIM38320",
+     "title": "Commencement, cessation or sale of business: payment to effect orderly shut-down of trade"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38330",
+     "description": "",
+     "section_id": "BIM38330",
+     "title": "Commencement, cessation or sale of business: cost of meeting former owner's obligations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38340",
+     "description": "",
+     "section_id": "BIM38340",
+     "title": "Commencement, cessation or sale of business: compensation for loss of office at time of share sale"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38350",
+     "description": "",
+     "section_id": "BIM38350",
+     "title": "Commencement, cessation or sale of business: compensation for cancellation of service agreements linked to share sale"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38360",
+     "description": "",
+     "section_id": "BIM38360",
+     "title": "Commencement, cessation or sale of business: compensation for loss of office at time of takeover"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38370",
+     "description": "",
+     "section_id": "BIM38370",
+     "title": "Commencement, cessation or sale of business: cost of hiring and firing employees"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38380",
+     "description": "",
+     "section_id": "BIM38380",
+     "title": "Commencement, cessation or sale of business: compensation to directors following dispute"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38385",
+     "description": "",
+     "section_id": "BIM38385",
+     "title": "Commencement, cessation or sale of business: redundancy payments on takeover"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38390",
+     "description": "",
+     "section_id": "BIM38390",
+     "title": "Commencement, cessation or sale of business: payment in lieu of notice"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim38395",
+     "description": "",
+     "section_id": "BIM38395",
+     "title": "Commencement, cessation or sale of business: liability for future leaving payments to employees"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:00+01:00",
+ "section_id": "BIM38300",
+ "title": "Wholly and exclusively: commencement, cessation or sale of business: contents"
+}

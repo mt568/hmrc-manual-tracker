@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103130",
+ "body": "<p>National Claims Office deals with annual claims cases.</p>\n\n<p>On receipt and capture of an SA return, any repayment due to the taxpayer will be made automatically by the SA system. However, you may identify cases appropriate for transfer to the National Claims Office in day to day work.</p>\n\n<p>Before transferring an SA case to National Claims Office, you should satisfy yourself that there are no outstanding liabilities. Where you are satisfied that the taxpayer can be taken out of SA you should, using the Action Guide ‘Dormant Records’ in section ‘Maintain Taxpayer Record’</p>\n\n<ul>\n  <li>Make the SA record dormant</li>\n</ul>\n\n<p>And  </p>\n\n<ul>\n  <li>If there is a link to a PAYE record wait for the link to be broken</li>\n</ul>\n\n<p>Automatic processing will unset the SA signal on the PAYE record. The Unique Taxpayer Reference (UTR) will remain on that record.</p>\n\n<p>You should then</p>\n\n<ul>\n  <li>Complete form R48A(NCO), including the NINO and UTR boxes, and send it to National Claims Office</li>\n  <li>Notify the taxpayer, and where appropriate the agent, that National Claims Office will deal with future claims</li>\n</ul>\n\n<p>Note: You must submit the relevant papers with the form.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103000",
+   "section_id": "SAM103000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:07+00:00",
+ "section_id": "SAM103130",
+ "title": "Records: movement of taxpayer records: transfer-out annual claims case"
+}

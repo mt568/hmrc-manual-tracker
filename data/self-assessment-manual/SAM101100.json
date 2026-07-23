@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101100",
+ "body": "<p>The Action Guides in section ‘Set Up Taxpayer Record’ stress the need to establish that there is neither a live nor dormant SA record before you set up a new SA record.</p>\n\n<p>There will be occasions when a duplicate record has been set up in error. When you become aware of this, the action to take depends on whether or not an SA return has been issued.</p>\n\n<h2 id=\"IDAXKV3F\">Return not issued</h2>\n\n<p>You should decide which record is to be made dormant, and follow the Action Guide ‘Dormant Records: Making a Record Dormant’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101092\">SAM101092</a>) to make that record dormant. Whether or not you should explain to the taxpayer the action taken will depend upon the circumstances of the particular case.</p>\n\n<h2 id=\"IDAFLV3F\">Return issued</h2>\n\n<p>You may first become aware of the duplication on receipt of a complaint from the taxpayer. You still need to make one record dormant, but having issued a return from each record, you must clear both records to avoid penalties for non-submission of a return.</p>\n\n<p>You should, of course, establish the background to the error, take any necessary remedial action to avoid another occurrence, and satisfy the taxpayer’s complaint. In addition</p>\n\n<ul>\n  <li>Decide which record is to be made dormant for the year following the return year </li>\n  <li>Advise the taxpayer in writing of the UTR of the return which is to be completed, that this is the correct UTR which they should use in any future correspondence with HMRC and the reference against which they should make their SA payments</li>\n  <li>Follow Action Guide ‘Dormant Records: Making a Record Dormant’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101092\">SAM101092</a>) to make the duplicate record dormant</li>\n</ul>\n\n<p>For detailed advice see the ‘Returns’ business area (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam120000\">SAM120000</a>) and for</p>\n\n<pre><code>* Individuals: see subject ‘Capture Of Returns Issued In Error’ (SAM121310)\n* Trusts: see subject ‘Return Charge To Be Created For Return Issued In Error’ (SAM123300)\n* Partnerships: see subject ‘Returns Issued To Partnership From Two Separate SA Records’ (SAM122060)\n</code></pre>\n\n<ul>\n  <li>On receipt of the completed return, log and capture it in the normal way</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+   "section_id": "SAM101000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:47+00:00",
+ "section_id": "SAM101100",
+ "title": "Records: maintain taxpayer record: duplicate SA records"
+}

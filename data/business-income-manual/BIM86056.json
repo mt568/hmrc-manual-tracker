@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86056",
+ "body": "<p>When considering the High Income Child Benefit calculation, regulations refer to an individual’s adjusted net income which is defined at S58 of Income Tax Act (ITA) 2007. The definition is based on an individual’s ‘Net Income’ as defined at S23 ITA 2007 which will be reduced by any amount of the trading allowance that an individual claims.</p>\n<p>If an individual claims the full trading income allowance then they do not need to count the income this allowance relates to when considering whether they are above the threshold for High Income Child Benefit Charge purposes. If they claim partial relief under the trading income allowance then they do not need to count the income covered by the partial relief when considering whether they are above the threshold for High Income Child Benefit Charge purposes.</p>\n<p>For more information regarding the High Income Child Benefit Charge visit the <a href=\"https://www.gov.uk/child-benefit-tax-charge\" rel=\"nofollow\">gov.uk website</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86040",
+   "section_id": "BIM86040"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-04-09T15:31:43+01:00",
+ "section_id": "BIM86056",
+ "title": "TMIA – Other Considerations: High Income Child Benefit Charge"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125170",
+ "body": "\n<p>A work item may be created on the ‘Weekly Returns Review’ Work List for any one, or more, of three reasons. Where there is more than one reason, there will still only be one work item. You will be able to see the reasons by using function SELECTED CASE. For ease of reference, separate Information and Action Guides are available for each of those reasons.  </p>\n\n<p>See subjects and associated Action Guides  </p>\n\n<ul>\n  <li>Weekly Returns Review: Liability Unlikely (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125180\">SAM125180</a>)</li>\n  <li>Weekly Returns Review: Source Exception (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125190\">SAM125190</a>)</li>\n  <li>Weekly Returns Review: Transfer Of Allowances (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125200\">SAM125200</a>)</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:01+00:00",
+ "section_id": "SAM125170",
+ "title": "Returns: returns work lists: w054 weekly returns review"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33630",
+ "body": "<p>SS172A-172F Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005) and SS156-161 Corporation Tax Act 2009 (CTA 2009)</p>\n<p>The decision in the House of Lords in <strong>Sharkey v Wernher</strong> [1955] 36 TC 275, established the principle that where a trader takes stock from his business for private use or for use in another business which he owns, or where he transfers to his business stock which he owns in some other capacity than that of proprietor of that business, the transfer should be dealt with for taxation purposes as if it were a sale or purchase at market value. Thus, goods that a trader takes from his trading stock, for example, for the personal use and enjoyment of himself and members of his household, should be credited at market value. This principle has now been enshrined in legislation under S172A-S172F ITTOIA 2005 for Income Tax and S156-S161 CTA 2009 for Corporation Tax. In brief, any disposal of trading stock not made in the course of the trade should be dealt with for taxation purposes as if it were a sale at market value. If there is a clash with the transfer pricing legislation (Pt 4 Taxation (International and Other Provisions) Act 2010) the transfer pricing legislation takes precedence (S172F ITTOIA 2005, S161 CTA 2009). Where a trader in the course of trade gives special terms, ‘market value' may be taken as the lowest price at which he sells the goods in comparable quantities in the ordinary course of trade.</p>\n<p>The decision and the subsequent legislation does not apply to:</p>\n<ol type=\"a\" start=\"1\"><li>services rendered to the trader personally or to his household, the costs of which should be disallowed in accordance with S34(1)(a) ITTOIA 2005;</li><li>the value of meals provided for proprietors of hotels, boarding houses, restaurants etc and members of their families, which should also be dealt with on the basis that S34(1)(a) ITTOIA 2005 applies;</li><li>expenditure incurred by a trader on the construction of an asset that is intended from the outset to be used as a fixed asset in the trade.</li><li>Any transactions undertaken by a business with an election under S25A ITTOIA 2005 to compute trade profits on the cash basis.</li></ol>\n<p>In all these cases only the costs in question should be disallowed.</p>\n<p>See also:</p>\n<ul><li class=\"filledcircle\">Gifts of literary or other professional works, and <strong>Mason v Innes</strong> [1967] 44 TC 326 - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim50745\">BIM50745</a>.</li><li class=\"filledcircle\">Houses built or taken by builders for own occupation - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim51625\">BIM51625</a>.</li><li class=\"filledcircle\">Stock gifted to educational establishments - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45165\">BIM45165</a>.</li><li class=\"filledcircle\">Interaction with Capital Gains Tax and groups - see the&nbsp;<a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual\" rel=\"nofollow\">Capital Gains Manual</a>.</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33600",
+   "section_id": "BIM33600"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-03-24T14:46:47+00:00",
+ "section_id": "BIM33630",
+ "title": "Stock: non-trading transactions in stock: ‘own goods’"
+}

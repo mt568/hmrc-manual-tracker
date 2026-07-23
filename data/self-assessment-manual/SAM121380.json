@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121380",
+ "body": "\n<p>A charge is any individual item that makes up a taxpayer’s liability excluding accruing interest. A charge to interest is only created when the charge giving rise to interest is paid in full. For more information on formal interest charges see the Debt management &amp; Banking Manual.  </p>\n\n<p>The following is a list of charges and the descriptions you will see when using function VIEW STATEMENT  </p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>Charge</td>\n      <td>Description</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>First payment on account</td>\n      <td>1st payment on account due for YY/YY (year)</td>\n    </tr>\n    <tr>\n      <td>Second payment on account</td>\n      <td>2nd payment on account due for YY/YY (year)</td>\n    </tr>\n    <tr>\n      <td>Balancing charge</td>\n      <td>Balance of tax due for year YY/YY(year)</td>\n    </tr>\n    <tr>\n      <td>Late payment interest</td>\n      <td>Interest due on amount of …. (date)</td>\n    </tr>\n    <tr>\n      <td>Automatic fixed penalty</td>\n      <td>Fixed penalty for late return YY/YY(year)</td>\n    </tr>\n    <tr>\n      <td>Manually raised daily penalty</td>\n      <td>Penalty due</td>\n    </tr>\n    <tr>\n      <td>Manually raised Miscellaneous penalty</td>\n      <td>Penalty due</td>\n    </tr>\n    <tr>\n      <td>SA stranded underpayment</td>\n      <td>Amount no longer included in PAYE code</td>\n    </tr>\n    <tr>\n      <td>Net underpayment</td>\n      <td>Amount no longer included in PAYE code</td>\n    </tr>\n    <tr>\n      <td>Surcharge</td>\n      <td>Surcharge for YY/YY(year)</td>\n    </tr>\n    <tr>\n      <td>Determination</td>\n      <td>Determination for Tax year YY/YY</td>\n    </tr>\n    <tr>\n      <td>Assessment</td>\n      <td>Assessment for tax year YY/YY</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:16+00:00",
+ "section_id": "SAM121380",
+ "title": "Returns: individuals returns: charge"
+}

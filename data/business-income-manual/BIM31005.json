@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim31005",
+ "body": "<p>The basic principles for computing the taxable profits of a trade and the relevant statute are set out at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim30500\">BIM30500</a> onwards. As discussed there, the statutory rules (S25, S26 Income Tax (Trading and Other Income) Act 2005 and S46, S47 Corporation Tax Act 2009) require a two-stage process, as follows:</p>\n\n<ol>\n  <li>Ascertain the profits of the trade for the period computed in accordance with generally accepted accounting practice.</li>\n  <li>Adjust the accountancy profits in accordance with any tax rules or principles which differ from generally accepted accountancy practice.</li>\n</ol>\n\n<p>For tax purposes, the application of the principles of generally accepted accounting practice to the transactions of the trade is the starting point for income recognition, in general, accounts prepared by the business in accordance with generally accepted accounting practice will provide the practical basis for applying those principles, but in unusual circumstances there may be differences, e.g. arising from accounts being drawn up for a company as a whole, rather than the trade specifically.</p>\n\n<p>This chapter deals with the meaning of ‘generally accepted accounting practice’ (GAAP) and how it interacts with the computation of the profits of a trade for tax purposes.</p>\n\n<p>That interaction is not always straightforward. The case of Tapemaze Ltd v Melluish [2000] 73TC167, concerned whether advance payments which were retained on the sale of a business were taxable as profits of the trade. The last sentences of the report placed before the Special Commissioners by the Board of Inland Revenue’s Advisory Accountant at page 174E were:</p>\n\n<blockquote>\n  <p>‘The accounting treatment, accordingly, answers the question when the £5,189,609 should be brought into account: it was proper in accounting terms to bring that income into account for the year ended 31 July 1994. It is not for an accountant, however, to answer the question of law as to whether or not it is trading income, that is, whether that income of £5,189,609 arose to Tapemaze for that year from any trade.’</p>\n</blockquote>\n\n<p>And Hart J stated ‘In that final sentence Mr. Carne identifies the question which I have to resolve.’</p>\n\n<p>It is not possible to ‘simply follow the accounts’ without considering the tax rules and principles referred to in (2) above. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31010\">BIM31010</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim31000",
+   "section_id": "BIM31000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:57+01:00",
+ "section_id": "BIM31005",
+ "title": "Tax and accountancy: introduction"
+}

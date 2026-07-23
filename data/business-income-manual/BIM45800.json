@@ -1,0 +1,54 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45800",
+ "body": "<p>S58, S59 Income Tax (Trading and Other Income) Act 2005</p>\n\n<h2 id=\"income-tax\">Income Tax</h2>\n\n<p>A statutory deduction in computing the profits of a trade applies to the incidental costs of raising loan finance which would otherwise not be an allowable deduction. The rules apply only to Income Tax.</p>\n\n<p>There are special rules regarding the incidental costs of raising loan finance for businesses using the cash basis - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70040\">BIM70040</a></p>\n\n<h2 id=\"corporation-tax\">Corporation Tax</h2>\n\n<p>For Corporation Tax, incidental costs of raising loan finance are dealt with under the loan relationships rules. For details see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm30000\">CFM30000</a> onwards.</p>\n\n<p>The guidance covers the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45801",
+     "description": "",
+     "section_id": "BIM45801",
+     "title": "Scope of the legislation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45810",
+     "description": "",
+     "section_id": "BIM45810",
+     "title": "Convertible loan or loan stock"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45815",
+     "description": "",
+     "section_id": "BIM45815",
+     "title": "Expenses allowable"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45820",
+     "description": "",
+     "section_id": "BIM45820",
+     "title": "Exclusions from relief"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45825",
+     "description": "",
+     "section_id": "BIM45825",
+     "title": "Commitment fees"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:21:28+00:00",
+ "section_id": "BIM45800",
+ "title": "Specific deductions - incidental costs of loan finance: introduction and layout of guidance: contents"
+}

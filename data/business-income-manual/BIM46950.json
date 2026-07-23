@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46950",
+ "body": "<p>A useful test to apply in deciding whether expenditure is on repairs, especially where a lot of work has been done, is to consider whether the character of the asset has changed as a result of the work. Put simply, you need to ask whether it is the same object before and after the work.</p>\n\n<p>If after the work the asset simply does the same job as before, then it is a pointer that the work is a repair.</p>\n\n<h2 id=\"example\">Example</h2>\n\n<p>For many years A Ltd has operated retail premises from a two-storey property in an historic town centre. A survey reveals that the property is in an extremely poor state of repair. The directors decide that the premises should be gutted and modernised. The work carried out as set out in the invoices includes the following:</p>\n\n<ul>\n  <li>The roof was stripped off, all rotten roof timbers removed, the roof replaced in the same position and with the same outline so there is no additional space.</li>\n  <li>Corrugated asbestos roofing installed in the 1960s was replaced by tiles.</li>\n  <li>The first floor was stripped out and reinstalled supported on steel joists rather than timber.</li>\n  <li>On the ground floor, oak flooring was stripped out and replaced by a concrete floor that provided a flat, even surface.</li>\n  <li>The shop front was replaced.</li>\n  <li>The oak beam over the shop was replaced by a steel joist.</li>\n  <li>The oak pillar supporting the front corner of the building was replaced with a steel stanchion.</li>\n  <li>Any visible steelwork was clad in salvaged oak to maintain the appearance of the property.</li>\n  <li>The electrical system was renewed.</li>\n</ul>\n\n<p>The aim of the work is to maintain the appearance of the store. There is no change to the size of the sales area.</p>\n\n<p>The question to ask is whether, looked at in the round, the work resulted in a restoration of what was there before, or did it create something new?</p>\n\n<p>In this case, the property may have been gutted and modernised but the character of the asset remained unchanged. Looked at from the point of view of how the building was used, the work was simply a restoration to enable it to be used to do the job it had long been used for.</p>\n\n<p>The position would have been different, had the work changed the character of the asset, for example if it had created a larger sales area.</p>\n\n<p>The exception is the electrical system. An electrical system of a building or structure is an integral feature. As the whole system was replaced, this is treated under the integral features rules as capital expenditure qualifying for capital allowances at the special rate. For more information on the point, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22300\">CA22300</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46900",
+   "section_id": "BIM46900"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM46950",
+ "title": "Specific deductions: repairs and renewals: the character of the asset"
+}

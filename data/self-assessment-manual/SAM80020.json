@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80020",
+ "body": "<p>Payments that are unsuitable for immediate processing through the automated banking systems and require manual intervention are separated out during post opening and vetting. These payments are referred to as Irregular Payments and must be given priority treatment.</p>\n\n<p>The objective is to correct and regularise wherever possible any deficiencies on the day of receipt and enable the payment to be processed by DMB Banking.</p>\n\n<p>Each payment must be accompanied by a valid payslip which must show its effective date of receipt and cheques with incomplete or missing information are normally returned to the customer.</p>\n\n<p>Full information and guidance about irregular payments, payment by instalments, time to pay and handling payments is provided in the Debt Management &amp; Banking Manual DMBM209000.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80000",
+   "section_id": "SAM80000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:33+00:00",
+ "section_id": "SAM80020",
+ "title": "Payments: payments overview: irregular payments"
+}

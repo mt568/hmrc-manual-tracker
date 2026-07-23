@@ -1,0 +1,95 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual",
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim00500",
+     "description": "",
+     "section_id": "BIM00500",
+     "title": "Introduction: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim14000",
+     "description": "",
+     "section_id": "BIM14000",
+     "title": "Taxation of trading income: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+     "description": "",
+     "section_id": "BIM20000",
+     "title": "Meaning of trade: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+     "description": "",
+     "section_id": "BIM30000",
+     "title": "Measuring the profits (general rules) - accountancy & tax, stock, VAT, capital or revenue, wholly & exclusively: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+     "description": "",
+     "section_id": "BIM40000",
+     "title": "Measuring the profits (specific rules & practices) - receipts & deductions: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+     "description": "",
+     "section_id": "BIM50000",
+     "title": "Measuring the profits (particular trades): contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+     "description": "",
+     "section_id": "BIM70000",
+     "title": "Cash basis: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim75000",
+     "description": "",
+     "section_id": "BIM75000",
+     "title": "Simplified expenses: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+     "description": "",
+     "section_id": "BIM80000",
+     "title": "Computing the amount to assess: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim90000",
+     "description": "",
+     "section_id": "BIM90000",
+     "title": "Post-cessation receipts and expenses: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim100000",
+     "description": "",
+     "section_id": "BIM100000",
+     "title": "Miscellaneous income: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim100350",
+     "description": "",
+     "section_id": "BIM100350",
+     "title": "Sale of income by an individual in exchange for capital: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bimfeedback",
+     "description": "",
+     "section_id": "BIMFEEDBACK",
+     "title": "BIM Feedback"
+    }
+   ],
+   "title": "Contents"
+  },
+  {
+   "child_sections": [],
+   "title": "Historic Updates"
+  }
+ ],
+ "description": "Supplementary guidance on how to check tax calculations or work out the trading profits of a business for Self Assessment tax return.",
+ "public_updated_at": "2026-07-03T08:42:29+01:00",
+ "title": "Business Income Manual "
+}

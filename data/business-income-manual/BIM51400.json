@@ -1,0 +1,44 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim51400",
+ "body": "<p>This section looks at the tax consequences of some of the ways that breweries interact with licensed houses.</p>\n\n<p>There are different classes of property which may be within the brewery accounts:</p>\n\n<ul>\n  <li>tied houses,</li>\n  <li>managed houses,</li>\n  <li>unlicensed properties let to tenants, and</li>\n  <li>licensed properties without tie.</li>\n</ul>\n\n<p>These properties may or may not be distinguished in the accounts.</p>\n\n<p>The trading results of managed houses should be brought into the general computation of brewery profits. These results are sometimes included under other headings in the brewery accounts, for example, <code>profit rentals' or </code>discounts’.</p>\n\n<p>For further information on the tax treatment of licensed properties, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61400\">BIM61400</a>.</p>\n\n<p>This chapter contains:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51405",
+     "description": "",
+     "section_id": "BIM51405",
+     "title": "Breweries: What are allowable deductions?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51420",
+     "description": "",
+     "section_id": "BIM51420",
+     "title": "Breweries: tied houses: admissible deductions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51425",
+     "description": "",
+     "section_id": "BIM51425",
+     "title": "Breweries: tied houses: inadmissible deductions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51430",
+     "description": "",
+     "section_id": "BIM51430",
+     "title": "Breweries: tied houses: rent receivable and paid"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:39+01:00",
+ "section_id": "BIM51400",
+ "title": "Breweries: contents"
+}

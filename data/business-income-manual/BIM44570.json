@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44570",
+ "body": "<p>S38 Income Tax (Trading and Other Income) Act 2005, S1290 Corporation Tax Act 2009</p>\n\n<p>The timing of a deduction for an employer’s contribution to a general-purpose EBT (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44535\">BIM44535</a>) depends on:</p>\n\n<ul>\n  <li>when it is deducted in accounts prepared in accordance with general accepted accounting practice (GAAP), and</li>\n  <li>whether the deduction is deferred or permanently denied for tax purposes by specific tax legislation on the timing and allowability of deductions.</li>\n</ul>\n\n<h2 id=\"advice-on-accountancy-issues\">Advice on accountancy issues</h2>\n\n<p>HMRC staff should consult an HMRC Advisory Accountant for advice as to whether the accounts have been prepared in accordance with GAAP.</p>\n\n<h2 id=\"employee-benefit-contribution-legislation\">Employee benefit contribution legislation</h2>\n\n<p>The timing of deductions for contributions may be deferred.</p>\n\n<p>The employee benefit contribution legislation broadly matches:</p>\n\n<ul>\n  <li>the timing and amount of employers’ deductions for employee benefit contributions, and</li>\n  <li>the timing and amount of benefits received by employees in the form of money or assets which are taxable and subject to employers’ National Insurance Contributions (under Class 1, 1A or 1B).</li>\n</ul>\n\n<p>Additional rules apply to employee benefit contributions made or to be made on or after 1 April 2017 (CT) or 6 April 2017 (IT). These rules may prevent a deduction being allowable at any time, even when qualifying benefits are provided. This is explained more fully at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44571\">BIM44571</a> and in the example at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44611\">BIM44611</a></p>\n\n<p>Guidance on the timing of deductions under the employee benefit contribution legislation is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44575\">BIM44575</a>.</p>\n\n<h2 id=\"unpaid-remuneration\">Unpaid remuneration</h2>\n\n<p>For guidance on the general rules governing the timing of deductions for unpaid remuneration see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47130\">BIM47130</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T14:17:14+00:00",
+ "section_id": "BIM44570",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs: deductions for employers’ contributions: timing of deductions"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110133",
+ "body": "\n<p>If a deed or letter of assignment is overlooked and the assigned repayment has been issued to the taxpayer in error, follow steps 1 - 3 below.</p>\n\n<p>If an assignee has nominated another person or third party to receive the repayment on their behalf but this nomination has been overlooked and the repayment has been issued to the assignee in error, follow step 4 below.</p>\n\n<ol>\n  <li>Use function VIEW REPAYMENT to check the status of the repayment</li>\n  <li>If the status of the repayment is not yet shown as ‘Issued’</li>\n</ol>\n\n<blockquote>\n  <ul>\n    <li>Cancel the repayment and issue it correctly to the assignee</li>\n  </ul>\n</blockquote>\n\n<ol>\n  <li>If the status is shown as ‘Issued’</li>\n</ol>\n\n<blockquote>\n  <ul>\n    <li>Follow the guidance in section ‘Recover Over-repayments’ (SAM112000 onwards) and reissue the repayment to the assignee.</li>\n  </ul>\n</blockquote>\n\n<p>Because the repayment made to the taxpayer is an over-repayment, you must attempt to recover this by means of the DRIER procedure</p>\n\n<ol>\n  <li>Where a nomination has been overlooked, because the nominee is not legally entitled to the repayment</li>\n</ol>\n\n<blockquote>\n  <ul>\n    <li>Take no further action other than to apologise to the nominee for poor Customer Service</li>\n  </ul>\n</blockquote>\n\n<blockquote>\n  <blockquote>\n    <p>Note: If the assignee still wants the nominee to receive the repayment they can pass it on. Any dispute regarding this is between the assignee and the nominee and you must not get involved</p>\n  </blockquote>\n</blockquote>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:28+00:00",
+ "section_id": "SAM110133",
+ "title": "repayments: issue repayment: taxpayer repaid in error  (Action Guide)"
+}

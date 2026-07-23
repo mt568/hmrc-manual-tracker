@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim55505",
+ "body": "<p>S111-S129 Income Tax (Trading and Other Income) Act 2005, S109-S127 Corporation Tax Act 2009</p>\n<p>Where a herd basis election is in force, the treatment for the purpose of computing trading profits of the herd or herds covered by the election is governed by the statutory rules. These rules, which are described in detail in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55530\">BIM55530</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55560\">BIM55560</a>, can be summarised very briefly as follows:</p>\n<ul><li class=\"filledcircle\">The initial cost of the herd is not an allowable deduction, nor is the cost of any subsequent increase in herd size.</li><li class=\"filledcircle\">The net cost of replacing animals in the herd is an allowable deduction.</li><li class=\"filledcircle\">Where the odd animal, or just a few animals, are sold from the herd and not replaced, the resulting profit or loss is taken into account in arriving at the farming profits.</li><li class=\"filledcircle\">Where the whole herd, or a substantial part of the herd, is sold and not replaced, the resulting profit or loss is not taken into account.</li></ul>\n<p>There are further special rules for particular situations. And the operation of the rules is often complicated by the fact that many farmers breed their own herd replacements and additions.</p>\n<p>We look to the actual cost in determining the initial cost of the establishment of a herd.</p>\n<p>The legislation, although expressed in terms of farmers, applies to any person who keeps a production herd for the purposes of a trade even though that trade may not be farming, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55565\">BIM55565</a>.</p>\n<p>A quick reference guide to help determine which rule applies in a particular situation is provided at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55515\">BIM55515</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55000",
+   "section_id": "BIM55000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55500",
+   "section_id": "BIM55500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:21+01:00",
+ "section_id": "BIM55505",
+ "title": "Farming: operation of herd basis: main rules"
+}

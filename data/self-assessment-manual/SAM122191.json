@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122191",
+ "body": "<p>For details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Check through the sets of SAI received and determine which is for the business with the largest turnover</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Check to see whether, for this business, there is SAI for more than one period of account. Determine which set covers the latest period</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>Capture the SAI for the latest period of account only, using function CAPTURE RETURN</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:35+00:00",
+ "section_id": "SAM122191",
+ "title": "Returns: partnership returns: multiple SAI for one basis period: partnerships (Action Guide)"
+}

@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim62025",
+ "body": "<p>S335-338 Income Tax (Trade and Other Income) Act 2005, S270-S271 Corporation Tax Act 2009</p>\n\n<p>Where a mining concern makes a payment to a landowner in respect of restoration for surface damage, the tax treatment is as follows:</p>\n\n<ul>\n  <li>No deduction is allowable for a lump sum payment in respect of possible future damage, or for payments of such a lump sum in instalments. The lump sum is capital expenditure on the acquisition of a fixed capital asset of the trade (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim62030\">BIM62030</a>). A provision for such capital expenditure is similarly not an allowable deduction.</li>\n  <li>Where no such right has been acquired (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim62030\">BIM62030</a>), a deduction is allowable for a payment of compensation for actually ascertained past damage to another person’s property. A provision for such expenditure is also an allowable deduction, provided it accords with generally accepted accounting practice and is accurately quantified.</li>\n  <li>No deduction is allowable for payments for the purchase of the surface land and unascertained past damage. Such a payment is capital expenditure on the acquisition of a fixed capital asset. However, where part of the expenditure is payment for actual past damage, and the agreement makes this clear, that element is allowable.</li>\n  <li>Rent in respect of any land or interest in land used in a mining operation is an allowable deduction (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim62035\">BIM62035</a>).</li>\n  <li>The recipient of the rent is chargeable to tax under the above legislation.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim62000",
+   "section_id": "BIM62000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:28+01:00",
+ "section_id": "BIM62025",
+ "title": "Measuring the profits (particular trades): Mineral extraction: restoration expenditure"
+}

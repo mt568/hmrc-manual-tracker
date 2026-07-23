@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam73001",
+ "body": "\n<p>Statistics for management information relating to SA are produced automatically for each Organisation Unit.  </p>\n\n<p>Weekly and monthly management information reports are available on the InfoNet site on the Intranet. Registration is necessary and can be obtained from the Systems Policy and Support Team (IMS) – email DL-Systems Policy and Support.  </p>\n\n<p>After logging on to InfoNet the SA reports can be found under the following categories  </p>\n\n<ul>\n  <li>Receivables SA – for all SA DARM and receivables reports</li>\n  <li>SA Charges and Appeals – for reports on appeals, assessments, penalties and standovers</li>\n  <li>SA Return Processing – including SA Weekly MIS and returns reports</li>\n  <li>SA Taxpayer Records</li>\n  <li>SA WorkList Processing</li>\n</ul>\n\n<p>Weekly Statistics  </p>\n\n<p>SA Weekly MIS is updated every Monday.  </p>\n\n<p>Monthly Statistics  </p>\n\n<p>Monthly reports are updated the first Friday in the month following the LOMR input.  </p>\n\n<p>TSS provides certain statistics for Trust and Estate returns. These statistics are taken from TSS and entered automatically on toOLDC.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam73000",
+   "section_id": "SAM73000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:32+00:00",
+ "section_id": "SAM73001",
+ "title": "Manage work: management statistics: introduction"
+}

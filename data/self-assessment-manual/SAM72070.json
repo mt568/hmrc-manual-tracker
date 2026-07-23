@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72070",
+ "body": "<p>The Call Centre Adviser user role provides access to all functions required to effectively handle incoming taxpayer calls as defined by the service scope in the Statement of Practice (SoP/98).</p>\n\n<p>The following list shows the functions linked to this role.</p>\n\n<p>For details of how to access any of these functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>On accessing the function, system help is available to you at function, screen, field, and error message levels.</p>\n\n<p>For ease of reference, functions are grouped under the following sub headings</p>\n\n<p><a href=\"#IDAEHJNI\">Compliance</a><br />\n<a href=\"#IDAMHJNI\">Office</a><br />\n<a href=\"#IDAYHJNI\">Returns</a><br />\n<a href=\"#IDA5IJNI\">Statements</a><br />\n<a href=\"#IDAHKJNI\">Taxpayer</a><br />\n<a href=\"#IDAHLJNI\">TP Agent</a></p>\n\n<h2 id=\"IDAEHJNI\">Compliance</h2>\n\n<p>View Compliance History</p>\n\n<h2 id=\"IDAMHJNI\">Office</h2>\n\n<p>Maintain Responsible Office</p>\n\n<p>Retrieve UTR from D Reference</p>\n\n<h2 id=\"IDAYHJNI\">Returns</h2>\n\n<p>Amend Fixed Penalties</p>\n\n<p>Amend Return</p>\n\n<p>Create Return Charge</p>\n\n<p>Maintain Return Profile</p>\n\n<p>Maintain Return Summary</p>\n\n<p>Record Date of Clerical Issue</p>\n\n<p>Record Return Request</p>\n\n<p>View Return</p>\n\n<h2 id=\"IDA5IJNI\">Statements</h2>\n\n<p>Amend Payments on Account</p>\n\n<p>Issue Repayment From Overpaid Balance</p>\n\n<p>Maintain Payments on Account</p>\n\n<p>Maintain Statement Inhibition</p>\n\n<p>Trace Cheque Payment</p>\n\n<p>Trace Non Cheque Payment</p>\n\n<p>View Payment Details</p>\n\n<p>View Statement</p>\n\n<p>View Taxpayer Credits</p>\n\n<h2 id=\"IDAHKJNI\">Taxpayer</h2>\n\n<p>Amend Taxpayer Name and Address</p>\n\n<p>Amend Taxpayer Signals</p>\n\n<p>Case Summary</p>\n\n<p>Maintain SA Notes</p>\n\n<p>Maintain Sources</p>\n\n<p>View Communication Name and Address</p>\n\n<p>View Taxpayer Designatory Details</p>\n\n<h2 id=\"IDAHLJNI\">TP Agent</h2>\n\n<p>Amend Taxpayer Agent Details</p>\n\n<p>Taxpayer New Agent Details</p>\n\n<p>Trace Agent</p>\n\n<p>View Agent Details</p>\n\n<p>View Taxpayer’s Agent Details</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-02T11:13:20+01:00",
+ "section_id": "SAM72070",
+ "title": "Manage work: access to records: call centre adviser"
+}

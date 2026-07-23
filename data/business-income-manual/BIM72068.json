@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim72068",
+ "body": "<p>Where a person (a successor) succeeds to a business that was\ncarried on by someone else (a predecessor) and together they have made an\nelection under S266 CAA2001 to treat the equipment as sold to the successor by\nthe predecessor at a price that is equal to the unrelieved balances in the\npredecessor’s pools; then the successor is treated as if everything done by the\npredecessor had been done by the successor and the amount the successor\nactually paid is ignored.</p>\n<p>Example</p>\n<p>A is B’s mother. A and B are connected.</p>\n<p>A has a business. The unrelieved balance in the main pool is\n£4,000.</p>\n<p>B takes over the business.</p>\n<p>A is the predecessor. B is the successor.</p>\n<p>B elects for the cash basis.</p>\n<p>B pays A £3,000 for the equipment.</p>\n<p>A and B make an election under S266 CAA2001 to treat the\nequipment as sold by A to B for £4,000.</p>\n<p>The amount B actually pays for the equipment is ignored. B\nis treated as taking over the pool with an unrelieved balance of £4,000.</p>\n<p>B claims a deduction of £4,000 (the unrelieved balance) and\nthe pool is reduced to nil.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim72001",
+   "section_id": "BIM72001"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-04-07T09:53:21+01:00",
+ "section_id": "BIM72068",
+ "title": "Cash basis: transitional adjustments: entering the cash basis: examples: successions between connected persons"
+}

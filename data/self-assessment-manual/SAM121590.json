@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121590",
+ "body": "<p>When you capture the return information available you are prompted by the computer to save that information. Where all the return information has been captured and the Coding (Integrity) Check completed where applicable, the information is passed from Local Data Capture (LDC) to the main computer to enable processing of the information (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121515\">SAM121515</a>) to take place.</p>\n\n<p>It is recommended that when you have captured the return in full, before you fully save the return, you should view the calculation. Check that the end result is as expected. If the end result is a large overpayment or underpayment, consider why it has arisen and whether it is correct. If you have any doubts, check that you have captured all the return information correctly.</p>\n\n<p>The captured return information and calculation, where carried out, is stored and is available for viewing in function VIEW RETURN.</p>\n\n<p>It may not be possible to capture a return in full, for example where you need to refer to your manager for advice. In these cases you can save a partially captured return. The information will be stored for a short period on LDC before it is automatically deleted. The LDC RETURNS TO BE DELETED paper report gives a minimum 7 day warning before the automatic deletion takes place.</p>\n\n<p>If you fully capture the return but, where the return includes an employment source you choose to carry out the Coding (Integrity) Check later, the captured return information will not be passed to the main computer. The information will be stored on LDC awaiting the check, (as with saved partially captured returns). The check must be completed before the return is automatically deleted from LDC.</p>\n\n<p>Whilst a return is part saved or awaiting the Coding (Integrity) Check you will be able to access function CAPTURE RETURN to view, repair, amend or add to the details entered originally.</p>\n\n<p>It is important to control captured returns, for example by noting the return in pencil or by using a stencil to note that the return has been fully captured and when the Coding (Integrity) Check pass or fail signal has been set. This is because once the return has been passed to the main computer, LDC has no record of the return and will let you complete capture again. The duplicate return details captured will then be rejected by the main computer causing further work.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:24+00:00",
+ "section_id": "SAM121590",
+ "title": "Returns: individuals returns: saving individual return details"
+}

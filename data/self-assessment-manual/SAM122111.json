@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122111",
+ "body": "<p>Where the nominated partner, see subject ‘Maintain Taxpayer Record: Nominated Partner’ (SAM101290), has not completed the individual partner’s name and / or the partner’s reference on the Individual partner details on the Partnership Statement follow steps 1 - 9 below.</p>\n\n<p>For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDAXDG1E\">Where the missing information is the individual partner’s name (box 6)</h2>\n\n<p>1. Treat the return as unsatisfactory. See subject ‘Unsatisfactory Partnership Returns’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam122160\">SAM122160</a>)</p>\n\n<h2 id=\"IDATEG1E\">Where the missing information is the individual partner’s reference (box 8)</h2>\n\n<p>2. Use function VIEW PARTNERS FOR PARTNERSHIP and relevant details shown on the return to obtain the information</p>\n\n<p>3. Enter the information on the return in pencil and when the return is captured enter the information in the screen box</p>\n\n<p>4. Send a letter to the nominated partner or agent advising that the information must be completed on future returns</p>\n\n<h2 id=\"IDAJGG1E\">Where the missing information is the description of the business from box 3.2</h2>\n\n<p>5. Use function MAINTAIN SOURCES and relevant details shown on the return to obtain the information</p>\n\n<p>6. Enter the information on the return in pencil and when the return is captured enter the information in the screen box</p>\n\n<p>7. Send a letter to the nominated partner or agent advising that the information must be completed on future returns</p>\n\n<h2 id=\"IDACIG1E\">Where you are not able to obtain the partner’s reference / description of the business from all relevant details held, or you are at all unsure</h2>\n\n<p>8. Do not guess</p>\n\n<p>9. Treat the return as unsatisfactory and send the return back to the nominated partner or agent</p>\n\n<h2 id=\"overseas-partners\">Overseas partners</h2>\n\n<p>The requirement for a partnership return to include the unique tax reference (UTR) for all partners is relaxed in some circumstances, broadly where overseas partners in investment partnerships are not within the charge to UK income tax or corporation tax. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam100137\">SAM100137</a> for further details.</p>\n\n<p>The partnership return must still include each partner’s share of partnership income, loss, credit or charge even where the requirement to include the UTR for one or more of the partners is relaxed</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-09-01T10:38:44+01:00",
+ "section_id": "SAM122111",
+ "title": "Returns: partnership returns: mandatory boxes: partnerships (Action Guide)"
+}

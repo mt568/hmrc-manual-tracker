@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125151",
+ "body": "\n<p>Where there is an entry on the ‘Review Revenue Assessment’ Work List follow steps 1 - 7 below.  </p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.  </p>\n\n<ol>\n  <li>In function WORK LIST CASES  </li>\n</ol>\n\n<pre><code>* Select the entry that you want to work\n* Select the [View] button. You will be taken to function SELECTED CASE, to see all available details on the work item\n* Make a note of the details, if required\n</code></pre>\n\n<ol>\n  <li>View and consider all available information  </li>\n</ol>\n\n<pre><code>* Have the return (if on paper) to hand\n* Use function AMEND RETURN to view the return details for the relevant year where necessary\n* Use function MAINTAIN REVENUE ASSESSMENT to view the assessment charge for the year\n* Use function VIEW STATEMENT to view the personal account if necessary\n</code></pre>\n\n<p>Where the Revenue assessment was made during or following an enquiry  </p>\n\n<ol>\n  <li>Liaise with the Enquiry Officer before taking any further action  </li>\n</ol>\n\n<p>Where it is necessary to amend the Revenue assessment  </p>\n\n<ol>\n  <li>\n    <p>Use function MAINTAIN REVENUE ASSESSMENT to amend the assessment  </p>\n  </li>\n  <li>\n    <p>Delete the entry from the ‘Review Revenue Assessment’ Work List, using function WORK LIST CASES or function SELECTED CASE  </p>\n  </li>\n</ol>\n\n<p>Where it is necessary to unlog the return  </p>\n\n<ol>\n  <li>\n    <p>Unlog the return using function UNLOG RETURN. Note: Only do this on the advice of the Enquiry Officer or your Clerical Processing Manager. This is because all amendments to the SA record and actions taken on that return have to be unravelled  </p>\n  </li>\n  <li>\n    <p>The work item is deleted automatically if the return is unlogged</p>\n  </li>\n</ol>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:00+00:00",
+ "section_id": "SAM125151",
+ "title": "Returns: returns work lists: w018 review revenue  assessment (Action Guide)"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132040",
+ "body": "<p>Following the introduction of the Simple Statement in August 2006 very few taxpayers still receive the old style Open Item statement. Wherever possible you should produce a copy of an issued statement for issue to a taxpayer using View Statement in the Online service SA View L &amp; P.</p>\n\n<p>When you take a screen print of a statement, the printed information includes all the transaction details along with the two columns from the screen that are headed ‘Created’ and ‘Type’.</p>\n\n<p>The date ‘created’ is normally the date a credit or debit first appears on the taxpayer record.</p>\n\n<p>In the case of a payment processed through Automatic Remittance Processing (ARP) this is the ARP processing date.</p>\n\n<p>For a returned payment the ‘created’ date is normally the processing date + 1 working day. However, it can be a later date if the update of the taxpayer record is delayed.</p>\n\n<p>For adjustments and amendments the date shown is often the same date as is shown in the ‘Created’ column against the parent charge.</p>\n\n<p>The data in the ‘Created’ and ‘Type’ columns is for HMRC use. When, exceptionally, you give taxpayers a screen print tell them to ignore the information in these two columns.</p>\n\n<p>Also remember that where there are multiple alterations to one type of adjustment and / or repayment supplement only a ‘net’ summary line will be shown for each type in the automatically issued statement. The taxpayer should be advised of this in these cases.</p>\n\n<p>Note: Not all transactions will have a ‘Type’ code. The computer system uses the code to verify whether the operator has permission to access an associated function. For entries without a ‘Type’ code there is either no link to an associated function, or access to the linked function is through an on-screen button.</p>\n\n<p>For a complete list of codes that can appear in the ‘Type’ column with a brief explanation of each code see <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam130062\">SAM130062</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132000",
+   "section_id": "SAM132000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:27+00:00",
+ "section_id": "SAM132040",
+ "title": "Statements: transactions on statements: screen prints: transaction ‘types’"
+}

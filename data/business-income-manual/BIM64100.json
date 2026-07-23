@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64100",
+ "body": "<p>A private sector operator, whose trade is running a prison, enters into a PFI contract with a public sector purchaser (the Home Office) to provide a specified number of prison places over a 25 year period. The operator constructs a prison on land it acquires for that purpose. The operator receives an annual fee, the unitary charge, which is not dependent on whether the purchaser makes use of all the places available under the contract.</p>\n\n<p>For tax purposes the prison is a fixed capital asset, i.e. the setting, of the operator’s trade. However, for accounting purposes it may well be determined that the benefits and risks in the property do not lie with the operator (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64075\">BIM64075</a> onwards). If so, under FRS5 Application Note F the prison is shown as a finance debtor, for accounting purposes, on the operator’s balance sheet and not as a fixed asset.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64070",
+   "section_id": "BIM64070"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:41+01:00",
+ "section_id": "BIM64100",
+ "title": "Measuring the profits (particular trades): Private Finance Initiative (PFI): accounting: FRS5 example 1"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121507",
+ "body": "\n<p>Payments to individuals from pension schemes normally take the form of retirement benefits which are dealt with under PAYE. All other payments, apart from those clearly defined in the legislation as ‘authorised’, are deemed to be ‘unauthorised’.  </p>\n\n<p>Unauthorised payments attract tax charges on the recipient which are freestanding and take no account of personal allowances. The tax charge is 40 per cent although, in some rare cases, there is a further surcharge of 15 per cent. These charges must therefore  be assessed within the SA system.  </p>\n\n<p>Where pension providers make these unauthorised payments gross, they should notify the recipient accordingly and advise them that the payment is taxable and should be declared.  </p>\n\n<p>Note: These unauthorised payments are distinct from:</p>\n\n<ul>\n  <li>Trivial Commutations – where a customer chooses to commute a small pension into a lump sum</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>Income Drawdowns – where a customer chooses to withdraw an amount from funds prior to receipt of the pension</li>\n</ul>\n\n<p>Existing SA cases  </p>\n\n<p>Those individuals already within the SA system should enter relevant details of any unauthorised payments, liable to the 40 per cent tax charge or, where applicable, both the 40 per cent charge and the 15 per cent surcharge, on their SA tax return. Amounts should be entered at boxes 13 and 15 of the ‘Other information’ section of the Additional information supplementary page Ai4.  </p>\n\n<p>Non-SA cases  </p>\n\n<p>In non-SA cases, where details are received of unauthorised payments, including queries direct from the individual, an SA record should be set up and an SA return issued for the relevant year as necessary.<br />\n </p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-18T13:45:34+01:00",
+ "section_id": "SAM121507",
+ "title": "Returns: individuals returns: pensions: unauthorised  payments"
+}

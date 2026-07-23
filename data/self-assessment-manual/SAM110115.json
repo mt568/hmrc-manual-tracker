@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110115",
+ "body": "<p>The method of repayment can be one of the following</p>\n\n<ul>\n  <li>Repayment to card. The limit for a repayment of this method is £98,600</li>\n  <li>Payable Order. The limit for a repayment by this method is £150,000</li>\n  <li>BACS. The limit for a repayment by this method is £90 million</li>\n  <li>CHAPS. The limit for a repayment by this method is £90,000 million</li>\n  <li>Local Office Payment. The limit for a repayment by this method is £90,000 million</li>\n</ul>\n\n<p>Note:</p>\n\n<p>If the repayment method is either CHAPS or Local Office Payment the repayment cannot be issued through the SA system.</p>\n\n<p>You will therefore need to use function CONFIRM MANUAL REPAYMENT following the issue of the repayment to record the following details</p>\n\n<ul>\n  <li>The actual issue date</li>\n  <li>The CHAPS reference or Payable Order serial number as appropriate</li>\n  <li>Whether notification of the repayment was sent to the agent</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-14T10:34:10+01:00",
+ "section_id": "SAM110115",
+ "title": "Repayments: issue repayment: method of repayment"
+}

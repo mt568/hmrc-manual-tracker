@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim67495",
+ "body": "<p>Site preparation expenditure of £1,200 was incurred on a waste disposal site in the year to 31 December 2010. None of the expenditure qualified for capital allowances. The total capacity of the site was 800 cubic metres, and it was used as follows:</p>\n<table><tbody><tr><td width=\"97\"><p>Year to</p></td><td><p>Cubic metres</p></td></tr><tr><td width=\"97\"><p>31.12.10</p></td><td><p>100</p></td></tr><tr><td width=\"97\"><p>31.12.11</p></td><td><p>300</p></td></tr><tr><td width=\"97\"><p>31.12.12</p></td><td><p><span class=\"uToSpan\">400</span></p></td></tr><tr><td width=\"97\"></td><td><p>800</p></td></tr></tbody></table>\n<p>The formula for relief is RE x WD / SV + WD where:</p>\n<p>RE = the site preparation expenditure less any amount previously deducted</p>\n<p>WD = volume of materials deposited in period of account</p>\n<p>SV = volume of site unused at end of period of account.</p>\n<p><strong>Year to 31.12.10</strong></p>\n<p>In the formula</p>\n<p>RE = £1,200</p>\n<p>WD = 100 cubic metres</p>\n<p>SV = 700 cubic metres</p>\n<p><span>Relief = £1,200 x&nbsp;</span><span>100 /&nbsp;</span><span>700 + 100 =&nbsp;</span><span>£150</span></p>\n<p><strong>Year to 31.12.11</strong></p>\n<p>In the formula</p>\n<p>RE = £1,200 - £150 = £1,050</p>\n<p>WD = 300 cubic metres</p>\n<p>SV = 400 cubic metres</p>\n<p><span>Relief = £1,050 x&nbsp;</span><span>300 /&nbsp;</span><span>400 + 300&nbsp;</span><span>= £450</span></p>\n<p><strong>Year to 31.12.12</strong></p>\n<p>In the formula</p>\n<p>RE = £1,200 - £150 - £450 = £600</p>\n<p>WD = 400 cubic metres</p>\n<p>SV = Nil</p>\n<p><span>Relief = £600 x&nbsp;</span><span>400 /&nbsp;</span><span>400&nbsp;</span><span>= £600</span></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim67400",
+   "section_id": "BIM67400"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:38:05+01:00",
+ "section_id": "BIM67495",
+ "title": "Waste disposal: site preparation: calculation of relief: example"
+}

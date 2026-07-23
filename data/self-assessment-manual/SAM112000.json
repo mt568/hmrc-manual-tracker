@@ -1,0 +1,69 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112001",
+     "description": "",
+     "section_id": "SAM112001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112010",
+     "description": "",
+     "section_id": "SAM112010",
+     "title": "Over-repayments: recovery by assessment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112020",
+     "description": "",
+     "section_id": "SAM112020",
+     "title": "Over-repayments: recovery by the DRIER procedures"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112021",
+     "description": "",
+     "section_id": "SAM112021",
+     "title": "Over-repayments: recovery by the DRIER procedures (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112030",
+     "description": "",
+     "section_id": "SAM112030",
+     "title": "Over-repayments: recovery by the SA system"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112031",
+     "description": "",
+     "section_id": "SAM112031",
+     "title": "Over-repayments: recovery by the SA system (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112032",
+     "description": "",
+     "section_id": "SAM112032",
+     "title": "Over-repayments: recovery by the SA system: interest bearing over-repayment charges (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112040",
+     "description": "",
+     "section_id": "SAM112040",
+     "title": "Over-repayments: recovery of a repayment made to charity"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112041",
+     "description": "",
+     "section_id": "SAM112041",
+     "title": "Over-repayments: recovery of a repayment made to charity (Action Guide)"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:55:18+00:00",
+ "section_id": "SAM112000",
+ "title": "Repayments: recover over-repayment: contents"
+}

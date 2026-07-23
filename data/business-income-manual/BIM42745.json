@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42745",
+ "body": "<p>S248, S251 Income Tax (Trading and Other Income) Act 2005, S192, S194 Corporation Tax Act 2009</p>\n\n<p>Where a deduction has been allowed for bad or doubtful debts and the business is discontinued (or treated for tax purposes as discontinued), the following rules will apply:</p>\n\n<h2 id=\"debts-not-transferred\">Debts not transferred</h2>\n\n<p>Debts recovered after the discontinuance, to the extent to which deductions have been allowed for such debts in calculating the profits of the trade, are chargeable as post-cessation receipts (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90000\">BIM90000</a> onwards). For Income Tax purposes, relief for a bad debt may be claimed after the trade has ceased by way of post-cessation trade relief (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90100\">BIM90100</a> onwards). Any amount subsequently recovered in respect of that debt is also treated as a post-cessation receipt.</p>\n\n<h2 id=\"rights-to-debts-transferred\">Rights to debts transferred</h2>\n\n<ul>\n  <li>Where the business is transferred as a going concern and trade debts receivable are taken over by the new proprietor, losses arising from those debts and recoveries in respect of debts taken over as bad or doubtful are brought into account in computing the profits of the successor.</li>\n  <li>Where the right to any debt is transferred for value and the transferee does not subsequently carry on the trade, the amount of the consideration (or in the case of a transfer not at arm’s length, the arm’s length value) is chargeable as a post-cessation receipt to the extent to which a deduction has been allowed for the debt in calculating the profits of the trade (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90050\">BIM90050</a> in this connection).</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42700",
+   "section_id": "BIM42700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:38+01:00",
+ "section_id": "BIM42745",
+ "title": "Specific deductions: bad & doubtful debts: business ceased"
+}

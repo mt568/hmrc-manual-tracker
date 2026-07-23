@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40120",
+ "body": "<p>S5 Income Tax (Trading and Other Income) Act 2005, S35 Corporation Tax Act 2009</p>\n\n<h2 id=\"trading-contracts\">Trading contracts</h2>\n\n<h3 id=\"the-normal-situation\">The normal situation</h3>\n\n<p>Ordinarily, an amount received by a trader in consideration of the cancellation, breach or variation of a trading contract will be a revenue receipt. For example:</p>\n\n<ul>\n  <li>compensation and damages relating to a contract for the purchase or sale of trading stock or consumables (Short Bros Ltd v CIR [1927] 12 TC 955, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35600\">BIM35600</a>; George Thompson &amp; Co Ltd v CIR [1927] 12 TC 1091; Green v J Gliksten &amp; Son Ltd [1929] 14 TC 364; Bush, Beach &amp; Gent Ltd v Road [1939] 22 TC 519; Creed v H &amp; M Levinson Ltd [1981] 54 TC 477)</li>\n  <li>if business is carried on by operating as agent for a number of manufacturers and the receipt is referable to one such contract (Kelsall Parsons &amp; Co v CIR [1938] 21 TC 608 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35530\">BIM35530</a>); CIR v Fleming &amp; Co (Machinery) Ltd [1951] 33 TC 57; CIR v David C MacDonald &amp; Co [1955] 36 TC 388; Wiseburgh v Domville [1956] 36 TC 527; Fleming v Bellow Machine Co Ltd [1965] 42 TC 308; Elson v James G Johnston Ltd [1965] 42 TC 545)</li>\n</ul>\n\n<h3 id=\"exception\">Exception</h3>\n\n<p>Exceptionally, the receipt may be properly viewed as capital in nature if the compensation refers to one contract which:</p>\n\n<ul>\n  <li>is so dominant that its loss accounts for substantially the whole of the company’s trade (see Barr, Crombie &amp; Co Ltd v CIR [1945] 26 TC 406, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35530\">BIM35530</a>)), or</li>\n  <li>regulates the whole structure or framework of the trade (see Van den Berghs Ltd v Clark [1935] 19 TC 390, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35530\">BIM35530</a>; Sabine v Lookers Ltd [1958] 38 TC 120)</li>\n</ul>\n\n<p>If the receipt is capital in nature, the liability to Capital Gains Tax (in the case of unincorporated businesses) or Corporation Tax on chargeable gains (in the case of companies) needs to be considered.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40100",
+   "section_id": "BIM40100"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:16+01:00",
+ "section_id": "BIM40120",
+ "title": "Specific receipts: compensation and damages: intangible assets"
+}

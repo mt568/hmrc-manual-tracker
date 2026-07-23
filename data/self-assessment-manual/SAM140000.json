@@ -1,0 +1,69 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140001",
+     "description": "",
+     "section_id": "SAM140001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140010",
+     "description": "",
+     "section_id": "SAM140010",
+     "title": "Non-SA stranded underpayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140020",
+     "description": "",
+     "section_id": "SAM140020",
+     "title": "One year only PAYE cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140021",
+     "description": "",
+     "section_id": "SAM140021",
+     "title": "One year or more PAYE cases (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140030",
+     "description": "",
+     "section_id": "SAM140030",
+     "title": "SA stranded underpayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140031",
+     "description": "",
+     "section_id": "SAM140031",
+     "title": "Payment made on SA for balancing payments already coded in NPS"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140040",
+     "description": "",
+     "section_id": "SAM140040",
+     "title": "Voluntary direct payments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140050",
+     "description": "",
+     "section_id": "SAM140050",
+     "title": "W034 Sundry charge quality check work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140051",
+     "description": "",
+     "section_id": "SAM140051",
+     "title": "W034 Sundry charge quality check work list (Action Guide)"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:32+00:00",
+ "section_id": "SAM140000",
+ "title": "Transfer of liability: transfer from PAYE to SA: contents"
+}

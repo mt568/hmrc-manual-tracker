@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim90050",
+ "body": "<p>S251 Income Tax (Trading and Other Income) Act 2005, S194 Corporation Tax Act 2009</p>\n\n<h2 id=\"the-sale-or-gift-of-rights-to-a-future-post-cessation-receipt-might-itself-be-a-post-cessation-receipt\">The sale or gift of rights to a future post-cessation receipt might itself be a post-cessation receipt</h2>\n\n<p>This guidance applies where a person ceases trading and transfers the right to receive a sum that would be a post-cessation receipt to someone who does not take over the trade.</p>\n\n<p>Provided the assignment of the rights takes place after the trade has ceased, the value received in consideration is itself a post-cessation receipt in the hands of the transferor.</p>\n\n<p>The amount of the consideration depends on the circumstances of the transfer. If:</p>\n\n<ul>\n  <li>the transfer is made at arm’s length, the post-cessation receipt is the amount or value of the consideration paid by the transferee, or</li>\n  <li>the transfer is not at arm’s length, the post-cessation receipt is the amount equivalent to the market value of the rights transferred.</li>\n</ul>\n\n<p>The transferee is not taxable on the amounts received following the assignment of the rights under the post-cessation legislation. Instead, the transferee may be taxable under the trading or miscellaneous income legislation depending on the facts of the case.</p>\n\n<p>If the transfer of the rights takes place prior to the cessation of the trade, the consideration would normally be a trading receipt in the hands of the transferor.</p>\n\n<h3 id=\"exclusions-to-this-rule\">Exclusions to this rule</h3>\n\n<p>These rules do not apply to:</p>\n\n<ul>\n  <li>transfers of trading stock (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90055\">BIM90055</a>)</li>\n  <li>transfers of work in progress (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90060\">BIM90060</a>) *</li>\n  <li>lump sums paid to personal representatives for copyright etc (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90065\">BIM90065</a>) *</li>\n</ul>\n\n<p>* does not apply to companies subject to Corporation Tax.</p>\n\n<h3 id=\"transferee-takes-over-the-trade\">Transferee takes over the trade</h3>\n\n<p>For the situation where the person receiving the transfer is the person who takes over the trade, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90070\">BIM90070</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim90000",
+   "section_id": "BIM90000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:42:01+01:00",
+ "section_id": "BIM90050",
+ "title": "Post-cessation receipts and expenses: meaning of post-cessation receipts: transfer of rights if transferee does not carry on the trade"
+}

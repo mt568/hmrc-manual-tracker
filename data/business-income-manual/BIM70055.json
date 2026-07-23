@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim70055",
+ "body": "<p>S31B and S31D ITTOIA 2005</p>\n<p>An election under S25A ITTOIA 2005 to use the cash basis has effect for the tax year in which it is made and every subsequent year. In practice, a trader who wishes to continue to use the cash basis year on year will check the appropriate box on their self-assessment tax return each year.</p>\n<p>A person may leave the cash basis if there is a change of circumstances relating to any trade carried on by that person (for example, their business is expanding and they want to claim more than £500 for interest on cash borrowing, or they wish to claim sideways loss relief), and they decide that it is more appropriate to calculate profits in accordance with generally accepted accounting practice, and they elect to calculate the profits that way. In practice, this will mean that the person does not check the cash basis box on the tax return.</p>\n<p>A person must leave the cash basis in the tax year following the year in which the total cash basis receipts of all trades carried on by that person exceed £300,000 for the 2017-18 tax year onwards or twice the VAT threshold for previous tax years</p>\n<p>unless</p>\n<p>the total cash basis receipts in the later year do not exceed the relevant maximum amount for that year.</p>\n<p>The relevant maximum amount is £150,000, or £300,000 for Universal Credit claimants for the 2017-18 tax year onwards. For previous tax years, the maximum amount was the VAT registration threshold for that year, or twice the threshold for Universal Credit claimants.</p>\n<p>Businesses leaving the cash basis must revert to using generally accepted accounting practice to calculate their profits and may need to make some adjustments at this point. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70070\" rel=\"nofollow\">BIM70070</a>.</p>\n<p>Example</p>\n<p>Tom started in business as a dealer in rare books and antiquities on 6 April 2013. He has used the cash basis every year since then, and his receipts have never exceeded the VAT threshold. He does not claim Universal Credit. In December 2018, he stumbled upon an extremely rare signed first edition of Ulysses, which he sold at auction in February 2019 for £250,000.</p>\n<p>Tom’s total cash basis receipts for the two years to 5 April 2020 are:</p>\n<table><tbody><tr><td><p>2018-19</p></td><td><p>£380,000</p></td></tr><tr><td><p> </p></td><td><p> </p></td></tr><tr><td><p>2019-20</p></td><td><p>£ 86,000</p></td></tr></tbody></table>\n<p>Assuming the relevant maximum amount for 2018-19 and 2019-20 remains £150,000, Tom is entitled to calculate his profits using the cash basis in both years. If his receipts in 2019-20 had exceeded £150,000, he would have had to leave the cash basis, andcalculate his profits for that year in accordance with generally accepted accounting practice.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70001",
+   "section_id": "BIM70001"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM70055",
+ "title": "Cash basis: leaving the cash basis"
+}

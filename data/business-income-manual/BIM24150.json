@@ -1,0 +1,37 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24150",
+ "body": "<h2>Introduction and layout of guidance</h2>\n<p>As explained in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24001\">BIM24001</a> there have historically been three separate strands to the umbrella topic of mutual trading:</p>\n<ul><li class=\"filledcircle\">mutual insurance</li><li class=\"filledcircle\">other trading activities, and</li><li class=\"filledcircle\">social and recreational activities.</li></ul>\n<p>The first two involve mutual trading whereas the third category strictly does not. The guidance also follows this approach. Guidance on mutual insurance is in the General Insurance Manual at <a href=\"https://www.gov.uk/hmrc-internal-manuals/general-insurance-manual/gim9000\">GIM9000</a> onwards. The following guidance covers:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24155",
+     "description": "",
+     "section_id": "BIM24155",
+     "title": "Non-mutual insurance trading activities: corporation water works"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24160",
+     "description": "",
+     "section_id": "BIM24160",
+     "title": "Non-mutual insurance trading activities: corn trading association"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:31+01:00",
+ "section_id": "BIM24150",
+ "title": "Meaning of trade: mutual trading and members clubs: non-mutual insurance trading activities: contents"
+}

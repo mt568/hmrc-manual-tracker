@@ -1,0 +1,51 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40050",
+     "description": "",
+     "section_id": "BIM40050",
+     "title": "Receipts - general: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+     "description": "",
+     "section_id": "BIM40099",
+     "title": "Specific receipts: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42050",
+     "description": "",
+     "section_id": "BIM42050",
+     "title": "Deductions - general: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42100",
+     "description": "",
+     "section_id": "BIM42100",
+     "title": "Deductions - scope of: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42200",
+     "description": "",
+     "section_id": "BIM42200",
+     "title": "Deductions - timing: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+     "description": "",
+     "section_id": "BIM42450",
+     "title": "Specific deductions: contents"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2019-01-02T12:14:00+00:00",
+ "section_id": "BIM40000",
+ "title": "Measuring the profits (specific rules & practices) - receipts & deductions: contents"
+}

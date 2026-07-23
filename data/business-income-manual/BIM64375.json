@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64375",
+ "body": "<p>S11, S61, S175, S196, S532 Capital Allowances Act 2001</p>\n\n<p>In order to claim capital allowances on capital expenditure on plant or machinery, the person incurring the expenditure must own the plant or machinery as a result of incurring it. This is a test based on legal title.</p>\n\n<p>Where a private sector operator incurs capital expenditure on a PFI property there may be circumstances in which it does not hold the relevant legal interest when the trade commences in order to claim capital allowances on plant or machinery that become fixtures in the property. In such circumstances it is common for the operator to have an exclusive licence to occupy the site during the construction phase, giving the operator the necessary qualifying interest for claiming allowances.</p>\n\n<p>When the building phase is completed the exclusive access to the site may cease, which will normally cause termination of the exclusive licence to occupy, as the operator will no longer have control over the land. The expiry of the qualifying interest marks the point when the fixtures cease to belong to the operator for capital allowance purposes. The disposal value to be brought into the pool of qualifying expenditure is nil, if no capital sums are received. The effect is to enable the operator to continue claiming capital allowances on the pool year on year, as the expenditure in the pool is in respect of assets that were owned by the operator.</p>\n\n<p>If the assets are not fixtures then the ownership conditions are met when the operator incurs expenditure on acquiring the assets. Ownership will cease when the assets are delivered. That will give rise to a disposal and the disposal value is the open market value of the assets at the date of disposal.</p>\n\n<p>Where a capital contribution towards the construction costs of a fixed capital asset of a business is allocated against expenditure that qualifies for capital allowances, the qualifying expenditure is reduced accordingly (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca14100\">CA14100</a>).</p>\n\n<p>For the value to be attributed to the asset, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64190\">BIM64190</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64240",
+   "section_id": "BIM64240"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:56+01:00",
+ "section_id": "BIM64375",
+ "title": "Private Finance Initiative (PFI): capital allowances"
+}

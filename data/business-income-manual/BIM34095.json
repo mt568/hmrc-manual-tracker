@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34095",
+ "body": "<p>S228-S230, S232 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S181 Corporation Tax Act 2009</p>\n<p>For the computational method to calculate the adjustment, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34130\">BIM34130</a>.</p>\n<h2>Example</h2>\n<p>Where there is a positive adjustment, it is treated as ‘adjustment income’ and charged to Income Tax. The person liable for any tax charged is the person receiving or entitled to the income.</p>\n<p>A negative adjustment, an ‘adjustment expense’, is allowed as a deduction in computing the taxable profits of the trade as an expense arising on the last day of the first period of account on the new basis.</p>\n<p>The charge on adjustment income is a stand-alone one within the category of trading income and loss relief can be claimed as if the income were trade profits.<strong> The income is not chargeable to class 4 NIC.</strong></p>\n<p>The charge on adjustment income is on the full amount of any income arising in the tax year, subject to the spreading rules referred to below. The charge does not apply to income taxed on the remittance basis. Remittance basis ceased to have effect for tax years beginning on or after 6 April 2025. Refer to <a href=\"https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm30005\">RDRM30005</a> for further details.</p>\n<p>Adjustment income is usually treated as arising on the last day of the first period of the new basis. There are rules allowing for the spreading of adjustment income for barristers on the ending of the early years alternative basis (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim51120\">BIM51120</a>) and for persons leaving the cash basis (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim72070\">BIM72070</a>). Special rules apply to changes of basis relating to stock and depreciation and to a change from realisation basis to mark to market (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34110\">BIM34110</a> onwards).</p>\n<p>S240 ITTOIA 2005 applies the rules to personal representatives.</p>\n<h2>Corporation Tax</h2>\n<p>A positive adjustment is treated as a receipt of the trade arising on the first day of the first period of account of the new basis.</p>\n<p>A negative adjustment is allowed as a deduction in computing profits as an expense arising on the first day of the first period of account of the new basis.</p>\n<p>Special rules apply to changes of basis relating to stock and depreciation and to a change from realisation basis to mark to market (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34110\">BIM34110</a> onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34090",
+   "section_id": "BIM34090"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-07-01T01:00:00+01:00",
+ "section_id": "BIM34095",
+ "title": "Change of basis of computing taxable profits: adjustment income and expenses: charge to tax"
+}

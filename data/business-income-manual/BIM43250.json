@@ -1,0 +1,48 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim43250",
+ "body": "<p>Dilapidations are works of repair or re-instatement for which a lessee is liable. Expenditure on dilapidations may be capital or revenue and is allowable or not accordingly.</p>\n\n<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim43251",
+     "description": "",
+     "section_id": "BIM43251",
+     "title": "Meaning of dilapidations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim43255",
+     "description": "",
+     "section_id": "BIM43255",
+     "title": "Capital expenditure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim43260",
+     "description": "",
+     "section_id": "BIM43260",
+     "title": "Revenue expenditure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim43265",
+     "description": "",
+     "section_id": "BIM43265",
+     "title": "Composition payment to lessor"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:00+01:00",
+ "section_id": "BIM43250",
+ "title": "Specific deductions: dilapidations under a lease: contents"
+}

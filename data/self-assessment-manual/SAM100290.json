@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100290",
+ "body": "<p>A view facility is available within SA. This may be used to view details of any taxpayer who has an SA record, even though responsibility for that record may not be within your office.</p>\n<p><strong>You should only view a taxpayer’s SA record if there is a business need to do so.</strong></p>\n<p>Function CASE SUMMARY allows you to view general details of the taxpayer’s SA record. It also permits access to a range of other functions covering all aspects of the taxpayer’s SA record.</p>\n<p>You should decide, from the list of functions, which computer functions to use to view different aspects of the taxpayer record.</p>\n<p>Whilst carrying out your day to day work you may receive a message which says ‘Your Office is not responsible’ when trying to view an SA record. Where this happens, select Taxpayer Business Service (TBS) and enter the Unique Taxpayer Reference (UTR) into the ‘Trace Taxpayer’ box and the message you receive will then determine the action you need to take.</p>\n<p>You will see one of the following message or screens:-</p>\n<h5>A</h5>\n<p>‘Access denied. <span>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</span></p>\n<p>This message indicates that the SA record you were trying to access is a ‘Secure and Sensitive case’ <span>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</span></p>\n<h5>B</h5>\n<p>The TBS screen appears as you would expect with name and address details and with ‘SA Live’ displayed at the right hand side of the address details</p>\n<p><span>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</span></p>\n<h5>C</h5>\n<p>The TBS Screen appears as you would expect with the name and address details but ‘SA Dormant’ is displayed at the right hand side of the address details</p>\n<p><span>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</span></p>\n<h5>D</h5>\n<p>‘No record found’ or ‘No record found matching the SA UTR’</p>\n<p><span>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</span></p>\n<p>Your next actions for C or D above are dependent on what you were doing when you received the message. Contact Centre staff, Correspondence teams, Complaints teams, Return Capture teams and Work Management teams have all been given specific instructions attached to the <span>guidance</span>.</p>\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+   "section_id": "SAM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-06-08T01:00:00+01:00",
+ "section_id": "SAM100290",
+ "title": "Records: set up taxpayer record: view taxpayer facility"
+}

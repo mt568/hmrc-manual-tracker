@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35701",
+ "body": "<p>The leading case on the distinction between capital and revenue expenditure as it affects intangible rights is Strick v Regent Oil Co Ltd [1965] 43TC1(see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35560\">BIM35560</a>). The case was concerned with intangible assets whose value would not diminish through use, but only with the passage of time. Earl Haigh’s Trustees v CIR [1939] 22TC725 is authority for dealing differently with intangible assets which are exhausted by use. The Judges in Earl Haigh did not follow the line established in the mining cases such as Coltness Iron Co v Black [1881] 1TC287 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35401\">BIM35401</a>) and it is clear that the principles established in these cases do not apply to intangible assets.</p>\n\n<p>Where a copyright is acquired (or disposed of) by a trader you need to determine whether:</p>\n\n<ul>\n  <li>it is of such a nature that it will be exhausted or diminished in value by use, or</li>\n  <li>it will retain its value despite repeated use (in which event the normal Strick v Regent Oil principles apply).</li>\n</ul>\n\n<p>For cases that come within the first bullet point above, you should accept accounts which write off the expenditure over the income-producing life of the work.</p>\n\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35501\">BIM35501</a> for the Corporation Tax intangible fixed assets legislation, which may require the accounting entries in respect of copyrights to be followed in computations of income for Corporation Tax, even if those entries are of a capital nature.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35700",
+   "section_id": "BIM35700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-10-09T10:08:35+01:00",
+ "section_id": "BIM35701",
+ "title": "Capital/revenue divide: intellectual property: our approach to copyright"
+}

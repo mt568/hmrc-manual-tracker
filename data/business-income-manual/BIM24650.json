@@ -1,0 +1,264 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24650",
+ "body": "<h2 id=\"introduction-and-layout-of-guidance\">Introduction and layout of guidance</h2>\n\n<p>The following guidance covers a number of issues involving mutual associations some of which involve mutual trading and some of which do not. The areas covered are:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24655",
+     "description": "",
+     "section_id": "BIM24655",
+     "title": "Mutual associations: specific activities: NHS doctors' co-operatives"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24660",
+     "description": "",
+     "section_id": "BIM24660",
+     "title": "Mutual associations: specific activities: NHS doctors' co-operatives: essential pre-requisite"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24665",
+     "description": "",
+     "section_id": "BIM24665",
+     "title": "Mutual associations: specific activities: NHS doctors' co-operatives: essential pre-requisite: does the trade meet the criteria?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24670",
+     "description": "",
+     "section_id": "BIM24670",
+     "title": "Mutual associations: specific activities: NHS doctors’ co-operatives: varieties"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24675",
+     "description": "",
+     "section_id": "BIM24675",
+     "title": "Mutual associations: specific activities: NHS doctors’ co-operatives: National Association of GP co-operatives"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24680",
+     "description": "",
+     "section_id": "BIM24680",
+     "title": "Mutual associations: specific activities: mutual health insurers: introduction and layout of guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24685",
+     "description": "",
+     "section_id": "BIM24685",
+     "title": "Mutual associations: specific activities: mutual health insurers: background"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24690",
+     "description": "",
+     "section_id": "BIM24690",
+     "title": "Mutual associations: specific activities: mutual health insurers: two interrelated questions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24695",
+     "description": "",
+     "section_id": "BIM24695",
+     "title": "Mutual associations: specific activities: mutual health insurers: are they trading?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24700",
+     "description": "",
+     "section_id": "BIM24700",
+     "title": "Mutual associations: specific activities: mutual health insurers: is the trade mutual?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24705",
+     "description": "",
+     "section_id": "BIM24705",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: introduction and layout of guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24710",
+     "description": "",
+     "section_id": "BIM24710",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: background"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24715",
+     "description": "",
+     "section_id": "BIM24715",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: model constitution"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24720",
+     "description": "",
+     "section_id": "BIM24720",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: three points to watch"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24725",
+     "description": "",
+     "section_id": "BIM24725",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: financing"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24730",
+     "description": "",
+     "section_id": "BIM24730",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: taxation of"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24735",
+     "description": "",
+     "section_id": "BIM24735",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: not conducting a mutual trade"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24740",
+     "description": "",
+     "section_id": "BIM24740",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: members taxation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24745",
+     "description": "",
+     "section_id": "BIM24745",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: futures dealing"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24750",
+     "description": "",
+     "section_id": "BIM24750",
+     "title": "Mutual associations: specific activities: Chambers of Commerce: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24755",
+     "description": "",
+     "section_id": "BIM24755",
+     "title": "Mutual associations: specific activities: Chambers of Commerce: trading?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24760",
+     "description": "",
+     "section_id": "BIM24760",
+     "title": "Mutual associations: specific activities: Chambers of Commerce: a mutual trade?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24765",
+     "description": "",
+     "section_id": "BIM24765",
+     "title": "Mutual associations: specific activities: Hunt point to point meetings: introduction and layout of guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24775",
+     "description": "",
+     "section_id": "BIM24775",
+     "title": "Mutual associations: specific activities: Hunt point-to-point meetings: trading?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24780",
+     "description": "",
+     "section_id": "BIM24780",
+     "title": "Mutual associations: specific activities: Hunt point-to-point meetings: dealings with members"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24782",
+     "description": "",
+     "section_id": "BIM24782",
+     "title": "Mutual associations: specific activities: property management companies"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24784",
+     "description": "",
+     "section_id": "BIM24784",
+     "title": "Mutual associations: specific activities: bulk buying groups: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24786",
+     "description": "",
+     "section_id": "BIM24786",
+     "title": "Mutual associations: specific activities: bulk buying groups: basic principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24788",
+     "description": "",
+     "section_id": "BIM24788",
+     "title": "Mutual associations: specific activities: bulk buying groups: two relationships"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24792",
+     "description": "",
+     "section_id": "BIM24792",
+     "title": "Mutual associations: specific activities: voluntary organisations & charities: fund-raising events: introduction and layout of guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24794",
+     "description": "",
+     "section_id": "BIM24794",
+     "title": "Mutual associations: specific activities: voluntary organisations & charities: tax exemption"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24795",
+     "description": "",
+     "section_id": "BIM24795",
+     "title": "Mutual associations: specific activities: voluntary organisations & charities: conditions for exemption"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24796",
+     "description": "",
+     "section_id": "BIM24796",
+     "title": "Mutual associations: specific activities: voluntary organisations & charities: donations etc. not chargeable"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24797",
+     "description": "",
+     "section_id": "BIM24797",
+     "title": "Mutual associations: specific activities: voluntary organisations & charities: reference to Specialist PT Charities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24800",
+     "description": "",
+     "section_id": "BIM24800",
+     "title": "Mutual associations: specific activities: trade protection associations: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24805",
+     "description": "",
+     "section_id": "BIM24805",
+     "title": "Mutual associations: specific activities: trade protection associations: HMRC arrangement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24810",
+     "description": "",
+     "section_id": "BIM24810",
+     "title": "Mutual associations: specific activities: trade protection associations: procedural points when adopting HMRC arrangement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24815",
+     "description": "",
+     "section_id": "BIM24815",
+     "title": "Mutual associations: specific activities: trade protection associations: benefits to members of adopting HMRC arrangement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24820",
+     "description": "",
+     "section_id": "BIM24820",
+     "title": "Mutual associations: specific activities: trade protection associations: text of HMRC arrangement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24850",
+     "description": "",
+     "section_id": "BIM24850",
+     "title": "Mutual associations: specific activities: marketing boards"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:43+01:00",
+ "section_id": "BIM24650",
+ "title": "Meaning of trade: mutual trading and members clubs: mutual associations: specific activities: introduction: contents"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101310",
+ "body": "<p>Up to April 2010, when a return was captured CESA identified SA / PAYE cases suitable for removal from SA by comparing the return with a set of criteria, but always created a work item on work list W045 for pensioner / low income cases. A manual review of the work items was made to assess the individuals’ suitability to remain in SA.</p>\n\n<p>From 1 April 2010</p>\n\n<ul>\n  <li>CESA will consider all cases suitable for automatic removal, irrespective of whether the case is an SA / PAYE case or the level of income</li>\n  <li>Work items on work list W045 will no longer be generated and non-PAYE cases will also be considered for automatic removal from SA</li>\n</ul>\n\n<p>For cases that cannot be made dormant, no further action is taken and returns will be issued in the usual way.</p>\n\n<p>All existing work items at April 2010 have been deleted. These cases will be considered for automatic removal from SA following the capture of the next years return.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+   "section_id": "SAM101000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:55+00:00",
+ "section_id": "SAM101310",
+ "title": "Records: maintain taxpayer record: W045 pensioner and low income review list"
+}

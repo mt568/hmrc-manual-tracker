@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120015",
+ "body": "<p>A taxpayer’s SA record can contain many names and addresses.</p>\n\n<p>The names should be used in the following order of priority</p>\n\n<ul>\n  <li>Capacity name</li>\n  <li>Communication name</li>\n  <li>Taxpayer name</li>\n</ul>\n\n<p>The addresses should be used in the following order of priority</p>\n\n<ul>\n  <li>Capacity address</li>\n  <li>Communication address</li>\n  <li>Base address</li>\n  <li>Business address</li>\n</ul>\n\n<p>To determine which names and addresses are available on the taxpayer’s record and which should be used for output purposes, use the functions in the following table</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Function</th>\n      <th>Name and address</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>CASE SUMMARY</td>\n      <td>Main capacity name and address / Taxpayer name and base address / Business address</td>\n    </tr>\n    <tr>\n      <td>MAINTAIN CAPACITY</td>\n      <td>Capacity name and address</td>\n    </tr>\n    <tr>\n      <td>VIEW COMMUNICATION NAME AND ADDRESS</td>\n      <td>Communication name and address</td>\n    </tr>\n    <tr>\n      <td>VIEW TAXPAYER DESIGNATORY DETAILS</td>\n      <td>Taxpayer name and base address</td>\n    </tr>\n    <tr>\n      <td>MAINTAIN TRADE</td>\n      <td>Business address</td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 id=\"examples-of-output\">Examples of output</h3>\n\n<p>When manually preparing a return for issue and where:</p>\n\n<p>A communication name and / or address is present on the taxpayer record</p>\n\n<ul>\n  <li>Enter the communication name / taxpayer’s name and communication address in the address panel on the return</li>\n  <li>Where appropriate, enter ‘For’ followed by the taxpayer’s name directly below the address panel of the return</li>\n</ul>\n\n<p>A capacity name and address is present on the taxpayer record</p>\n\n<ul>\n  <li>Enter the capacity name and address in the address panel on the return</li>\n  <li>Enter the capacity in which the person is acting followed by the taxpayer’s name directly below the address panel. For example ‘As Trustee of ABC Trust’</li>\n</ul>\n\n<p>The taxpayer is deceased and there is no capacity name and address shown</p>\n\n<ul>\n  <li>Enter ‘The Personal Representative of’ followed by the deceased taxpayer’s name and address in the address panel on the return</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120000",
+   "section_id": "SAM120000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-09T11:19:27+01:00",
+ "section_id": "SAM120015",
+ "title": "Returns: return issue: correspondence name and address"
+}

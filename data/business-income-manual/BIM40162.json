@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40162",
+ "body": "<h2 id=\"this-is-direct-tax-guidance-for-indirect-tax-guidance-refer-to-vat-guidance\">This is direct tax guidance; for indirect tax guidance, refer to VAT Guidance.</h2>\n\n<p>You may come across a number of different types of refund of a sum paid as VAT.</p>\n\n<p><a href=\"http://www.hmrc.gov.uk/gds/bim/attachments/bim40162_flowchart.doc\">The VAT receipts flowchart (Word 160KB)</a> will help you identify the appropriate guidance for the more commonly encountered scenarios.</p>\n\n<p>The flowchart does not cover capital allowances or capital gains questions.</p>\n\n<h2 id=\"terms-used\">Terms used</h2>\n\n<p>Space is limited in the flowchart so:</p>\n\n<blockquote>\n  <p>‘Received by’ is used in the flowchart to mean ‘received by and recognised in the accounts in accordance with GAAP’.</p>\n</blockquote>\n\n<blockquote>\n  <p>‘PCR’ is used in the flowchart to mean post cessation receipt.</p>\n</blockquote>\n\n<p>You may find it easier to follow the flowchart in this format.</p>\n\n<h4 id=\"question-1\">Question 1</h4>\n\n<p>Refund received by original trader?</p>\n\n<ul>\n  <li>\n    <p>Yes - Go to Question 2.</p>\n\n    <p>No - Go to Question 3.</p>\n  </li>\n</ul>\n\n<h4 id=\"question-2\">Question 2</h4>\n\n<p>Trader continues to trade?</p>\n\n<ul>\n  <li>Yes - Taxable as a trade receipt: <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40170\">BIM40170</a>.</li>\n  <li>No - Taxable as a PCR: <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40170\">BIM40170</a>.</li>\n</ul>\n\n<h4 id=\"question-3\">Question 3</h4>\n\n<p>Received by successor?</p>\n\n<ul>\n  <li>Yes - Go to Question 4.</li>\n  <li>No - Go to Question 5.</li>\n</ul>\n\n<h4 id=\"question-4\">Question 4</h4>\n\n<p>Successor continues to trade?</p>\n\n<ul>\n  <li>Yes - Taxable as a trade receipt: <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40170\">BIM40170</a>.</li>\n  <li>No - Taxable as a PCR: <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40170\">BIM40170</a>.</li>\n</ul>\n\n<h4 id=\"question-5\">Question 5</h4>\n\n<p>Received for providing services?</p>\n\n<ul>\n  <li>Yes - Go to Question 6.</li>\n  <li>No - Go to Question 7.</li>\n</ul>\n\n<h4 id=\"question-6\">​​​​​​​Question 6</h4>\n\n<p>Receipt of management services trade?</p>\n\n<ul>\n  <li>Yes - Taxable in full as a trade receipt: <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40178\">BIM40178</a>.</li>\n  <li>No - Received because of right to claim: taxable as miscellaneous income: <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40182\">BIM40182</a>.</li>\n</ul>\n\n<h4 id=\"question-7\">Question 7</h4>\n\n<p>Received as a receipt from a trade that has ceased?</p>\n\n<ul>\n  <li>Yes - Taxable as a PCR: <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40180\">BIM40180</a>.</li>\n  <li>No - Received because of right to claim: taxable as miscellaneous income: <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40182\">BIM40182</a>.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40150",
+   "section_id": "BIM40150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-09T11:38:50+00:00",
+ "section_id": "BIM40162",
+ "title": "Specific receipts: refunds of sums paid as VAT: finding the right guidance - flowchart"
+}

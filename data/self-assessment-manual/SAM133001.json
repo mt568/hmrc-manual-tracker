@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam133001",
+ "body": "<p>Each taxpayer is issued periodically with a statement (unless statement issue has been inhibited) known as the ‘Self Assessment Statement’ . The statement shows the current position on the taxpayer record.</p>\n\n<p>The majority of statements are now issued in Simple Statement format although a few statements continue to be issued in Open Item format.</p>\n\n<p>The statement can be a prompt or reminder to make payment. It warns about interest and shows the amount of interest that has arisen since the issue of the previous statement. (Open Item statements show individual interest charges and the total amount of interest accruing on any overdue payment).</p>\n\n<p>Most statements include a message. The message printed on the statement is determined by the circumstances or reason why it was necessary to issue a statement in this statement issue cycle.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam133000",
+   "section_id": "SAM133000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:30+00:00",
+ "section_id": "SAM133001",
+ "title": "Statements: statement messages: introduction"
+}

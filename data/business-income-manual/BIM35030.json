@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35030",
+ "body": "<p>Capital expenditure is not allowable as a deduction, and capital receipts are not taxable as trade profits.</p>\n\n<p>The tax law on trade profits and accountancy principles is not fully aligned on the treatment of capital expenditure. Tax law takes precedence. You therefore need to pay particular attention to those areas where tax and accountancy differ in their treatment of capital expenditure. For a description of the interaction between accountancy and tax on trade profits see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31000\">BIM31000</a> onwards. Further guidance on the capital/revenue divide and accountancy is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35200\">BIM35200</a> onwards.</p>\n\n<p>You are required to establish the correct measure of profits for tax purposes. The profits shown in a set of accounts drawn up in accordance with generally accepted accounting practice (GAAP) are the starting point but will only coincidentally yield the required figure. A major area of difference is in the treatment of capital expenditure. Except in those cases where capital expenditure is specifically allowed by statute (for example S58 Income Tax (Trading and Other Income) Act 2005 allows certain costs of raising loan finance - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45800\">BIM45800</a> onwards) capital expenditure is not allowable in computing trade profits for tax purposes. A common example of the difference is provided by depreciation. The depreciation of a fixed capital asset constitutes a proper deduction in computing profits for accountancy purposes but for tax purposes the expense is not allowed on the basis that it is capital.</p>\n\n<p>In the Corporation Tax field, however, the regimes for loan relationships, derivative contracts and intangible assets broadly recognise accounting entries for tax in computations of income, notwithstanding the fact that they may include items of a capital nature. These regimes are not dealt with in the Business Income Manual. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim00510\">BIM00510</a>.</p>\n\n<p>Lloyd J in the Herbert Smith judgment (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35210\">BIM35210</a>) identified the following circumstances where, apart from the treatment of capital expenditure, accountancy can yield the wrong result for tax purposes:</p>\n\n<ul>\n  <li>Where the accounts are based on an analysis of the facts that is wrong in law (for example, CIR v Gardner Mountain &amp; D’ Abrumenil Ltd [1947] 29TC69).</li>\n  <li>Where accounts prepared in accordance with GAAP are found to be based on factual assumptions which are insufficiently reliable (for example, Owen v Southern Railway of Peru Ltd [1956] 36TC602).</li>\n  <li>Where accounts prepared in accordance with GAAP are simply inconsistent with the true facts (for example, BSC Footwear Ltd v Ridgway [1971] 47TC495).</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35001",
+   "section_id": "BIM35001"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:28+01:00",
+ "section_id": "BIM35030",
+ "title": "Capital/revenue divide: introduction: interaction with accountancy principles"
+}

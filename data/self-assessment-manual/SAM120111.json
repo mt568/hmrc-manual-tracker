@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120111",
+ "body": "<p>The taxpayer may request or it may become apparent that specific supplementary pages need to be added to or deleted from the profile. Where the return profile needs updating, follow steps 1 - 4 below.</p>\n\n<p>The automatic selection process (ITAR) runs in mid February each year. For the next ITAR date, see the Business Calendar on the SA User page.</p>\n\n<p>For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDAJ2L4F\">Period before automatic selection process has run</h2>\n\n<p>1. Use function MAINTAIN RETURN PROFILE to update the taxpayer’s record. The function provides access to profiles for CY and CY-1. The automatic selection process will pick up the requirement for supplementary pages from the individual or trust record type return profile for the relevant year</p>\n\n<h2 id=\"IDA52L4F\">Period subsequent to automatic selection process run</h2>\n\n<p>2. Use function MAINTAIN RETURN PROFILE to update the taxpayer’s record for CY and / or CY-1</p>\n\n<p>3. Prepare the relevant supplementary pages for issue. Do not include the guidance notes if the individual or trust is represented by an agent</p>\n\n<p>4. Issue the supplementary pages and guidance notes on the first working day after 5 April next</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120000",
+   "section_id": "SAM120000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-10T09:06:17+01:00",
+ "section_id": "SAM120111",
+ "title": "Returns: return issue: the taxpayer return profile (Action Guide)"
+}

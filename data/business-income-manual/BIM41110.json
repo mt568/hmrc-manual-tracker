@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim41110",
+ "body": "<p>An inducement to accept an assignment of a lease is not a reverse premium if the transaction is entirely at arm’s length.</p>\n\n<p>If an existing lease is assigned part way through its term by an existing tenant to a new tenant, and the new tenant receives a payment or benefit as an inducement, that will be a reverse premium if the inducement is provided by the original grantor of the lease, or by a person connected with the grantor, or by a nominee or person directed by either (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim41051\">BIM41051</a>).</p>\n\n<p>Thus, a commercial payment by an existing tenant to induce a new tenant to take over an onerous lease will not normally be a reverse premium. The payment will be a reverse premium only if the tenant paying it is connected with the landlord, or is acting on the landlord’s behalf in making the payment.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim41050",
+   "section_id": "BIM41050"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:32+01:00",
+ "section_id": "BIM41110",
+ "title": "Specific receipts: reverse premiums: assignment of a lease"
+}

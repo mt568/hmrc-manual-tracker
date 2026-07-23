@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim55160",
+ "body": "<p>S25 Income Tax (Trading and Other Income) Act 2005, S46 Corporation Tax Act 2009</p>\n<p>The time at which income should be recognised for tax purposes can be a complex area. Detailed guidance is provided at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31090\">BIM31090</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31110\">BIM31110</a> to which reference should be made in any case of doubt or difficulty..</p>\n<h4>GENERAL PRINCIPLES</h4>\n<p>The starting point in computing the farmer's taxable profits is accounts prepared in accordance with generally accepted accounting practice (‘GAAP’).</p>\n<div><p><span><span>For entities reporting under FRS 102 Section 24 </span></span><span><span>Government Grants </span></span><span><span>there are two alternative approaches permitted to accounting for grants </span><span>i.e.</span><span> the accruals method, and the performance method. Under this latter approach grant income is recognised either at the point of fulfilling performance criteria or, where there are no such criteria, on receipt of the grant funds.</span></span>&nbsp;</p></div>\n<div><p><span><span>Related standards under other frameworks are:</span></span>&nbsp;</p></div>\n<div><p><span><span>FRS 105 </span><span>Section 1</span><span>9</span> </span><span><span>Government Grants</span></span>&nbsp;</p></div>\n<div><p><span><span>IAS</span>: <span>I</span><span>AS 20</span> </span><span><span>Accounting for Government Grants and Disclosure of Government Assistance</span></span>&nbsp;</p></div>\n<div><p><span>Old UK GAAP: </span>SSAP 4 <span>Accounting for Government Grants</span>&nbsp;</p></div>\n<p>A basis which is arrived at from the correct application of generally accepted accountancy principles to the particular facts is a valid basis for determining timing issues provided it does not offend the taxing statutes as interpreted by the Courts. Although there may be more than one acceptable basis, a valid basis, once adopted, should be used consistently unless there is good reason for a change. (See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34000\">BIM34000</a> onwards.)</p>\n<p>Where an acceptable basis has been adopted in the accounts attempts to use some other acceptable basis by means of adjustments in the tax computations should be resisted.</p>\n<p>See Helpsheet 232 (reproduced at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55410\">BIM55410</a>) and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55430\">BIM55430</a> regarding the effect of certain grants on the carrying value of stock.</p>\n<p>Timing issues can be complex and hard to resolve. Unless, in a particular case, a substantial deferment of tax is potentially involved, you should not normally challenge the basis used for recognising grants and subsidies in farming accounts so long as:</p>\n<ul><li class=\"filledcircle\">it is consistently adopted, and</li><li class=\"filledcircle\">the whole of the payments are brought into the computation of profit at some time.</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55000",
+   "section_id": "BIM55000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55150",
+   "section_id": "BIM55150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T15:15:34+00:00",
+ "section_id": "BIM55160",
+ "title": "Farming: timing of recognition of grants and subsidies"
+}

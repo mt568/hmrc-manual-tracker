@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121201",
+ "body": "<p>In a Revenue Calculation case where an amount needs to be calculated follow steps 1 - 9 below. For a Self Calculating taxpayer follow steps 4 - 6 where applicable.</p>\n\n<h2 id=\"IDAS22MG\">Transitional and surplus allowances transferred to the taxpayer making the return</h2>\n\n<p>1. Where the taxpayer has ticked the box(es) on the return to claim their spouse’s or civil partner’s surplus allowances / Children’s Tax Credit</p>\n\n<ul>\n  <li>Obtain the amount of allowance(s) due from the taxpayer’s SA Notes, if already notified, or</li>\n  <li>Review the PAYE Service to obtain the amounts due, or</li>\n  <li>Contact the office that deals with HMRC matters of the spouse to obtain the amounts due</li>\n</ul>\n\n<p>2. Make a pencil note on the return of the amounts due</p>\n\n<p>3. Enter the amounts during capture of the return</p>\n\n<h2 id=\"IDA4A3MG\">Chargeable event gains calculations</h2>\n\n<p>4. Use the information given by the taxpayer in the Additional Information box on the return to calculate the amount you need to enter, (Chargeable event gains divided by the number of years)</p>\n\n<p>5. Make a pencil note on the return of the amount to be entered</p>\n\n<p>6. Enter the amount during capture of the return</p>\n\n<h2 id=\"IDAUC3MG\">Tax credit relief claimed on the Foreign income and gains supplementary pages</h2>\n\n<p>7. Calculate the Tax Credit relief due</p>\n\n<p>8. Make a pencil note on the return of the amount to be entered</p>\n\n<p>9. Enter the amount during capture of the return</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-11T11:38:25+01:00",
+ "section_id": "SAM121201",
+ "title": "Returns: individuals returns: return entries to be calculated (Action Guide)"
+}

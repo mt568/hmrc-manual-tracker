@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam20010",
+ "body": "<p>A discovery assessment made under Section 29 TMA 1970 will normally be made when we have evidence there’s been a loss of tax for years where no SA enquiry window exists.</p>\n\n<p>HMRC powers will make a discovery assessment either</p>\n\n<ul>\n  <li>After the closure of an enquiry window</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>After an enquiry into that year’s SA return has been closed</li>\n</ul>\n\n<p>Subject to the conditions in S29 TMA 1970, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/enquiry-manual/em3251\">EM3251</a>+, you may make a discovery assessment for a tax year to recover a loss of tax where</p>\n\n<ul>\n  <li>There are profits which ought to have been assessed but haven’t been assessed</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>An assessment (including a self-assessment) has become insufficient</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>Any relief that has been given has become excessive</li>\n</ul>\n\n<p>You may not make a discovery assessment if</p>\n\n<ul>\n  <li>The return was made in accordance with the practice prevailing at that time, even if HMRC subsequently changes its practice in relation to a particular item and a resulting loss of tax arises</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>The enquiry window has closed or the enquiry has been completed, the information enabling the discovery was made available before that event and the behaviour behind the insufficiency was a mistake despite taking reasonable care</li>\n</ul>\n\n<p>Detailed guidance concerning the discovery provisions can be found in the Enquiry Manual (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/enquiry-manual/em3201\">EM3201</a> onwards).</p>\n\n<p>Discovery assessments are subject to appeal and postponement application. Guidance on handling appeals and postponements can be found at <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam10000\">SAM10000</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam11000\">SAM11000</a> respectively.</p>\n\n<p>Where you are making a discovery assessment following a discovery compliance check and the case is not linked to an open enquiry into a later return, you should create a record on Caseflow.</p>\n\n<p>Notes:</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>SA payments on account may need increasing following the issue of a discovery assessment</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>The relevant due date for Section 101FA2009 and Schedule 53 (Section 86, TMA1970 up to 30 October 2011) interest will be the statutory dates for the year of assessment</td>\n    </tr>\n  </tbody>\n</table>\n\n<p> </p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam20000",
+   "section_id": "SAM20000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2020-11-03T08:29:55+00:00",
+ "section_id": "SAM20010",
+ "title": "Assessments: stand-alone assessments: discovery assessment"
+}

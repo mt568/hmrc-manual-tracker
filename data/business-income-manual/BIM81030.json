@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim81030",
+ "body": "<h2 id=\"s211-s213-income-trading-and-other-income-act-2005-ittoia-2005\">S211-S213 Income (Trading and Other Income) Act 2005 (ITTOIA 2005)</h2>\n\n<p>Where a business adopts an annual accounting day (for example the same Saturday each year or, in the case of a school, to the last day of term) accounts will be made up to slightly varying dates each year.</p>\n\n<p>To prevent this being treated as a change of accounting date each year the trader may elect, if certain conditions are met, for a ‘middle date’ to be the accounting date for the tax year.</p>\n\n<p>The conditions are that:</p>\n\n<ul>\n  <li>The day to which the accounts are drawn up is only capable of falling on one of 7 consecutive dates (8 if that day is in February);</li>\n  <li>The ‘middle date’ is the fourth of those dates;</li>\n  <li>The election must specify the day to which the accounts are drawn up and the middle date;</li>\n  <li>The election must be made on or before the first anniversary of the normal self assessment filing date for the tax year to which it relates.</li>\n</ul>\n\n<h2 id=\"other-variations-in-accounting-dates\">Other variations in accounting dates</h2>\n\n<p>If accounts are prepared to varying dates and the conditions set out above are not met, there will be a change of accounting date each year. But the change of accounting date rules only need to be considered each time if the taxpayer makes a notification of a change of accounting date in their SA return for the tax year concerned, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81045\">BIM81045</a>. Otherwise the basis period will remain the period of 12 months ending with the old accounting date (S216 ITTOIA 2005).</p>\n\n<p>Guidance on determining basis periods where there is a change of accounting date is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81035\">BIM81035</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81000",
+   "section_id": "BIM81000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:41:16+01:00",
+ "section_id": "BIM81030",
+ "title": "Computation of liability: basis periods - accounts made up to slightly varying dates"
+}

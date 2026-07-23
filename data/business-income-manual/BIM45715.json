@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45715",
+ "body": "<p>This chapter applies for Income Tax purposes to the computation of trade profits and property income. References in the text to a ‘business’ should therefore be taken to include both trades and property businesses. The chapter does not apply for Corporation Tax purposes, where there are separate rules in the loan relationships legislation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm11000\" rel=\"nofollow\">CFM11000</a>).</p>\n<p>S34 Income Tax (Trading and Other Income) Act 2005</p>\n<p>In many cases depreciation is charged in the profit and loss account and this reduces the net amount of profit credited to the capital account. A business which provides for depreciation lowers the amounts the proprietor can draw from the capital account without that account going into deficit compared to a business in otherwise identical circumstances who does not provide for depreciation. You need to adjust for accumulated depreciation in calculating a revised balance on the account. This was supported in <strong>Silk v Fletcher</strong> [2000] SpC 201, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45725\">BIM45725</a>.</p>\n<p>You will also have to consider the impact of losses on the capital account. If the capital account has become overdrawn because the business has made losses then it is not appropriate to restrict the interest deduction in the accounts, on the basis that the borrowings are providing working capital. If, however, the capital account then becomes further overdrawn because the proprietor takes out drawings, then it is appropriate to restrict the interest deduction.</p>\n<h2>Example</h2>\n<p><span>Mr A sets up a new shop called `British Weather’ selling rainwear. He\nintroduces £50,000 capital.&nbsp;</span></p>\n<p><span>After a good initial period of trading, his trade is disrupted by\ncontinual road works in the area followed by an area regeneration project. As a\nresult of this the business makes trading losses totalling £30,000 in the first\ntwo years. He has also taken total drawings of £20,000 in the first two years.\nBy the end of year 2 the capital account balance is nil (capital introduced\n£50,000 less losses £30,000 less drawings £20,000).</span></p>\n<p><span>He sees\nsigns of improvement to the business and is able to obtain funding of £30,000 from the bank</span><span>.</span></p>\n<p><span>The business\nmakes a loss of £5000 in year three and despite there being a nil/negative\nbalance on his capital account during the period Mr A also takes out drawings\nof £10,000 during that year.&nbsp;</span></p>\n<p><span>The capital account is overdrawn\nby £15,000 by the end of the year 3.</span></p>\n<p><span>The interest payable (in year 3) on the additional loan of\n£30,000&nbsp;&nbsp;is £3,000.</span></p>\n<p><span>The restriction of\nthe&nbsp;deduction for interest is based on the drawings of £10,000 and not on\nthe total amount of the overdrawn capital account.&nbsp;</span></p>\n<p><span>The restriction would be&nbsp;£1,000 (£3000 x\n£10,000/30,000).</span></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45650",
+   "section_id": "BIM45650"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-07-01T01:00:00+01:00",
+ "section_id": "BIM45715",
+ "title": "Specific deductions - interest: Overdrawn capital account - adjustments for depreciation and losses"
+}

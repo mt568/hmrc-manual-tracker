@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121510",
+ "body": "\n<p>In permanent cessation cases liability for the year of cessation will usually be established upon submission of the return at the end of the year. However, a request may be received during the year of cessation to settle the taxpayer’s liability.  </p>\n\n<p>The issue of a part year return during the year of cessation is restricted to those cases where early settlement is requested. A Short Tax Return (SA200) should not be issued in such cases.  </p>\n\n<p>A part year return is identified by the amendment of the dates on the front of the return to show the relevant period.  </p>\n\n<p>If the return is received within the year of cessation it is not possible to use function CAPTURE RETURN to enter the information and subsequently calculate the liability. Where instructions are given by the nominated Inspector on receipt of the return to proceed with calculating the liability to date of cessation, the calculation must be done manually and the final liability entered on the taxpayer’s record using function CREATE RETURN CHARGE.  </p>\n\n<p>In all other cases a return for the year of cessation can be processed after the end of the year of cessation using function CAPTURE RETURN.  </p>\n\n<p>Further information on permanent cessations can be found in section ‘Permanent Cessation’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam90000\">SAM90000 </a>onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:21+00:00",
+ "section_id": "SAM121510",
+ "title": "Returns: individuals returns: permanent cessation cases"
+}

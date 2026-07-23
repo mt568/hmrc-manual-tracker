@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam131100",
+ "body": "<p>Note: Where the issue of taxpayer statements has been inhibited the selection process described below runs as normal and creates a statement. The statement however is not issued. When you view an inhibited statement the words ‘Statement Inhibited’ appear above the scrolling area showing the transactions.</p>\n\n<p>Where the taxpayer is not RLS the monthly statement issue cycle retrieves details of any previous statement issued. This information is used to establish the period covered by any new statement.</p>\n\n<p>From 6 April 2012, the ‘line’ capacity on statements was increased making it possible to automatically issue statements with more than 200 lines, and reducing the number of cases appearing on the W041 Manual statement issue work list (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam71132\">SAM71132</a>) for that reason.</p>\n\n<p>The selection process determines whether it is necessary to issue a statement by examining</p>\n\n<ul>\n  <li>All financial transactions (credits and debits) posted on the SA taxpayer record in the new statement period</li>\n  <li>Any unsettled charges and unallocated credits, and</li>\n  <li>Any charges becoming due</li>\n</ul>\n\n<p>A statement is always issued where certain qualifying financial transaction(s) (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam131026\">SAM131026</a>) have taken place during the statement period. Where no such transactions have taken place a statement is issued if</p>\n\n<ul>\n  <li>The balance due on the SA account is equal to or more than the statement lower limit</li>\n  <li>A liability becomes due within 45 days</li>\n  <li>The relevant due date of a paid or unpaid charge is amended</li>\n</ul>\n\n<p>Note: If you need to stop the issue of a statement to the taxpayer, for example where you receive a complaint or in a deceased case, refer to your Statement Control Officer for instructions. For more information see subject ‘Inhibition of Statements’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam131030\">SAM131030</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam131000",
+   "section_id": "SAM131000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:23+00:00",
+ "section_id": "SAM131100",
+ "title": "Statements: statement issue: statement issue: selection process"
+}

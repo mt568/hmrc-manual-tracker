@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71086",
+ "body": "<p>Event</p>\n\n<p>A work item is created when a remission is created or cancelled on the SA record. This includes remission cancellations created automatically when a charge amendment, reducing the charge, is posted to a record. The reason for creation will be shown as one of the following</p>\n\n<ul>\n  <li>Cancelled - Manually</li>\n  <li>Cancelled - Automatic</li>\n  <li>Created</li>\n</ul>\n\n<p>Specific details</p>\n\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n\n<ul>\n  <li>Posting date</li>\n  <li>Remission or remission cancellation amount</li>\n  <li>Remission class</li>\n  <li>Reason for creation</li>\n</ul>\n\n<p>Allocation of responsibility</p>\n\n<p>The work item is allocated to the Recovery Office for the taxpayer. Within that office, the item will be worked by an officer with the user role of Work List Manager.</p>\n\n<p>Frequency of review</p>\n\n<p>This list should be reviewed as advised by Regional Executive Office.</p>\n\n<p>Updating of details</p>\n\n<p>Until the work item is cleared, the following details held on the work item are updated by Work Management immediately the corresponding entry is updated on the taxpayer record</p>\n\n<ul>\n  <li>Taxpayer name</li>\n  <li>NINO</li>\n  <li>Employers reference (EMPREF) or Schedule D register number</li>\n</ul>\n\n<p>Action to take on the work item</p>\n\n<p>Advice on the action to take to clear the work item is available in the Debt Management &amp; Banking Manual (DMBM).</p>\n\n<p>Deletion of the work item</p>\n\n<p>The work item is not deleted automatically. It should be deleted manually using function WORK LIST CASES or function SELECTED CASE, on completion of the necessary clerical action.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:08+00:00",
+ "section_id": "SAM71086",
+ "title": "Manage work: work management: W012 remissions and remission cancellation quality assurance"
+}

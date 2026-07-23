@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33040",
+ "body": "<p>Where the trade consists of hiring out equipment then the equipment forms part of the capital assets of the trade.  It is not stock.  The equipment will usually qualify for capital allowances, for example:</p>\n<ul><li class=\"filledcircle\">small tools,</li><li class=\"filledcircle\">games machines in pubs,</li><li class=\"filledcircle\">vending machines,</li><li class=\"filledcircle\">returnable containers.</li></ul>\n<p>Difficulties may arise when the business both sells and hires out the same goods.  For instance in the plant hire and scaffolding industry it is quite common for equipment to be either sold at a profit or compensation is received for loss of the equipment in a sum exceeding the original cost.</p>\n<p>There are three possibilities.</p>\n<ol type=\"1\" start=\"1\"><li>The hiring activity is the sole trade, and so when hired assets are disposed of this is the disposal of fixed assets.  The purchase and sale of the assets is dealt with through capital allowance and capital gains computations.</li><li>The company has two separate trades, one of hiring and one of dealing in the same assets.  Ex-hire assets are sometimes sold.  They should be treated as appropriated to trading stock when hiring ceases.  The profit on sale is included in the dealing trade.</li><li>The company has one trade of turning the assets to profit, whether by hiring them or selling them.  All profits in these assets, however made, are within one trading income computation.  <strong>Gloucester Railway Carriage and Wagon Company Ltd v CIR</strong> [1925] 12 TC 720 was a case in which it was held that there was one business which incorporated both the hiring of the assets and selling the assets, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33030\">BIM33030</a>.  In that case all of the rolling goods were treated as stock.  This principle was confirmed in the later case, <strong>North Central Wagon and Finance Co. Ltd v Fifield</strong> [1953] 34 TC 59.  An asset can be on trading account if there is a fixed intention to deal with it as trading stock even though it is let in the meantime.</li></ol>\n<p>It depends on the facts of the particular case whether it is all one trade or two separate trades and whether the goods are stock or should be treated as fixed capital assets of the business.  Some factors to consider are detailed at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33045\">BIM33045</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33005",
+   "section_id": "BIM33005"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:11+01:00",
+ "section_id": "BIM33040",
+ "title": "Stock: meaning of: trade includes hiring assets"
+}

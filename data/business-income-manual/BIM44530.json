@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44530",
+ "body": "<p>S38 Income Tax (Trading and Other Income) Act 2005, S1290 Corporation Tax Act 2009</p>\n\n<p>Employers may contribute to a trust or similar fund out of which employees’ medical expenses are met. As a result of increasing reluctance of some insurance companies to write healthcare insurance, larger employers in particular may look to arrange equivalent benefits through the use of healthcare trusts.</p>\n\n<p>An employer’s contribution to a trust to provide healthcare benefits to its employees is an allowable deduction in computing the taxable profits of the employer’s trade.</p>\n\n<h2 id=\"timing-of-deduction\">Timing of deduction</h2>\n\n<p>For employers’ contributions made to healthcare trusts the timing of the deduction may be deferred until a later period by the employee benefit contribution anti-avoidance legislation. This broadly aligns the timing and amount of the employer’s deduction with the timing and amount on which the employee is chargeable to Income Tax and on which NICs liability arises. Additional rules apply to employee benefit contributions made or to be made on or after 1 April 2017 (CT) or 6 April 2017 (IT). These rules may prevent a deduction being allowable at any time, even when qualifying benefits are provided. This is explained more fully at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44571\">BIM44571</a> and in the example at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44611\">BIM44611</a></p>\n\n<p>Guidance on the employee benefit contribution anti-avoidance legislation is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44575\">BIM44575</a>.</p>\n\n<h2 id=\"timing-of-income-tax-and-class-1a-nics-liability-on-healthcare-benefits\">Timing of Income Tax and Class 1A NICs liability on healthcare benefits</h2>\n\n<p>Guidance on when, and on what amount, the employee is chargeable to Income Tax, and employers’ Class 1A NICs liability arises, on benefits from healthcare trusts is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21772\">EIM21772</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim02235\">NIM02235</a>.</p>\n\n<p>If the trust is simply the vehicle through which the employer meets employees’ medical expenses, the employee is taxable when the medical expenses are incurred, on the cost of the medical treatment received less anything the employee makes good. Class 1A NICs liability arises for the employer in the same way.</p>\n\n<p>In some cases Income Tax and NICs liability may arise earlier when the employer makes its contribution to the healthcare trust, not at the later date(s) on which the employees have their medical expenses paid for them. These are cases in which the benefit to the employee is not the medical treatment itself, but is a right (similar to insurance cover) to have whatever medical costs arise paid for them. The conditions which must be satisfied for such a right to exist are explained in <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21772\">EIM21772</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim02235\">NIM02235</a>.</p>\n\n<p>Where these conditions are satisfied the employee is chargeable to Income Tax, and Class 1A NICs liability arises for the employer, on the amount of the employer’s contribution to the trust in respect of the employee concerned.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM44530",
+ "title": "Specific deductions - employee benefit trusts: used with healthcare trusts"
+}

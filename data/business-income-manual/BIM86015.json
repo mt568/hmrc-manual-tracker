@@ -1,0 +1,49 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86015",
+ "body": "<p>An individual qualifies for partial relief for a tax year if the individual has relevant income (trading and miscellaneous income) for the tax year which exceeds the trading allowance, and an election by the individual for partial relief has been made for the tax year. This election will be made by the individual completing a Self Assessment return.</p>\n<p>If your allowable business expenses exceed your taxable business income then you will usually make a loss for tax purposes. You can carry forward your loss, or the unused part of the loss, and any unused losses from earlier years to use against profits of the trade in later years. Using the trading allowance in a tax year does not affect your ability to <span class=\"uToSpan\">use</span> losses carried forward from an earlier year.</p>\n<p>If you are claiming partial relief you follow the alternative calculation to arrive at your taxable profits. After you have calculated your taxable profits in that way, you can use your losses carried forward from an earlier year to reduce the amount of tax you have to pay by applying the usual rules covered at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85060\" rel=\"nofollow\">BIM85060</a>.</p>\n<p>If you are claiming full relief in a tax year, any losses carried forward from an earlier year will simply be carried forward for use against profits of the trade in a later year.</p>\n<p>More details on losses can be found at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85000\" rel=\"nofollow\">BIM85000</a>.</p>\n<p>Individuals have discretion about how they allocate the allowance between their different trades, this is illustrated by the example in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86082\" rel=\"nofollow\">BIM86082</a>.</p>\n<p>We assume that an election has been made in all the step by step guides that follow in this section.</p>\n<p><br /></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86016",
+     "description": "",
+     "section_id": "BIM86016",
+     "title": "Partial Relief: Single Trade"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86017",
+     "description": "",
+     "section_id": "BIM86017",
+     "title": "Partial Relief: Miscellaneous Income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86018",
+     "description": "",
+     "section_id": "BIM86018",
+     "title": "Partial Relief: Multiple Trades"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86019",
+     "description": "",
+     "section_id": "BIM86019",
+     "title": "Multiple Trades and Miscellaneous Income "
+    }
+   ],
+   "title": "Partial Relief Computation Methods"
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-12-14T02:00:25+00:00",
+ "section_id": "BIM86015",
+ "title": "TMIA - Computation: Partial Relief"
+}

@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60665",
+ "body": "<p>The commencement and transitional rules are in Section 81 of FA 2016 for corporation tax and Section 82 of FA 2016 for income tax.</p>\n\n<p>Where the commencement and transitional rules apply, if a property is disposed of under a contract, the date for disposal should be treated as the date the contract was made and not the date of the property transfer. This includes conditional contracts.</p>\n\n<p>The commencement and transitional provisions contain Targeted Anti-Avoidance Rules which prevent avoidance between the date the legislation was announced (16 March 2016) and the date the legislation was introduced (5th July 2016).</p>\n\n<p>The anti-forestalling provisions apply where a person disposes of a relevant asset to an associated person between 16th March 2016 and 5th July 2016 and the company obtains a relevant tax advantage as a result of the disposal.</p>\n\n<p>For the rules to apply the persons must be associated at the relevant time. The relevant time is the time period which begins when the activities of the project begin and ends 6 months after the disposal.</p>\n\n<p>For example, Company A makes a contract on 1 April 2016 to dispose of development property to a related party, Company B, with a view to crystallising the profit inherent in the development project before the new rules come into force. Company A will be charged on this disposal to its related party, under the transitional rules. When the property is ultimately disposed of to a third party on or after 5 July 2016, there is another disposal, and Company B will be charged under Section 5(2A) on any additional profit.</p>\n\n<p>For corporation tax purposes a relevant tax advantage is a tax advantage in relation to the tax which would have been chargeable as a result of Section 5(2A) CTA 2009, which also includes profits charged as a result of Part 8ZB CTA 2010.</p>\n\n<p>For income tax purposes a relevant tax advantage is a tax advantage in relation to the tax which would have been chargeable as a result of Section 6(1A) ITTOIA 2005, which also includes profits charged as a result of Part 9A ITA 2007.</p>\n\n<p>Where there is a tax advantage the advantage should be counteracted by means of adjustments. The adjustments can be made by way of an assessment, the modification of an assessment or disallowance of a claim or otherwise.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60510",
+   "section_id": "BIM60510"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2017-07-12T22:51:16+01:00",
+ "section_id": "bim60665",
+ "title": "Commencement and transitional provisions: Overview "
+}

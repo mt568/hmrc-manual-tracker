@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42051",
+ "body": "<p>As discussed at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim30510\">BIM30510</a>, the approach to computing trade profits is a two-stage process as follows:</p>\n\n<blockquote>\n  <p>(1) Ascertain the profits of the trade for the period concerned, computed in accordance with generally accepted accounting practice.</p>\n</blockquote>\n\n<blockquote>\n  <p>(2) Adjust those profits in accordance with any tax rules or principles which differ from the accountancy principles.</p>\n</blockquote>\n\n<p>The courts have interpreted the trade profits legislation to mean that if an item is a proper deduction according to the ordinary rules of accountancy it should be allowed unless it is expressly prohibited by legislation. In other words the courts have felt able to treat the concept of ‘profits’ as containing within itself the need to make such deductions as accounting practice would require. See Usher’s Wiltshire Brewery Ltd v Bruce [1914] 6TC399 at page 429, Atherton v British Insulated and Helsby Cables Ltd [1925] 10TC155 at page 191, and Morley v Lawford [1928] 14TC229 at page 239.</p>\n\n<p>There are also statutory rules which restrict or allow deductions - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42060\">BIM42060</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42070\">BIM42070</a> respectively. The relationship between rules which restrict deductions and those which allow deductions is considered at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42080\">BIM42080</a>. There are also a number of deductions rules which apply only to particular types of trade. These are described in the section of the guidance dealing with particular trades at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim50000\">BIM50000</a> onwards.</p>\n\n<p>The statutory rules do not attempt to provide an exhaustive list of allowable deductions. In essence, if there are no relevant tax rules or principles which affect a particular case, accountancy principles will determine whether and when a deduction is allowed.</p>\n\n<p>Further guidance on specific deductions is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42500\">BIM42500</a> onwards. For the time at which deductions are allowed, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42200\">BIM42200</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42050",
+   "section_id": "BIM42050"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:32+01:00",
+ "section_id": "BIM42051",
+ "title": "Deductions: general: basic principles"
+}

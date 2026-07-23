@@ -1,0 +1,52 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim51530",
+ "body": "<p>Rights to receive ground rents, perpetual chief rents etc, created by a trader should be dealt with, in the computation of profits and losses, in accordance with <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim51535\">BIM51535</a> onwards following the cases of CIR v John Emery &amp; Sons [1936] 20TC213, and B G Utting &amp; Co Ltd v Hughes [1940] 23TC174.</p>\n\n<p>The guidance on ground rents is arranged as follows.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim51500",
+   "section_id": "BIM51500"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim51510",
+   "section_id": "BIM51510"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51535",
+     "description": "",
+     "section_id": "BIM51535",
+     "title": "Trading stock"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51540",
+     "description": "",
+     "section_id": "BIM51540",
+     "title": "Reversionary interest"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51545",
+     "description": "",
+     "section_id": "BIM51545",
+     "title": "Improved"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim51550",
+     "description": "",
+     "section_id": "BIM51550",
+     "title": "Reports to BAI Business Profits"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:43+01:00",
+ "section_id": "BIM51530",
+ "title": "Builders, property dealers & developers: income recognition: ground rents"
+}

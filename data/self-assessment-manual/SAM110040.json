@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110040",
+ "body": "<p>Cancelling a repayment on the SA record does not necessarily stop the repayment from being issued. Before cancelling a repayment on the record you must first confirm at what stage the repayment is at within the repayment process.<br /><br />Where the status of the repayment is shown as 'Draft', 'Selected' or 'Authorised', the repayment can be cancelled because it has not yet been transmitted to the SA Repayment System (Repayment Clump) for issue.<br /><br />Where the status of a repayment is shown as 'Transmitted' or 'Issued', you must not cancel the repayment on the SA record because at this stage it is too late to recall the repayment.<br /><br /><strong>Payable Orders</strong><br /><br />Where a repayment has been made by payable order and the status of the repayment is shown as 'Issued', follow guidance at <span>Cancelling a Payable Order/Repayment.</span><br /><br />If the payable order has been cashed, you <strong>must not </strong>cancel the repayment on the SA record. Any over-repayment <strong>must </strong>be recovered from the taxpayer by amending the return or by using the DRIER procedures, whichever is appropriate.<br /><br /><strong>Cancelling the repayment</strong><br /><br />Only certain user roles have access to the relevant function to cancel a repayment depending on the status of the repayment and these are as follows</p>\n<table summary=\"Table showing the user roles that have access to the relevant function to cancel a repayment depending on the status of the repayment\" width=\"100%\"><thead><tr><th scope=\"col\" width=\"200\"><p><strong>Repayment Status</strong></p></th><th scope=\"col\" width=\"355\"><p><strong>User Role</strong></p></th></tr></thead><tbody><tr><td width=\"200\">Draft'</td><td width=\"355\">Clerical Processing Officer (CLPO) /&nbsp;Call Centre Advisor-Global (CCAG) /&nbsp;Call Centre Advisor-Global (CCTG) /&nbsp;Call Centre Adviser (CCAD) /&nbsp;Call Centre Adviser (CCTE) /&nbsp;Clerical Processing Manager (CLPM) /&nbsp;Enquiry Officer-Processing (ENOF) /&nbsp;Enquiry Officer-Technical (ENOT) /&nbsp;Payment Processor (PPLO) /&nbsp;Repayment Authoriser (RALO)</td></tr><tr><td width=\"200\">Selected'</td><td width=\"355\">Clerical Processing Manager (CLPM) /&nbsp;Repayment Authoriser (RALO)</td></tr><tr><td width=\"200\">Authorised'</td><td width=\"355\">Repayment Authoriser (RALO)</td></tr><tr><td width=\"200\">Issued'</td><td width=\"355\">Repayment Authoriser (RALO) /&nbsp;BACS Rejection Processor (FAO BARP)</td></tr></tbody></table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-06-13T11:40:58+01:00",
+ "section_id": "SAM110040",
+ "title": "Repayments: issue repayment: cancellation of a repayment"
+}

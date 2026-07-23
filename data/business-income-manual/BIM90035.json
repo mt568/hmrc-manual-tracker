@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim90035",
+ "body": "<p>S248 Income Tax (Trading and Other Income) Act 2005, S192 Corporation Tax Act 2009</p>\n\n<h2 id=\"recoveries-of-trade-debts-previously-thought-to-be-bad-or-doubtful-are-treated-as-post-cessation-receipts-to-the-extent-of-the-trading-deduction-previously-allowed\">Recoveries of trade debts previously thought to be bad or doubtful are treated as post-cessation receipts to the extent of the trading deduction previously allowed</h2>\n\n<p>In continuing trades, debts are usually treated as trading income under generally accepted accountancy practice (GAAP) on the basis that there is a right to the future economic benefits (the payment of the invoice) as a result of past transactions or events (the work performed). See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31050\">BIM31050</a>.</p>\n\n<p>However, where the debt is judged to be a bad or doubtful debt, a deduction can be made from trading profits. If this debt is then collected, it is treated as trading income in the period in which it is received. For more information, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42700\">BIM42700</a> onwards.</p>\n\n<p>Where the trade has ceased, any recovery of such a bad or doubtful debt is taxable as a post-cessation receipt in the hands of the person who received it (to the extent of the amount that was originally deducted from the trading profits).</p>\n\n<p>This is also the case if the debt is considered to be proved bad after cessation and relieved under the post-cessation trade relief rules discussed in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90100\">BIM90100</a>. Any amount of this debt later recovered is a post-cessation receipt in the year in which it arises.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim90000",
+   "section_id": "BIM90000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:29+01:00",
+ "section_id": "BIM90035",
+ "title": "Post-cessation receipts and expenses: meaning of post-cessation receipts: debts paid after cessation"
+}

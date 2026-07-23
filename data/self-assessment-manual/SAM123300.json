@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123300",
+ "body": "<p>This guidance applies for tax years 2009-10 and earlier. Further guidance applies for the tax years 2010-11 and later under subject ‘Dormant records, <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101090\">SAM101090</a>onwards.</p>\n\n<p>Where a return is issued in error the return must be logged and a nil charge entered on the SA record. A return may have been issued in error where the trust was wound up before the beginning of the return year or where there are two SA records held for one trust.</p>\n\n<p>Where there are two live SA records held for one trust or Pension Scheme on the computer, two tax returns will be issued annually unless one of the records is made dormant.</p>\n\n<p>For information on the advice to give to taxpayers and the logging of the two returns see subject ‘Return issued to trust in error’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam123080\">SAM123080</a>).</p>\n\n<p>Where two returns have been issued, after the returns have been logged, the information from the completed return can be entered in Technical Support System (TSS) as normal. The liability is then entered on the record using function CREATE RETURN CHARGE.</p>\n\n<p>For the uncompleted return it is necessary to use function CREATE RETURN CHARGE to enter a nil liability on the record held in error before you make that SA record dormant. If a nil liability is not recorded an entry will be made on the RETURNS NOT CAPTURED Work List.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:48+00:00",
+ "section_id": "SAM123300",
+ "title": "Returns: trust returns: return charge to be created for return issue in error"
+}

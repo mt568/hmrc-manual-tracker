@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60333",
+ "body": "<p>S760, S764 Income Tax Act 2007, S822, 826 Corporation Tax Act 2010</p>\n\n<p>In order to determine the amount charged to Income Tax or Corporation Tax under the transactions in land provisions, the amount of the ‘gain’ must be ascertained.</p>\n\n<p>The gain must be calculated on a ‘just and reasonable’ basis (i.e. all proceeds, expenses and valuations should be apportioned in this way).</p>\n\n<p>This just and reasonable method must:</p>\n\n<ul>\n  <li>take into account the value of what is obtained for disposing of the land, and</li>\n  <li>allow only such expenses as are properly attributable to the land which is subject to the disposal.</li>\n</ul>\n\n<p>In order to achieve this, trading income principles are applied. Advice on the computational aspects of a case can be sought from CTISA (Technical).</p>\n\n<p>For details of the period in which the income is charged, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60335\">BIM60335</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+   "section_id": "BIM60300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:12+01:00",
+ "section_id": "BIM60333",
+ "title": "Transactions in land: Computation"
+}

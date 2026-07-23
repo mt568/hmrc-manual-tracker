@@ -1,0 +1,56 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim52500",
+ "body": "<p>S169-S172ZE Income Tax (Trading and Other Income) Act 2005, S146-S149E Corporation Tax Act 2009</p>\n\n<h2 id=\"introduction-and-layout-of-guidance\">Introduction and layout of guidance</h2>\n\n<p>The guidance that follows describes a statutory provision that gives relief for what would otherwise be (disallowable) capital expenditure.</p>\n\n<p>The above legislation applies to traders whose trade comprises or includes:</p>\n\n<ul>\n  <li>the carrying on of a cemetery, or</li>\n  <li>the carrying on of a crematorium and, in connection with doing so, the maintenance of memorial garden plots.</li>\n</ul>\n\n<p>The broad aim of the legislation is to allow a deduction for the land consumed during the period by the sale of burial plots as a proportion of the total land available for grave spaces. The guidance also describes how to compute income and expenses in practice.</p>\n\n<p>This guidance does not apply to businesses using the cash basis (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70000\">BIM70000</a> onwards).</p>\n\n<p>This chapter covers:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52501",
+     "description": "",
+     "section_id": "BIM52501",
+     "title": "Cemeteries and crematoria: tax treatment of capital receipts and expenditure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52505",
+     "description": "",
+     "section_id": "BIM52505",
+     "title": "Cemeteries and crematoria: lump sums/graves maintenance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52510",
+     "description": "",
+     "section_id": "BIM52510",
+     "title": "Cemeteries and crematoria: lump sums/graves maintenance: computing profit"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52520",
+     "description": "",
+     "section_id": "BIM52520",
+     "title": "Cemeteries and crematoria: sale of niches"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52525",
+     "description": "",
+     "section_id": "BIM52525",
+     "title": "Cemeteries and crematoria: memorials and inscriptions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52530",
+     "description": "",
+     "section_id": "BIM52530",
+     "title": "Cemeteries and crematoria: costs of the building"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:33+01:00",
+ "section_id": "BIM52500",
+ "title": "Cemeteries and crematoria: contents"
+}

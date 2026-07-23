@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim70095",
+ "body": "<h2 id=\"taxing-and-spreading-of-adjustment-income\">Taxing and spreading of adjustment income</h2>\n\n<p>For the calculation of adjustment income see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34130\">BIM34130</a></p>\n\n<p>The adjustment income computed in accordance with S231 ITTOIA 2005 is treated as arising on the last day - S232 ITTOIA 2005.</p>\n\n<p>This charge can be spread over ten tax years -S238 ITTOIA 2005.</p>\n\n<p>For 1999-2000 to 2008-09 inclusive - FA98/SCH6/PARA4 (3), (4) and (5) applies.</p>\n\n<p>In each of the nine years of assessment beginning with the year in which the amount is deemed to arise, a proportion of the adjustment is treated as arising and chargeable to tax - S238(2) ITTOIA 2005. In the tenth year the balance of the catching up charge is treated as arising and chargeable to tax -S238(4) ITTOIA 2005.</p>\n\n<h2 id=\"the-amount-assessable-is-limited-to-10-of-taxable-profits\">The amount assessable is limited to 10% of taxable profits</h2>\n\n<p>For each of the first nine tax years in the spreading period the proportion to be taxed in each year is</p>\n\n<ul>\n  <li>one tenth of the adjustment income, or</li>\n  <li>10% of the taxable profits of the profession (ignoring capital allowances) for that tax year</li>\n</ul>\n\n<p>whichever is the lower - S238(2) ITTOIA 2005.</p>\n\n<p>For the tenth year the remaining balance of the adjustment income is taxed - S238(4) ITTOIA 2005.</p>\n\n<p>If, before the whole of the catch up charge has been charged to tax, the profession is permanently ceased the adjustment income continues to be charged to tax under the arrangements described above with the exception that the abatement of the charge if profits (before capital allowances) fall below 10% of the charge no longer applies - S238(5) ITTOIA 2005.</p>\n\n<p>In the event of the death of a person (who, if they had not died, would have been liable to assessment on the catch up charge) the tax that would have been charged on them is chargeable on their personal representatives and recoverable out of their estate. The personal representatives may make any election under S239 ITTOIA 2005 that the person could have made.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70075",
+   "section_id": "BIM70075"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:38:09+01:00",
+ "section_id": "BIM70095",
+ "title": "Cash basis: alternative basis: barristers: spreading of adjustment income"
+}

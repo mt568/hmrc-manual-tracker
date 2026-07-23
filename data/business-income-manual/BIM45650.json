@@ -1,0 +1,157 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45650",
+ "body": "<p>This chapter applies for Income Tax purposes to the computation of trade profits and property income. References in the text to a ‘business’ should therefore be taken to include both trades and property businesses. The chapter does not apply for Corporation Tax purposes, where there are separate rules in the loan relationships legislation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm11000\">CFM11000</a>).</p>\n<p>The interest on some loans for specific purposes is allowable under specific provisions and must comply with that legislation, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim10000\">SAIM10000</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45665",
+     "description": "",
+     "section_id": "BIM45665",
+     "title": "Must be paid wholly and exclusively for business purposes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45670",
+     "description": "",
+     "section_id": "BIM45670",
+     "title": "Only part of the payment satisfies the wholly and exclusively test"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45675",
+     "description": "",
+     "section_id": "BIM45675",
+     "title": "Separate loan for specific asset or purpose"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45680",
+     "description": "",
+     "section_id": "BIM45680",
+     "title": "Change in use of funds or asset"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45685",
+     "description": "",
+     "section_id": "BIM45685",
+     "title": "Security for the funds"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45690",
+     "description": "",
+     "section_id": "BIM45690",
+     "title": "Funding the business"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45695",
+     "description": "",
+     "section_id": "BIM45695",
+     "title": "General business accounts, mixed use accounts and offset accounts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45700",
+     "description": "",
+     "section_id": "BIM45700",
+     "title": "Withdrawal of capital from a business"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45705",
+     "description": "",
+     "section_id": "BIM45705",
+     "title": "Overdrawn capital account"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45710",
+     "description": "",
+     "section_id": "BIM45710",
+     "title": "Overdrawn capital account - no adjustment for revaluations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45715",
+     "description": "",
+     "section_id": "BIM45715",
+     "title": "Overdrawn capital account - adjustments for depreciation and losses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45720",
+     "description": "",
+     "section_id": "BIM45720",
+     "title": "Overdrawn capital account - herd basis"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45725",
+     "description": "",
+     "section_id": "BIM45725",
+     "title": "Overdrawn capital account - Silk v Fletcher"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45735",
+     "description": "",
+     "section_id": "BIM45735",
+     "title": "Partner's capital: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45740",
+     "description": "",
+     "section_id": "BIM45740",
+     "title": "On unpaid tax"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45755",
+     "description": "",
+     "section_id": "BIM45755",
+     "title": "Properties occupied rent-free"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45760",
+     "description": "",
+     "section_id": "BIM45760",
+     "title": "Interest always a revenue item"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45765",
+     "description": "",
+     "section_id": "BIM45765",
+     "title": "Exclusion of double relief"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45770",
+     "description": "",
+     "section_id": "BIM45770",
+     "title": "To be treated as a trading loss"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45780",
+     "description": "",
+     "section_id": "BIM45780",
+     "title": "Alternative finance arrangements - overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45781",
+     "description": "",
+     "section_id": "BIM45781",
+     "title": "Alternative finance arrangements - tax treatment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45782",
+     "description": "",
+     "section_id": "BIM45782",
+     "title": "Alternative finance arrangements - transfer pricing"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2026-07-01T01:00:00+01:00",
+ "section_id": "BIM45650",
+ "title": "Specific deductions - interest - contents"
+}

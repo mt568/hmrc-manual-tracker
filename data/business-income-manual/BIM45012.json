@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45012",
+ "body": "<p>S45 Income Tax (Trading and Other Income) Act 2005, S1298 Corporation Tax Act 2009</p>\n\n<p>Business entertainment includes hospitality that is provided free of charge to the recipient. It also includes hospitality that is subsidised, or in other words, where any charge made does not cover the cost to the trader of providing the entertainment.</p>\n\n<p>The definition of business entertainment was first considered in the VAT case of Customs and Excise v Shaklee International [1981] STC 776. Shaklee was a sales organisation that used self-employed distributors. It arranged training sessions (lasting two or three days) for these distributors and provided meals and accommodation while the training was taking place. The Court of Appeal held that the meals and accommodation were business entertainment. Note that the later concept of ‘quid pro quo’ (i.e. something of equivalent value given in return, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45014\">BIM45014</a>) was not considered in this case.</p>\n\n<p>Lord Brandon said:</p>\n\n<blockquote>\n  <p>‘… to give people free meals and to give them free accommodation is, to my mind, to entertain them within the ordinary and natural meaning of the word.’</p>\n</blockquote>\n\n<p>This point was emphasised in Celtic Football and Athletic Co Ltd v Customs and Excise [1983] STC 470 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45013\">BIM45013</a>), where Lord Emslie said that it was clear that entertainment means ‘hospitality which is provided free to the recipient’.</p>\n\n<p>The later case of BMW (GB) Ltd v Customs and Excise [1997] STC 824 seems to suggest that hospitality must be completely free to the recipient if it is to be treated as business entertainment. In that case, a car distributor arranged various events, including ‘track days’ to which independent car dealers could invite their customers. The dealers had to make a payment to BMW but this covered less than 30% of the distributor’s costs. Although the court found that this was business entertaining, part of the reason given is that the earlier Shaklee and Celtic decisions point to ‘the conclusion that the vital characteristic of entertainment is that the recipient enjoys it free of charge, whether or not the provider of it obtains recompense from elsewhere.’</p>\n\n<p>However, you should not interpret this case as meaning that expenditure ceases to be business entertainment if it is subsidised rather than completely free. It is important to note the context of the BMW case. Although the trader was partly reimbursed for the expenditure incurred, the hospitality was entirely free to the recipient. The court was not therefore being asked to decide whether subsidised hospitality fell within the definition of business entertainment.</p>\n\n<p>Customs and Excise v Kilroy Television Co Ltd [1997] STC 901 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45014\">BIM45014</a>), which was decided soon after BMW, supports the opposite view. Here it was said that hospitality would not be defined as business entertainment provided that it was given ‘pursuant to a legal obligation in return for which it obtains proper and sufficient quid pro quo [i.e. something of equivalent value given in return]. That quid pro quo may be cash or it may be goods or services.’ The idea of ‘proper and sufficient’ is important here. If hospitality is provided at a subsidised price then the host/guest relationship still exists and the expenditure is not allowable.</p>\n\n<h3 id=\"example\">Example</h3>\n\n<p>A trader incurs expenditure of £1,000 on a social occasion for selected customers. Each customer pays £10 to attend and the trader receives a total of £200.</p>\n\n<p>The net cost of £800 is business hospitality and is not allowed.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45000",
+   "section_id": "BIM45000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:20+01:00",
+ "section_id": "BIM45012",
+ "title": "Specific deductions: entertainment: meaning of business entertainment: hospitality provided free of charge"
+}

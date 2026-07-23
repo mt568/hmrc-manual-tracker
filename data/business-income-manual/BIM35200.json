@@ -1,0 +1,48 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35200",
+ "body": "<p>This chapter covers the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35201",
+     "description": "",
+     "section_id": "BIM35201",
+     "title": "Generally accepted accounting practice"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35205",
+     "description": "",
+     "section_id": "BIM35205",
+     "title": "Accountancy treatment not conclusive"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35210",
+     "description": "",
+     "section_id": "BIM35210",
+     "title": "The weight to place on accountancy evidence"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35215",
+     "description": "",
+     "section_id": "BIM35215",
+     "title": "Accountants see things differently"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:27+01:00",
+ "section_id": "BIM35200",
+ "title": "Capital/revenue divide: the role of accountancy: contents"
+}

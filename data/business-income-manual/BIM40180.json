@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40180",
+ "body": "<h2 id=\"this-is-direct-tax-guidance-for-indirect-tax-guidance-refer-to-vat-guidance\">This is direct tax guidance; for indirect tax guidance, refer to VAT Guidance.</h2>\n\n<p>A VAT group can claim refunds of sum originally paid as VAT where the trading company has ceased trading and been wound up. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40171\">BIM40171</a> for guidance on VAT groups generally.</p>\n\n<p>If the refund is received simply as a sum due to the trader after the trade has ceased, then it is taxable as a post cessation receipt. The charge on post cessation receipts is not restricted to sums received by the trader and also applies to such receipts received by other people, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90000\">BIM90000</a> onwards.</p>\n\n<p>The refund of a sum, that would not have been taxable on the trader, is not taxable under the post cessation receipts legislation. Such sums include refunds of expenditure originally disallowed as a trading expense for direct tax purposes either because it was a capital payment or it was a payment disallowed by statute (for example, overseas entertaining expenditure).</p>\n\n<h2 id=\"example\">Example</h2>\n\n<p>A Ltd, B Ltd and C Ltd were car dealerships in the MNO VAT group.</p>\n\n<p>In 2008, the directors of M Plc decided to rationalise their operations, as a result the trade of A Ltd was hived up into M Plc, whilst B Ltd and C Ltd ceased trading. B Ld and C Ltd were subsequently dissolved.</p>\n\n<p>N Ltd, the current representative member, subsequently made claims for refunds of sums wrongly paid as VAT. In doing so N Ltd was acting on behalf of the MNO VAT group as a whole.</p>\n\n<p>HMRC agreed the claim, and the refund was accounted for by N Ltd, acting as representative member for the MNO VAT group.</p>\n\n<p>The receipt in respect of A Ltd was recognised in the accounts of M Plc as the trade of A Ltd had become part of the trade of M Plc.</p>\n\n<p>The directors of M Plc decide to recognise the refunds in respect of B Ltd and C Ltd, which were wound up, in the accounts of M Plc.</p>\n\n<p>The refund in respect of A Ltd is a receipt from the trade carried on by M Plc and is taxable as a trading receipt.</p>\n\n<p>The refunds in respect of B Ltd and C Ltd are post cessation receipts of those companies’ trades. M Plc is taxable on these refunds under the post cessation receipts legislation. M Plc has received the refunds and is entitled to them as a result of the VAT legislation.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40150",
+   "section_id": "BIM40150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:19+01:00",
+ "section_id": "BIM40180",
+ "title": "Specific receipts: refunds of sums paid as VAT: refund accounted for by someone other than the trader who made the overpayment: post cessation receipts"
+}

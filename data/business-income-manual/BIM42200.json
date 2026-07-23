@@ -1,0 +1,45 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42200",
+ "body": "<p>This chapter considers when an allowable deduction should be deducted in computing trade profits.</p>\n<p>{For the rules regarding timing of deductions for a business using the cash basis, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70030\">BIM70030</a>}.</p>\n<p>It contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42201",
+     "description": "",
+     "section_id": "BIM42201",
+     "title": "Date allowable"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42205",
+     "description": "",
+     "section_id": "BIM42205",
+     "title": "No specific statutory rule: exclude capital items"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42210",
+     "description": "",
+     "section_id": "BIM42210",
+     "title": "No specific statutory rule: revenue expenditure charged to current assets"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42215",
+     "description": "",
+     "section_id": "BIM42215",
+     "title": "Deferred revenue expenditure"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-10-17T11:22:33+01:00",
+ "section_id": "BIM42200",
+ "title": "Deductions: timing: contents"
+}

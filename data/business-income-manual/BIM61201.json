@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim61201",
+ "body": "<p>S681C-S681DP Income Tax Act 2007, S863-S886 Corporation Tax Act 2010</p>\n<p>Anti-avoidance legislation applies to certain arrangements for the leasing of plant and machinery and other assets (other than land or buildings).</p>\n<p>Two types of arrangements are targeted by the legislation and these are summarised below.</p>\n<h2>Capital sums</h2>\n<p>The legislation applies where:</p>\n<ul><li class=\"filledcircle\">a tax deduction is available in respect of a payment made under a lease of any asset other than land or buildings, and</li><li class=\"filledcircle\">the payer receives or has received at any time a capital sum (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61215\">BIM61215</a>) in respect of the lessee’s interest in the lease.</li></ul>\n<p>The amount on which relief has been obtained (or, if less, the capital sum) is subject to a stand-alone charge to Income Tax or Corporation Tax.</p>\n<p>The legislation does not apply if the leased trading assets legislation below applies to the amount on which relief has been obtained.</p>\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61205\">BIM61205</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61235\">BIM61235</a>.</p>\n<h2>Leased trading assets</h2>\n<p>The legislation applies where:</p>\n<ul><li class=\"filledcircle\">an asset (other than land or buildings) is sold and leased back,</li><li class=\"filledcircle\">a deduction is allowed for payments under the lease in computing the profits of a trade, and</li><li class=\"filledcircle\">before the sale and leaseback, the asset was used in that trade or in another trade carried on by the lessee and the asset was owned by the persons carrying on the trade in which it was then used.</li></ul>\n<p>The allowable deduction for payments under the lease is limited to the ‘commercial rent’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61245\">BIM61245</a>).</p>\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61240\">BIM61240</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61250\">BIM61250</a>.</p>\n<h2>What to look for</h2>\n<p>Consider the anti-avoidance legislation when examining leasing arrangements where the agreements involve any of the following:&nbsp;</p>\n<ul><li class=\"filledcircle\">a high rental is payable in the first few years and a low rental thereafter; or</li><li class=\"filledcircle\">the commercial rent has been inflated by sales at overvalue followed by a leaseback; or</li><li class=\"filledcircle\">the lessee receives a capital sum in respect of the lease.</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim61200",
+   "section_id": "BIM61200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-07-16T01:00:00+01:00",
+ "section_id": "BIM61201",
+ "title": "Leasing: avoidance: assets other than land: overview"
+}

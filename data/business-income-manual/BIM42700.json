@@ -1,0 +1,85 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42700",
+ "body": "<p>Different provisions apply to bad debts for Income Tax and Corporation Tax purposes. This chapter begins with an overview of the rules and then mostly deals with the Income Tax rules. </p>\n<p>This chapter does not apply to businesses using the cash basis (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70000\">BIM70000</a> onwards).</p>\n<p>It contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42701",
+     "description": "",
+     "section_id": "BIM42701",
+     "title": "Overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42705",
+     "description": "",
+     "section_id": "BIM42705",
+     "title": "Accountancy practice"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42710",
+     "description": "",
+     "section_id": "BIM42710",
+     "title": "Waivers and slow payers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42715",
+     "description": "",
+     "section_id": "BIM42715",
+     "title": "Evidence required"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42720",
+     "description": "",
+     "section_id": "BIM42720",
+     "title": "Advances on loan"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42730",
+     "description": "",
+     "section_id": "BIM42730",
+     "title": "Recovered after allowance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42735",
+     "description": "",
+     "section_id": "BIM42735",
+     "title": "Assets accepted"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42740",
+     "description": "",
+     "section_id": "BIM42740",
+     "title": "Debts released"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42745",
+     "description": "",
+     "section_id": "BIM42745",
+     "title": "Business ceased"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42750",
+     "description": "",
+     "section_id": "BIM42750",
+     "title": "Currency restrictions"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:32+01:00",
+ "section_id": "BIM42700",
+ "title": "Specific deductions: bad & doubtful debts: contents"
+}

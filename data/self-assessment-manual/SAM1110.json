@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1110",
+ "body": "<p>When a valid claim is processed payments on account (PoA) are always entered in two equal instalments.</p>\n\n<p>Notes:</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>PoA are not required if the amounts calculated from the previous year’s liability total less than £1000. However, PoA that total less than £1000 after a claim to adjust has been processed, are payable.</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Payments on account must be reduced equally even where the reason for the claim is that CIS deductions have been deducted at source. The first payment on account cannot be reduced by more than the second to reflect CIS deductions already made.</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1000",
+   "section_id": "SAM1000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:35+00:00",
+ "section_id": "SAM1110",
+ "title": "Amend payment: claim to adjust payments on account: rules for adjusting payments on account"
+}

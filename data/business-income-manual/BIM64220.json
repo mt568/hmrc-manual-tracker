@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64220",
+ "body": "<p>Under a PFI agreement, a private sector operator grants a 25 year lease, on a fully equipped hospital, to a public sector purchaser (an NHS Trust) and also agrees to provide non-clinical support services for the period of the lease. In return the operator will receive an annual service payment, the unitary charge.</p>\n\n<p>As part of the commercial arrangement, the purchaser provides land with a current market value of £10 million, as a contribution towards the construction costs of the hospital, and the documentation makes this clear.</p>\n\n<p>For tax purposes the hospital is a fixed capital asset of a property business and the provision of the non-clinical support services is a trade. For accounting purposes the example assumes that the PFI property, i.e. the hospital, is shown as a finance debtor on the operator’s balance sheet under FRS5 Application Note F at the cost of construction, £100m.</p>\n\n<p>If the land contributed is not to be used in the project, and assuming it is not acquired as trading stock, it is reported under FRS5 as a separate fixed asset on the operator’s balance sheet at its fair value of £10m, with the credit being taken to the finance debtor.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>-</th>\n      <th>Amount</th>\n      <th>-</th>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Dr</td>\n      <td>Fixed asset</td>\n      <td>£10m</td>\n      <td>Cr</td>\n      <td>Finance debtor</td>\n      <td>£10m</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>For tax purposes the credit is a capital receipt and no adjustment is required in the tax computation, since the receipt is not reflected in the profit and loss account.</p>\n\n<p>If the land is to be used as part of the PFI project the accounting entries will not be reflected on the balance sheet, since the credit and debit to the finance debtor cancel each other out. No adjustments are required in the tax computation since neither the capital receipt, nor the capital costs against which it is set off, are reflected in the profit and loss account.</p>\n\n<p>If the agreement specifies the type of construction costs to be met by the contribution, this is followed when deciding whether any reduction in expenditure qualifying for capital allowances is required (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64185\">BIM64185</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64375\">BIM64375</a>).</p>\n\n<p>The value of the land is deducted from the construction costs to arrive at the base cost of the hospital for the purposes of tax on chargeable capital gains (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64200\">BIM64200</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64170",
+   "section_id": "BIM64170"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-20T11:01:54+00:00",
+ "section_id": "BIM64220",
+ "title": "Private Finance Initiative (PFI): contribution of land: example 4"
+}

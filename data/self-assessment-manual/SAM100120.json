@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100120",
+ "body": "<p>All non-resident company landlords cases are set up by Specialist PT.</p>\n\n<p>The SA computer system (CESA) recognises a non-resident company landlord (NRCL) from a Non-resident Company Landlord signal. There should be no occasion for cases other than those set up in Specialist PT to have this signal set.</p>\n\n<p>Care should be taken when setting the NRCL signal. Only cases with Specialist PT should have this signal set.</p>\n\n<p>For cases set up on SA before the annual return issue starts in February, SA700 tax returns are issued automatically. For cases set up after that date, if form SA700 is required for that year, the form SA700 must be issued manually to the customer. Do not use Function RECORD RETURN REQUEST to issue the form because a form SA100 will be issued in error.</p>\n\n<p>Specialist PT will not enter a National Insurance Number (NINO) on a non-resident company landlord record. If a NINO is entered for a case which has the NRCL signal there will be problems within frameworks which cannot be resolved easily.</p>\n\n<p>If the case has a NINO, it is unlikely that the NRCL signal is needed. Care should be taken when setting this signal.</p>\n\n<p>If, at a later date, the income as a non-resident company landlord ceases and the taxpayer needs to be brought into Self Assessment for any other reason, the existing NRCL record should be made dormant and a new individual taxpayer record created.</p>\n\n<p>Note: Do not remove the Non-resident Company Landlord signal from the dormant record.</p>\n\n<p>Function MAINTAIN SA NOTES should be used to record the UTR of the NRCL record and the National Insurance number should be entered on the new record.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+   "section_id": "SAM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:23+00:00",
+ "section_id": "SAM100120",
+ "title": "Records: set up taxpayer record: non resident company landlord"
+}

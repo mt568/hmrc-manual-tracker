@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110143",
+ "body": "<p>When you want to make a repayment of a payment made in error, follow steps 1 - 11 below. The guide is presented as follows</p>\n\n<p><a href=\"#IDANVQHB\">Preliminary enquiry</a> - Step 1<br />\n<a href=\"#IDADWQHB\">Operator action to transfer to OAS</a> - Steps 2 - 8<br />\n<a href=\"#IDA22QHB\">Action by authorising officer</a> - Steps 9 - 11</p>\n\n<p>For details of how to access any of the SA functions use the Navigation icon in the ‘Index of Functions’ available from the menu bar.</p>\n\n<h2 id=\"IDANVQHB\">Preliminary enquiry</h2>\n\n<p>1. Where an amount is to be transferred to OAS for repayment and the PCA Signal is set, consult the Recovery Office to confirm the repayment can go ahead</p>\n\n<h2 id=\"IDADWQHB\">Operator action to transfer to OAS</h2>\n\n<p>2. Consider all the facts of the case</p>\n\n<ul>\n  <li>There should be clear evidence that the taxpayer made the payment by mistake, and</li>\n  <li>The taxpayer is fully aware of the consequences of repayment (such as late payment interest)</li>\n</ul>\n\n<p>3. Use function VIEW STATEMENT to establish when the payment was processed (posting date). If this falls within the last 14 days the payment is an Uncleared payment. B/F the papers until the 14 day period has elapsed and review the request again</p>\n\n<p>4. If the payment is not available for transfer to OAS for repayment (for example, the cheque relating to the payment has been returned by the bank) advise the taxpayer why a repayment cannot be made</p>\n\n<p>5. Where the repayment can be processed, use function TRANSFER FROM TAXPAYER CREDIT</p>\n\n<p>Note: Take great care before using this function because it may trigger a reallocation and cause interest and / or repayment supplement to be calculated</p>\n\n<p>6. To confirm the amount of the transfer and the OAS reference of the transferred amount take a screen print of</p>\n\n<ul>\n  <li>Screen PEN005C of function VIEW PAYMENT DETAILS after you have used function TRANSFER FROM TAXPAYER CREDIT</li>\n</ul>\n\n<p>7. Attach the screen print to SA331 OAS Allocation Form (to be completed and printed from SEES) to provide disposal instructions and include</p>\n\n<ul>\n  <li>The repayment recipient’s name and address</li>\n  <li>Taxpayer’s authority where there is a request to repay to a third party</li>\n</ul>\n\n<p>8. Pass the papers to your authorising officer</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-04T11:20:24+01:00",
+ "section_id": "SAM110143",
+ "title": "Repayments: issue repayment: repayment of a payment made in error (Action Guide)"
+}

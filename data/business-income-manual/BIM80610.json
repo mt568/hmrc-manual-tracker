@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim80610",
+ "body": "<p>S17 Income Tax (Trading and Other Income) Act 2005</p>\n<p>This section applies where an individual not in partnership:</p>\n<ul><li class=\"filledcircle\">is carrying on a trade wholly or partly outside the UK,</li><li class=\"filledcircle\">and there is a change of residence.</li></ul>\n<p>Tax is charged as though, at the time of the change of residence, the individual:</p>\n<ul><li class=\"filledcircle\">permanently ceased to carry on the trade,</li><li class=\"filledcircle\">and (so far as&nbsp;the business is, in fact, continued by the individual) started to carry on a new trade immediately afterwards.</li></ul>\n<p class=\"filledcircle\">The&nbsp;change of residence normally occurs&nbsp;at the start of the tax year when the individual becomes or&nbsp;ceases to be UK resident.&nbsp; But when the&nbsp;split year treatment applies to determine the individual’s residence status, the business is&nbsp;treated as ceasing and recommencing on the actual date of arrival or departure.&nbsp;&nbsp;</p>\n<p>Despite the cessation and recommencement treatment, any losses incurred before the change can be carried forward under S83 Income Tax Act 2007 and set against profits of the same business. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85060\">BIM85060</a>.</p>\n<p>This rule does not apply to individuals carrying on a trade in partnership, but there are instead special provisions on how non-resident partners are taxed on their share of partnership profits (ITH1664).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80500",
+   "section_id": "BIM80500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-11-21T09:53:59+00:00",
+ "section_id": "BIM80610",
+ "title": "Computing the amount to assess: business changes: changes in scale, nature or location of trade - changes in residence status"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61231",
+ "body": "<p>The SA system will automatically issue daily penalties where applicable, see subject ‘Late filing daily penalties for 2010-2011 onwards’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam61230\">SAM61230</a>). However, it will not automatically amend a daily penalty charge once it has been created, for example, where a tax return has been logged and the logging date is amended. For further information see subject ‘Effects of amending a return received late’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam61370\">SAM61370</a>).</p>\n<p>There are a small number of situations where a daily penalty charge may need to be reduced clerically, including as a result of an appeal.</p>\n<h2>Example 1</h2>\n<p>Where a paper return is received during the 90 day penalty accruing period but is not logged as received until after the daily penalty charge has been created for the full 90 days.</p>\n<p>Paper return due date 31 October 2011.</p>\n<p>Paper return received 15 April 2012 but not logged until May 2012.</p>\n<p>Daily penalty charge was raised for the full £900 however the charge should be £750 (75 days x £10).</p>\n<h2>Example 2</h2>\n<p>Where a daily penalty charge has been created but the customer has a reasonable excuse for the late filing of their return that applied for 10 days so the daily penalty charge needs to be reduced by £100.</p>\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</p>\n<p><span>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</span>&nbsp;An amended penalty notice is not issued following the reduction of the daily penalty but the daily penalty charge will be reduced on the statement. Each reduction will be identified separately. If a daily penalty is reduced too much in error, a miscellaneous penalty will need to be created&nbsp;</p>\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</p>\n<p>It is possible to raise a daily penalty for a partnership or just one partner in a partnership. When reducing a daily penalty for a partnership as a whole, the reduction will be updated on each partner’s statement overnight. However, if reducing a daily penalty for just one partner, the partner’s statement will be updated immediately.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61000",
+   "section_id": "SAM61000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-02-13T00:00:00+00:00",
+ "section_id": "SAM61231",
+ "title": "Interest, penalties and surcharge: penalties: reducing daily penalties"
+}

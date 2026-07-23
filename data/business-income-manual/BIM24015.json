@@ -1,0 +1,67 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24015",
+ "body": "<p>Mutual trading is an important concept. This is because a mutual trader is not liable to pay tax on trading profits that arise from their mutual trade. The reverse of the coin is that they do not get relief for trading losses arising from and capital allowances on assets provided for their mutual trade.</p>\n<p>There is no statutory definition of mutual trading. The term is used in the Taxes Acts, for example S1070 Corporation Tax Act 2010 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24550\">BIM24550</a>) and S104 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S101 Corporation Tax Act 2009 (CTA 2009) (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24600\">BIM24600</a>), but is not specifically defined. Rowlatt J. gave the classic definition of mutual trading in <strong>Municipal Mutual Insurance Ltd v Hills</strong> [1932] 16 TC 430 - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24025\">BIM24025</a>.</p>\n<p>When considering the taxation position of an entity that claims that the whole or part of its profits is exempt from tax on the basis that it carries on a mutual trade the following considerations apply.</p>\n<ul><li class=\"filledcircle\">Firstly you need to establish that the entity is indeed a mutual association. An example of a mutual association is a village cricket club. A number of individuals come together and provide funds to further their enjoyment of cricket, and perhaps compete in a local league. The members of the cricket club put up funds and associate together to achieve a common aim. The mutual association will have a set of rules or constitution (not necessarily written) that governs the relationship between the members and the association. (Detailed guidance is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24020\">BIM24020</a> onwards).</li><li class=\"filledcircle\">Secondly, you need to establish whether the entity is carrying on a trade. The mutual association does not have to carry on a trade but where it does so the question of mutual trading may arise. (Detailed guidance is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24045\">BIM24045</a>).</li><li class=\"filledcircle\">Thirdly you need to establish whether the entity is trading with non-members. A mutual trader may as part of their trade have dealings with non-members. The profits arising from trading with non-members do not escape tax on the basis of mutual trading. Where such dealings amount to a trade, any profits arising are taxable in the normal way. The issue is then one of apportioning income and expenditure between the mutual and non-mutual sides of the trade. (Detailed guidance is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24450\">BIM24450</a> onwards).</li><li class=\"filledcircle\">Finally, you need to establish whether the entity has any other income or gains. Mutual trading is purely a trading income concept. A mutual association does not enjoy a general exemption from tax. The exemption does not, for example, extend to property income. There is specific statutory confirmation of this at S260 CTA 2009 for Corporation Tax and S321 ITTOIA 2005 for Income Tax. So a mutual trader’s profit from carrying on a property business is taxable in the normal way.</li></ul>\n<p>A mutual trader is also liable to tax on any chargeable gains that arise.</p>\n<p>The guidance that follows covers:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24020",
+     "description": "",
+     "section_id": "BIM24020",
+     "title": "Introduction: characteristics"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24025",
+     "description": "",
+     "section_id": "BIM24025",
+     "title": "Introduction: origins of the concept"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24027",
+     "description": "",
+     "section_id": "BIM24027",
+     "title": "Introduction: early attempt at taxing surplus"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24030",
+     "description": "",
+     "section_id": "BIM24030",
+     "title": "Introduction: founding principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24035",
+     "description": "",
+     "section_id": "BIM24035",
+     "title": "Introduction: two early mutual insurance cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24040",
+     "description": "",
+     "section_id": "BIM24040",
+     "title": "Introduction: further early mutual insurance cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24045",
+     "description": "",
+     "section_id": "BIM24045",
+     "title": "Introduction: essential that the activity is a trade"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:27+01:00",
+ "section_id": "BIM24015",
+ "title": "Meaning of trade: mutual trading and members clubs: introduction: basic considerations: contents"
+}

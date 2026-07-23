@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130070",
+ "body": "<p>Where produced, the table below shows what amounts are printed on the payslip in 6 different circumstances. This information should be read in conjunction with the rules for selecting statements for issue - see section ‘Statement Issue’.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>SA RECORD AMOUNT</th>\n      <th>SA RECORD AMOUNT</th>\n      <th>PAYSLIP</th>\n      <th>PAYSLIP</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Due now</td>\n      <td>becoming due</td>\n      <td>‘Amount due’ box shows</td>\n      <td>codeline shows</td>\n    </tr>\n    <tr>\n      <td>£5.00</td>\n      <td>NIL</td>\n      <td>Blank</td>\n      <td>5000</td>\n    </tr>\n    <tr>\n      <td>£5.00</td>\n      <td>£900.00</td>\n      <td>£905.00</td>\n      <td>905000</td>\n    </tr>\n    <tr>\n      <td>NIL</td>\n      <td>£1100.00</td>\n      <td>£1100.00</td>\n      <td>1100000</td>\n    </tr>\n    <tr>\n      <td>minus £100.00</td>\n      <td>£750.00</td>\n      <td>£650.00</td>\n      <td>650000</td>\n    </tr>\n    <tr>\n      <td>£32.00</td>\n      <td>£1000.00</td>\n      <td>£1032.00</td>\n      <td>1032000</td>\n    </tr>\n    <tr>\n      <td>£800.00</td>\n      <td>£5.00</td>\n      <td>£805.00</td>\n      <td>805000</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Notes:</p>\n\n<ol>\n  <li>An amount becoming due is only considered for inclusion on a statement and payslip if it falls due within, normally, 45 days of the statement date. The 45 day period however can be varied. For instance in June and December the period is extended to as many as 72 days. Any unused credits on the account at the statement date are shown as allocated against charges becoming due. This helps present a clearer picture to the taxpayer of the amount due for 31 July and 31 January</li>\n  <li>If an amount is payable, it is printed in the ‘Amount due’ box, except where</li>\n</ol>\n\n<blockquote>\n  <ul>\n    <li>The sum of the amount due now and an amount becoming due are less than the statement de minimis limit</li>\n  </ul>\n</blockquote>\n\n<ol>\n  <li>The codeline always shows the amount due now plus the amount becoming due (but see note 5)</li>\n  <li>The codeline amount is printed without the ‘£’ sign or pounds / pence break and with an extra trailing numeral to meet ARP requirements</li>\n  <li>On payslips attached to statements produced before April 2004 the amount due will be left blank and the codeline will show all zeros if the SA account, including amounts becoming due, was Nil or in credit</li>\n</ol>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130000",
+   "section_id": "SAM130000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-03T13:23:33+01:00",
+ "section_id": "SAM130070",
+ "title": "Statements: statement content and layout: amount printed  on the payslip"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108001",
+ "body": "<p>There are four places on the taxpayer’s SA record where information can be recorded</p>\n\n<ul>\n  <li>Function AMEND TAXPAYER SIGNALS in the Free Format Notes field</li>\n  <li>Function SET B/F DATE in the BF Notes field</li>\n  <li>Function MAINTAIN SA NOTES in the SA Notes field</li>\n  <li>Function MAINTAIN PERMANENT NOTES in the Permanent Notes field</li>\n</ul>\n\n<p>Use function MAINTAIN SA NOTES to record events or actions taken in the course of working a case, as well as general information. Record any information that will help decide how best to work a case.</p>\n\n<p>Function MAINTAIN PERMANENT NOTES must only be used to record specific information. For the exact details of what can be recorded, see subject ‘Maintain Permanent Notes’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam108010\">SAM108010</a>).</p>\n\n<p>Notes which can be used for local filter and sort purposes, when working work items on the DARM Work List, for example, next action to take, should be recorded on the work list in function SET B/F DATE.</p>\n\n<p>The provisions of the Data Protection Act 1998 (DPA) apply to SA taxpayer records in the same way as they apply to taxpayer records held on other HMRC computer systems.</p>\n\n<p>Do not enter an SA Note which would cause offence or that you would not want the taxpayer to see. </p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108000",
+   "section_id": "SAM108000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:18+00:00",
+ "section_id": "SAM108001",
+ "title": "Records: SA and permanent notes: introduction"
+}

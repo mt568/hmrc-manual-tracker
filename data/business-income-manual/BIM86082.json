@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86082",
+ "body": "<p>Cemre, who has employment income from her full time job, also rents out an allotment in the village and sells various seeds for £100 a month. Cemre also teaches the flute once a week during the school year for a local youth group, earning £20 per lesson. Cemre incurs expenses of £500 in relation to her allotment and £100 in relation to her flute lessons.</p>\n\n<p>In relation to the trade of selling produce from her allotment Cemre has losses carried forward from earlier tax years of £800, from years when her crops failed.</p>\n\n<p>Cemre’s total relevant income is £2,000 (£100 x 12 months = £1,200 plus £20 x 40 weeks = £800) which exceeds the trading allowance of £1,000 so she does not qualify for full relief. Cemre’s expenses are less than £1,000 so she can benefit from making an election for partial relief meaning she can deduct a total of £1,000 from her relevant trades – this will then prevent her from deducting any allowable expenses.</p>\n\n<p>Cemre has four options as follows:</p>\n\n<ul>\n  <li>Not to elect for partial relief to apply and to calculate her profits under normal rules</li>\n  <li>To elect for partial relief to apply firstly against her produce trade and then flute teaching trade</li>\n  <li>To elect for partial relief to apply firstly against her flute teaching trade and then produce trade</li>\n  <li>To elect for partial relief to apply and set against her produce and flute teaching trades in other combinations (not considered below)</li>\n</ul>\n\n<p>The three calculations set out below illustrate why it is beneficial to elect for partial relief, and how best to use the partial relief between both of Cemre’s trades:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>£’s</th>\n      <th>No Election</th>\n      <th>Partial Relief against Produce Trade First</th>\n      <th>Partial Relief against Flute Teaching Trade First</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Seed Selling</td>\n      <td>-</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Losses b/f</td>\n      <td>(800)</td>\n      <td>(800)</td>\n      <td>(800)</td>\n    </tr>\n    <tr>\n      <td>Gross Income</td>\n      <td>1,200</td>\n      <td>1,200</td>\n      <td>1,200</td>\n    </tr>\n    <tr>\n      <td>Allowable Expenses</td>\n      <td>(500)</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Trading Allowance</td>\n      <td>-</td>\n      <td>(1000)</td>\n      <td>(200)</td>\n    </tr>\n    <tr>\n      <td>Profit</td>\n      <td>700</td>\n      <td>200</td>\n      <td>1,000</td>\n    </tr>\n    <tr>\n      <td>Loss Relief</td>\n      <td>(700)</td>\n      <td>(200)</td>\n      <td>(800)</td>\n    </tr>\n    <tr>\n      <td>Taxable Profit</td>\n      <td>Nil</td>\n      <td>Nil</td>\n      <td>200</td>\n    </tr>\n    <tr>\n      <td>Losses c/f</td>\n      <td>(100)</td>\n      <td>(600)</td>\n      <td>Nil</td>\n    </tr>\n    <tr>\n      <td>Flute Lessons</td>\n      <td>-</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Gross Income</td>\n      <td>800</td>\n      <td>800</td>\n      <td>800</td>\n    </tr>\n    <tr>\n      <td>Allowable Expenses</td>\n      <td>(100)</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Trading Allowance</td>\n      <td>-</td>\n      <td>Nil</td>\n      <td>(800)</td>\n    </tr>\n    <tr>\n      <td>Taxable Profit</td>\n      <td>700</td>\n      <td>800</td>\n      <td>Nil</td>\n    </tr>\n    <tr>\n      <td>Total Profit:</td>\n      <td>700</td>\n      <td>800</td>\n      <td>200</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>In this case Cemre chooses to deduct as much of the trading allowance as possible against her flute teaching trade – i.e. £800 – reducing the profit from that trade to nil, she then uses the remaining £200 of the trading allowance against her produce selling trade. This means that she is more able to utilise her losses and further reduce her taxable profits for the tax year.</p>\n\n<p>Cemre must do this by completing a self-assessment tax return for the tax year.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86070",
+   "section_id": "BIM86070"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-24T11:35:21+00:00",
+ "section_id": "BIM86082",
+ "title": "TMIA – Example: Individuals choose how to allocate the trading allowance "
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101140",
+ "body": "<p>Up to July 2015, the Inhibit Auto Closure signal (known as the ACI signal) was used to prevent the individual record being automatically removed from SA where SA criteria was no longer met and may also have been set where a compliance review was in progress. In July 2015, the ACI signal was removed from all relevant records to remove customers being kept in SA unnecessarily.</p>\n\n<p>From April 2017 the ACI signal will be set when Compliance have issued a return and they wish to prevent it from being withdrawn. They will also make an SA to confirm the return year(s) that they are issuing and the reason for issue. The signal will remain set until it is removed by Compliance once the returns have been received.</p>\n\n<p>Where the customer wishes to continue filing returns, even though they are no longer required to do so, they may do so voluntarily using their online account if they wish, but, as there is no longer an obligation on them to do so they will not be subject to the penalty regime. Those customers without an online account should not be encouraged to submit unsolicited paper returns.</p>\n\n<p>Note: Deceased cases identified at July 15 as having an ACI signal set will not be impacted by this change.</p>\n\n<p>If you come across cases in your day to day work where the ACI signal has been set and there is no evidence in SA Notes, or elsewhere on the record, to indicate why the signal is set, the signal should be removed and an SA Note made to say ‘ACI signal unset as review found no apparent reason for it to be set’.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+   "section_id": "SAM101000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2017-06-01T13:29:47+01:00",
+ "section_id": "SAM101140",
+ "title": "Records: maintain taxpayer record: inhibit auto closure signal"
+}

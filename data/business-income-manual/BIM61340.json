@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim61340",
+ "body": "<p>S681B-S681BM Income Tax Act 2007, S849-S862 Corporation Tax Act 2010</p>\n\n<p>There are provisions in the above legislation which deal with situations where there is a leaseback following assignment or surrender of a lease. This covers cases where a leaseback of 15 years or less is disguised as a lease for a longer period. In such cases the length of the leaseback is taken to be the period for which the extra rent is payable.</p>\n\n<p>For example:</p>\n\n<ul>\n  <li>if a lease has 16 years to run,</li>\n  <li>an assignment and leaseback for 16 years less one day,</li>\n  <li>at an increased rent for the first 8 years, and</li>\n  <li>thereafter at the lower rent which was payable under the original lease,</li>\n</ul>\n\n<blockquote>\n  <p>would fall within the scope of this legislation.</p>\n</blockquote>\n\n<p>Other provisions extend the scope of this legislation to include:</p>\n\n<ul>\n  <li>variations in the terms of a lease in return for consideration, and</li>\n  <li>to deal with cases where one person receives the lump sum and the extra rent is payable by an associated person (for example, where a partner or an associated service company receives the consideration and the partnership pays the increased rent).</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim61300",
+   "section_id": "BIM61300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:23+01:00",
+ "section_id": "BIM61340",
+ "title": "Leasing: avoidance: sale and leaseback of land: special arrangements"
+}

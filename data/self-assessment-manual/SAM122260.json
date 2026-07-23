@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122260",
+ "body": "\n<p>When you capture the return information available you are prompted by the computer to save that information. When all the return information has been captured the information is passed from Local Data Capture (LDC) to the main computer to enable processing of the return information (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam122225\">SAM122225</a>) to take place.  </p>\n\n<p>The captured return information is stored and is available for viewing in function VIEW RETURN.  </p>\n\n<p>It may not be possible to capture a return in full, for example where you need to refer to your manager for advice. In these cases you can save a partially captured return. The information will be stored for a short period on LDC before it is automatically deleted. The LDC RETURNS TO BE DELETED paper report gives a minimum 7 day warning before the automatic deletion takes place.  </p>\n\n<p>Whilst a return is partially captured you will be able to access function CAPTURE RETURN to view, repair, amend or add to the details entered originally.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:36+00:00",
+ "section_id": "SAM122260",
+ "title": "Returns: partnership returns: saving partnership return  details"
+}

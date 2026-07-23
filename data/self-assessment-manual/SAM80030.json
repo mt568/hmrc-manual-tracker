@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80030",
+ "body": "<p>DM Banking process a variety of payments through the automated payment systems in Cumbernauld and Shipley. These fall mainly into one of four groups</p>\n\n<ul>\n  <li>Cheque payments, also known as bank lodgement payments</li>\n  <li>Clerical Giro and Direct Credit payments</li>\n  <li>Bank Giro on Tape and BACS payments</li>\n  <li>Direct Debit payments</li>\n</ul>\n\n<p>More information on the processing of payments in the Accounts office is available in the Debt Management &amp; Banking Manual DMBM210700.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80000",
+   "section_id": "SAM80000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:34+00:00",
+ "section_id": "SAM80030",
+ "title": "Payments: payments overview: process payments in DMB Banking"
+}

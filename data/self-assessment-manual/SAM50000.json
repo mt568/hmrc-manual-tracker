@@ -1,0 +1,63 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50001",
+     "description": "",
+     "section_id": "SAM50001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50010",
+     "description": "",
+     "section_id": "SAM50010",
+     "title": "PCA signal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50020",
+     "description": "",
+     "section_id": "SAM50020",
+     "title": "Work lists"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50030",
+     "description": "",
+     "section_id": "SAM50030",
+     "title": "Revenue determinations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50040",
+     "description": "",
+     "section_id": "SAM50040",
+     "title": "Remission"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50050",
+     "description": "",
+     "section_id": "SAM50050",
+     "title": "Enforcement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50060",
+     "description": "",
+     "section_id": "SAM50060",
+     "title": "Insolvency"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50070",
+     "description": "",
+     "section_id": "SAM50070",
+     "title": "Transfers to EIS"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:39+00:00",
+ "section_id": "SAM50000",
+ "title": "Debt and return pursuit: overview: contents"
+}

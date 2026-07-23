@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86007",
+ "body": "<h4><strong>Relevant Income</strong></h4>\n<p>Relevant income is defined by S783AC ITTOIA05. It is the total of the receipts that would otherwise be brought into account in calculating trading income chargeable to income tax under Chapter 2 Part 2 ITTOIA05, and the total miscellaneous income for the tax year calculated under Chapter 8 Part 5 ITTOIA05, before any expenses are deducted from either source.</p>\n<p>The method of calculation depends on whether the individual has elected to use the cash basis or not. If there is no election to use the cash basis then, the individual would calculate their relevant income in accordance with Generally Accepted Accounting Practice (GAAP) (more information on GAAP, tax and accountancy can be found at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31005\" rel=\"nofollow\">BIM31005</a>).</p>\n<p>Relevant income will include the value of goods and services taken by the individual for their own use. More information regarding this can be found in the Business Income Manual at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33630\" rel=\"nofollow\">BIM33630</a>.</p>\n<p>Relevant income will also include balancing charges arising from capital allowances claims.</p>\n<p>More information regarding measuring receipts can be found in HMRC’s Business Income Manual at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40050\" rel=\"nofollow\">BIM40050</a>.</p>\n<p><br /></p>\n<h4>Miscellaneous Income</h4>\n<p>Miscellaneous income is all the income arising to the individual in the tax year, before any expenses are taken off, which would be chargeable to income&nbsp;tax under Chapter 8 Part 5 ITTOA05 and is described as “any other profits”.</p>\n<p>Miscellaneous income does not include income on which the individual qualifies for rent-a-room relief and has rent-a-room receipts for the tax year.</p>\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim100000\" rel=\"nofollow\">BIM100000</a> for more information relating to Miscellaneous Income.</p>\n<h4>Method of calculation: Cash Basis v GAAP when claiming full relief</h4>\n<p>For the purposes of full relief, an individual can measure their receipts using the cash basis, without them having to&nbsp;complete a self-assessment return to make an election under S25A ITTOIA05. This is provided&nbsp; the individual is eligible to use the cash basis (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70010\" rel=\"nofollow\">BIM70010</a>) in the tax year and in the previous year, if the trade was carried on in both tax years.</p>\n<p>The individual will be deemed to have made an election for the tax year and if when completing a self-assessment return in a subsequent tax year they choose not to make an election, then an adjustment may be required as a result of leaving the cash basis (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70055\" rel=\"nofollow\">BIM70055</a>). Again this deeming only applies where the individual is using full relief.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T02:00:25+00:00",
+ "section_id": "BIM86007",
+ "title": "TMIA - Definitions: Relevant Income from Relevant Trades and Miscellaneous Income"
+}

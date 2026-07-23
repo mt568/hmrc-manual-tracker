@@ -1,0 +1,40 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24600",
+ "body": "<h2 id=\"introduction-and-layout-of-guidance\">Introduction and layout of guidance</h2>\n\n<p>The following guidance covers:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24550",
+   "section_id": "BIM24550"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24605",
+     "description": "",
+     "section_id": "BIM24605",
+     "title": "Distributions on winding-up: taxable on first principles or statute"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24615",
+     "description": "",
+     "section_id": "BIM24615",
+     "title": "Distributions on winding-up: statute: what is taxed?"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:43+01:00",
+ "section_id": "BIM24600",
+ "title": "Meaning of trade: mutual trading and members clubs: distributions: on winding-up"
+}

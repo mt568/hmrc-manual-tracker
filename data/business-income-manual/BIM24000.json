@@ -1,0 +1,674 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+ "body": "<p>Mutual trading is an important concept because a mutual trader is not liable to tax on any profits arising from their mutual trade. This is as a result of the principle that ‘a person cannot trade with themselves’. This section of the guidance discusses the essential requirements for a trade to be mutual and the case law from which those requirements are derived. The section also discusses a number of matters under the broad heading of mutual trading that are not mutual trading as such but which frequently involve a mutual association, including the treatment of members’ clubs and certain co-operatives and associations.</p>\n\n<p>A full list of the contents of the guidance on mutual trading is shown below. The guidance is subdivided into sections, the opening page of each section being in bold in the list below. Please click on the page number alongside to go direct to each section.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24001",
+     "description": "",
+     "section_id": "BIM24001",
+     "title": "Overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24005",
+     "description": "",
+     "section_id": "BIM24005",
+     "title": "Layout of guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24010",
+     "description": "",
+     "section_id": "BIM24010",
+     "title": "Income derived solely from members’ contributions and subscriptions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24015",
+     "description": "",
+     "section_id": "BIM24015",
+     "title": "Introduction: basic considerations: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24020",
+     "description": "",
+     "section_id": "BIM24020",
+     "title": "Introduction: characteristics"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24025",
+     "description": "",
+     "section_id": "BIM24025",
+     "title": "Introduction: origins of the concept"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24027",
+     "description": "",
+     "section_id": "BIM24027",
+     "title": "Introduction: early attempt at taxing surplus"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24030",
+     "description": "",
+     "section_id": "BIM24030",
+     "title": "Introduction: founding principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24035",
+     "description": "",
+     "section_id": "BIM24035",
+     "title": "Introduction: two early mutual insurance cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24040",
+     "description": "",
+     "section_id": "BIM24040",
+     "title": "Introduction: further early mutual insurance cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24045",
+     "description": "",
+     "section_id": "BIM24045",
+     "title": "Introduction: essential that the activity is a trade"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24100",
+     "description": "",
+     "section_id": "BIM24100",
+     "title": "Essential requirements: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24105",
+     "description": "",
+     "section_id": "BIM24105",
+     "title": "Essential requirements: contributors to and participators in a surplus must be identical"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24110",
+     "description": "",
+     "section_id": "BIM24110",
+     "title": "Essential requirements: surplus must go back to contributors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24115",
+     "description": "",
+     "section_id": "BIM24115",
+     "title": "Essential requirements: return of surplus contributions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24120",
+     "description": "",
+     "section_id": "BIM24120",
+     "title": "Essential requirements: members must control the common fund"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24150",
+     "description": "",
+     "section_id": "BIM24150",
+     "title": "Non-mutual insurance trading activities: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24155",
+     "description": "",
+     "section_id": "BIM24155",
+     "title": "Non-mutual insurance trading activities: corporation water works"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24160",
+     "description": "",
+     "section_id": "BIM24160",
+     "title": "Non-mutual insurance trading activities: corn trading association"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24200",
+     "description": "",
+     "section_id": "BIM24200",
+     "title": "Members’ clubs: layout of guidance: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24205",
+     "description": "",
+     "section_id": "BIM24205",
+     "title": "Members' clubs: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24210",
+     "description": "",
+     "section_id": "BIM24210",
+     "title": "Members’ clubs: distinction between proprietary and members’ clubs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24215",
+     "description": "",
+     "section_id": "BIM24215",
+     "title": "Members' clubs: Tax Bulletin article"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24220",
+     "description": "",
+     "section_id": "BIM24220",
+     "title": "Members' clubs: classes of club membership"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24225",
+     "description": "",
+     "section_id": "BIM24225",
+     "title": "Members’ clubs: temporary membership"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24230",
+     "description": "",
+     "section_id": "BIM24230",
+     "title": "Members’ clubs: Tax Bulletin article on temporary membership"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24235",
+     "description": "",
+     "section_id": "BIM24235",
+     "title": "Members’ clubs: voting rights"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24240",
+     "description": "",
+     "section_id": "BIM24240",
+     "title": "Members' clubs: different forms of club"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24245",
+     "description": "",
+     "section_id": "BIM24245",
+     "title": "Members' clubs: incorporated as industrial & provident societies"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24250",
+     "description": "",
+     "section_id": "BIM24250",
+     "title": "Members' clubs: incorporated as limited company"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24255",
+     "description": "",
+     "section_id": "BIM24255",
+     "title": "Members' clubs: incorporated as limited company: conditions to be satisfied for members’ club treatment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24260",
+     "description": "",
+     "section_id": "BIM24260",
+     "title": "Members' clubs: incorporated as limited company: shareholder inequality"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24300",
+     "description": "",
+     "section_id": "BIM24300",
+     "title": "Members' clubs: guidance for customers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24305",
+     "description": "",
+     "section_id": "BIM24305",
+     "title": "Members' clubs: interest paid or received"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24315",
+     "description": "",
+     "section_id": "BIM24315",
+     "title": "Members' clubs: commission income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24320",
+     "description": "",
+     "section_id": "BIM24320",
+     "title": "Members' clubs: community associations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24325",
+     "description": "",
+     "section_id": "BIM24325",
+     "title": "Community amateur sports: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24330",
+     "description": "",
+     "section_id": "BIM24330",
+     "title": "Community amateur sports clubs: relief available on a claim"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24335",
+     "description": "",
+     "section_id": "BIM24335",
+     "title": "Community amateur sports clubs: conditions for registration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24345",
+     "description": "",
+     "section_id": "BIM24345",
+     "title": "Cricket clubs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24350",
+     "description": "",
+     "section_id": "BIM24350",
+     "title": "Golf clubs: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24360",
+     "description": "",
+     "section_id": "BIM24360",
+     "title": "Golf clubs: computation of profit"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24365",
+     "description": "",
+     "section_id": "BIM24365",
+     "title": "Rugby clubs: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24370",
+     "description": "",
+     "section_id": "BIM24370",
+     "title": "Rugby clubs: Rugby Football Union (RFU) booklet"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24400",
+     "description": "",
+     "section_id": "BIM24400",
+     "title": "Incorporation: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24405",
+     "description": "",
+     "section_id": "BIM24405",
+     "title": "Incorporation: difficulties associated with having shareholders"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24410",
+     "description": "",
+     "section_id": "BIM24410",
+     "title": "Incorporation: a company trading only with its members may be non-mutual"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24450",
+     "description": "",
+     "section_id": "BIM24450",
+     "title": "Allowable expenditure: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24455",
+     "description": "",
+     "section_id": "BIM24455",
+     "title": "Allowable expenditure: trades that are partly non-mutual"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24460",
+     "description": "",
+     "section_id": "BIM24460",
+     "title": "Allowable expenditure: apportionment of mixed expenditure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24465",
+     "description": "",
+     "section_id": "BIM24465",
+     "title": "Allowable expenditure: judicial guidance on apportionment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24470",
+     "description": "",
+     "section_id": "BIM24470",
+     "title": "Allowable expenditure: members golf clubs: is intention relevant?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24475",
+     "description": "",
+     "section_id": "BIM24475",
+     "title": "Allowable expenditure: the ‘Peterhead’ principle"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24480",
+     "description": "",
+     "section_id": "BIM24480",
+     "title": "Allocation of income: introduction and layout of guidance: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24485",
+     "description": "",
+     "section_id": "BIM24485",
+     "title": "Allocation of income: nature of activities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24490",
+     "description": "",
+     "section_id": "BIM24490",
+     "title": "Allocation of income: income from contributors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24495",
+     "description": "",
+     "section_id": "BIM24495",
+     "title": "Allocation of income: income from non-contributors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24500",
+     "description": "",
+     "section_id": "BIM24500",
+     "title": "Allocation of income: mixed income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24505",
+     "description": "",
+     "section_id": "BIM24505",
+     "title": "Allocation of income: sundry income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24550",
+     "description": "",
+     "section_id": "BIM24550",
+     "title": "Distributions: introduction and layout of guidance: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24555",
+     "description": "",
+     "section_id": "BIM24555",
+     "title": "Distributions: the basic approach"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24560",
+     "description": "",
+     "section_id": "BIM24560",
+     "title": "Distributions: dividends from a co-operative etc society"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24565",
+     "description": "",
+     "section_id": "BIM24565",
+     "title": "Distributions: S1070 Corporation Tax Act 2010"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24600",
+     "description": "",
+     "section_id": "BIM24600",
+     "title": "Distributions: on winding-up"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24605",
+     "description": "",
+     "section_id": "BIM24605",
+     "title": "Distributions on winding-up: taxable on first principles or statute"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24615",
+     "description": "",
+     "section_id": "BIM24615",
+     "title": "Distributions on winding-up: statute: what is taxed?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24650",
+     "description": "",
+     "section_id": "BIM24650",
+     "title": "Mutual associations: specific activities: introduction: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24655",
+     "description": "",
+     "section_id": "BIM24655",
+     "title": "Mutual associations: specific activities: NHS doctors' co-operatives"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24660",
+     "description": "",
+     "section_id": "BIM24660",
+     "title": "Mutual associations: specific activities: NHS doctors' co-operatives: essential pre-requisite"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24665",
+     "description": "",
+     "section_id": "BIM24665",
+     "title": "Mutual associations: specific activities: NHS doctors' co-operatives: essential pre-requisite: does the trade meet the criteria?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24670",
+     "description": "",
+     "section_id": "BIM24670",
+     "title": "Mutual associations: specific activities: NHS doctors’ co-operatives: varieties"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24675",
+     "description": "",
+     "section_id": "BIM24675",
+     "title": "Mutual associations: specific activities: NHS doctors’ co-operatives: National Association of GP co-operatives"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24680",
+     "description": "",
+     "section_id": "BIM24680",
+     "title": "Mutual associations: specific activities: mutual health insurers: introduction and layout of guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24685",
+     "description": "",
+     "section_id": "BIM24685",
+     "title": "Mutual associations: specific activities: mutual health insurers: background"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24690",
+     "description": "",
+     "section_id": "BIM24690",
+     "title": "Mutual associations: specific activities: mutual health insurers: two interrelated questions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24695",
+     "description": "",
+     "section_id": "BIM24695",
+     "title": "Mutual associations: specific activities: mutual health insurers: are they trading?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24700",
+     "description": "",
+     "section_id": "BIM24700",
+     "title": "Mutual associations: specific activities: mutual health insurers: is the trade mutual?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24705",
+     "description": "",
+     "section_id": "BIM24705",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: introduction and layout of guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24710",
+     "description": "",
+     "section_id": "BIM24710",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: background"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24715",
+     "description": "",
+     "section_id": "BIM24715",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: model constitution"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24720",
+     "description": "",
+     "section_id": "BIM24720",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: three points to watch"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24725",
+     "description": "",
+     "section_id": "BIM24725",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: financing"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24730",
+     "description": "",
+     "section_id": "BIM24730",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: taxation of"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24735",
+     "description": "",
+     "section_id": "BIM24735",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: not conducting a mutual trade"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24740",
+     "description": "",
+     "section_id": "BIM24740",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: members taxation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24745",
+     "description": "",
+     "section_id": "BIM24745",
+     "title": "Mutual associations: specific activities: agricultural co-operatives: futures dealing"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24750",
+     "description": "",
+     "section_id": "BIM24750",
+     "title": "Mutual associations: specific activities: Chambers of Commerce: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24755",
+     "description": "",
+     "section_id": "BIM24755",
+     "title": "Mutual associations: specific activities: Chambers of Commerce: trading?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24760",
+     "description": "",
+     "section_id": "BIM24760",
+     "title": "Mutual associations: specific activities: Chambers of Commerce: a mutual trade?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24765",
+     "description": "",
+     "section_id": "BIM24765",
+     "title": "Mutual associations: specific activities: Hunt point to point meetings: introduction and layout of guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24775",
+     "description": "",
+     "section_id": "BIM24775",
+     "title": "Mutual associations: specific activities: Hunt point-to-point meetings: trading?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24780",
+     "description": "",
+     "section_id": "BIM24780",
+     "title": "Mutual associations: specific activities: Hunt point-to-point meetings: dealings with members"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24782",
+     "description": "",
+     "section_id": "BIM24782",
+     "title": "Mutual associations: specific activities: property management companies"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24784",
+     "description": "",
+     "section_id": "BIM24784",
+     "title": "Mutual associations: specific activities: bulk buying groups: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24786",
+     "description": "",
+     "section_id": "BIM24786",
+     "title": "Mutual associations: specific activities: bulk buying groups: basic principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24788",
+     "description": "",
+     "section_id": "BIM24788",
+     "title": "Mutual associations: specific activities: bulk buying groups: two relationships"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24792",
+     "description": "",
+     "section_id": "BIM24792",
+     "title": "Mutual associations: specific activities: voluntary organisations & charities: fund-raising events: introduction and layout of guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24794",
+     "description": "",
+     "section_id": "BIM24794",
+     "title": "Mutual associations: specific activities: voluntary organisations & charities: tax exemption"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24795",
+     "description": "",
+     "section_id": "BIM24795",
+     "title": "Mutual associations: specific activities: voluntary organisations & charities: conditions for exemption"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24796",
+     "description": "",
+     "section_id": "BIM24796",
+     "title": "Mutual associations: specific activities: voluntary organisations & charities: donations etc. not chargeable"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24797",
+     "description": "",
+     "section_id": "BIM24797",
+     "title": "Mutual associations: specific activities: voluntary organisations & charities: reference to Specialist PT Charities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24800",
+     "description": "",
+     "section_id": "BIM24800",
+     "title": "Mutual associations: specific activities: trade protection associations: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24805",
+     "description": "",
+     "section_id": "BIM24805",
+     "title": "Mutual associations: specific activities: trade protection associations: HMRC arrangement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24810",
+     "description": "",
+     "section_id": "BIM24810",
+     "title": "Mutual associations: specific activities: trade protection associations: procedural points when adopting HMRC arrangement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24815",
+     "description": "",
+     "section_id": "BIM24815",
+     "title": "Mutual associations: specific activities: trade protection associations: benefits to members of adopting HMRC arrangement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24820",
+     "description": "",
+     "section_id": "BIM24820",
+     "title": "Mutual associations: specific activities: trade protection associations: text of HMRC arrangement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24850",
+     "description": "",
+     "section_id": "BIM24850",
+     "title": "Mutual associations: specific activities: marketing boards"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24950",
+     "description": "",
+     "section_id": "BIM24950",
+     "title": "Deductibility of payment made by contributor to a mutual trader"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24995",
+     "description": "",
+     "section_id": "BIM24995",
+     "title": "Tax cases referred to in guidance"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:26+01:00",
+ "section_id": "BIM24000",
+ "title": "Meaning of trade: mutual trading and members clubs: contents"
+}

@@ -1,0 +1,54 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35800",
+ "body": "<p>This chapter explains the treatment of expenditure on computer software in the context of the capital/revenue divide and covers the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35801",
+     "description": "",
+     "section_id": "BIM35801",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35805",
+     "description": "",
+     "section_id": "BIM35805",
+     "title": "Tax Bulletin article"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35810",
+     "description": "",
+     "section_id": "BIM35810",
+     "title": "General considerations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35815",
+     "description": "",
+     "section_id": "BIM35815",
+     "title": "Costs of setting up a web site"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim35820",
+     "description": "",
+     "section_id": "BIM35820",
+     "title": "In house software development costs: contents"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:12:27+01:00",
+ "section_id": "BIM35800",
+ "title": "Capital/revenue divide: computer software: contents"
+}

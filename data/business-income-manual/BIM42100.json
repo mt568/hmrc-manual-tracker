@@ -1,0 +1,68 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42100",
+ "body": "<p>This chapter gives a general overview of the subject of deductions. There is more detailed guidance on capital &amp; revenue at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35000\">BIM35000</a> onwards and on wholly &amp; exclusively at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37000\">BIM37000</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42101",
+     "description": "",
+     "section_id": "BIM42101",
+     "title": "Starting point"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42105",
+     "description": "",
+     "section_id": "BIM42105",
+     "title": "Business or non-business expense"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42110",
+     "description": "",
+     "section_id": "BIM42110",
+     "title": "How to establish purpose"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42115",
+     "description": "",
+     "section_id": "BIM42115",
+     "title": "Apportionment of expense"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42120",
+     "description": "",
+     "section_id": "BIM42120",
+     "title": "Tax avoidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42125",
+     "description": "",
+     "section_id": "BIM42125",
+     "title": "Partnerships"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42140",
+     "description": "",
+     "section_id": "BIM42140",
+     "title": "Companies"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42150",
+     "description": "",
+     "section_id": "BIM42150",
+     "title": "Summing up"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:33+01:00",
+ "section_id": "BIM42100",
+ "title": "Deductions: scope of: contents"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125210",
+ "body": "<p><br />A work item will be entered on the ‘Failed Online Amendments’ Work List where an online amendment is received and</p>\n<ul><li>There is an open or closed enquiry for the return year</li></ul>\n<p>Or</p>\n<ul><li>The return does not have a status of captured because<ul><li>The return has not been received</li><li>The return has been unlogged</li><li>The return is logged but not yet captured</li><li>A charge for the return year has been created using CREATE RETURN CHARGE</li></ul></li></ul>\n<p>Or</p>\n<ul><li>The amendment relates to a partnership return for which a draft amendment already exists</li></ul>\n<p><strong>Note:</strong> If an online amendment is received more than 12 months following the statutory due date for that return, a customer service message will advise the customer that the amendment window has closed for that year.</p>\n<p>The work list is allocated to either the office with technical responsibility or the office with processing responsibility.</p>\n<p>If a work item is created because there is an open or closed enquiry or where a draft amendment already exists for a partnership return, it will be allocated to the work list in the office with technical responsibility and reviewed by a Clerical Case Worker. After reviewing the work item, the Technical office may reallocate it to the Processing office work list if appropriate.</p>\n<p>A work item is created because the return for the return year does not have a status of captured, will be allocated to the office with processing responsibility and reviewed by a Clerical Processing Officer.</p>\n<p>A work item is created where a change of status is notified from Citizens Identification Framework, where there is an open or closed enquiry for the return year, and an amendment to the return is submitted.</p>\n<p><strong>Note:</strong> Taxpayer status details will be pre-populated on the return and will show STp for Scottish taxpayers, WTp for Welsh taxpayers or England and Northern Ireland for everyone else.</p>\n<p>The work items appearing on this work list in both the Technical and Processing offices are for immediate action and the work items must be deleted manually.</p>\n<p>Further information on this work list can be found in the section ‘Work management’, subject ‘W055 Failed online amendments’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam71159\">SAM71159</a>) and the Action Guide can be found <span>here</span>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-03-19T00:00:00+00:00",
+ "section_id": "SAM125210",
+ "title": "Returns: returns work lists: W055 failed online amendments"
+}

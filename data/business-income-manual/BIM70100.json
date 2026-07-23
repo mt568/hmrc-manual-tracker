@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim70100",
+ "body": "<p>Suppose the adjustment income at 31 March 2011 is £80,000. If the business has profits exceeding £80,000 (before Capital Allowances) in each of the next nine years beginning with the year the adjustment income would otherwise be chargeable, £8,000 will be charged to tax.</p>\n\n<p>The balance of £8,000 will be taxed (as adjustment income) in the tenth tax year.</p>\n\n<p>However, if profits for the year ended 30 April 2014 are only £50,000 then only £5,000 will be charged to tax for 2015-16 under S238(2)(b) ITTOIA 2005. The remaining £3,000 will end up being charged in year 10, along with the normal £8,000 for that year and any other amounts postponed from other years because of insufficient profits under S238(2)(b) ITTOIA 2005.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70075",
+   "section_id": "BIM70075"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:37+01:00",
+ "section_id": "BIM70100",
+ "title": "Cash basis: alternative basis: barristers: example of spreading of adjustment income"
+}

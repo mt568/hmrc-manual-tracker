@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121272",
+ "body": "\n<p>To calculate the appropriate amount of the pre Relevant Date liability when computing payments on account in a bankruptcy case, you should  </p>\n\n<ul>\n  <li>Use function CREATE RETURN CHARGE to view the pre Relevant Date liability</li>\n  <li>Make a note of the figure shown in the Income tax due after reliefs field</li>\n  <li>\n    <p>Add to that figure any amount shown in the following fields</p>\n\n    <ul>\n      <li>Recoverable tax on charges</li>\n      <li>Class 4 National Insurance</li>\n      <li>Underpaid tax for earlier years included in PAYE code</li>\n      <li>CODA Partnership Tax due</li>\n      <li>CODA Partnership NIC due</li>\n    </ul>\n  </li>\n  <li>\n    <p>Deduct from that figure any amount shown in the following fields</p>\n\n    <ul>\n      <li>Tax deducted at source</li>\n      <li>Tax due included in later PAYE code</li>\n    </ul>\n  </li>\n</ul>\n\n<p>Notes:  </p>\n\n<ol>\n  <li>\n    <p>Amounts shown in any other fields on the screen can be ignored as they do not form part of the payments on account for next year.  </p>\n  </li>\n  <li>\n    <p>The amount may be negative.</p>\n  </li>\n</ol>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:13+00:00",
+ "section_id": "SAM121272",
+ "title": "Returns: individuals returns: bankruptcy cases:  appropriate amount of pre-relevant date liability"
+}

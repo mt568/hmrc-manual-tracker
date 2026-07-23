@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45665",
+ "body": "<p>This chapter applies for Income Tax purposes to the computation of trade profits and property income. References in the text to a ‘business’ should therefore be taken to include both trades and property businesses. The chapter does not apply for Corporation Tax purposes, where there are separate rules in the loan relationships legislation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm11000\">CFM11000</a>).</p>\n\n<p>S34 Income Tax (Trading and Other Income) Act 2005</p>\n\n<p>Interest is allowable as a deduction in computing business profits or losses if it is incurred wholly and exclusively for the purposes of the business. This will be the case where the borrowed money is used to finance the acquisition of business assets, such as plant and machinery or property, or to provide working capital for the trade, paying trading costs. The interest is then incurred wholly and exclusively for the purposes of the business.</p>\n\n<p>A crucial point is the use made of the funds during the period when the interest accrues. This is explained further in the following paragraphs. The use of the funds may change - it is not fixed forever by the initial purpose for which the loan was obtained.</p>\n\n<p>In Scorer v Olin Energy Systems Ltd [1985] 58 TC 592 the Special Commissioners said at page 606C:</p>\n\n<blockquote>\n  <p>‘… we take the view that the question whether interest was paid for the purposes of a trade must depend on whether the loan, on which the interest was paid, was itself incurred for the purposes of that trade. It does not necessarily follow that the purposes of the loan can be ascertained by looking at the immediate use to which the borrower applies the money. The question is one of fact to be decided on the evidence available in each case.’</p>\n</blockquote>\n\n<p>For the situation where:</p>\n\n<ul>\n  <li>a loan is obtained for a specific purpose see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45675\">BIM45675</a>,</li>\n  <li>the borrowed money is from a `mixed’ account that is used for both business and private purposes, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45690\">BIM45690</a>.</li>\n</ul>\n\n<p>Where an acquired asset is used only partly for business purposes, see also <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45670\">BIM45670</a>.</p>\n\n<p>There are special rules regarding interest and incidental costs of obtaining finance for businesses using the cash basis. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70040\">BIM70040</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45650",
+   "section_id": "BIM45650"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:35+01:00",
+ "section_id": "BIM45665",
+ "title": "Specific deductions - interest: Must be paid wholly and exclusively for business purposes"
+}

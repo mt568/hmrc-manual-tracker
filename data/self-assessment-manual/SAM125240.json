@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125240",
+ "body": "<p>A work item is created and entered on the ‘Online Return Rejections’ work list when full capture of a return filed online or an online amendment has not been possible because the return contains errors and fails the validation checks.</p>\n\n<p>The ‘Online Return Rejection’ work list is allocated to the Clerical Processing Officer in the office with processing responsibility. This work list is to be reviewed as directed.</p>\n\n<p>Note: Work list entries not dealt with by the time limit (4 years after the end of the tax year, for example for 2012-2013 this will be 5 April 2017), must be worked differently as they will be rejected by LDC. Alternatively, you should print the return off and calculate the liability manually using the SEES calculator. Then use function CREATE RETURN CHARGE to record the return charge on the record. When the charge is recorded, the worklist entry will automatically be deleted.</p>\n\n<p>It is therefore important that where the time limit is imminent, you ensure that you work the work list entries for the outgoing year before that date or the manual actions will need to be taken.</p>\n\n<h2 id=\"IDA1EX0I\">Part captured return</h2>\n\n<p>Although the work list item will remain, the part captured version of the return from the work list will <em>only</em> be available to fully capture for 60 days. After 60 days you will be unable to complete capture through the worklist item  and you will have to recapture all the information from the part captured image into LDC.</p>\n\n<p>However, the work list can be filtered on ‘Entry Date’ to identify any cases where this may happen. Work items will also be created on the ‘Returns Not Captured’ W042 work list for any returns not captured after 45 days.</p>\n\n<p>The work item is automatically deleted when you</p>\n\n<ul>\n  <li>Fully capture the return in Local Data Capture (LDC)</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>Enter the liability using function CREATE RETURN CHARGE</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>Unlog the return</li>\n</ul>\n\n<p><a href=\"#Top\">Top of page</a></p>\n\n<h2 id=\"IDANGX0I\">Return contains error messages</h2>\n\n<p>Certain messages which direct you to the relevant box or boxes for correction are displayed when you select the [Calculation] button within function CAPTURE RETURN. You should deal with each error message in turn and fully capture the return.</p>\n\n<p>For further information regarding this subject, see W059 Online return rejections (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam71163\">SAM71163</a>)</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-12-23T10:25:27+00:00",
+ "section_id": "SAM125240",
+ "title": "Returns: returns work lists: w059 online return rejections"
+}

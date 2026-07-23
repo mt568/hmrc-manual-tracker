@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3020",
+ "body": "<p>If you are unable to trace a payment, the Banking Operations office that processed the payment follow the guidance on&nbsp;<span>Tracing Missing Payments</span>. In the case of a cheque payment you should confirm the cheque has been debited from the taxpayer’s bank account and the date the debit was made before contacting Banking Operations.</p>\n<p>You should provide Banking Operations with all the details about the payment that have been gathered. This should include information about the person who made the enquiry along with a telephone number and information about the payment.</p>\n<p>As a minimum, to locate a payment Banking Operations need the following information</p>\n<ul><li class=\"dash\">Taxpayer name and reference number(s)</li><li class=\"dash\">Payment amount</li><li class=\"dash\">Type of payment (cheque payment, clerical giro, direct credit payment, bank giro on tape. BACS and direct debit payment)</li><li class=\"dash\">An indication of the date when the payment was made or the date the payer’s account was debited, and</li></ul>\n<p>In the case of a cheque payment, if available, details of</p>\n<ul><li class=\"dash\">How many payslips / cheques were sent and where, and the bank sort code and account number</li></ul>\n<p>If they have no success tracing the payment using one of the two SA functions, or there is insufficient information to use an SA function, Banking Operations should</p>\n<ul><li class=\"dash\">Search the relevant Ascending value list (AVL) or the ARP archive system to locate the payment</li><li class=\"dash\">Where the payment is located, identify the reference number captured during payment processing</li><li class=\"dash\">Trace the record where a located payment is currently posted</li><li class=\"dash\">Advise you of the outcome</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3000",
+   "section_id": "SAM3000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2024-02-20T14:42:15+00:00",
+ "section_id": "SAM3020",
+ "title": "Amend payment: trace payment: refer tracing enquiry to banking operations"
+}

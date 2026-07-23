@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33475",
+ "body": "<h3><span><span>Disposals of Stock<span>&nbsp;</span></span><span>-</span><span><span>&nbsp;</span>Decision Flow<br /><br /></span></span><br /></h3>\n<h3><span><span>Are you using the cash basis?</span></span><span>&nbsp;</span><br /></h3>\n<ul><li>Yes - s<span>ee guidance at either:</span><ul><li>(<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70025\">BIM70025</a>) for accounting periods ending on or before 5 April 2024</li><li><span>(<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim72025\">BIM72025</a>) for accounting periods ending on or after 6 April 2024</span></li></ul></li><li>No - continue below&nbsp;</li></ul>\n<h3><span><span>Is the stock sold or transferred for valuable consideration to a person who will carry on a trade in the UK and deduct the cost of the stock in computing their trading profits?</span></span><span>&nbsp;</span><br /></h3>\n<ul><li><span>No -&nbsp;the value for the stock is the amount which would have been realised if sold in the open market (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33525\">BIM33525</a>)</span></li><li><span><span>Yes - continue below&nbsp;</span></span></li></ul>\n<h3><span><span>Is the stock subject to specific rules (professional work in progress or herd basis animals)?</span></span></h3>\n<ul><li>Yes - apply specific legislation (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33510\">BIM33510</a>)</li><li>No - continue below&nbsp;</li></ul>\n<h3><span>&nbsp;<span><span>Are the vendor and purchaser connected?</span></span></span></h3>\n<p><span><span class=\"NormalTextRun SCXW182771110 BCX8\">The definition for connected persons is here:&nbsp;</span></span><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33495\">valuation on discontinuance of business: meanings</a></p>\n<ul><li><span>No -&nbsp;S176 ITTOIA 2005 or S165 CTA 2009 apply. The amount realised is the closing value for the vendor and the opening value for the purchaser (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33480\">BIM33480</a>)</span></li><li><span><span>Yes - continue below</span></span></li></ul>\n<h3><span><span>Is the consideration received the arm’s length price?</span></span><span>&nbsp;</span><br /></h3>\n<ul><li>Yes - arm's length price is used as closing value for vendor and opening value for purchaser (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33495\">BIM33495</a>)</li><li>No - continue below&nbsp;</li></ul>\n<h3><span><span>Is the consideration received greater than the arm’s length price?</span></span><span>&nbsp;</span><br /></h3>\n<ul><li>Yes - arm’s length price is used as closing value for vendor and opening value for purchaser (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33495\">BIM33495</a>)</li><li><span>No - continue below&nbsp;</span></li></ul>\n<h3><span><span>Is the arm’s length price more than both the acquisition value and the price received?</span></span><span>&nbsp;</span><br /></h3>\n<p><span>Parties may<span>&nbsp;</span>elect<span>&nbsp;</span>to substitute the greater of value received and acquisition value (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33495\">BIM33495</a>).</span><span><span><span>&nbsp;</span></span></span><span><span>Otherwise use the arm’s length value.</span></span><br /></p>\n<h3><br /></h3>\n<p><span><span><br /></span></span><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33450",
+   "section_id": "BIM33450"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-12-02T00:00:00+00:00",
+ "section_id": "BIM33475",
+ "title": "Stock: valuation on discontinuance of business: Decision Flow"
+}

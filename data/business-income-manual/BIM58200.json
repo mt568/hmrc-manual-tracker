@@ -1,0 +1,38 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim58200",
+ "body": "<p>There are a number of business support bodies that provide services formerly delivered by central or local government. The taxation treatment of income and expenditure of such a body is determined by whether the body’s activities (in whole or in part) comprise the carrying on of a trade.</p>\n\n<p>This section is about the taxation of the bodies themselves. The rules about deductibility of contributions to some such bodies are explained in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47610\">BIM47610</a>.</p>\n\n<p>This chapter covers:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim58201",
+     "description": "",
+     "section_id": "BIM58201",
+     "title": "Grants or donations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim58205",
+     "description": "",
+     "section_id": "BIM58205",
+     "title": "Training schemes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim58210",
+     "description": "",
+     "section_id": "BIM58210",
+     "title": "Arms length management organisations (ALMOs)"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:32+01:00",
+ "section_id": "BIM58200",
+ "title": "Grant aided bodies: contents"
+}

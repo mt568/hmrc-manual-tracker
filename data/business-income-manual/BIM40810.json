@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40810",
+ "body": "<p>Where interest or a dividend satisfies at least one of the three tests set out in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40805\">BIM40805</a> and so has the character of a trade receipt it is then necessary to consider further whether it:</p>\n\n<ul>\n  <li>may actually be taxed as a trade receipt for all purposes, or</li>\n  <li>should be taxed under another head of charge, for example as property income, but may be regarded as a profit of the trade solely for the purpose of giving relief for trading losses.</li>\n</ul>\n\n<p>Trade profit solely for loss relief purposes</p>\n\n<p>S85 Income Tax Act 2007 and S46 Corporation Tax Act 2010 allow interest and dividends to be treated as profits of a trade for certain loss relief purposes if they would be brought into account in calculating the profits of the trade but for the fact that they have been subject to tax under other provisions of the Income Tax or Corporation Tax Acts. For further guidance on the relevant loss reliefs see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85000\">BIM85000</a> onwards (Income Tax) and <a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm04000\">CTM04000</a> onwards and <a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm04500\">CTM04500</a> onwards (Corporation Tax).</p>\n\n<p>Interest or a dividend with the character of a trade receipt falls within this category if it fulfils either of the following conditions:</p>\n\n<ul>\n  <li>it is paid under deduction of UK tax (subject to an exception concerning banks and financial concerns referred to below); see F S Securities Ltd v CIR [1964] 41TC666, and Bucks v Bowers [1969] 46TC267),</li>\n  <li>the income in question is taxable under a head of charge other than trade profits as a result of the priority rules described at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim14020\">BIM14020</a>.</li>\n</ul>\n\n<p>Trade receipt</p>\n\n<p>If the income does not fall within any of the above categories then it should be treated as a trade receipt.</p>\n\n<p>The types of income which will fall to be treated as a trade receipt will be either:</p>\n\n<ul>\n  <li>trade interest or bank current account interest within <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40805\">BIM40805</a> received by a trade, profession or vocation without deduction of UK tax; or</li>\n  <li>income of banks, insurance companies or other financial concerns.</li>\n</ul>\n\n<p>Further guidance on how this treatment applies to general (that is non-life) insurance companies, companies carrying on a life assurance business, banks and financial concerns can be found in the General Insurance Manual, Life Assurance guidance or Corporate Finance Manual as appropriate.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40800",
+   "section_id": "BIM40800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM40810",
+ "title": "Specific receipts: interest and dividends: how chargeable"
+}

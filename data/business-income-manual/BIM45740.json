@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45740",
+ "body": "<p>S34, S54 Income Tax (Trading and Other Income) Act 2005, S684(4) Income Tax (Earnings and Pensions) Act 2003, Sch1 Para6(4B) Social Security Contributions and Benefits Act 1992</p>\n\n<p>Whether deductions are allowed for interest on late-paid tax and NIC depends on the kind of tax and NIC involved.</p>\n\n<h2 id=\"interest-on-late-paid-income-tax-and-capital-gains-tax\">Interest on late paid Income Tax and Capital Gains Tax</h2>\n\n<p>Such interest is not deductible. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42520\">BIM42520</a>.</p>\n\n<h2 id=\"interest-on-late-paid-corporation-tax\">Interest on late paid Corporation Tax</h2>\n\n<p>For accounting periods ending on or after 1 July 1999, interest on late paid CT (including quarterly instalments, see paragraph 7(1) SI1998/3175) is brought into account as a loan relationship debit under the loan relationship rules, see also <a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm92190\">CTM92190</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm30000\">CFM30000+</a>. The timing of the deduction follows the accounting treatment provided that the accounts are prepared in accordance with generally accepted accounting practice.</p>\n\n<p>For accounting periods ending before 1 July 1999 TMA70/S90(1) prevented any deduction for interest on late paid CT.</p>\n\n<h2 id=\"interest-on-late-paid-paye-and-employers-nic\">Interest on late paid PAYE and employers’ NIC</h2>\n\n<p>Interest on late paid PAYE is not deductible in computing income, profits or losses for any tax purpose. Interest on late paid Class 1, Class 1A and Class 1B National Insurance Contributions is not deductible for tax purposes.</p>\n\n<h2 id=\"contract-settlements\">Contract settlements</h2>\n\n<p>A valid contractual settlement displaces HMRC statutory claims with a debt under contract. The elements of tax, interest and penalty taken into account in arriving at the contractual debt lose their identity for the purpose of collecting the debt; see CIR v Woollen [1992] 65 TC 229.</p>\n\n<p>However, for tax purposes, the amounts paid under a contract settlement should retain the same tax treatment as the actual amounts of tax/interest if a contract settlement had not been used. In particular, the use of a contract settlement does not prevent the interest element contained within the contract settlement being an allowable deduction for the purposes of Corporation Tax.</p>\n\n<p>In addition, interest formed on the debt arising from the contract settlement would be a new and separate interest charge. This new and separate interest charge would typically be an allowable deduction for the purposes of Corporation Tax; see EM4030.</p>\n\n<p>Likewise, where a definite part or proportion of the contract settlement is wholly and exclusively incurred for the purposes of the trade (e.g. PAYE or NIC in an employer compliance settlement) then that amount will not fall to be disallowed. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42115\">BIM42115</a> for guidance on the circumstances in which trade expenses may be apportioned.</p>\n\n<p>On the timing of deductions for additional PAYE and NIC taken into account in a contractual employer compliance settlement, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47090\">BIM47090</a>.</p>\n\n<p>Amounts relating to penalties cannot be deducted, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42520\">BIM42520</a>.</p>\n\n<h2 id=\"other-uk-taxes\">Other UK taxes</h2>\n\n<p>For the disallowance of interest on other late paid UK taxes, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42520\">BIM42520</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45650",
+   "section_id": "BIM45650"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2021-10-06T11:24:01+01:00",
+ "section_id": "BIM45740",
+ "title": "Specific deductions - interest: On late paid tax, NIC and contract settlements "
+}

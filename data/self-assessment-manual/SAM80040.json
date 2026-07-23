@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80040",
+ "body": "<p>The batch function PROCESS PAYMENTS receives details of most payments processed by DM Banking in a single day and stores them on the database.</p>\n\n<p>SA payments are identified and posted to customer and management accounts. The process uses automatic allocation rules to determine which liabilities to set payment against.</p>\n\n<p>The allocation of payments causes a review of the interest position. Where an interest bearing liability is cleared by late payment, an interest charge is created.</p>\n\n<p>More information on the update of customer records on receipt of a payment is available in the Debt Management &amp; Banking Manual DMBM210750.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80000",
+   "section_id": "SAM80000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:31+00:00",
+ "section_id": "SAM80040",
+ "title": "Payments: payments overview: payment update of SA customer records"
+}

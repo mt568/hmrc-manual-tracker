@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71152",
+ "body": "<h2 id=\"event\">Event</h2>\n\n<p>A work item is created when the captured return shows a sole trader, partner or partnership cessation date.</p>\n\n<h2 id=\"specific-details\">Specific details</h2>\n\n<p>Other than details common or potentially common to all types of work items, the following specific details will be available</p>\n\n<ul>\n  <li>Return year</li>\n  <li>Ceased date set</li>\n</ul>\n\n<h2 id=\"allocation-of-responsibility\">Allocation of responsibility</h2>\n\n<p>Two work items will be created, one item is allocated to the Clerical Caseworker user role in the office with technical responsibility and one item is allocated to the Clerical Processing Officer user role in the office with processing responsibility.</p>\n\n<h2 id=\"updating-of-details\">Updating of details</h2>\n\n<p>Until the work item is cleared, the following details held on the work item are updated by Work Management immediately the corresponding entry is updated on the taxpayer record</p>\n\n<ul>\n  <li>Taxpayer name</li>\n  <li>NINO</li>\n  <li>Employer reference (EMPREF) or Schedule D register number</li>\n</ul>\n\n<h2 id=\"action-to-take-on-the-work-item\">Action to take on the work item</h2>\n\n<p>Advice on the action to take to clear the work item is available in the section ‘Returns Work Lists’, (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125011\">SAM125011</a>).</p>\n\n<h2 id=\"deletion-of-the-work-item\">Deletion of the work item</h2>\n\n<p>The work item should be deleted manually once it has been reviewed.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-03-16T11:19:54+00:00",
+ "section_id": "SAM71152",
+ "title": "Manage work: work management: W051 Daily returns review - ceased date set (Decommissioned April 2012)"
+}

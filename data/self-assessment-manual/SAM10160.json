@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10160",
+ "body": "<p>An appeal against an SA item may be settled by</p>\n\n<ul>\n  <li>Agreement with a decision maker following a review</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>By determination by a tribunal</li>\n</ul>\n\n<p>Following the determination of an appeal</p>\n\n<ul>\n  <li>The amount of the charge against which the appeal was made may need amendment</li>\n  <li>The decision maker will need to close the appeal using function MAINTAIN APPEAL</li>\n  <li>Any formal standover may need to be reduced to NIL if the charge is not amended</li>\n  <li>Any informal standover should be reduced to NIL</li>\n  <li>The taxpayer should, if appropriate, be advised that the appeal has been agreed under S54 TMA 1970</li>\n</ul>\n\n<p>For further information regarding action to take, see the ‘Settling an Appeal (Action Guide)’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam10161\">SAM10161</a>).</p>\n\n<p>Where the decision on the customers appeal is not in their favour, HMRC offer a review or, in some cases, the customer may ask for a review. For further information, see subject ‘Appeals, postponements and reviews’ <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam12000\">SAM12000</a> onwards</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10000",
+   "section_id": "SAM10000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:58+00:00",
+ "section_id": "SAM10160",
+ "title": "Appeals, postponements and reviews: appeals: settling an appeal"
+}

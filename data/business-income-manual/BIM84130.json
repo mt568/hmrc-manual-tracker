@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim84130",
+ "body": "<p>S222, S222A Income Tax (Trading and Other Income) Act 2005</p>\n<h6>Two-Year averaging&nbsp;</h6>\n<p>A claim be made if the profits of one year are less than 75% of the profits of the other year, or, the profits of one (but not both) of&nbsp;the tax years are nil.&nbsp;&nbsp;</p>\n<h6>Five-Year averaging</h6>\n<p>A claim can be made if the volatility condition is met.</p>\n<p>The volatility condition is that either: </p>\n<ol><li>One of the following is less than 75% of the other:<ul><li>the average of the profits for the first&nbsp;four tax years</li><li>the profits of the last of the tax years; or <br /></li></ul></li><li>The profits of one or more&nbsp;(but not all) of&nbsp;the tax years are nil.&nbsp;&nbsp;</li></ol>\n<h6>Trading losses</h6>\n<p>A trading loss is treated as a nil profit for averaging purposes. This enables the loss relief to be claimed under the normal rules without the measure of the loss available for relief being affected by averaging.</p>\n<h6>Examples</h6>\n<p>Examples of these computations and other aspects of averaging are included&nbsp;from&nbsp;<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim84210\" rel=\"nofollow\">BIM84210</a> onwards.&nbsp;</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim84000",
+   "section_id": "BIM84000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM84130",
+ "title": "Averaging: when profits can be averaged"
+}

@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim84240",
+ "body": "<p>An artist&nbsp;makes a self-assessment of the following profits.</p>\n<table summary=\"Table showing the self-assessment\"><thead><tr><th scope=\"col\">Tax Year</th><th scope=\"col\">Profits</th></tr></thead><tbody><tr><td>2015/2016</td><td>£14,000</td></tr><tr><td>2016/2017</td><td>£38,000</td></tr></tbody></table>\n<p>Although the volatility condition and other criteria are met the artist decides not to make an averaging claim as they are liable to income tax at the basic rate in both years.</p>\n<p>Following&nbsp;HMRC's enquiry into the 2016/2017 tax year the profits for that year are increased to £60,000.</p>\n<p>As the artist is now liable&nbsp;to income tax at the higher rate in 2016/2017 they decide to make an averaging claim.</p>\n<p>The averaging claim cannot now&nbsp;reduce the 2016/2017 profit to lower&nbsp;than the original self-assessment.</p>\n<p>The computation will look something like this.</p>\n<table summary=\"Table showing the computation\"><thead><tr><th scope=\"col\">Tax Year</th><th scope=\"col\">Self-assess</th><th scope=\"col\">Profit uplift</th><th scope=\"col\">Profits to average</th><th scope=\"col\">Averaged Profits</th><th scope=\"col\">Adjusted averaged profits</th></tr></thead><tbody><tr><td>2015/2016</td><td>£14,000</td><td>£0</td><td>£14,000</td><td>£37,000</td><td>£36,000</td></tr><tr><td>2016/2017</td><td>£38,000</td><td>£22,000</td><td>£60,000</td><td>£37,000</td><td>£38,000</td></tr></tbody></table>\n<p>Strictly, the 2015/2016 adjustment should be computed on a profit uplift of £23,000, although by concession it is adjusted to match the adjustment for 2016/2017 (<span>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-claims-manual/sacm9030\">SACM9030</a>).</span></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim84000",
+   "section_id": "BIM84000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-24T10:12:08+00:00",
+ "section_id": "BIM84240",
+ "title": "Averaging: example of amendment to profit without averaging"
+}

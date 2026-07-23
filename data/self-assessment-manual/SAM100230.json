@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100230",
+ "body": "<p>Exceptionally</p>\n\n<ul>\n  <li>Where you become aware that a partnership has become a partner in another partnership, see subject ‘Partnership As Partner’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam100140\">SAM100140</a>)</li>\n  <li>Where you become aware that a trust has become a partner in a partnership, see subject ‘Trust Record And Partner Source’ (SAM100280)</li>\n</ul>\n\n<p>When either a new partnership is formed, or individuals join an existing partnership, each new partner must notify HMRC.</p>\n\n<p>This can be done by</p>\n\n<ul>\n  <li>Post - completion of form SA400 / SA401 / SA402 which is then forwarded to</li>\n</ul>\n\n<p>HMRC, Central Agent Authorisation Team<br />\n  Longbenton<br />\n  Newcastle Upon Tyne</p>\n\n<p>NE98 1ZZ</p>\n\n<ul>\n  <li>Online</li>\n  <li>Contacting the Newly Self Employed Helpline on 0300 200 3504</li>\n</ul>\n\n<p>Note: Partners joining a Limited Liability Partnership (LLP) may only notify by post.</p>\n\n<p>The CAAT will then set up a partner source on the individual record and create the appropriate link to the partnership record. </p>\n\n<h2 id=\"IDA42FNH\">Late filing penalties</h2>\n\n<p>The guidance below applies to the tax year 2009-10 and earlier. Different guidance applies to the tax years 2010-11 and later. </p>\n\n<p>Where a partnership return is not filed by the filing date, each partner will be charged a penalty under Section 93A. The process is automatic. More detail is available in section ‘Penalties’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam61000\">SAM61000</a>).</p>\n\n<p>Exceptionally, you may link a partner’s individual record to the partnership record after the fixed penalty has been imposed on each partner, for a year in which that partner was a member of the partnership.</p>\n\n<p>In this event, the office responsible for the partnership will have to use function AMEND FIXED PENALTIES, on the partnership record, to identify the partner for whom a penalty is now to be imposed. The due date for the penalty is 30 days after issue of the penalty notice. It is not back dated to 31 January following the return year end.</p>\n\n<p>Any appeal against the penalty is dealt with from the partnership record. Further advice is available in section ‘Appeals’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam10000\">SAM10000</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+   "section_id": "SAM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2017-10-05T10:24:30+01:00",
+ "section_id": "SAM100230",
+ "title": "Records: set up taxpayer record: set up partner"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108024",
+ "body": "<p>An SA Note generated automatically cannot be deleted.</p>\n\n<p>Where you want to delete an SA Note, follow steps 1 - 2 below</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Use function MAINTAIN SA NOTES to view the SA Notes already recorded</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Select the line number of the SA Note you want to delete, then</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Select the [Delete Note] button. You will be asked to confirm your action</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Select the [OK] Button if you want to delete the SA Note. The automatic SA Note ‘Note made by 9999999 on dd/mm/yyyy deleted’ is created. (Note:  9999999 is the PID of the operator who made the SA Note that has now been deleted)</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108000",
+   "section_id": "SAM108000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:18+00:00",
+ "section_id": "SAM108024",
+ "title": "Records: SA and permanent notes: deleting an SA note (Action Guide)"
+}

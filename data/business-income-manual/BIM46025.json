@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46025",
+ "body": "<p>S196 Finance Act 2004</p>\n<p>A contribution by an employer to a registered pension schemes is treated as not being capital expenditure.</p>\n<p>Where the purchaser of a trade takes on obligations as part of the acquisition of the trade, these costs are normally capital expenditure (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35655\">BIM35655</a>). However in the case of contributions to registered pension schemes, this is overridden by the legislation which treats all contributions as revenue expenditure.</p>\n<h2>Example</h2>\n<p>Company A purchases a business previously carried on by Company B. As part of the deal, Company A takes over the obligations in respect of the pensions for the employees and former employees of the trade that it acquires. At the time of the transfer the scheme was underfunded by £5m. Over the next three years, Company A pays sums into the pension scheme to fund the scheme fully.</p>\n<p>The payments into the pension fund are not disallowable as capital expenditure. The payments are made wholly and exclusively for the purposes of the trade carried on by Company A, and the deductions are allowable in the years in which they are paid.</p>\n<h2>Cost of setting up a registered pension scheme</h2>\n<p>The costs of setting up a registered pension scheme are not treated as revenue expenditure under the legislation for contributions to a scheme. As capital expenditure they are therefore not allowable deductions, on the authority of <strong>Atherton v British Insulated and Helsby Cables Ltd</strong> [1925] 10 TC 155 and <strong>Rowntree and Co Ltd v Curtis</strong> [1924] 8 TC 678. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35000\">BIM35000</a> onwards for guidance on the capital/revenue divide.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46000",
+   "section_id": "BIM46000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:49+01:00",
+ "section_id": "BIM46025",
+ "title": "Specific deductions: pension schemes: capital expenditure - purchase of a business"
+}

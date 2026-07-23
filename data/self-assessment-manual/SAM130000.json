@@ -1,0 +1,75 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130001",
+     "description": "",
+     "section_id": "SAM130001",
+     "title": "Statements: statement content and layout: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130010",
+     "description": "",
+     "section_id": "SAM130010",
+     "title": "Statements: statement content and layout: the brought  forward taxpayer statement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130020",
+     "description": "",
+     "section_id": "SAM130020",
+     "title": "Statements: statement content and layout: the open item taxpayer statement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130030",
+     "description": "",
+     "section_id": "SAM130030",
+     "title": "Statements: statement content and layout: order of open  items on the statement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130032",
+     "description": "",
+     "section_id": "SAM130032",
+     "title": "Statements: statement content and layout: open item  transaction details"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130040",
+     "description": "",
+     "section_id": "SAM130040",
+     "title": "Statements: statement content and layout: the simple  statement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130050",
+     "description": "",
+     "section_id": "SAM130050",
+     "title": "Statements: statement content and layout: order of items  on the simple statement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130060",
+     "description": "",
+     "section_id": "SAM130060",
+     "title": "Statements: statement content and layout: screen prints: transaction ‘types’"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130062",
+     "description": "",
+     "section_id": "SAM130062",
+     "title": "Statements: statement content and layout: ‘type’ code list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130070",
+     "description": "",
+     "section_id": "SAM130070",
+     "title": "Statements: statement content and layout: amount printed  on the payslip"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:15+00:00",
+ "section_id": "SAM130000",
+ "title": "Statements: statement content and layout: contents"
+}

@@ -1,0 +1,74 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40050",
+ "body": "<p>Most amounts received by traders are from the disposal of trading stock, provision of services, etc and are obviously trade receipts. Sometimes, however, it may not be clear whether a receipt is a trade receipt. This chapter of the guidance looks at how to determine whether a receipt arises from the trade at all and, if so, whether it is excluded as a capital item. The final part of the chapter deals with when a trade receipt is to be included in taxable profits.</p>\n\n<p>For the rules regarding receipts for businesses using the cash basis, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70015\">BIM70015</a> onwards.</p>\n\n<p>The chapter is arranged as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40051",
+     "description": "",
+     "section_id": "BIM40051",
+     "title": "Whether trading income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40055",
+     "description": "",
+     "section_id": "BIM40055",
+     "title": "Excluded revenue: liability"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40060",
+     "description": "",
+     "section_id": "BIM40060",
+     "title": "Particular types of transaction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40065",
+     "description": "",
+     "section_id": "BIM40065",
+     "title": "If excluded may still be liable"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40070",
+     "description": "",
+     "section_id": "BIM40070",
+     "title": "Recognition of incomings"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40075",
+     "description": "",
+     "section_id": "BIM40075",
+     "title": "When are they earned?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40085",
+     "description": "",
+     "section_id": "BIM40085",
+     "title": "Possible future repayment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40090",
+     "description": "",
+     "section_id": "BIM40090",
+     "title": "Anticipation of profits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40095",
+     "description": "",
+     "section_id": "BIM40095",
+     "title": "Foreign exchange gains and losses"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM40050",
+ "title": "Receipts: general: contents"
+}

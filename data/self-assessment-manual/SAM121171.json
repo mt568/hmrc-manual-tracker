@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121171",
+ "body": "<p>Where the taxpayer has completed the Employment, Self-Employment and / or Partnership pages but not completed the mandatory boxes as appropriate, follow steps 1 - 9 below.</p>\n\n<p>For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDAY0IUH\">Where the missing information is the employer’s reference from box 4 of the Employment page E1</h2>\n\n<p>1. Use PAYE Service Function TRACE AND MATCH and relevant details shown on the return (employer’s name and address) to trace the information</p>\n\n<p>Note: You should not reject a return where details of the employer’s name is provided, even if you still cannot trace the PAYE reference</p>\n\n<h2 id=\"IDA41IUH\">Where the missing information is the description of the business from box 2 on the Self-employment (full) page SEF 1 or box 1 on the Self-employment (short) page SES 1</h2>\n\n<p>2. Use function MAINTAIN SOURCES and relevant details shown on the return to obtain the information</p>\n\n<h2 id=\"IDAU2IUH\">Where the missing information is the partnership reference from box 1 on the Partnership pages PF 1 (full) or PS 1 (short) and the taxpayer is not a partner of a foreign partnership that has no profits arising in the UK</h2>\n\n<p>3. Use function MAINTAIN SOURCES, other entries on the return, or if necessary, earlier returns to obtain the information</p>\n\n<p>4. If the information cannot be obtained, the return must be sent back as unsatisfactory. For guidance see ‘Unsatisfactory individual returns’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121260\">SAM121260</a>)</p>\n\n<h2 id=\"IDAA4IUH\">If the taxpayer is a partner of a foreign partnership that has no profits arising in the UK</h2>\n\n<p>5. Enter their own UTR in box 1</p>\n\n<h2 id=\"IDAW4IUH\">In all cases where you are able to obtain the information</h2>\n\n<p>6. Enter the information on the return in pencil and when the return is captured enter the information in the screen box</p>\n\n<p>7. Send a Customer Service Message to the taxpayer advising that the information must be completed on future returns</p>\n\n<h2 id=\"IDA25IUH\">In all cases where you are not able to obtain the information from all relevant details held, or you are at all unsure</h2>\n\n<p>8. Do not guess</p>\n\n<p>9. Treat the return as unsatisfactory and send the return back to the taxpayer. Note: But see step 1 regarding details of employer’s reference</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-11T10:48:00+01:00",
+ "section_id": "SAM121171",
+ "title": "Returns: individuals returns: mandatory boxes: individuals (Action Guide)"
+}

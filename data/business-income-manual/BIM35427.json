@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35427",
+ "body": "<p>You should be careful not to confuse the method of computing the quantum of damages with the subject for which compensation is paid.  You need to determine if the reason for paying damages was, for example, the loss of a capital asset or, for example, a restriction on trading activities.</p>\n<p>In the case of <strong>Burmah Steam Ship Co Ltd v CIR</strong> [1930] 16TC67 the owners contracted for repairs to a second-hand vessel.  The ship repairer exceeded the agreed time for the overhaul and damages were paid to cover the consequential loss of expected profits had the vessel been available for trade.</p>\n<p>The Special Commissioners decided that the compensation received should be included as a trading receipt of the ship owner.  The courts concurred.</p>\n<p>At page 71 the Lord President (Lord Clyde) drew a distinction between filling a hole in the trader’s profits and filling a hole in the trader’s assets.  A sum received to compensate for loss of profits would be chargeable as trading income.  A sum received to compensate for loss of a capital asset would be a capital receipt outside the scope of the charge of income tax:</p>\n<blockquote>Suppose someone who chartered one of the appellant’s vessels breached the charter and exposed himself to a claim of damages at the appellant’s instance, there could, I imagine, be no doubt that the damages recovered would properly enter the appellant’s profit and loss account for the year.  The reason would be that breach of the charter was an injury inflicted on the appellant’s trading, making (so to speak) a hole in the appellant’s profits, and the damages recovered could not therefore be reasonably or appropriately put by the appellant - in accordance with the principles of sound commercial accounting - to any other purpose than to fill that hole.  Suppose, on the other hand, that one of the appellant’s vessels was negligently run down and sunk by a vessel belonging to some other ship owner, and the appellant recovered as damages the value of the sunken vessel, I imagine that there could be no doubt that the damages so recovered could not enter the appellant’s profit and loss account because the destruction of the vessel would be an injury inflicted, not on the appellant’s trading, but on the capital assets of the appellant’s trade, making (so to speak) a hole in them, and the damages could therefore - on the same principles as before - only be used to fill that hole.</blockquote>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35400",
+   "section_id": "BIM35400"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:31+01:00",
+ "section_id": "BIM35427",
+ "title": "Capital/revenue divide: tangible assets: damages for breach of contract"
+}

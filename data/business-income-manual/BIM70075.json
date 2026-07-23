@@ -1,0 +1,55 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim70075",
+ "body": "\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70001",
+   "section_id": "BIM70001"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70080",
+     "description": "",
+     "section_id": "BIM70080",
+     "title": "Barristers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70085",
+     "description": "",
+     "section_id": "BIM70085",
+     "title": "Barristers and advocates in early years of practice"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70090",
+     "description": "",
+     "section_id": "BIM70090",
+     "title": "Barristers ceasing to use the alternative basis"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70095",
+     "description": "",
+     "section_id": "BIM70095",
+     "title": "Barristers: spreading of adjustment income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim70100",
+     "description": "",
+     "section_id": "BIM70100",
+     "title": "Barristers: example of spreading of adjustment income"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:38:11+01:00",
+ "section_id": "BIM70075",
+ "title": "Cash basis: alternative basis: contents"
+}

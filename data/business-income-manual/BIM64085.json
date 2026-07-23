@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64085",
+ "body": "<p>FRS5 Application Note F requires that where another accounting standard (SSAP or FRS) is also relevant, the standard that contains the more specific provisions is to be applied.</p>\n\n<p>If the PFI project involves the design and construction of a PFI property, it may be more appropriate to adopt SSAP9 ‘Stock and long-term contracts’ principles during the construction period. This means that the construction costs are debited to work-in-progress. Once the property or a particular construction phase is completed, FRS5 will apply. In such circumstances the interaction of SSAP9 principles and FRS5 will result in the recognition of a ‘sale’ in the profit and loss account and the property being reported as finance debtor on the operator’s balance sheet (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64080\">BIM64080</a> and Examples 3 and 6 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64150\">BIM64150</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64165\">BIM64165</a>).</p>\n\n<p>However, there may be circumstances where SSAP9 principles are not used and FRS5 is adopted from the outset (see Examples 1, 2, 4 and 5 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64140\">BIM64140</a>, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64145\">BIM64145</a>, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64155\">BIM64155</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64160\">BIM64160</a>).</p>\n\n<p>HMRC officers should refer any questions, concerning the application and interaction of SSAP9 principles and FRS5, to their local compliance/advisory accountant.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64070",
+   "section_id": "BIM64070"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:40+01:00",
+ "section_id": "BIM64085",
+ "title": "Measuring the profits (particular trades): Private Finance Initiative (PFI): accounting: FRS5 and SSAP9"
+}

@@ -1,0 +1,32 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim66000",
+ "body": "\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66001",
+     "description": "",
+     "section_id": "BIM66001",
+     "title": "Trading by Testimonial Committee"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66002",
+     "description": "",
+     "section_id": "BIM66002",
+     "title": "Testimonial Committee - PAYE and NIC"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:38:01+01:00",
+ "section_id": "BIM66000",
+ "title": "Sports testimonials: contents"
+}

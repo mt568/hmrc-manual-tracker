@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam22001",
+ "body": "<p>From 6 April 1998 a charge arising from all new assessments and further assessments is recorded onto the taxpayer’s SA record. This includes income previously assessed by COP and CODA, and includes assessments required for pre-SA years. Guidance on making these assessments is contained in the section ‘Assessments within SA’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam20000\">SAM20000</a> onwards).</p>\n\n<p>The exception to this rule is Special Assessing. Special assessing does not fall within Self Assessment.</p>\n\n<p>The CODA function SA was used to make various special assessments up to 31 October 2010 but was decommissioned on this date. From 1 November 2010, special assessments must be made manually using SEES 310(Z) Special Assessment/Determination located in SEES Forms and Letters under the SAFE category.</p>\n\n<p>Do not record the charge arising from a special assessment on the taxpayer’s SA record. It follows that there is no need to set up an SA record before making a special assessment.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam22000",
+   "section_id": "SAM22000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:26+00:00",
+ "section_id": "SAM22001",
+ "title": "Assessments: non SA assessing: introduction"
+}

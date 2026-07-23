@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim72037",
+ "body": "<p>S33A(4)(e) ITTOIA 2005</p>\n<p>In calculating the profits of a trade under the cash basis,\na deduction is disallowed for a non-qualifying intangible asset.</p>\n<p>Intangible assets include:</p>\n<ul type=\"disc\">\n <li>any internally\n     generated intangible asset, and</li>\n <li>intellectual\n     property,</li></ul>\n<p>Intellectual Property means:</p>\n<ol start=\"1\" type=\"1\">\n <li>any\n     patent, trademark, registered design, copyright or design, plant breeders’\n     rights or rights under section 7 of the Plant Varieties Act 1997</li>\n <li>any\n     right under the law of a country or territory outside the UK corresponding\n     or similar to a right within 1 above.</li>\n <li>any\n     information or technique not protected by a right within 1 &amp; 2 above\n     but having industrial, commercial or other economic value.</li>\n <li>any\n     licence or other right in respect of anything within 1, 2 or 3 above.</li></ol>\n<p><strong>Non Qualifying Intangible Assets</strong></p>\n<p>An intangible asset is non-qualifying unless it has a fixed\nmaximum duration and will cease to exist within 20 years of the date the\ncapital expenditure was incurred.</p>\n<p>Where option or rights are granted over an intangible asset\nand</p>\n<ul type=\"disc\">\n <li>intangible\n     asset (asset A) is the right or option to acquire another intangible asset\n     (asset B) and</li>\n <li>asset\n     B does not have a fixed maximum duration (and is therefore a\n     non-qualifying asset)</li></ul>\n<p>Asset A is a non-qualifying asset even if when it was\nexercised, it would cease to exist within 20 years of the grant or right of the\noption.</p>\n<p>Licences</p>\n<p>Where - </p>\n<ol start=\"1\" type=\"1\">\n <li>the\n     trader has an intangible asset and</li>\n <li>the\n     trader grants a licence or any other right in respect of that asset to\n     another person and</li>\n <li>the\n     trader re-acquires any part of the licence or rights in respect of that\n     asset by way of a sub-licence.</li></ol>\n<p>The intangible asset created by the sub-licence in 3. above\nis not a qualifying asset.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim72001",
+   "section_id": "BIM72001"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-04-07T09:53:30+01:00",
+ "section_id": "BIM72037",
+ "title": "Cash basis: expenses: capital expenditure: Intangible Assets"
+}

@@ -1,0 +1,27 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44590",
+ "body": "<p>S38 Income Tax (Trading and Other Income) Act 2005, S1290 Corporation Tax Act 2009</p>\n<p>The basic structure of <strong>the legislation</strong> is that:</p>\n<ul><li class=\"filledcircle\">S1290(2) or S38(2) disallow a deduction for an employee benefit contribution (if it would otherwise be due for a period) to the extent that qualifying benefits or qualifying expenses are not paid out of the contribution during the period or within nine months of the end of the period.</li><li class=\"filledcircle\">S1290(3) or S38(3) allow a deduction in computing the employer’s taxable profits for a later period to the extent that qualifying benefits are paid (including a relevant step taken within the meaning of the disguised remuneration legislation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44636\">BIM44636</a>)) in the later period (up to a maximum of the amount previously disallowed).</li><li class=\"filledcircle\">Specific rules apply to employee benefit contributions made or to be made on or after 1 April 2017 (CT) or 6 April 2017 (IT).</li></ul>\n<p class=\"filledcircle\">Firstly, no deduction will be allowed for an employee benefit contribution in any accounting period that begins more than 5 years after the end of the period in which the contribution is made [S1290(1A) or S38(1A)].</p>\n<p class=\"filledcircle\">Secondly, contributions that would otherwise be allowable under S1290(2) or S38(2), are subject to an additional condition.&nbsp; This is that where the provision of qualifying benefits gives rise to both an employment income tax charge and an NIC charge then both these charges must have been paid to HMRC within 12 months of the end of the period for which a deduction is claimed [S1290(2B) or S38(2AB)].</p>\n<p class=\"filledcircle\">Where a deduction has been disallowed under S1290(2) or S38(2) and qualifying benefits are provided in a subsequent accounting period, a similar condition also applies.&nbsp; Where the provision of the qualifying benefits gives rise to both an employment income tax charge and an NIC charge, relief can only be allowed in that later period if both these charges have been paid to HMRC within 12 months of the end of that later period [S1290(3B) and S38(3B)].</p>\n<p>Examples applying these rules&nbsp;are at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44610\">BIM44610</a>&nbsp;and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44611\" rel=\"nofollow\">BIM44611</a>.</p>\n<h2>Employee benefit contribution</h2>\n<p>’Employee benefit contribution’ is defined widely. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44585\">BIM44585</a>. It covers employers’ contributions to EBTs. It also includes employers’ payments to other kinds of intermediaries who may be required, or may have discretion, to use them to provide benefits to employees or former employees of the employer.</p>\n<h2>Qualifying benefits and qualifying expenses</h2>\n<p>‘Qualifying benefits’ are discussed in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44595\">BIM44595</a>.</p>\n<p>‘Qualifying expenses’ are discussed in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44600\">BIM44600</a>.</p>\n<h2>Payments ‘out of’ employee benefit contributions</h2>\n<p>It&nbsp;may be necessary for employers to keep records of the use of each&nbsp;employee benefit contribution to determine whether and when:</p>\n<ul><li class=\"filledcircle\">qualifying benefits or qualifying expenses were provided or paid ‘out of’ a particular contribution for the purposes of disallowing amounts, or</li><li class=\"filledcircle\">qualifying benefits were provided or relevant steps (within the meaning of Part 7A Income Tax (Earnings and Pensions) Act 2003) were made ‘out of’ a particular contribution for the purposes of giving a deduction for a later period.</li><li class=\"filledcircle\">tax and NICs have been paid in respect of qualifying benefits made out of a particular contribution, in order to comply with the rules for contributions made or to be made on or after 1 April 2017 (CT) or 6 April 2017 (IT).</li></ul>\n<p>There are special deeming rules to match contributions with benefits or expenses: see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44615\">BIM44615</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44573",
+   "section_id": "BIM44573"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM44590",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs: timing of deductions for contributions: structure of the legislation"
+}

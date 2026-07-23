@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim90070",
+ "body": "<p>S98 Income Tax (Trading and Other Income) Act 2005, S95 Corporation Tax Act 2009</p>\n\n<h2 id=\"where-the-trade-has-been-transferred-and-income-is-received-which-relates-to-the-pre-acquisition-period-this-is-trading-income-of-the-successor-trader\">Where the trade has been transferred and income is received which relates to the pre-acquisition period, this is trading income of the successor-trader</h2>\n\n<p>As discussed in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90050\">BIM90050</a>, where a person who ceases to trade transfers rights to what would be post-cessation receipts to a person who does not take over the trade, the amount received (or deemed to be received) for the transfer is itself a post-cessation receipt. However, when the transferee receives the future income, the amounts are not post-cessation receipts in his hands.</p>\n\n<p>The rules are different where the transferee takes over the trade of the transferor.</p>\n\n<p>Any future income received by the transferee will be a trading receipt where:</p>\n\n<ul>\n  <li>there is a change in the persons carrying on a trade,</li>\n  <li>the trade carries on as before but is under new ownership,</li>\n  <li>the change is treated for tax purposes as being a cessation of the trade (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90005\">BIM90005</a>),</li>\n  <li>the right to a sum that would have been a post-cessation receipt of the old trade is transferred to the persons carrying on a trade, and</li>\n  <li>the right is transferred at the time of the change.</li>\n</ul>\n\n<p>Any sum received by the persons carrying on the trade after the change is taxable as part of the profits of that trade or in that period. There is no tax charge on the predecessor trader.</p>\n\n<h3 id=\"receipt-by-someone-other-than-the-successor\">Receipt by someone other than the successor</h3>\n\n<p>Where it is claimed that a sum is received by a third party even though the successor had entitlement under the terms of the transfer, you will need to examine the facts closely to establish the circumstances under which either a sum was received for which there was no entitlement or that entitlement was subsequently transferred.</p>\n\n<p>These facts will determine how that sum will be taxed, but it is unlikely that the income character of the sum will change and this means that if it is not otherwise taxed it will be taxed under the miscellaneous income legislation.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim90000",
+   "section_id": "BIM90000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:01:49+01:00",
+ "section_id": "BIM90070",
+ "title": "Post-cessation receipts and expenses: receipts which are not post-cessation receipts: Transfer of rights if the transferee carries on the trade"
+}

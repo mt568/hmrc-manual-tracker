@@ -1,0 +1,192 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim47000",
+ "body": "<p>This section deals with a variety of deductions relating to the costs of employing staff. Rules determining when deductions for remuneration are allowed are also covered. The guidance is arranged as follows.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47005",
+     "description": "",
+     "section_id": "BIM47005",
+     "title": "Restrictive covenants with employees"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47010",
+     "description": "",
+     "section_id": "BIM47010",
+     "title": "Incentive awards"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47015",
+     "description": "",
+     "section_id": "BIM47015",
+     "title": "Suggestion scheme awards"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47060",
+     "description": "",
+     "section_id": "BIM47060",
+     "title": "Health and safety"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47070",
+     "description": "",
+     "section_id": "BIM47070",
+     "title": "Employee welfare"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47080",
+     "description": "",
+     "section_id": "BIM47080",
+     "title": "Staff training & development"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47090",
+     "description": "",
+     "section_id": "BIM47090",
+     "title": "Employer compliance settlements"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47100",
+     "description": "",
+     "section_id": "BIM47100",
+     "title": "Share of profits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47105",
+     "description": "",
+     "section_id": "BIM47105",
+     "title": "Payments to dependants and close relatives"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47106",
+     "description": "",
+     "section_id": "BIM47106",
+     "title": "Remuneration payments to friends and relatives: wholly and exclusively"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47107",
+     "description": "",
+     "section_id": "BIM47107",
+     "title": "Expenses linked to personal interests of a director"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47110",
+     "description": "",
+     "section_id": "BIM47110",
+     "title": "Transfer of assets at under value"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47115",
+     "description": "",
+     "section_id": "BIM47115",
+     "title": "Employees seconded to charities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47120",
+     "description": "",
+     "section_id": "BIM47120",
+     "title": "Employees seconded to educational establishments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47125",
+     "description": "",
+     "section_id": "BIM47125",
+     "title": "Locums"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47130",
+     "description": "",
+     "section_id": "BIM47130",
+     "title": "Timing of deductions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47135",
+     "description": "",
+     "section_id": "BIM47135",
+     "title": "Timing of deductions: remuneration affected"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47140",
+     "description": "",
+     "section_id": "BIM47140",
+     "title": "Timing of deductions: profits calculated within the nine month period"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47145",
+     "description": "",
+     "section_id": "BIM47145",
+     "title": "Remuneration paid after cessation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47150",
+     "description": "",
+     "section_id": "BIM47150",
+     "title": "Holiday pay"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47200",
+     "description": "",
+     "section_id": "BIM47200",
+     "title": "Redundancy payments: general principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47205",
+     "description": "",
+     "section_id": "BIM47205",
+     "title": "Statutory redundancy payments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47210",
+     "description": "",
+     "section_id": "BIM47210",
+     "title": "Additional payments to redundant employees"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47215",
+     "description": "",
+     "section_id": "BIM47215",
+     "title": "Redundancy payments: timing of deductions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47217",
+     "description": "",
+     "section_id": "BIM47217",
+     "title": "Counselling expenses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47218",
+     "description": "",
+     "section_id": "BIM47218",
+     "title": "Retraining expenses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47220",
+     "description": "",
+     "section_id": "BIM47220",
+     "title": "Deductions relating to disguised remuneration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47225",
+     "description": "",
+     "section_id": "BIM47225",
+     "title": "Deemed Employment Payments"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2019-05-09T09:58:37+01:00",
+ "section_id": "BIM47000",
+ "title": "Specific deductions: staffing costs: contents"
+}

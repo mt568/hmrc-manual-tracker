@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim38510",
+ "body": "<p>S34 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S54 Corporation Tax Act 2009 (CTA 2009)</p>\n<h2>Damages paid as a result of day to day trading operations are normally allowable</h2>\n<p>As a general rule, damages incurred as a result of normal trading operations are allowable. Penalties for infraction of the law are not.</p>\n<p><strong>Strong &amp; Co of Romsey v Woodifield</strong> [1906] 5 TC 215 is referred to at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37300\">BIM37300</a> in connection with the so-called ‘capacity’ test.</p>\n<p>Strong &amp; Co of Romsey Ltd was a brewing company and it owned licensed houses and carried on the trade of innkeepers as well as brewers. Trade at the particular inn involved in the case was conducted through a manager. A customer sleeping in the inn was injured when a chimney fell on him. The chimney fell because the brewery failed to ensure that its servants discharged their duty to see that the premises were in proper condition. The brewery had to pay £1,490 in costs and damages. The brewery claimed the damages as a deduction in computing its profits. The House of Lords denied a deduction for the expenditure.</p>\n<p>Lord Davy explained at page 220:</p>\n<blockquote><p>`I think that the payment of these damages was not money expended “for the purpose of the trade”. These words are used in other rules, and appear to me to mean for the purpose of enabling a person to carry on and earn profits in the trade, &amp;c. I think the disbursements permitted are such as are made for that purpose. It is not enough that the disbursement is made in the course of, or arises out of, or is connected with the trade, or is made out of the profits of the trade. It must be made for the purpose of earning the profits.’</p></blockquote>\n<p>Lord Davy’s remarks have been quoted with approval in many subsequent decisions. But judges have also warned against applying them in too narrow a sense.</p>\n<p>The Lord Chancellor, Earl Loreburn, described the statutory provisions and their effect at page 219:</p>\n<blockquote><p>`A deduction cannot be allowed on account of losses not connected with or arising out of such trade. That is one indication. And no sum can be deducted unless it be money wholly and exclusively laid out or expended for the purposes of such trade. That is another indication. Beyond that the Act is silent.<br />In my opinion, however, it does not follow that if a loss is in any sense connected with the trade, it must always be allowed as a deduction; for it may be only remotely connected with the trade or it may be connected with something else quite as much as or even more than with the trade. I think only such losses can be deducted as are connected with it in the sense that they are really incidental to the trade itself. They cannot be deducted if they are mainly incidental to some other vocation, or fall on the trader in some character other than that of trader. The nature of the trade is to be considered.’</p></blockquote>\n<p>Lord Loreburn’s words bring to mind S34(1)(b) ITTOIA 2005 for unincorporated businesses and S54(1)(b) CTA 2009 for companies [which refer to ‘any loss not connected with or arising out of the trade…’]. However, in later cases judges have applied Lord Loreburn’s words to the phrase inS34(1)(a) ITTOIA 2005 and S54 CTA 2009, ‘expenses not incurred wholly and exclusively for the purposes of the trade’.</p>\n<p>Notwithstanding the above decision, you should allow a trader the costs of civil damages for injury to others caused by day to day trading operations. You should disallow any penalty for infraction of the law.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim37000",
+   "section_id": "BIM37000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim38500",
+   "section_id": "BIM38500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:04+01:00",
+ "section_id": "BIM38510",
+ "title": "Wholly and exclusively: fines, penalties and damages: compensation for injury to customer"
+}

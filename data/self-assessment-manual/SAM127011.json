@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127011",
+ "body": "<p>Where a return includes enclosures or attachments, follow steps 1 - 11 below</p>\n\n<h2 id=\"IDALQKNG\">If a payment has been received with the return</h2>\n\n<p>1. Make a clear pencil note on the front of the return to indicate a payment was received and the amount</p>\n\n<p>2. Details of the UTR, customer’s name, the payment amount and the date the cheque is sent to Accounts Office must be entered on the Excel spreadsheet set up for this purpose</p>\n\n<p>3. Send all payments with a payment slip to Banking Operations Shipley</p>\n\n<p>Note: If there is no computer payslip with the payment, print an IRIS CFORMA payslip, PSI (AZ) for Cumbernauld or PSI (BZ) for Shipley as appropriate and send to Banking Operations Shipley. The relevant office can be found by selecting ‘All Offices’ in the function ‘Maintain Responsible Office’</p>\n\n<p>4. Send the return back for ADC processing if there are no other attachments</p>\n\n<h2 id=\"IDA3SKNG\">If the only attachment is a covering letter</h2>\n\n<p>5. Discard the letter</p>\n\n<p>6. Pass the return back for ADC processing</p>\n\n<h2 id=\"IDADUKNG\">If the attachment is a form</h2>\n\n<p>7. Check if the figures on the form correspond with the taxpayer’s figures supplied in the appropriate boxes on the return</p>\n\n<p>If the figures are the same</p>\n\n<p>8. Remove the form and send it back to the taxpayer with SEES letter SA658, which can be found in SEES Letters and Forms under the ‘Self Assessment’ category</p>\n\n<p>9. Pass the return back for ADC processing</p>\n\n<p>If the figures are not the same</p>\n\n<p>10. Pass the return to the appropriate office with processing responsibility to capture manually</p>\n\n<h2 id=\"IDAHXKNG\">In all other cases</h2>\n\n<p>11. Pass the return to the appropriate office with processing responsibility to capture manually</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127000",
+   "section_id": "SAM127000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-03T10:14:59+01:00",
+ "section_id": "SAM127011",
+ "title": "Returns: returns processed at HMRC Netherton: HMRC Netherton: enclosures or attachments with return (Action Guide)"
+}

@@ -1,0 +1,48 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34045",
+ "body": "<p>This section deals with changes in accounting policy from one valid basis to another and is organised as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34050",
+     "description": "",
+     "section_id": "BIM34050",
+     "title": "Accounting policy changes: has there been a change?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34055",
+     "description": "",
+     "section_id": "BIM34055",
+     "title": "Accounting policy changes: Section 10 of FRS102"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34060",
+     "description": "",
+     "section_id": "BIM34060",
+     "title": "Accounting policy changes: when are they made?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34065",
+     "description": "",
+     "section_id": "BIM34065",
+     "title": "Accounting policy changes: how are they reported in accounts?"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:26+01:00",
+ "section_id": "BIM34045",
+ "title": "Change of basis of computing taxable profits: accounting policy changes: contents"
+}

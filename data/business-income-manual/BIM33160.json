@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33160",
+ "body": "<p>The stock is valued at its market value, rather than at the lower of cost and net realisable value.</p>\n\n<p>Strictly FRS102 only allows the use of the lower of cost and net realisable value as a method for valuing stock. Therefore entities which wish to use a mark to market method are using the true and fair view override (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31020\">BIM31020</a>). That is, they assert that in order to present a true and fair picture of the business a mark to market valuation method must be used, rather than the lower of cost and net realisable value.</p>\n\n<p>This method is only appropriate where there is a liquid market in the stock, so that the value could be realised easily. It is currently used by financial institutions and commodities dealers.</p>\n\n<p>For entities applying one FRS 102 Section 13 then agricultural produce is measured at fair value less costs to sell at the point of harvest in accordance with IAS 41.</p>\n\n<p>FRS 105 Section 27 Specialised Activities requires agricultural produce to be measured under the cost model.</p>\n\n<h3 id=\"current-law-amp-practice\">Current law &amp; practice</h3>\n\n<p>Following legal advice, HMRC’s view is that where:</p>\n\n<ul>\n  <li>mark to market (MTM) basis of valuation is used in any company’s accounts,</li>\n  <li>the use of it is in accordance with generally accepted accounting practice (including appropriate industry Statements of Recommended Practice),</li>\n  <li>the profits and losses thrown up by the comparison of fair values is taken to profit and loss account or its equivalent, and not to reserve,</li>\n</ul>\n\n<p>then there is no rule of law requiring the profits or losses disclosed by the accounts to be adjusted for tax purposes to give effect to the realisation basis.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33100",
+   "section_id": "BIM33100"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T09:45:41+00:00",
+ "section_id": "BIM33160",
+ "title": "Stock: valuation: mark to market or marking to market"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45155",
+ "body": "<p>S108-S110 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S105-S106 and S108 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<h2 id=\"no-proceeds-brought-into-trading-profits-where-trading-stock-gifted-to-qualifying-organisations\">No proceeds brought into trading profits where trading stock gifted to qualifying organisations</h2>\n\n<p>Traders are able to obtain relief for donations of trading stock to certain bodies under S108 ITTOIA 2005 for unincorporated businesses and S105 CTA 2009 for companies. If the conditions are met, no amount is brought into account as a receipt in calculating the trading profits in relation to the stock given away.</p>\n\n<p>This relief is available if the trader gives an ‘article’, which is manufactured or sold in the course of his trade, to:</p>\n\n<ul>\n  <li>a charity (see the definition in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45072\">BIM45072</a>)</li>\n  <li>a community amateur sports club within the meaning of S658 Corporation Taxes Act 2010 (CTA 2010) (see the guidance available on the HMRC website <a href=\"http://www.hmrc.gov.uk/casc/casc_guidance.htm\">http://www.hmrc.gov.uk/casc/casc_guidance.htm</a>)</li>\n  <li>the National Heritage Memorial Fund</li>\n  <li>the Historic Buildings and Monuments Commission of England</li>\n  <li>a designated educational establishment (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45170\">BIM45170</a>)</li>\n</ul>\n\n<p>There is no requirement in the legislation for the trader to make a formal claim for this relief as it applies automatically.</p>\n\n<p>As no trading receipt is treated as arising, for tax purposes, in relation to the gift, the trader obtains full relief for the cost of acquisition or manufacture of the article in question. This legislative provision overrides the general principles which apply to non-trading transactions in stock (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33600\">BIM33600</a>).</p>\n\n<h3 id=\"benefit-received-which-is-attributable-to-the-gift\">Benefit received which is attributable to the gift</h3>\n\n<p>Exceptionally, if the trader (or someone connected with the trader) receives a benefit attributable to the gift, an amount equal to the amount of the benefit must be taken into account as a trading receipt under S109 ITTOIA 2005 or S108 CTA 2009. If the benefit is not given in cash, then the amount that should be included is the market value of the benefit. If the trader has ceased to trade by the time that benefit is received this will be a post-cessation receipt.</p>\n\n<p>The definition of ‘connected persons’ for unincorporated traders is in S993 and S994 Income Tax Act 2007 (ITA 2007). The definition of this term for companies is in S1122 and S1123 CTA 2010.</p>\n\n<h3 id=\"tainted-charity-donations\">Tainted charity donations</h3>\n\n<p>If an unincorporated business makes a donation of trading stock as part of arrangements to which the tainted charity donations rules in Part13 Chap8 ITA 2007 apply, no relief will be due (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45160\">BIM45160</a>).</p>\n\n<h3 id=\"reliefs-for-other-donations\">Reliefs for other donations</h3>\n\n<p>For details of the relief available where plant and machinery is donated to charities and other qualifying bodies, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45165\">BIM45165</a>.</p>\n\n<p>For details of the relief available for donation of medical supplies and equipment by companies, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45175\">BIM45175</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45150",
+   "section_id": "BIM45150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2020-01-07T18:29:08+00:00",
+ "section_id": "BIM45155",
+ "title": "Specific deductions: gifts in kind and payroll giving: relief for gifts of trading stock to charities and other bodies"
+}

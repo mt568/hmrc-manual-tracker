@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127010",
+ "body": "<p>Once any payments received with the return have been dealt with, other attachments with a Short Tax Return (SA200) will be reviewed in Netherton to identify any that have a bearing on the information in the return. The SA200 and the attachment will then be either</p>\n<ul><li class=\"dash\">Forwarded to ADC for automated capture</li></ul>\n<blockquote><p>Or</p></blockquote>\n<ul><li class=\"dash\">Returned to the taxpayer</li></ul>\n<blockquote><p>Or</p></blockquote>\n<ul><li class=\"dash\">Forwarded to the office with processing responsibility for manual capture</li></ul>\n<p>Where the attachment needs to be sent back to the taxpayer, it should be sent back with SEES letter SA658, which can be found in SEES Forms and Letters under the ‘Self Assessment’ category.</p>\n<p><strong>Note: </strong>If the only attachment is a covering letter, for example saying ‘I enclose my return’ or similar, or is a form containing figures which correspond with the taxpayer’s entries in return boxes, the return can be passed back for processing through ADC. The table below can be used to check the corresponding boxes.</p>\n<table><tbody><tr><td width=\"176\"><p><strong>Forms</strong></p></td><td><p><strong>Boxes on return</strong></p></td></tr><tr><td width=\"176\"><p>P60</p></td><td><p>Check that P60 figures agree income and tax in boxes 2.2 and 2.3, or boxes 4.2 and 4.3</p></td></tr><tr><td width=\"176\"><p>P11D</p></td><td><p>Check that box 2.4 on return equals total of boxes 1.13 to 1.19 plus 1.21 on P11D</p></td></tr><tr><td width=\"176\"><p>CIS vouchers</p></td><td><p>Check that total amount deducted on vouchers equals amount entered in box 3.14</p></td></tr><tr><td width=\"176\"><p>S352 certificates</p></td><td><p>Check that the amount of net interest agrees box 5.1 on the return</p></td></tr><tr><td width=\"176\"><p>Dividend vouchers</p></td><td><p>Check that total amount of the net dividend received equals amount entered in box 5.3</p></td></tr></tbody></table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127000",
+   "section_id": "SAM127000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-02-12T00:00:00+00:00",
+ "section_id": "SAM127010",
+ "title": "Returns: returns processed at HMRC Netherton: HMRC Netherton: enclosures or attachments with return"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127051",
+ "body": "<p>Where a return for a year prior to CY-1 has been received, follow steps 1 - 2 below</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Log the return using function LOG RETURN</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Forward the return to the appropriate office with processing responsibility for manual capture</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127000",
+   "section_id": "SAM127000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:12+00:00",
+ "section_id": "SAM127051",
+ "title": "Returns: returns processed at HMRC Netherton: HMRC Netherton: returns for earlier years (Action Guide)"
+}

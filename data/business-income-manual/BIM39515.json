@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim39515",
+ "body": "<p>S25 Income Tax (Trading and Other Income) Act 2005 requires a business to compute its trading profits in accordance with GAAP.</p>\n<p>It follows that the exchange rates used in the business accounts are also acceptable for computing exchange gains or losses for the purposes of determining trade profits, where the use of such exchange rates is in accordance with generally accepted accounting practice.</p>\n<p>Special considerations apply where a business incurs foreign currency expenditure that qualifies for capital allowances - see&nbsp;<a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11750\">CA11750</a>.</p>\n<p>Traders may use London closing rates (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39505\">BIM39505</a>) when translating foreign currency amounts into sterling in their accounts.  Equally they may use other exchange rates, such as an exchange rate quoted by their bank, or the monthly average rates published by HMRC for VAT purposes.  You only need to query the rate of exchange used if, exceptionally, it diverges markedly from rates obtained from reputable sources of this nature.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim39500",
+   "section_id": "BIM39500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:08+01:00",
+ "section_id": "BIM39515",
+ "title": "Foreign exchange: exchange rate for tax purposes"
+}

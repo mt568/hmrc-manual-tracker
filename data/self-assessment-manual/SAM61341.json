@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61341",
+ "body": "<p>Where future penalties need to be inhibited follow steps 1 - 4 below.</p>\n\n<p>For details of how to access the SA functions, select ‘Index of functions’ on the left of the screen</p>\n\n<h2 id=\"IDAL5TWG\">Individuals/trusts</h2>\n\n<p>1. From the user role function menu in the ‘Returns’ area</p>\n\n<ul>\n  <li>Enter the taxpayer reference</li>\n  <li>Select ‘VIEW/CONTROL PENALTIES’</li>\n</ul>\n\n<p>2. From the list provided, identify whether you want to inhibit late filing penalties and/or late payment penalties</p>\n\n<ul>\n  <li>Enter ‘Y’ in the relevant field(s)</li>\n</ul>\n\n<p>To remove the inhibition signal in future against late filing or late payment penalties</p>\n\n<ul>\n  <li>Replace the entry with ‘N’</li>\n  <li>Select the [UPDATE] button</li>\n</ul>\n\n<p>Note 1: If an individual is a member of a partnership, the inhibition of late filing penalties on the individual record will not prevent the issue of any penalties due to the late filing of the partnership return</p>\n\n<p>Note 2: Removal of the inhibition signal will issue all penalties now due including those not already raised because the inhibition was in previously in place</p>\n\n<h2 id=\"IDA3EUWG\">Partnerships</h2>\n\n<p>3. From the User Role function menu in the ‘Returns’ area</p>\n\n<ul>\n  <li>Enter the partnership reference</li>\n  <li>Select ‘VIEW/CONTROL PENALTIES’</li>\n</ul>\n\n<p>4. Select ‘LATE FILING PENALTIES’</p>\n\n<ul>\n  <li>Enter ‘Y’</li>\n  <li>Select the [UPDATE] button</li>\n</ul>\n\n<p>To remove the inhibition signal against late filing or late payment penalties in future</p>\n\n<ul>\n  <li>Replace the entry with ‘N’</li>\n  <li>Select the [UPDATE] button</li>\n</ul>\n\n<p>Note: Removal of the inhibition signal will issue all penalties now due including those not already raised because the inhibition was in previously in place</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61000",
+   "section_id": "SAM61000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-24T08:08:14+01:00",
+ "section_id": "SAM61341",
+ "title": "Interest, penalties and surcharge: penalties: control penalties- inhibiting future penalties (for tax years 2010-2011 onwards) Action Guide "
+}

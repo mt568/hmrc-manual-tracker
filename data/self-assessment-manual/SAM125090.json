@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125090",
+ "body": "<p>An SA return will not be issued automatically if at the time of the automatic selection process, or following use of function RECORD RETURN REQUEST, all usable addresses on the SA record are RLS. The case will be entered on the ‘RLS’ work list.</p>\n\n<p>When a later address has been entered on the SA record, and the ‘RLS’ work lists entry cleared, the case will be entered on the ‘Manual Issue of Return’ work list. The entry against ‘RLS’ will be blank and the entries against ‘Deceased’, ‘Welsh Language’ and ‘Manual Return’ will be ‘N’.</p>\n\n<p>If the bulk issue of returns has taken place, and you are satisfied that there is no other inhibition to automatic issue of the return, use function RECORD RETURN REQUEST to issue a return for CY-1. Any of the following signals present on the SA record will inhibit automatic issue</p>\n\n<ul>\n  <li>Manual Return</li>\n  <li>Welsh Language</li>\n  <li>Deceased</li>\n</ul>\n\n<p>Otherwise, you should now</p>\n\n<ul>\n  <li>Prepare a return manually</li>\n  <li>If this is done for annual bulk issue, hold the return with other returns to be issued manually</li>\n  <li>Prior to issue, use function RECORD DATE OF CLERICAL ISSUE to enter the date of issue on the SA record (the function allows you to enter a date up to 5 days later than today’s date)</li>\n</ul>\n\n<p>Note: For Welsh Language cases only, notify the Welsh Contact Centre on 0300 200 1900 or send a WAM to WAM Box 906.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:56+00:00",
+ "section_id": "SAM125090",
+ "title": "Returns: returns work lists: w016 manual issue of return: RLS signal"
+}

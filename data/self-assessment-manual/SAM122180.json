@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122180",
+ "body": "\n<p>There are two types of computer messages which you may see whilst entering the information from the return during capture using function CAPTURE RETURN. These are prompted by checks carried out by the computer on the information entered.  </p>\n\n<p>The two types of message are  </p>\n\n<ul>\n  <li>Error messages</li>\n  <li>Warning messagesError messages arise following arithmetic and similar checks carried out by the computer.</li>\n</ul>\n\n<p>Warning messages arise to prompt you to check what you have entered in unlikely situations.  </p>\n\n<p>There are various ways in which errors and omissions on a return can be handled and system help is available at function, screen, field and error message level throughout function CAPTURE RETURN.  </p>\n\n<p>When a figure has been checked you must accept the figure (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam122165\">SAM122165</a>) without amendment, once you are sure that  </p>\n\n<ul>\n  <li>The figure has been copied correctly</li>\n  <li>The nominated partner or agent has not made an obvious error or mistakeOtherwise there is a risk of starting a Check Later enquiry prematurely or by accident.</li>\n</ul>\n\n<p>In dealing with these errors always consider the individual circumstances of the case. Avoid unnecessary communication and use your judgement and experience.  </p>\n\n<p>If you need to contact the person who submitted the return to clarify minor points and to avoid delaying capture of the return use the telephone or exceptionally if you have  been given permission by your manager, write a letter. You must make it clear that the query  </p>\n\n<ul>\n  <li>Is designed to allow you to process the return on the basis of the figures supplied</li>\n  <li>Does no more than clarify unclear handwriting or incorrect arithmeticIn all other cases or if you are in doubt you should accept the figure.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:33+00:00",
+ "section_id": "SAM122180",
+ "title": "Returns: partnership returns: error and warning messages:  partnerships"
+}

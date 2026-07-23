@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46010",
+ "body": "<p>S196, S197, S199, S199A, S200 Finance Act 2004</p>\n<h2>General rule</h2>\n<p>Employers’ contributions to registered pension schemes are allowed as a deduction for the period of account in which they are paid by the employer, and for no other period, unless either the deduction is required to be spread over a number of periods or the deduction is allowed for an earlier period, as described below. See also <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46150\">BIM46150</a> for the denial of up-front relief for certain employer asset-backed contributions.</p>\n<p>In practice, as the accounting treatment is not followed for tax purposes, this means that an employer's tax computation is adjusted to:</p>\n<ul><li class=\"filledcircle\">add back the deduction for the pension scheme contributions shown in the profit &amp; loss account, and</li><li class=\"filledcircle\">give a deduction for contributions to registered pension schemes on a ‘paid’ basis.</li></ul>\n<h2>Spreading</h2>\n<p>Spreading of deductions will&nbsp;be required where there is an increase over 210% in the level of employer contributions paid from one period to the next, unless the increase is below £500,000.&nbsp;If the employer operates more than one pension scheme, you look at the respective contributions to each one separately and not the combined total employer contributions to all schemes.&nbsp;This is a specialist area and you sh<span>ould refer to the detailed guidance in the Pensions Tax Man</span><span>ual at </span><a href=\"https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400\" rel=\"nofollow\">PTM043400</a><span>.&nbsp;</span></p>\n<h2>S75 Pensions Act 1995</h2>\n<p>Where an employer, who has ceased trading, has to make a payment into a registered pension scheme to satisfy a liability crystallising under S75, or the Pensions (Northern Ireland) Order 1995, SI 1995 No 3213) (NI22), Article 75, S199&nbsp;treats that payment&nbsp;as a contribution under the registered pension scheme.</p>\n<p>Where the employer has ceased trading, the payment is treated as being made on the last day of trading and is deductible in arriving at the profits for the final period of trading. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46045\">BIM46045</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46000",
+   "section_id": "BIM46000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-11-20T17:55:45+00:00",
+ "section_id": "BIM46010",
+ "title": "Specific deductions: pension schemes: timing of deductions"
+}

@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim39501",
+ "body": "<p>If a business makes sales or purchases in a foreign currency, or has assets or liabilities that are denominated in foreign currencies, its accounts will reflect foreign exchange gains or losses.</p>\n<p>How foreign exchange differences arise is explained at <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm61030\" rel=\"nofollow\">CFM61030</a> onwards. This background information is relevant to both companies and unincorporated businesses.</p>\n<h2>Corporation Tax</h2>\n<p>Exchange gains and losses that arise on the monetary assets or liabilities of companies are taxed or relieved under the loan relationships rules in Part 5 Corporation Tax Act 2009. You can find detailed guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm60000\" rel=\"nofollow\">CFM60000</a> onwards.</p>\n<h2>Income Tax</h2>\n<p>The guidance that follows relates <strong>only</strong> to unincorporated businesses. This includes partnerships, provided at least one partner is an individual. It does not apply to companies within the charge to corporation tax. It deals with:</p>\n<ul><li class=\"filledcircle\">the rate of exchange that traders should use to translate foreign currency amounts into sterling (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39505\">BIM39505</a> onwards).</li><li class=\"filledcircle\">the tax treatment of exchange differences arising on monetary assets or liabilities of the business (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39520\">BIM39520</a> onwards).</li><li class=\"filledcircle\">businesses that prepare accounts in a non-sterling currency (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39580\">BIM39580</a>).</li><li class=\"filledcircle\">Statement of Practice SP02/02 sets out the HMRC practice on how exchange differences should be treated in the tax computations of unincorporated businesses. Business Profits&nbsp;will advise in cases of difficulty that cannot be resolved by looking at SP02/02.</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim39500",
+   "section_id": "BIM39500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-04-12T15:06:01+01:00",
+ "section_id": "BIM39501",
+ "title": "Foreign exchange: introduction"
+}

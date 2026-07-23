@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71160",
+ "body": "\n<p>Event  </p>\n\n<p>A work item is created when a partnership return has been amended online and successfully processed.  </p>\n\n<p>Specific details  </p>\n\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n\n<ul>\n  <li>Return year</li>\n  <li>Electronic Amendment Reason</li>\n  <li>Electronic Amendment Timestamp</li>\n</ul>\n\n<p> </p>\n\n<p>Allocation of responsibility  </p>\n\n<p>The work items will be reviewed by the responsible Technical office who will then redirect the work item to the appropriate processing or clerical team.  </p>\n\n<p>Frequency of review  </p>\n\n<p>The Work List is to be worked as directed.  </p>\n\n<p>Updating of details  </p>\n\n<p>Until the work item is cleared, the following details held on the work item are updated by Work Management immediately the corresponding entry is updated on the taxpayer record</p>\n\n<ul>\n  <li>Taxpayer name</li>\n  <li>NINO</li>\n  <li>Employer reference (EMPREF)</li>\n</ul>\n\n<p> </p>\n\n<p>Action to take on the work item  </p>\n\n<p>Advice on the action to take to clear the work items is available in section ‘Returns Work Lists’, as follows</p>\n\n<ul>\n  <li>Partnership Online Amendments (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125220\">SAM125220</a>)</li>\n  <li>Partnership Online Amendments (AG) (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125221\">SAM125221</a>)</li>\n</ul>\n\n<p> </p>\n\n<p>Deletion of the work item  </p>\n\n<p>The work items must be deleted manually.  </p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-03-22T12:27:40+00:00",
+ "section_id": "SAM71160",
+ "title": "Manage work: work management: W056 partnership online  amendments"
+}

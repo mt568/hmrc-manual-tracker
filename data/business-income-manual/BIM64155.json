@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64155",
+ "body": "<p>A private sector operator, whose trade is running a prison, enters into a PFI contract with a public sector purchaser, to provide a specific number of prison places for 30 years. The operator builds a prison on land acquired for the purpose. The trade commences when the prison is completed and ready to receive its first prisoner (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64065\">BIM64065</a>). In return the operator receives an annual service payment, the unitary charge, which commences after the trade has started.</p>\n\n<h2 id=\"accounting-period-1\">Accounting period 1</h2>\n\n<p>The prison is completed at the end of the first accounting period.</p>\n\n<p>For tax purposes the design and construction costs are capital expenditure. The prison is a fixed capital asset of the operator’s trade (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64025\">BIM64025</a> onwards). For accounting purposes the example assumes that it is reported as a fixed asset on the operator’s balance sheet, under FRS5 Application Note F, at a figure of £90m representing cost (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64070\">BIM64070</a> onwards).</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>-</th>\n      <th>Amount</th>\n      <th>-</th>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Dr</td>\n      <td>Fixed asset</td>\n      <td>£90m</td>\n      <td>Cr</td>\n      <td>Bank</td>\n      <td>£90m</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>No income is receivable in the first accounting period.</p>\n\n<h2 id=\"accounting-period-2\">Accounting period 2</h2>\n\n<p>In the second accounting period the trade commences and a unitary payment of £15m is receivable.</p>\n\n<p>For tax purposes the £15m is trading income for the provision of services. For accounting purposes the whole of the unitary payment is credited to the profit and loss account. Depreciation on the fixed asset, calculated at £3m, is debited to the profit and loss account.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>-</th>\n      <th>Amount</th>\n      <th>-</th>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Dr</td>\n      <td>Bank</td>\n      <td>£15m</td>\n      <td>Cr</td>\n      <td>P&amp;L account</td>\n      <td>£15m</td>\n    </tr>\n    <tr>\n      <td>Dr</td>\n      <td>P&amp;L account (depreciation)</td>\n      <td>£ 3m</td>\n      <td>Cr</td>\n      <td>Accumulated depreciation account</td>\n      <td>£ 3m</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>For tax purposes we follow the accounting recognition of income and expenditure in the profit and loss account, subject to any relevant over-riding statutory or case law principle.</p>\n\n<p>The £15m unitary payment is trading income for services provided and no adjustment is required in the trading profits computation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64125\">BIM64125</a>). The £3m depreciation represents capital construction expenditure, is not an allowable deduction for tax purposes, and is therefore added back in the trading profits computation. Capital allowances can be claimed on qualifying expenditure (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64375\">BIM64375</a>).</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Trading income computation</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Income (net of depreciation)</td>\n      <td>£12m</td>\n    </tr>\n    <tr>\n      <td>Plus depreciation</td>\n      <td>£ 3m</td>\n    </tr>\n    <tr>\n      <td>Profit (before overheads)</td>\n      <td>£15m</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64120",
+   "section_id": "BIM64120"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-20T10:20:58+00:00",
+ "section_id": "BIM64155",
+ "title": "Private Finance Initiative (PFI): accounting and tax: income and expenditure recognition: example 4"
+}

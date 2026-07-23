@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45355",
+ "body": "<div><p><span><span>The guidance in this section refers to</span><span> FRS 102</span> <span>S</span><span>ection 20 </span></span><span><span>Leases</span><span>.</span></span>&nbsp;</p></div>\n<div><p><span><span>Related standards under other frameworks are:</span></span>&nbsp;</p></div>\n<div><p><span><span>FRS 105 </span><span>Section 15 </span></span><span><span>Leases</span></span>&nbsp;</p></div>\n<div><p><span><span>IAS</span>: <span>IFRS</span> <span>16 </span></span><span><span>Leases </span></span><span><span>(from 1 January 2019)</span><span>,</span><span> which supersedes</span></span> <span><span>IAS 17</span></span><span><span> Leases</span></span>&nbsp;</p></div>\n<div><p><span>Old UK GAAP: </span><span>SSAP 21 </span><span>Accounting for Leases and Hire Purchase Contracts</span>&nbsp;</p></div>\n<div><p><span><span>If you have concerns regarding the accounting treatment of a hire purchase contract, seek advice from an HMRC </span><span>A</span><span>dvisory </span><span>A</span><span>ccountant.</span></span>&nbsp;</p></div>\n<div><p><span><span>FRS</span> <span>102 </span><span>Section 20 </span><span>does not separately define a hire purchase contract. Such contracts are classified as either a finance lease or an operating lease according to their nature.</span></span>&nbsp;</p></div>\n<p>Most hire purchase contracts are of a financing nature. Generally, the option to purchase the asset is exercisable at below market value - often at a nominal amount - such that the hirer can be expected from the outset to take up the option. Under FRS 102 Section 20, such hire purchase contracts should be accounted for as a finance lease, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-leasing-manual/blm13010\">BLM13010</a> onwards. In commercial reality such a contract is one of sale and purchase of goods, the agreement is a means of financing the transaction, and the ‘hire’ (revenue expenditure) element of the payments is equivalent to ‘interest’ on the finance provided.</p>\n<p>Less commonly, there are hire purchase contracts which are not of a financing nature. For example, the option to purchase may be exercisable at a relatively high price such that the hirer may not take it up. Under FRS 102 Section 20, such hire purchase contracts should be accounted for as an operating lease, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-leasing-manual/blm10010\">BLM10010</a>.</p>\n<p>For hire purchase contracts that are of a financing nature the accountancy treatment spreads the ’hire' or ’interest' element of the payments over the term of the agreement. The method used in accounts prepared in accordance with GAAP should be followed for tax purposes.</p>\n<div><p><span>IFRS 16 has a single lessee accounting model that requires assets and liabilities arising from all but exempt lease agreements to be recognised on the balance sheet. The lessee will recognise an asset reflecting their right to use the leased asset for the lease term and a lease liability reflecting their obligation to make lease payments. Both the right-of-use asset and lease liability will be recognised at the commencement of the lease.</span>&nbsp;</p></div>\n<div><p><span>The right-of-use asset is depreciated, normally on a </span>straight line basis, over the lease term. The interest on the lease liability is recognised so as to maintain a constant rate on the outstanding lease liability. Depreciation and interest on the lease liability are both recognised in the profit and loss account. Further guidance on IFRS 16 is available at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-leasing-manual/blm17000\"><span><span>BLM17000</span></span></a><span>.</span>&nbsp;</p></div>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45350",
+   "section_id": "BIM45350"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-10-22T01:00:00+01:00",
+ "section_id": "BIM45355",
+ "title": "Specific deductions: hire purchase: accountancy treatment"
+}

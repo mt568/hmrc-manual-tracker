@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86032",
+ "body": "<p>No relief is due to an individual for a tax year if the individual has relevant income for the tax year and the income includes a payment made by, or on behalf of, a partnership when the individual is a partner in the partnership, or connected with a partner in the partnership.</p>\n<p>For more information regarding the existence of a partnership see <a href=\"https://www.gov.uk/hmrc-internal-manuals/partnership-manual/pm132200\" rel=\"nofollow\">PM132200</a>.</p>\n<p>For the purposes of this exclusion a person is connected to another person if they are that person’s:</p>\n<ul><li>spouse or civil partner</li><li>brother or sister</li><li>ancestor</li><li>lineal descendant</li><li>spouse’s or civil partner’s brother or sister</li><li>spouse’s or civil partner’s ancestor</li><li>spouse’s or civil partner’s lineal descendant</li></ul>\n<p>These are the most common examples, but a full list can be found in S993 ITA 2007.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86030",
+   "section_id": "BIM86030"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-01-08T15:08:27+00:00",
+ "section_id": "BIM86032",
+ "title": "TMIA - Exclusions: Income from connected partnerships"
+}

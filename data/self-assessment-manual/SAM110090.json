@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110090",
+ "body": "\n<p>General</p>\n\n<p>In-year repayment requests are often made by investment managers, on behalf of the pension scheme, during the year. The investment manager in effect acts as nominee for the trustee.</p>\n\n<p>Where an in-year repayment is requested, SA function CREATE FREESTANDING CREDIT will be used to enter a credit on the SA record.</p>\n\n<p>The effective date of payment given to this freestanding credit is the date the repayment request was received.</p>\n\n<p>Following the use of this function</p>\n\n<ul>\n  <li>A credit will be created on the SA record which will be available for repayment or allocation against an SA charge</li>\n  <li>A work item will be created and entered on the ‘Freestanding Credit Review’ Work List</li>\n  <li>The No Repayment signal will be set automatically. (The setting of this signal will prevent an automatic repayment and possible over-repayment being made when the return is received)</li>\n  <li>You will be taken to function VIEW STATEMENT, from which you may want to access function ISSUE REPAYMENT FROM OVERPAID BALANCE. If repayment is not appropriate, you should exit that function</li>\n  <li>Use SA function MAINTAIN SA NOTES to enter a brief note recording the fact that a repayment / set-off has been made</li>\n</ul>\n\n<p>More detailed advice on creating a freestanding credit is provided in subject ‘Freestanding Credits’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam110080\">SAM110080</a>).</p>\n\n<p>SA / CODA record</p>\n\n<p>All repayments must be made from the SA record. The unlinked CODA record exists to account for liability that arises on certain payments, and is assessable on the administrator.</p>\n\n<p>Detailed information about linking SA to CODA records is provided in subject ‘Link From SA To PAYE/CODA Records’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam100090\">SAM100090</a>). You should also refer to separate instructions issued by the Pension Schemes Office.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:24+00:00",
+ "section_id": "SAM110090",
+ "title": "Repayments: issue repayment: in-year repayments to  pension schemes"
+}

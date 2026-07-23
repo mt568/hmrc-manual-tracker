@@ -1,0 +1,45 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42050",
+ "body": "<p>If an item is a proper deduction according to generally accepted accounting practice it should be allowed in computing trade profits unless it is expressly prohibited by legislation. This chapter introduces the various statutory prohibitions on deductions and also introduces rules which permit specific deductions. The rules determining the priority to be given where both a permissive and a prohibitive rule would otherwise apply are discussed at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42080\">BIM42080</a>.</p>\n<p>For the rules regarding deductions for a business using the cash basis, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70030\">BIM70030</a> onwards.</p>\n<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42051",
+     "description": "",
+     "section_id": "BIM42051",
+     "title": "Basic principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42060",
+     "description": "",
+     "section_id": "BIM42060",
+     "title": "Prohibitive rules"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42070",
+     "description": "",
+     "section_id": "BIM42070",
+     "title": "Permissive rules"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42080",
+     "description": "",
+     "section_id": "BIM42080",
+     "title": "Interaction between prohibitive and permissive rules"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-10-29T11:41:36+00:00",
+ "section_id": "BIM42050",
+ "title": "Deductions: general: contents"
+}

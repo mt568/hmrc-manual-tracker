@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64250",
+ "body": "<table>\n  <thead>\n    <tr>\n      <th>Tax treatment of project</th>\n      <th>Accounting treatment of trade interest</th>\n      <th>-</th>\n      <th>-</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>-</td>\n      <td>Fixed asset</td>\n      <td>Finance debtor</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>-</td>\n      <td>FRS5</td>\n      <td>FRS5</td>\n      <td>SSAP9/FRS5</td>\n    </tr>\n    <tr>\n      <td>Revenue</td>\n      <td>Example 1 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64255\">BIM64255</a>) / Example 2 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64260\">BIM64260</a>)</td>\n      <td>Example 3 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64265\">BIM64265</a>) / Example 4 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64270\">BIM64270</a>)</td>\n      <td>Example 5 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64275\">BIM64275</a>)</td>\n    </tr>\n    <tr>\n      <td>Capital</td>\n      <td>Example 6 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64280\">BIM64280</a>)</td>\n      <td>Example 7 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64285\">BIM64285</a>)</td>\n      <td>Example 8 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64290\">BIM64290</a>)</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64240",
+   "section_id": "BIM64240"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-20T11:37:08+00:00",
+ "section_id": "BIM64250",
+ "title": "Private Finance Initiative (PFI): interest: trade: table of examples"
+}

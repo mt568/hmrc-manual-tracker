@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33710",
+ "body": "<p>There are several tax cases that looked at money paid in connection with the acquisition of a business.  The very early first case was <strong>Royal Insurance Company v Watson</strong> [1896] 3 TC 500.  The Royal Insurance Company acquired the business of the Queen Insurance Company.  They took over the employment contract of the manager, but with an ability to pay him a lump sum in commutation of his annual salary.  They then paid him the lump sum and claimed to deduct it in arriving at their assessable profits.  The House of Lords held that payment of this amount was part of the 'purchase money' for the business and was capital expenditure.</p>\n<p>Exactly the same point was made in <strong>CIR v New Zealand Forest Research Institute Ltd</strong> [2000] 72 TC 628, although expressed in modern terms.  Here the company took over a business from the New Zealand government and had to take over the employees’ contracts on terms that deemed them to have always worked for the company.  The consideration for take-over was calculated by deducting the accrued liabilities to the workers from the value of assets.  The purchaser then claimed these liabilities as revenue deductions when they were actually paid.  The Privy Council decision was:</p>\n<blockquote>'The payments were a capital expense, because expenditure which is part of what was paid for the acquisition of assets is capital expenditure; a discharge of a vendor’s liability to a third party, whether vested or contingent, can be part of a purchase price, and it does not matter if the payment is not made at once but pursuant to an arrangement whereby the purchaser agrees to be substituted as debtor to the third party'.</blockquote>\n<p>This is a Privy Council case decided on the basis of New Zealand law so is not immediately applicable to UK cases, but does provide a good insight into the modern day decisions of four Law Lords.</p>\n<p>The views set out above received more recent support from the Special Commissioners in <strong>Triage Services Ltd v CIR</strong> [2006] SPC 519.  In a management buyout, Triage took over activities formerly undertaken by another company.  Triage paid £8m for the business and under a separate ‘repairs’ agreement the vendor agreed to offer Triage work commanding gross fees of £63m over the coming seven years, with provision for compensation if this did not happen.  There was evidence that the amount of the purchase price (£8m) was calculated taking into account both the value of repair work to be sent Triage’s way and the time period over which this was to be done.  Expert accountancy evidence supported the treatment adopted in Triage’s accounts: capitalise the payment as being for goodwill and write it off over the seven-year duration of the ’repair’ agreement.  Triage argued that the greater part of the £8m should be attributed to the ‘repairs’ agreement and was a revenue payment deductible for tax purposes.  The Commissioners accepted the HMRC argument that the £8m was a capital payment to acquire a business and was not deductible.</p>\n<p>The capital/revenue guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35655\">BIM35655</a> also discusses this point and has further case law material.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33700",
+   "section_id": "BIM33700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:22+01:00",
+ "section_id": "BIM33710",
+ "title": "Business successions: capital nature of acquisition"
+}

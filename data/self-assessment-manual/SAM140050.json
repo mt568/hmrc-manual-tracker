@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140050",
+ "body": "\n<p>Following the use of function CREATE SUNDRY CHARGE or function MAINTAIN SUNDRY CHARGE a proportion of cases will be selected for quality checks. This is to ensure there has been no misuse of these functions and to monitor the quality of the work performed.  </p>\n\n<p>A work item will be created where  </p>\n\n<ul>\n  <li>Function CREATE SUNDRY CHARGE is used to create a charge of £1000 or more</li>\n  <li>Function MAINTAIN SUNDRY CHARGE is used to amend an existing charge of £1000 or more</li>\n  <li>Function MAINTAIN SUNDRY CHARGE is used to increase an existing charge to one of £1000 or moreThe work item will be entered on the ‘Sundry Charge Quality Check’ work list and will be allocated to the user role of Clerical Processing Manager in the Processing Office</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140000",
+   "section_id": "SAM140000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:18+00:00",
+ "section_id": "SAM140050",
+ "title": "Transfer of liability: transfer from PAYE to SA: w034  sundry charge quality check work list"
+}

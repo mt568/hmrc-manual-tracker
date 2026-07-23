@@ -1,0 +1,210 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45000",
+ "body": "<p>S45 Income Tax (Trading and Other Income) Act 2005, S1298 Corporation Tax Act 2009</p>\n\n<h2 id=\"overview\">Overview</h2>\n\n<p>With certain exceptions, expenditure on business entertainment or gifts is not allowable as a deduction against profits, even if it is a genuine expense of the trade or business. This includes expenditure by:</p>\n\n<ul>\n  <li>individuals, partnerships and companies carrying on a trade, profession or vocation</li>\n  <li>individuals, partnerships and companies carrying on a property business</li>\n  <li>investment companies</li>\n  <li>employees and directors (in certain circumstances)</li>\n  <li>any other person who carries on a trade or business</li>\n</ul>\n\n<p>Assets used for the purpose of business entertainment do not qualify for capital allowances.</p>\n\n<p>Further guidance can be found as follows:</p>\n\n<ul>\n  <li>property businesses (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2064\">PIM2064</a>)</li>\n  <li>investment companies (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm08430\">CTM08430</a>)</li>\n  <li>capital allowances (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca27200\">CA27200</a>)</li>\n  <li>expenditure within the corporate intangibles regime (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-intangibles-research-and-development-manual/cird12580\">CIRD12580</a>)</li>\n</ul>\n\n<p>The guidance on business entertainment expenditure is arranged as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45005",
+     "description": "",
+     "section_id": "BIM45005",
+     "title": "History"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45010",
+     "description": "",
+     "section_id": "BIM45010",
+     "title": "What is business entertainment?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45011",
+     "description": "",
+     "section_id": "BIM45011",
+     "title": "Meaning of business entertainment: judicial guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45012",
+     "description": "",
+     "section_id": "BIM45012",
+     "title": "Meaning of business entertainment: hospitality provided free of charge"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45013",
+     "description": "",
+     "section_id": "BIM45013",
+     "title": "Meaning of business entertainment: contractual obligation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45014",
+     "description": "",
+     "section_id": "BIM45014",
+     "title": "Meaning of business entertainment: no hospitality if sufficient ‘quid pro quo'"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45020",
+     "description": "",
+     "section_id": "BIM45020",
+     "title": "Expenditure which is not allowable"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45025",
+     "description": "",
+     "section_id": "BIM45025",
+     "title": "Travelling costs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45030",
+     "description": "",
+     "section_id": "BIM45030",
+     "title": "Exceptions: provided in the normal course of trade for payment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45031",
+     "description": "",
+     "section_id": "BIM45031",
+     "title": "Exceptions: normal course of trade for payment: judicial guidance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45032",
+     "description": "",
+     "section_id": "BIM45032",
+     "title": "Exceptions: normal course of trade for purpose of advertising to the public"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45033",
+     "description": "",
+     "section_id": "BIM45033",
+     "title": "Exceptions: entertainment of employees"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45034",
+     "description": "",
+     "section_id": "BIM45034",
+     "title": "Exceptions: entertainment of employees: meaning of incidental"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45040",
+     "description": "",
+     "section_id": "BIM45040",
+     "title": "Entertaining by employees"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45045",
+     "description": "",
+     "section_id": "BIM45045",
+     "title": "Meals provided for non-employees"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45046",
+     "description": "",
+     "section_id": "BIM45046",
+     "title": "Accommodation provided for non-employees"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45047",
+     "description": "",
+     "section_id": "BIM45047",
+     "title": "Training courses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45050",
+     "description": "",
+     "section_id": "BIM45050",
+     "title": "Promotional events"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45055",
+     "description": "",
+     "section_id": "BIM45055",
+     "title": "Sponsorship"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45060",
+     "description": "",
+     "section_id": "BIM45060",
+     "title": "Expenditure paid to specialist providers: entertainment providers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45061",
+     "description": "",
+     "section_id": "BIM45061",
+     "title": "Expenditure paid to specialist providers: mixed services"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45062",
+     "description": "",
+     "section_id": "BIM45062",
+     "title": "Expenditure paid to specialist providers: example"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45065",
+     "description": "",
+     "section_id": "BIM45065",
+     "title": "Gifts: overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45070",
+     "description": "",
+     "section_id": "BIM45070",
+     "title": "Gifts: exceptions: small gifts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45071",
+     "description": "",
+     "section_id": "BIM45071",
+     "title": "Gifts: exceptions: free samples"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45072",
+     "description": "",
+     "section_id": "BIM45072",
+     "title": "Gifts: exceptions: gifts to charities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45074",
+     "description": "",
+     "section_id": "BIM45074",
+     "title": "Gifts: exceptions: gifts to employees"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45075",
+     "description": "",
+     "section_id": "BIM45075",
+     "title": "Prizes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45080",
+     "description": "",
+     "section_id": "BIM45080",
+     "title": "Sales incentive schemes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45085",
+     "description": "",
+     "section_id": "BIM45085",
+     "title": "Sales promotion schemes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45090",
+     "description": "",
+     "section_id": "BIM45090",
+     "title": "Prizes and incentives: tax treatment of recipient"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM45000",
+ "title": "Specific deductions: entertainment: introduction and contents"
+}

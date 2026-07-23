@@ -1,0 +1,63 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim37600",
+ "body": "<p>S34 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S54 Corporation Tax Act 2009 (CTA 2009)</p>\n<h2>The trade purpose must be the only purpose</h2>\n<p>To qualify for a deduction from trading profits under S34(1)(a) ITTOIA 2005 (for unincorporated businesses) and S54(1)(a) CTA 2009 (for companies), the trade purpose of the expense must be the sole purpose. A non-trade or private purpose precludes deduction in full where there is no objective yardstick by which any trade element can be distinguished from the non-trade element.</p>\n<h3>Apportionment</h3>\n<p>There is nothing in S34(1)(a) ITTOIA 2005 and S54(1)(a) CTA 2009 about apportioning expenditure, for example allowing the ‘trade proportion’ only. On the face of things the statutory test is all or nothing. But you should not interpret S34(1)(a) ITTOIA 2005 and S54(1)(a) CTA 2009 as requiring that the whole of the expenditure be incurred wholly and exclusively for the purposes of the trade, profession or vocation.</p>\n<p>Where a definite part or proportion of an expense is wholly and exclusively laid out or expended for the purposes of the trade profession or vocation, do not disallow that part or proportion on the ground that the expense is not, as a whole, so laid out or expended. A deduction for the identifiable proportion which was incurred wholly and exclusively for the purposes of the trade is provided in S34(2) ITTOIA 2005 and S54(2) CTA 2009</p>\n<p>A common example of this approach is the running costs of a car used partly for the purposes of the trade and partly for other purposes. You should allow the actual costs of any trade journeys (ie fuel, tolls, parking fees etc). You should also allow a proportion of the licence, insurance (provided the insurance covers business use), repairs, finance costs, etc.</p>\n<p>You should not argue that such costs would be incurred in any event and only the marginal additional costs attributed to trade use are allowed.</p>\n<p>The principle of apportionment was specifically considered in <strong>Wildbore v Luker</strong> [1951] 33 TC 46. The case concerned a claim to deduct the whole of the increase in the rates of a public house where part was used for the trade and part for private living accommodation. The courts rejected the claim to deduct the whole of the increase and approved the Revenue’s approach of allowing a proportion appropriate to trade use even if, on a strict reading of the legislation, the use for non-trade purposes meant disallowance of the whole on duality grounds. Roxburgh J explained the Court’s approach:</p>\n<blockquote>The Attorney-General has not asked me to say that if some part of the rates are for private purposes the whole must be disallowed; he has not asked me to say that. I think it is possible that on a literal construction of the Rule that might be the result but it has never been the practice and the Attorney-General has not asked me to say so. Therefore the result follows at once. There must be an apportionment and the apportionment must be de novo. Each year for Income Tax purposes is a separate entity and the proper course is for the General Commissioners to apportion these rates, having regard to such evidence as is called before them. I should have thought they could not possibly do it without some evidence being called before them.</blockquote>\n<h3>Duality</h3>\n<p>You need to distinguish those cases where a <strong>definite part</strong> or proportion of an expense has been wholly and exclusively laid out or expended for the purposes of the trade, profession or vocation from those where an expense has been incurred for a <strong>dual purpose</strong>, and so is not allowable.</p>\n<p>The courts have considered duality of purpose in the context of various expenses. The following guidance is specific to travel expenses and the guidance considers a number of these cases.</p>\n<p>The courts have considered duality of purpose in a variety of other circumstances (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37650\">BIM37650</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37700\">BIM37700</a>).</p>\n<p>For guidance on how to determine the trade proportion of the costs of lighting, insurance, repairs and heating of premises used partly for the purposes of the trade and partly for other purposes, see:</p>\n<ul><li class=\"filledcircle\">Use of home for business purposes - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47800\">BIM47800</a></li><li class=\"filledcircle\">Expenses of a farmhouse - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55250\">BIM55250</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim55260\">BIM55260</a></li><li class=\"filledcircle\">Entertaining expenses - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45000\">BIM45000</a> onwards</li><li class=\"filledcircle\">Overseas conferences and study tours - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42525\">BIM42525</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47710\">BIM47710</a></li><li class=\"filledcircle\">Council Tax and business rates - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46835\">BIM46835</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46840\">BIM46840</a></li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37605",
+     "description": "",
+     "section_id": "BIM37605",
+     "title": "Duality of, or non-trade, purpose: travel costs: home to work"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37610",
+     "description": "",
+     "section_id": "BIM37610",
+     "title": "Duality of, or non-trade, purpose: travel costs: overseas conference plus holiday"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37615",
+     "description": "",
+     "section_id": "BIM37615",
+     "title": "Duality of, or non-trade, purpose: travel costs: overseas conference"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37620",
+     "description": "",
+     "section_id": "BIM37620",
+     "title": "Duality of, or non-trade, purpose: travel costs: to and between sites"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37625",
+     "description": "",
+     "section_id": "BIM37625",
+     "title": "Duality of, or non-trade, purpose: travel costs: overseas visit"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37630",
+     "description": "",
+     "section_id": "BIM37630",
+     "title": "Duality of, or non-trade, purpose: travel costs: home to work by way of a supplier"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim37635",
+     "description": "",
+     "section_id": "BIM37635",
+     "title": "Duality of, or non-trade, purpose: travel costs: home to work: predictability of place of work"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:12:39+01:00",
+ "section_id": "BIM37600",
+ "title": "Wholly and exclusively: duality of, or non-trade, purpose: travel costs: contents"
+}

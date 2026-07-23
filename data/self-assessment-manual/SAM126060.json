@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam126060",
+ "body": "\n<p>Following acceptance of returns information sent online the case may be entered on the ‘Daily Returns Review: Electronic Return Cases’ work list. The reason for the work item will be shown as INT / ADC / PAYE CIC.  </p>\n\n<p>In this instance a coding (integrity) check is required.  </p>\n\n<p>Detailed advice on the action to take to clear entries (work items) appearing on the ‘Daily Returns Review: Electronic Return Cases’ work list is available in the section ‘Returns Work Lists’ at <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125020\">SAM125020</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam126000",
+   "section_id": "SAM126000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:06+00:00",
+ "section_id": "SAM126060",
+ "title": "Returns: filing returns online: filing returns online and  work management"
+}

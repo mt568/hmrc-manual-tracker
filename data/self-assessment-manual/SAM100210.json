@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100210",
+ "body": "<p>Where a person or body is appointed to act in a capacity for the taxpayer, the name and address of that person or body is entered on the SA individual, trust or company record, along with the capacity role using the Taxpayer Business Service (TBS). All output will then be sent to that person or body. Examples of a capacity are power of attorney granted to act on behalf of a taxpayer or&nbsp;Personal Representative if the customer has died.</p>\n<p>To set up capacity details for SA individual type records use TBS function AMEND CAPACITOR DETAILS or using NPS if an NPS record is held showing the customer’s UTR. If an NPS record is held refer to PAYE103055 onwards for more information. Do not use SA functions. The information will flow across through frameworks to the National Insurance and PAYE Service (NPS) and SA.</p>\n<p><strong>Note:</strong> Whenever there is a change to the capacity details, any current registration or enrolment for the SA Online Service will be removed from the online computer system. Therefore the capacitor <strong>must</strong> be advised to register and enrol again for the SA Online Service, using the personal details of the customer they are acting for, to be able to file the customer’s tax return online. When this is done, the activation code will be sent from the online services to the home address of the capacitor on the record.</p>\n<p>Only one capacity can be held on the taxpayer record and, in SA, a partnership cannot have any capacity set on the record.</p>\n<p>Where it is established that there is more than one Power of Attorney, as the system only allows one capacitor to be held, use SA Function MAINTAIN&nbsp;PERMANENT NOTES to add details of the joint Power of Attorneys.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+   "section_id": "SAM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-01-23T00:00:00+00:00",
+ "section_id": "SAM100210",
+ "title": "Records: set up taxpayer record: set up capacities"
+}

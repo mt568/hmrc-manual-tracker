@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40465",
+ "body": "<p>S105 Income Tax (Trading and Other Income) Act 2005, S102 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<p>Where a person carrying on a trade receives a grant under:</p>\n\n<ul>\n  <li>S7 or S8 of the Industrial Development Act 1982, or</li>\n  <li>Article 7, 9 or 30 of the Industrial Development (Northern Ireland) Order 1982,</li>\n</ul>\n\n<p>the payment must be brought into account as a receipt in calculating the taxable profits of the trade.</p>\n\n<p>This rule does not apply to professions or vocations.</p>\n\n<p>The rule also doesn’t apply to grants designated as made towards the cost of specified capital expenditure, unless the grant is made to a business with an election under S25A ITTOIA 2005 to use the cash basis (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70020\">BIM70020</a>), or as made by way of compensation for the loss of capital assets. Nor does it apply to grants made for all or part of a Corporation Tax liability (including one that has already been paid). This final exclusion relates to CT relief grants in Northern Ireland, for which see <a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm02110\">CTM02110</a>.</p>\n\n<p>A similar rule applies to companies with investment business under S1252 CTA 2009. Grants made to such companies are taxed as miscellaneous income.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40450",
+   "section_id": "BIM40450"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM40465",
+ "title": "Specific receipts: grants and subsidies: industrial development grants"
+}

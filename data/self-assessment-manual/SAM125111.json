@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125111",
+ "body": "<p>Where you are reviewing an entry on the ‘Manual Issue of Review Form 575’ Work List, follow steps 1 - 14 below. This guide is presented as follows</p>\n\n<p><a href=\"#IDAHVOFC\">Live primary source PAYE record held</a> - Steps 1 - 9<br />\n<a href=\"#IDAO1OFC\">Other situations</a> - Steps 10 - 14</p>\n\n<h2 id=\"IDAHVOFC\">Live primary source PAYE record held</h2>\n\n<p>1. Use PAYE Service Targeted Review Forms to check whether the ‘575 to Husband’ tick box is set to ‘Y’</p>\n\n<h4 id=\"if-the-575-to-husband-is-set-to-y\">If the ‘575 to Husband’ is set to ‘Y’</h4>\n\n<p>2. The Review form 575 will be issued automatically from PAYE to the husband</p>\n\n<p>3. Use function WORK LIST CASES or function SELECTED CASE to delete the work item</p>\n\n<h4 id=\"if-the-575-to-husband-is-not-set\">If the ‘575 to husband’ is not set</h4>\n\n<p>4. In a husband and wife case, enter ‘Y’ in the ‘575 to husband’ field on the PAYE record. The Review form 575 will be issued automatically from PAYE in future years. Note: In a civil partnership case, do not enter the ‘575 to Husband’ signal</p>\n\n<p>5. Prepare a Review form 575 for issue to the husband / PAYE source civil partner</p>\n\n<p>6. Address the form to the husband / PAYE source civil partner, and include the wife’s / SA source civil partner’s UTR (Unique Taxpayer Reference)</p>\n\n<p>7. Make a note of the date of issue in the wife’s / SA source civil partner’s SA Notes</p>\n\n<p>8. Use function WORK LIST CASES or function SELECTED CASE to delete the work item</p>\n\n<p>9. If you have prepared the form 575 for annual bulk issue, hold it with other forms 575 to be issued manually</p>\n\n<h2 id=\"IDAO1OFC\">Other situations</h2>\n\n<p>10. Prepare a Review form 575 for issue to the husband / PAYE source civil partner</p>\n\n<p>11. Address the form to the husband / PAYE source civil partner, and include the wife’s / SA source civil partner’s UTR</p>\n\n<p>12. Make a note of the date of issue in the wife’s / SA source civil partner’s SA Notes</p>\n\n<p>13. Use function WORK LIST CASES or function SELECTED CASE to delete the work item</p>\n\n<p>14. If you have prepared the form 575 for annual bulk issue, hold it with other forms 575 to be issued manually</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-03T09:13:51+01:00",
+ "section_id": "SAM125111",
+ "title": "Returns: returns work lists: w035 manual issue of review form 575 (Action Guide)"
+}

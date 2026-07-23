@@ -1,0 +1,50 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+ "body": "\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33005",
+     "description": "",
+     "section_id": "BIM33005",
+     "title": "Meaning of stock"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33100",
+     "description": "",
+     "section_id": "BIM33100",
+     "title": "Valuation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33300",
+     "description": "",
+     "section_id": "BIM33300",
+     "title": "Trading transactions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33450",
+     "description": "",
+     "section_id": "BIM33450",
+     "title": "Valuation on discontinuation of business"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33600",
+     "description": "",
+     "section_id": "BIM33600",
+     "title": "Non-trading transactions"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2020-03-03T10:53:38+00:00",
+ "section_id": "BIM33000",
+ "title": "Stock: contents"
+}

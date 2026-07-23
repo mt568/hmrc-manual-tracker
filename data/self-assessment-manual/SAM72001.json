@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72001",
+ "body": "<p>Access to the SA computer system is controlled</p>\n\n<ul>\n  <li>Centrally, by specifying the information and functions that an Organisation Unit can access</li>\n  <li>Locally, by allocating access rights to individual operators associated with the Organisation Unit</li>\n</ul>\n\n<p>Access controls are governed by</p>\n\n<ul>\n  <li>Responsible office</li>\n</ul>\n\n<p>And  </p>\n\n<ul>\n  <li>User roles</li>\n</ul>\n\n<h2 id=\"responsible-office\">Responsible Office</h2>\n\n<p>An Organisation Unit that deals with a particular aspect of a taxpayer’s affairs is deemed to be responsible for that taxpayer, and will be allowed to update that taxpayer’s SA record. There will be more than one responsible office at any time.</p>\n\n<p>Responsibility for an SA record is allocated by Revenue activity, as follows</p>\n\n<ul>\n  <li>Processing (the office with processing responsibility for the taxpayer</li>\n  <li>Technical (the office with technical responsibility for the taxpayer)</li>\n  <li>Recovery (the office with recovery responsibility for the taxpayer)</li>\n  <li>Accounting (the office with accounting responsibility for the taxpayer)</li>\n</ul>\n\n<p>The current office with processing responsibility for the taxpayer will always have an active responsibility to maintain that record. Other responsibilities are allocated when the need arises. Technical, recovery and accounting responsibilities fall to the office, with that Revenue activity.</p>\n\n<h2 id=\"user-roles\">User Roles</h2>\n\n<p>A user role will reflect a particular job, and will determine the functions that an individual operator can access to perform that job.</p>\n\n<p>Work Management uses the responsible office rules and user roles in allocating work items to the appropriate office.</p>\n\n<h2 id=\"access-to-functions\">Access to Functions</h2>\n\n<p>Function CASE SUMMARY is available for whole case working, that is carrying out multiple tasks for the same taxpayer.</p>\n\n<p>If a single task is to be carried out on the taxpayer record, it is invariably more efficient in both operational and computer resource terms to access the required function from the Function Menu. Where the required function is not available from the Menu, then the Case View hierarchy may be entered at a lower level than function CASE SUMMARY.</p>\n\n<h2 id=\"view-access\">View Access</h2>\n\n<p>View access is not restricted to the business responsibility of the operator’s office. However, you should only view a taxpayer’s SA record if there is a business need to do so.</p>\n\n<p>The main clerical processing roles include view functions, which can be used in exactly the same way as with the View Only role.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:23+00:00",
+ "section_id": "SAM72001",
+ "title": "Manage work: access to records: introduction"
+}

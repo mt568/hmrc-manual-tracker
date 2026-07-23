@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim81095",
+ "body": "<h2>S205 Income Tax (Trading and Other Income) Act 2005</h2>\n<p>Any overlap relief not used on a change of accounting date (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81090\">BIM81090</a>) is given in full in the tax year in which the business ceases.</p>\n<h3>Example</h3>\n<p>The business in the example at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81090\">BIM81090</a> ceases on 31 May 2020. The overlap profit available for relief is £25,002.</p>\n<p>The basis periods for the final 2 years are:</p>\n<table summary=\"Table showing the basis periods for the final 2 years\"><thead><tr><th scope=\"col\" width=\"156\"><p><strong>Year</strong></p></th><th scope=\"col\" width=\"109\"><p>-</p></th><th scope=\"col\"><p>-</p></th></tr></thead><tbody><tr><td width=\"156\"><p>2019-2020</p></td><td width=\"109\"><p>Year 10</p></td><td><p>12 months to 31 October 2019</p></td></tr><tr><td width=\"156\"><p>2020-2021</p></td><td width=\"109\"><p>Final year</p></td><td><p>7 months from 1 November 2019 to 31 May 2020</p></td></tr></tbody></table>\n<p>The profits for the 7 months to 31 May 2020 are £80,000. Overlap relief for the remaining overlap profits (£25,002) is deducted to give taxable profits for 2020-2021 of £54,998.</p>\n<p>The total profits taxed over the life of this business will exactly equal the total profits made.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81000",
+   "section_id": "BIM81000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-23T11:51:32+00:00",
+ "section_id": "BIM81095",
+ "title": "Computation of liability: overlap relief - given on cessation"
+}

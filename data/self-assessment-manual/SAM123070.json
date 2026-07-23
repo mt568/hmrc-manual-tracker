@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123070",
+ "body": "<p>The Taxpayer Return Profile is a record of the supplementary pages to be issued with the tax form each year.</p>\n\n<p>For the first year of SA the return profile is determined from certain information already held.</p>\n\n<p>When a trust is set up for the first time the information is entered on the trust SA record.</p>\n\n<p>One set of each of the required supplementary pages will be issued automatically with the return. Where multiple instances of the same supplementary pages are required the trustees are advised in the guidance notes to photocopy those pages already received.</p>\n\n<p>The return profile is updated automatically following the capture of the return on TSS.</p>\n\n<p>The information which you enter from the trust return in Technical Support System (TSS) will be assimilated and the printout ‘Action required following data capture’ will show the supplementary pages received. You should</p>\n\n<ul>\n  <li>Use MAINTAIN RETURN PROFILE to check the details in the printout with the information in Taxpayer Return Profile</li>\n</ul>\n\n<p>If there are discrepancies</p>\n\n<ul>\n  <li>Amend the return profile so that the trustees get the correct pages in the next return issue</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:38+00:00",
+ "section_id": "SAM123070",
+ "title": "Returns: trust returns: return profile: trust and estate returns only"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10041",
+ "body": "<p>Appeals should be dealt with in the office where they are received except in the circumstances shown in the table below, or where the office has no processing or technical functionality, for example Accounts Offices, Debt Management Offices and so on. Where an appeal is received by any office other than a processing or technical office, the appeal should be acknowledged and forwarded onto the office with processing responsibility for the taxpayer. Note: If the year to which the appeal relates is, or was, part of an enquiry, then the appeal should be sent on to the office responsible for the enquiry as below.</p>\n\n<p>To decide which office should handle an SA appeal, consider steps 1 - 4 below.</p>\n\n<p>1. Use function MAINTAIN RESPONSIBLE OFFICE to establish</p>\n\n<ul>\n  <li>The office with processing responsibility for the taxpayer</li>\n  <li>The office with technical responsibility for the taxpayer</li>\n</ul>\n\n<p>2. Use function VIEW COMPLIANCE HISTORY to establish</p>\n\n<ul>\n  <li>Whether there is an open enquiry into an SA return</li>\n  <li>Whether there are any closed enquiries into SA returns</li>\n  <li>The name of the officer who opened the enquiries</li>\n</ul>\n\n<p>3. Use function AMEND TAXPAYER SIGNALS to check</p>\n\n<ul>\n  <li>Whether there has been any changes in who is responsible for the enquiries</li>\n</ul>\n\n<p>4. By reference to the information obtained</p>\n\n<ul>\n  <li>Use the following table to decide where the appeal should be handled</li>\n</ul>\n\n<table>\n  <thead>\n    <tr>\n      <th>Circumstances</th>\n      <th>Appeal to be dealt with by</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>There is an open enquiry</td>\n      <td>The officer responsible for the enquiry</td>\n    </tr>\n    <tr>\n      <td>There is a closed enquiry and the appeal relates a year covered by the enquiry</td>\n      <td>The officer responsible for the enquiry</td>\n    </tr>\n    <tr>\n      <td>There is a closed enquiry and the appeal relates to a year not covered by the enquiry</td>\n      <td>The office in receipt of the appeal</td>\n    </tr>\n    <tr>\n      <td>There are no enquiry details recorded on the taxpayer’s record</td>\n      <td>The office in receipt of the appeal</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10000",
+   "section_id": "SAM10000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-07-26T10:32:32+01:00",
+ "section_id": "SAM10041",
+ "title": "Appeals, postponements and reviews: appeals: who should handle an appeal? (Action Guide)"
+}

@@ -1,0 +1,44 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim66200",
+ "body": "<p>Individuals who carry on business as subcontractors, and especially labour-only subcontractors, can present problems peculiar to this line of activity.</p>\n\n<p>The first question you should consider is whether the employment status is correct. There may be advantages to the taxpayer in claiming to be self-employed or trading via a personal service company in circumstances where, on the facts, the subcontractor is employed. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim66205\">BIM66205</a> for guidance in dealing with status issues.</p>\n\n<p>If, in the circumstances, the subcontractor is self-employed or operates via a personal service company which is not subject to the deemed employment rules then <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim66210\">BIM66210</a> onwards deals with the question of expenses which you can allow in computing chargeable trading profits.</p>\n\n<p>You should deal with any expenditure not specifically referred to on normal lines.</p>\n\n<p>If, on the facts, the subcontractor should be treated as an employee but has claimed to be self-employed on his tax return, you should refer to ESM0119 for guidance on how to proceed.</p>\n\n<p>For guidance on the deemed employment rules for subcontractors operating via personal service companies (also known as the ‘IR35 rules’), see ESM3000.</p>\n\n<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66205",
+     "description": "",
+     "section_id": "BIM66205",
+     "title": "Determining the employment status of the subcontractor"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66210",
+     "description": "",
+     "section_id": "BIM66210",
+     "title": "Expenses: travelling and subsistence"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66215",
+     "description": "",
+     "section_id": "BIM66215",
+     "title": "Expenses: use of home"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim66220",
+     "description": "",
+     "section_id": "BIM66220",
+     "title": "Expenses: payments to spouse, civil partner or relative"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:59+01:00",
+ "section_id": "BIM66200",
+ "title": "Subcontractors: contents"
+}

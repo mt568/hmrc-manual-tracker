@@ -1,0 +1,48 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim47300",
+ "body": "<p>A deduction in computing the profits of a trade carried on by an individual (either alone or in a partnership of individuals) is allowed for certain revenue expenditure incurred to meet a special security threat arising from the trade. The deduction applies to Income Tax only.</p>\n\n<p>The guidance on the application of the deduction is arranged as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47301",
+     "description": "",
+     "section_id": "BIM47301",
+     "title": "Overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47305",
+     "description": "",
+     "section_id": "BIM47305",
+     "title": "Conditions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47310",
+     "description": "",
+     "section_id": "BIM47310",
+     "title": "Qualifying assets"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47315",
+     "description": "",
+     "section_id": "BIM47315",
+     "title": "Partial use of asset"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:01:50+01:00",
+ "section_id": "BIM47300",
+ "title": "Specific deductions: security expenditure: contents"
+}

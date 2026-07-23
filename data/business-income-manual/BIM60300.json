@@ -1,0 +1,237 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+ "body": "<p>Ch.3 Part 13 Income Tax Act 2007, Part 18 Corporation Tax Act 2010</p>\n<p>This guidance describes what the transactions in land anti-avoidance legislation seeks to achieve, outlines the provisions and provides examples of where they may be applied. This applies to transactions prior to 16 March 2016. For transactions from 16 March 2016 onwards refer to <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60510\" rel=\"nofollow\">BIM60510+.</a></p>\n<p>Any case where an Officer considers that the anti-avoidance provisions apply must be submitted to the Business Profits Team  (Technical) before the matter is raised with the taxpayer or agent.</p>\n<p>The full contents of this chapter are as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60305",
+     "description": "",
+     "section_id": "BIM60305",
+     "title": "Overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60307",
+     "description": "",
+     "section_id": "BIM60307",
+     "title": "Straightforward transactions of purchase and sale"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60310",
+     "description": "",
+     "section_id": "BIM60310",
+     "title": "Conditions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60315",
+     "description": "",
+     "section_id": "BIM60315",
+     "title": "Conditions: territorial scope"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60320",
+     "description": "",
+     "section_id": "BIM60320",
+     "title": "Conditions: motive test"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60325",
+     "description": "",
+     "section_id": "BIM60325",
+     "title": "Person obtaining the gain"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60328",
+     "description": "",
+     "section_id": "BIM60328",
+     "title": "Provider of value or opportunity"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60330",
+     "description": "",
+     "section_id": "BIM60330",
+     "title": "Right to recover the tax from another person"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60333",
+     "description": "",
+     "section_id": "BIM60333",
+     "title": "Computation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60335",
+     "description": "",
+     "section_id": "BIM60335",
+     "title": "Period in which the gain is taxed"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60337",
+     "description": "",
+     "section_id": "BIM60337",
+     "title": "Transactions, arrangements, sales and realisations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60340",
+     "description": "",
+     "section_id": "BIM60340",
+     "title": "Common situations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60345",
+     "description": "",
+     "section_id": "BIM60345",
+     "title": "Common situations: Diversion schemes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60350",
+     "description": "",
+     "section_id": "BIM60350",
+     "title": "Common situations: 'Slice of the action' contracts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60355",
+     "description": "",
+     "section_id": "BIM60355",
+     "title": "Common situations: 'Slice of the action' contracts: Identification"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60360",
+     "description": "",
+     "section_id": "BIM60360",
+     "title": "Common situations: 'Slice of the action' contracts: Portion of charge may be exempt"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60365",
+     "description": "",
+     "section_id": "BIM60365",
+     "title": "Land developed for gain: Portion of charge may be exempt: Example"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60370",
+     "description": "",
+     "section_id": "BIM60370",
+     "title": "Exemptions: Profit chargeable as trading income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60375",
+     "description": "",
+     "section_id": "BIM60375",
+     "title": "Exemptions: Principal private residence"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60395",
+     "description": "",
+     "section_id": "BIM60395",
+     "title": "Clearance applications: Overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60400",
+     "description": "",
+     "section_id": "BIM60400",
+     "title": "Clearance applications: conditions for application"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60405",
+     "description": "",
+     "section_id": "BIM60405",
+     "title": "Clearance applications: Reference to BAI Business Profits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60410",
+     "description": "",
+     "section_id": "BIM60410",
+     "title": "Clearance applications: Time limit"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60415",
+     "description": "",
+     "section_id": "BIM60415",
+     "title": "Clearance applications: Obtaining further information"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60420",
+     "description": "",
+     "section_id": "BIM60420",
+     "title": "Clearance applications: Acceptance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60425",
+     "description": "",
+     "section_id": "BIM60425",
+     "title": "Clearance applications: Refusal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60430",
+     "description": "",
+     "section_id": "BIM60430",
+     "title": "Clearance applications: Form of words to accept or refuse clearance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60435",
+     "description": "",
+     "section_id": "BIM60435",
+     "title": "Clearance applications: Multiple applications in relation to the same transaction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60450",
+     "description": "",
+     "section_id": "BIM60450",
+     "title": "Definitions: Land"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60455",
+     "description": "",
+     "section_id": "BIM60455",
+     "title": "Definitions: Property deriving its value from land"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60460",
+     "description": "",
+     "section_id": "BIM60460",
+     "title": "Definitions: Developed"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60465",
+     "description": "",
+     "section_id": "BIM60465",
+     "title": "Definitions: Disposal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60470",
+     "description": "",
+     "section_id": "BIM60470",
+     "title": "Definitions: Gain of a capital nature"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60475",
+     "description": "",
+     "section_id": "BIM60475",
+     "title": "Definitions: Connected person"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60480",
+     "description": "",
+     "section_id": "BIM60480",
+     "title": "Definitions: Another person"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim60500",
+     "description": "",
+     "section_id": "BIM60500",
+     "title": "Tax cases"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2020-08-27T07:40:13+01:00",
+ "section_id": "BIM60300",
+ "title": "Measuring the profits (particular trades): land transactions (before 16 March 2016): contents"
+}

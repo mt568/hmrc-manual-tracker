@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123201",
+ "body": "<p>If you have to unlog an unsatisfactory return follow steps 1 - 5 below. For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Use function MAINTAIN RETURN SUMMARY to check the return has been logged</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>If the return has been logged use function UNLOG RETURN to unlog the return and select a reason for the unlogging from the drop down menu</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>If the whole return is to be sent back to the trustee and some of the details have been entered in TSS, use the TSS to delete them</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>Cross through any date stamp on the front of the return before returning the form</td>\n    </tr>\n    <tr>\n      <td>5.</td>\n      <td>Keep a copy of the letter you send to the trustee/agent concerning the unsatisfactory return in the trust’s file (This content has been withheld because of exemptions in the Freedom of Information Act 2000)  return received on (date) unlogged on (date)) from the SEES Notes Paster</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:41+00:00",
+ "section_id": "SAM123201",
+ "title": "Returns: trust returns: unlogging unsatisfactory trust returns (Action Guide)"
+}

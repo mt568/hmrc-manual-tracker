@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam131090",
+ "body": "\n<p>The SA system does not issue a taxpayer statement if all addresses on the taxpayer record are RLS.  </p>\n\n<p>Where a new address is found the operator, normally in the Banking Operations Tracing Unit, will update the taxpayer record and amend the RLS signal.  </p>\n\n<p>A taxpayer statement is issued in the next statement issue cycle to the new address. The statement message printed depends on the circumstances of the case - see section ‘Statement Messages’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam133000\">SAM133000 </a>onwards).  </p>\n\n<p>Unless the next statement is due within the next 3 - 4 days, arrangements should be made for that taxpayer to be notified manually of any amounts that are overdue or soon to become due together with the due date(s). Where a manual notification is issued a completed payslip is to be enclosed with the letter.  </p>\n\n<p>The Tracing Unit advises the office with processing responsibility of the action taken and the date the notification was issued.  </p>\n\n<p>For more information about RLS cases see subject ‘Address RLS’ in section ‘Maintain Taxpayer Record’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101030\">SAM101030</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam131000",
+   "section_id": "SAM131000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:23+00:00",
+ "section_id": "SAM131090",
+ "title": "Statements: statement issue: statement issue: RLS cases"
+}

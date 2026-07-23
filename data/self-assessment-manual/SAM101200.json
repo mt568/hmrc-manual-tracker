@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101200",
+ "body": "<h2 id=\"why-a-company-record-is-necessary\">Why a company record is necessary</h2>\n\n<p>A company record will be held in the COTAX system. That record has a Unique Taxpayer Reference (UTR). The same UTR is used to access the SA system.</p>\n\n<p>Where a company is a member of a partnership an SA record is required for that company to enable a link to be made between the partnership record and the company.</p>\n\n<p>Only one company (as partner) record is permitted in SA. Where that company becomes a partner in another partnership, the new source is entered on the same company record.</p>\n\n<h2 id=\"sa-return\">SA Return</h2>\n\n<p>A company should never receive an SA return.</p>\n\n<p>There is, therefore, no facility to set up or maintain an SA return profile</p>\n\n<h2 id=\"filing-date\">Filing date</h2>\n\n<p>The presence of a company as a partner may affect the filing date of the partnership return. In such cases, the partnership return must be issued manually and show the non-standard filing date.</p>\n\n<p>If either of the following apply</p>\n\n<ul>\n  <li>All of the partners in the partnership are companies</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>One or more, but not all, of the partners are companies, and the partnership accounting date falls in the period 1 February to 5 April inclusive</li>\n</ul>\n\n<p>You should</p>\n\n<pre><code>* Use function AMEND TAXPAYER SIGNALS to set the Manual Return signal on the partnership record\n\nAnd\n\n* Note on the partnership permanent notes pad that the Manual Return signal has been set because of a non-standard filing date\n</code></pre>\n\n<p>Advice on non-standard filing dates is available in section ‘Returns Issue’, under the business area ‘Returns’.</p>\n\n<h2 id=\"link-with-cotax\">Link with COTAX</h2>\n\n<p>There is no link between SA and the COTAX computer system. Any changes made to the company details in either system will not flow automatically to the other.</p>\n\n<p>If you amend the Company details ensure that, if necessary, the office responsible for the COTAX record is notified of the changes.</p>\n\n<h2 id=\"sa-functions\">SA functions</h2>\n\n<p>If you want to know which function(s) to use to maintain different aspects of a company’s SA record</p>\n\n<ul>\n  <li>Select ‘Index Of Functions’ on the left of the screen</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+   "section_id": "SAM101000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:51+00:00",
+ "section_id": "SAM101200",
+ "title": "Records: maintain taxpayer record: maintain company record"
+}

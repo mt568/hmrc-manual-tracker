@@ -1,0 +1,321 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71001",
+     "description": "",
+     "section_id": "SAM71001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71010",
+     "description": "",
+     "section_id": "SAM71010",
+     "title": "Access to work lists"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71020",
+     "description": "",
+     "section_id": "SAM71020",
+     "title": "Allocation of responsibility for work items"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71030",
+     "description": "",
+     "section_id": "SAM71030",
+     "title": "How work items are created"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71040",
+     "description": "",
+     "section_id": "SAM71040",
+     "title": "Lists in the network"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71050",
+     "description": "",
+     "section_id": "SAM71050",
+     "title": "Management information"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71060",
+     "description": "",
+     "section_id": "SAM71060",
+     "title": "Managing work lists"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71070",
+     "description": "",
+     "section_id": "SAM71070",
+     "title": "Postcodes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71080",
+     "description": "",
+     "section_id": "SAM71080",
+     "title": "W008 Outstanding debt and/or return"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71082",
+     "description": "",
+     "section_id": "SAM71082",
+     "title": "W010 BF penalty for issue"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71084",
+     "description": "",
+     "section_id": "SAM71084",
+     "title": "W011 Review remission for cancellation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71086",
+     "description": "",
+     "section_id": "SAM71086",
+     "title": "W012 Remissions and remission cancellation quality assurance"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71088",
+     "description": "",
+     "section_id": "SAM71088",
+     "title": "W013 Potential transfer cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71090",
+     "description": "",
+     "section_id": "SAM71090",
+     "title": "W014 bankruptcy or voluntary arrangement cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71092",
+     "description": "",
+     "section_id": "SAM71092",
+     "title": "W015 Open appeals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71094",
+     "description": "",
+     "section_id": "SAM71094",
+     "title": "W016 Manual issue of returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71098",
+     "description": "",
+     "section_id": "SAM71098",
+     "title": "W018 Review Revenue assessments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71100",
+     "description": "",
+     "section_id": "SAM71100",
+     "title": "W019 Review informal standovers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71102",
+     "description": "",
+     "section_id": "SAM71102",
+     "title": "W024 Duplicate return logged - original already logged or captured"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71104",
+     "description": "",
+     "section_id": "SAM71104",
+     "title": "W025 Fully captured/unlogged returns"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71106",
+     "description": "",
+     "section_id": "SAM71106",
+     "title": "W028 Repayments to be authorised or cancelled"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71108",
+     "description": "",
+     "section_id": "SAM71108",
+     "title": "W029 Rejected repayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71110",
+     "description": "",
+     "section_id": "SAM71110",
+     "title": "W030 Inhibited automatic repayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71114",
+     "description": "",
+     "section_id": "SAM71114",
+     "title": "W032 RLS cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71116",
+     "description": "",
+     "section_id": "SAM71116",
+     "title": "W033 Transfer to COP security review"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71118",
+     "description": "",
+     "section_id": "SAM71118",
+     "title": "W034 Sundry charge quality check"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71120",
+     "description": "",
+     "section_id": "SAM71120",
+     "title": "W035 manual issue of review form 575"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71122",
+     "description": "",
+     "section_id": "SAM71122",
+     "title": "W036 Informal discharge review"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71124",
+     "description": "",
+     "section_id": "SAM71124",
+     "title": "W037 Reduction of amount coded out"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71126",
+     "description": "",
+     "section_id": "SAM71126",
+     "title": "W038 Freestanding credit review"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71128",
+     "description": "",
+     "section_id": "SAM71128",
+     "title": "W039 Potential non-filers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71130",
+     "description": "",
+     "section_id": "SAM71130",
+     "title": "W040 Inhibited statements"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71132",
+     "description": "",
+     "section_id": "SAM71132",
+     "title": "W041 Manual statement issue"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71134",
+     "description": "",
+     "section_id": "SAM71134",
+     "title": "W042 Returns not captured"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71136",
+     "description": "",
+     "section_id": "SAM71136",
+     "title": "W043 Repayments for quality checks (WO43 has been decommissioned from April 2015)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71138",
+     "description": "",
+     "section_id": "SAM71138",
+     "title": "W044 Over-repayments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71140",
+     "description": "",
+     "section_id": "SAM71140",
+     "title": "W045 Pensioner and low income review list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71142",
+     "description": "",
+     "section_id": "SAM71142",
+     "title": "W046 Pensioner and low income quality review list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71144",
+     "description": "",
+     "section_id": "SAM71144",
+     "title": "W047 Overpayments in closed cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71146",
+     "description": "",
+     "section_id": "SAM71146",
+     "title": "W048 Permanent notes review work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71148",
+     "description": "",
+     "section_id": "SAM71148",
+     "title": "W049 Short tax return rejection work list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71150",
+     "description": "",
+     "section_id": "SAM71150",
+     "title": "W050 CID framework rejection list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71152",
+     "description": "",
+     "section_id": "SAM71152",
+     "title": "W051 Daily returns review - ceased date set (Decommissioned April 2012)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71154",
+     "description": "",
+     "section_id": "SAM71154",
+     "title": "W052 daily returns review - SA/PAYE auto-coding exceptions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71156",
+     "description": "",
+     "section_id": "SAM71156",
+     "title": "W053 Daily returns review - electronic returns cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71158",
+     "description": "",
+     "section_id": "SAM71158",
+     "title": "W054 Weekly returns review list"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71159",
+     "description": "",
+     "section_id": "SAM71159",
+     "title": "W055 Failed online amendments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71160",
+     "description": "",
+     "section_id": "SAM71160",
+     "title": "W056 Partnership online amendments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71161",
+     "description": "",
+     "section_id": "SAM71161",
+     "title": "W057 Review FSC from return amendment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71163",
+     "description": "",
+     "section_id": "SAM71163",
+     "title": "W059 Online return rejections"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71165",
+     "description": "",
+     "section_id": "SAM71165",
+     "title": "W061 Class 2 NICS Marriage and Devolved Residency updates"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2020-03-02T08:55:50+00:00",
+ "section_id": "SAM71000",
+ "title": "Manage work: work management: contents"
+}

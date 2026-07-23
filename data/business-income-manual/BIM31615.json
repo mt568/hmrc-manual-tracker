@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim31615",
+ "body": "<p>Additional VAT liability payable by a business which arises as a result of HMRC investigation may be an allowable deduction in computing taxable trade profits.</p>\n\n<p>This further liability can arise in a number of circumstances. For example:</p>\n\n<ul>\n  <li>a trader makes a late registration for VAT and therefore does not charge VAT on his sales in the period prior to registration,</li>\n  <li>a trader wrongly thinks that part of his output is exempt from VAT or is zero-rated.</li>\n  <li>a trader who is registered for and should be charging VAT, fails to charge VAT on some of his sales (even if done deliberately in order to charge a lower price than competitors).</li>\n</ul>\n\n<p>In all circumstances where you are satisfied that the trader or company has ultimately met the additional VAT liability out of its own resources, that is that no VAT was charged on the output when it originally arose and it is not feasible to make a further charge on the original customer, then that VAT is an allowable deduction in computing trade profits.</p>\n\n<h3 id=\"additional-vat-not-allowable\">Additional VAT not allowable</h3>\n\n<p>However where it is clear that the additional VAT payable has arisen because the trader or company has been under-declaring turnover to HMRC but VAT was charged on that under-declared turnover at the time the relevant outputs were made, then no deduction should be allowed in computing trade profits. In those circumstances, it is clear that the business has in fact collected the relevant VAT but simply failed to pay it to HMRC at the appropriate time.</p>\n\n<p>Additional VAT liability may also arise because the trader has overclaimed input tax on, for example, expenditure that was not laid out for business purposes. This VAT will not generally be allowable as a deduction in computing trade profits. It is possible that cases falling into both these categories may also give rise to an HMRC enquiry. However, see EM3751 as regards the impact of VAT on additions proposed as the result of an HMRC enquiry.</p>\n\n<h3 id=\"vat-penalties-and-interest\">VAT penalties and interest</h3>\n\n<p>Penalties and interest payable as a result of HMRC VAT investigations are not allowable deductions in computing trade profits or losses for tax purposes (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31610\">BIM31610</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim31500",
+   "section_id": "BIM31500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:34+01:00",
+ "section_id": "BIM31615",
+ "title": "Value Added Tax: settlements after investigation"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141041",
+ "body": "<p>When reviewing the ‘Transfer to COP Security Review’ work list, follow steps 1 - 5 below as appropriate.</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDAIANBI\">Initial action</h2>\n\n<p>1. In function WORK LIST CASES</p>\n\n<ul>\n  <li>Select the entry you want to work</li>\n  <li>Select the [View] button. You will then be taken to SELECTED CASE to see all the available details on the work item</li>\n</ul>\n\n<p>2. Ensure that both the SA and PAYE record accurately show the transfer to PAYE. To complete your review you will require access to</p>\n\n<ul>\n  <li>SA function VIEW STATEMENT, and</li>\n  <li>The PAYE Service ‘Reconciliation Summary’ screen</li>\n</ul>\n\n<p>Notes:</p>\n\n<p>a. Where function RECORD TRANSFER TO COP is used after 28 February check that any surcharge has also been deleted or the appropriate amount discharged</p>\n\n<p>b. Surcharge was replaced by tax geared late filing penalties for 2010-11 and later tax years</p>\n\n<h2 id=\"IDAPFNBI\">Transfer to PAYE details correct</h2>\n\n<p>3. If you are satisfied with the quality of the work carried out, delete the work item</p>\n\n<ul>\n  <li>Use function WORK LIST CASES or function SELECTED CASE</li>\n  <li>Select the [Del] button. The work item will be deleted</li>\n</ul>\n\n<h2 id=\"IDAHHNBI\">Transfer to PAYE details incorrect</h2>\n\n<p>4. If you are not satisfied with the quality of the work carried out refer the case back to the operator who used the function for corrective action</p>\n\n<p>5. On completion of the necessary action delete the work item</p>\n\n<ul>\n  <li>Use function WORK LIST CASES or function SELECTED CASE</li>\n  <li>Select the [Del] button. The work item will be deleted</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141000",
+   "section_id": "SAM141000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-10T10:33:45+01:00",
+ "section_id": "SAM141041",
+ "title": "Transfer of liability: transfer from SA to PAYE: w033 transfer to COP security review work list (Action Guide)"
+}

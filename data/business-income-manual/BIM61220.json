@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim61220",
+ "body": "<p>S681DC, S681DI, S681DL Income Tax Act 2007 (ITA 2007), S873, S879, S882 Corporation Tax Act 2010 (CTA 2010)</p>\n\n<p>The capital sums legislation also applies where:</p>\n\n<ul>\n  <li>a person associated with the taxpayer who has received relief for a payment within <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61210\">BIM61210</a> obtains a capital sum as consideration in respect of the lessee’s interest in the lease; or</li>\n  <li>a person associated with the taxpayer who has received relief for such a payment has the lessor’s interest in the lease or any other interest in the asset and obtains a capital sum in respect of that interest; or</li>\n  <li>a person associated with the taxpayer who has received relief for such a payment has the lessor’s interest in the lease or any other interest in the asset and an associate of that associate obtains a capital sum in respect of that interest.</li>\n</ul>\n\n<p>In each case, the person who obtains the capital sum is subject to a stand-alone charge to Income Tax or Corporation Tax on the amount of the tax-relieved payment (or, if less, the capital sum). The charge to Income Tax is for the tax year of receipt of the capital sum. The charge to Corporation Tax operates by treating the company as receiving the taxable amount at the time the capital sum is obtained. The same time limit as in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61205\">BIM61205</a> applies.</p>\n\n<p>Where the owner of an interest disposes of it to an associate the owner is deemed to have received whichever is the greatest of:</p>\n\n<ul>\n  <li>the capital sum actually received,</li>\n  <li>the open-market value of the interest,</li>\n  <li>the value of the interest to the person to whom it is, in effect, transferred.</li>\n</ul>\n\n<h2 id=\"meaning-of-associated-person\">Meaning of associated person</h2>\n\n<p>The following are associated with each other:</p>\n\n<blockquote>\n  <p>(1) an individual and their spouse, civil partner or relative (ie brother, sister, ancestor or lineal descendant);<br />\n(2) an individual and a spouse or civil partner of a relative of the individual;<br />\n(3) an individual and a relative of the individual’s spouse or civil partner;<br />\n(4) an individual and a spouse or civil partner of a relative of the individual’s spouse or civil partner;<br />\n(5) a person as trustee of a settlement and an individual who is a settler of the settlement;<br />\n(6) a person as trustee of a settlement and a person associated with an individual who is a settler;<br />\n(7) a person and a body of person (including a partnership) of which the person has control;<br />\n(8) a person and a body of person of which persons associated with the person have control;<br />\n(9) a person and a body of persons of which the person and persons associated with the person have control;<br />\n(10) two or more bodies of persons associated with the same person under (6) to (9).</p>\n</blockquote>\n\n<p>Where there is a disposal by joint owners, the joint owners and any person associated with any of them are associated with each other.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim61200",
+   "section_id": "BIM61200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:19+01:00",
+ "section_id": "BIM61220",
+ "title": "Leasing: avoidance: assets other than land: associated persons"
+}

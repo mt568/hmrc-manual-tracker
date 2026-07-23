@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33560",
+ "body": "<h2 id=\"IDACRIHC\">Business combinations and goodwill</h2>\n\n<p>The guidance in this section refers to FRS 102 Section 19 Business Combinations and Goodwill.</p>\n\n<p>Related standards under other frameworks are:</p>\n\n<p>FRS 105 Section 14 Business Combinations and Goodwill</p>\n\n<p>IAS: IFRS 3 Business Combinations; IAS 38 Intangible Assets</p>\n\n<p>Old UK GAAP: FRS 7 Fair Values in Acquisition Accounting; FRS 10 Goodwill and Intangible Assets</p>\n\n<p>The object of FRS 102 Section 19 is to ensure that where a business is acquired its assets and liabilities are recognised in the accounts of the purchaser at their fair value.</p>\n\n<p>The net fair value of the assets and liabilities acquired may not equal the total consideration given for the business. For example, the total net fair value may exceed the consideration given. In that case the difference is treated as negative goodwill. Conversely any excess of total consideration over fair value is treated as positive goodwill.</p>\n\n<p>In considering accounts drawn up following FRS 102 Section 19 particular care is needed in connection with acquired trading stock or work in progress. This is because any taxable profit may not appear in the profit and loss account. The fair value of the stock may not represent the consideration given for the stock. But the actual consideration given will very often be the correct figure for the stock value for tax purposes. (See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33470\">BIM33470</a> onwards where Pt 3 Ch 11 Corporation Tax Act 2009 or Pt 2 Ch 12 Income Tax (Trading and Other Income) Act 2005 is in point and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33330\">BIM33330</a> for other cases.) In such cases adjustments to the commercial profits will be required.</p>\n\n<p>Under FRS 102 Section 19 negative goodwill up to the fair values of the non-monetary assets acquired should be recognised in the profit and loss account in the periods in which the non-monetary assets are recovered. Any negative goodwill in excess of the fair values of the non-monetary assets acquired should be recognised in the profit and loss account in the periods expected to be benefited.</p>\n\n<p>The accounting treatment of negative goodwill under IFRS 3 is different to that under FRS 102 Section 19. IFRS 3 requires immediate recognition of negative goodwill in profit or loss.</p>\n\n<p>In these situations profit elements should appear in the profit and loss account. However these may not be the amounts that are taxable. The CIRD Manual gives guidance on the treatment of goodwill for companies (<a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-intangibles-research-and-development-manual/cird44000\">CIRD44000</a>). The CGT manual gives guidance on the treatment of goodwill for non-corporates <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg68000c\">(CG68000C).</a></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33450",
+   "section_id": "BIM33450"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T10:04:44+00:00",
+ "section_id": "BIM33560",
+ "title": "Stock: valuation on discontinuance of business: when acquired as part of the acquisition: accountancy treatment"
+}

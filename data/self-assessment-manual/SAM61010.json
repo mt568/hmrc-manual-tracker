@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61010",
+ "body": "<h2 id=\"message-on-sa302-where-paper-return-received-late\">Message on SA302 where paper return received late</h2>\n\n<p>Where a paper return for 2009-10 or earlier is received late, a message will be entered on the SA302 tax calculation. The message provides an early indication to taxpayers who file their paper return late that a penalty may be charged. The message says</p>\n\n<p>‘I received your paper Tax Return after the 31 October deadline so you will be charged a penalty of £100 in February. Why not file next years’ return online by 31 January and avoid a penalty? Visit our website at and select ‘Self Assessment’ under ‘do it online’.’</p>\n\n<p>This message will not be issued in Trust cases.</p>\n\n<h2 id=\"warning-leaflets\">Warning leaflets</h2>\n\n<p>In December, if a return has still not been received, one of the following reminders will be issued alerting taxpayers of their obligation to file a return and / or to pay their liability by 31 January</p>\n\n<ul>\n  <li>SA309A - SA Online Tax Return and Payment Reminder will be issued in December where no return has been logged for an individual taxpayer / trust. The SA309A is a personalised warning to individuals and trusts about penalties and surcharge and will include a blank payslip</li>\n  <li>SA309C - SA Payment Reminder will be issued in December where the return has been logged but not processed, and no December statement has been issued to the taxpayer. The SA309C is a personalised warning to individuals and trusts about interest and surcharge for late payment and will include a blank payslip</li>\n  <li>SA309E - SA Tax Return and Payment Reminder will be issued to those taxpayers for whom no return has been logged and who are unable to file their return online for technical or operational reasons</li>\n</ul>\n\n<p>In February, if a liability is outstanding, the SA359 SA Final Demand strongly worded payment reminder will be issued, advising the taxpayer that they have missed the deadline for paying their tax and the consequences of not paying on time. It also advises of the benefits of making payment online and includes a printed payslip on the reverse.</p>\n\n<h2 id=\"explanation-leaflets\">Explanation leaflets</h2>\n\n<p>Enclosed with the notice of penalty will be either</p>\n\n<ul>\n  <li>Form SA355 - Your penalty for your late tax return (for individual or trust returns) which includes SA326(1) (Notice of Appeal)</li>\n  <li>Form SA356 - Your penalty for a late partnership return (for partnership returns) which includes SA328(1) (Notice of Appeal)</li>\n</ul>\n\n<p>These leaflets will give advice on appeals against fixed automatic penalties.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61000",
+   "section_id": "SAM61000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:15:35+00:00",
+ "section_id": "SAM61010",
+ "title": "Interest, penalties and surcharge: penalties: FAP: advising and warning the taxpayer about"
+}

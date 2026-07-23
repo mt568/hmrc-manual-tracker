@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33330",
+ "body": "<p>The courts are reluctant to interfere with a commercial bargain even where the parties are connected in some way.  There are three situations where market value may be substituted:</p>\n<ul><li class=\"filledcircle\">in the case of an 'illusory or colourable or fraudulent transactions', see comments in <strong>Craddock v Zevo Finance Co Ltd</strong> [1946] 27 TC at page 290. 'Colourable' is explained as 'a fancy price having no relationship to the real value', page 292,</li><li class=\"filledcircle\">where the transaction is not entered into as a commercial transaction, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33600\">BIM33600</a> onwards,</li><li class=\"filledcircle\">where the stock is acquired from a discontinuing business, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33450\">BIM33450</a> onwards.</li></ul>\n<h3>Purchase at undervalue - Jacgilden (Weston Hall) Ltd v Castle [1969] 45 TC 685</h3>\n<p>The property investment company acquired a property for £72,000 in a transaction arranged by its managing shareholder.  Shortly afterwards the company sold the cleared site for £155,000.  The company claimed to bring in the market value of £150,000 as the cost of the property, rather than the £72,000 it paid.  It was arguing that it acquired the property partly as a gift from the managing shareholder.  Plowman J considered the decided cases where a stock disposal was otherwise than by way of trade, but distinguished them on the basis that the transaction in Jacgilden was a commercial trading transaction.  That being so he upheld the decision of the Special Commissioners that the acquisition was a commercial acquisition and the proper amount to be debited in respect of the property was its cost, £72,000.</p>\n<p>So where stock is purchased at below market value in a commercial transaction then the acquisition value is the amount paid, unless Pt 3 Ch 11 Corporation Tax Act 2009 applies, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33560\">BIM33560</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33300",
+   "section_id": "BIM33300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:16+01:00",
+ "section_id": "BIM33330",
+ "title": "Stock: trading transactions in: costs of acquisition of stock when the trader does not pay market value"
+}

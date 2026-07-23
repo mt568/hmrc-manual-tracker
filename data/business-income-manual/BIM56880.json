@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim56880",
+ "body": "<p>Financial transactions can involve not just the buying and selling of shares but also options, futures and contracts for differences (including swaps). These are known commercially as derivative contracts (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm13000\" rel=\"nofollow\">CFM13000</a> onwards). There is a difference between how we treat derivative contracts for tax purposes for companies and other taxpayers. The vast majority of derivative contracts entered into by companies are taxed within the specific Corporation Tax regime (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50000\" rel=\"nofollow\">CFM50000</a> onwards). <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56890\">BIM56890</a> summarises the position for companies and deals with any cases which, exceptionally, do not fall within those rules.</p>\n<h2>Derivative contracts entered into for the purpose of a trade</h2>\n<p>An individual or other non-corporate entity may enter into derivative contracts for the purpose of a trade they carry on, for example, by hedging exposure to exchange rates. If they do, the profits and losses from the derivative contract will be taken into account in calculating the profits of the trade. Similarly if a derivative contract is entered into in the course of a property income business, then the profits or losses from the contracts form part of the calculation of profits and losses from that business. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50070\" rel=\"nofollow\">CFM50070</a>.</p>\n<h2>Dealing in derivative contracts which amounts to a trade</h2>\n<p>An individual may contend that their dealings in derivative contracts constitute a trade in itself. They may claim that derivative contracts are more sophisticated than dealing in shares and that this is evidence that the activity amounts to a trade. Or they may say that such assets, not being income-producing, are usually dealt with by way of trade.</p>\n<p>We disagree. Our view is that you approach the question of whether a trade is being carried on in the same way as you would with somebody claiming to carry on a trade of buying and selling shares. This means finding the facts and coming to a decision taking an overall view of all the circumstances (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56830\">BIM56830</a>).</p>\n<h2>Non-trading derivative contracts</h2>\n<p>Where a derivative contract is entered into in the course of activities which amount to an investing activity, then the profits and losses arising from the derivative contract will be regarded as entered into as part of that activity.</p>\n<p><a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50070\" rel=\"nofollow\">CFM50070</a> explains how other derivative contracts will be treated.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56800",
+   "section_id": "BIM56800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:30+01:00",
+ "section_id": "BIM56880",
+ "title": "Financial traders - instruments and shares: derivative contracts and non-corporate entities"
+}

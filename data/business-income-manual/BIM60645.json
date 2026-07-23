@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60645",
+ "body": "<p>The transactions in UK land rules can be applied to ‘slice of the action’ contracts.</p>\n\n<p>‘Slice of the action’ contracts are so called because they confer upon a landowner (who holds the land as an investment), the right to share in the proceeds of any subsequent development by the purchaser. In these cases, the contract for sale of the land to a builder or developer provides for consideration that is, in whole or in part, contingent upon the successful development of the land.</p>\n\n<p>A common arrangement is for the landowner to receive a fixed sum at the time of the disposal, plus a percentage of the sale proceeds of each building subsequently constructed by the purchaser on the land.</p>\n\n<p>Such ‘slice of the action’ contracts, and other overage arrangements where the landowner is entitled to receive consideration, if a specified condition is satisfied often fall within the transactions in UK land rules for the following reasons:</p>\n\n<ul>\n  <li>The landowner is included under the definitions of ‘person’ as the ‘slice of the action’ contract or other specified contractual condition is an arrangement with the person holding the land.</li>\n  <li>The land has been developed with the main purpose of realising a profit or gain from disposing of the land when developed (condition D in Section 356OB(4) CTA2010).</li>\n</ul>\n\n<p>Example 1</p>\n\n<p>A landowner sells land to a developer for £10m. At the date of sale the land is valued at the same amount. The contract of sale specifies that if the developer makes profits in excess of £5m from developing the land the landowner will receive 10% of subsequent profits. The developer makes £8m profit and pays the landowner £300k. In this instance the landowner is concerned in an arrangement to develop the land and condition D is met. The £300k will be taxed as trading income.</p>\n\n<p>Example 2</p>\n\n<p>A landowner sells land to a developer for £6m. The developer’s intention is to build a block of flats. The contract stipulates that £3m will be paid to the landowner immediately, and £3m will be paid to landowner at the earlier of 4 years after the date of sale or when 20 of the flats have been sold. Here the landowner is not concerned in an arrangement to develop the land. The £3m is deferred consideration receivable regardless of whether the land will be developed or not.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60510",
+   "section_id": "BIM60510"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2017-01-28T22:36:01+00:00",
+ "section_id": "BIM60645",
+ "title": "Profits from a trade of dealing in or developing UK land: 'Slice of the action' contracts and overage arrangements "
+}

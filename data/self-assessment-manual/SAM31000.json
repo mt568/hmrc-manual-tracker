@@ -1,0 +1,159 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31001",
+     "description": "",
+     "section_id": "SAM31001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31010",
+     "description": "",
+     "section_id": "SAM31010",
+     "title": "Failure to notify cases where no S9A enquiry"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31011",
+     "description": "",
+     "section_id": "SAM31011",
+     "title": "Failure to notify cases where no S9A enquiry (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31020",
+     "description": "",
+     "section_id": "SAM31020",
+     "title": "Opening an enquiry"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31021",
+     "description": "",
+     "section_id": "SAM31021",
+     "title": "Opening an enquiry: Using ITSA discovery records (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31030",
+     "description": "",
+     "section_id": "SAM31030",
+     "title": "Working an enquiry"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31031",
+     "description": "",
+     "section_id": "SAM31031",
+     "title": "Working an enquiry: Using ITSA discovery records (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31040",
+     "description": "",
+     "section_id": "SAM31040",
+     "title": "Concluding an enquiry"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31041",
+     "description": "",
+     "section_id": "SAM31041",
+     "title": "Concluding an enquiry (Action Guide menu)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31042",
+     "description": "",
+     "section_id": "SAM31042",
+     "title": "S9A: contract settlement (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31043",
+     "description": "",
+     "section_id": "SAM31043",
+     "title": "S9A: non-contract settlement (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31044",
+     "description": "",
+     "section_id": "SAM31044",
+     "title": "S12AC enquiries completed (partnership SA record) (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31045",
+     "description": "",
+     "section_id": "SAM31045",
+     "title": "S12AC enquiries completed (partners SA records) (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31046",
+     "description": "",
+     "section_id": "SAM31046",
+     "title": "Concluding an enquiry: Using ITSA discovery records (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31050",
+     "description": "",
+     "section_id": "SAM31050",
+     "title": "Discovery"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31051",
+     "description": "",
+     "section_id": "SAM31051",
+     "title": "Discovery (Action Guide menu)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31052",
+     "description": "",
+     "section_id": "SAM31052",
+     "title": "Discovery: recording cases on the CQI workbench (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31053",
+     "description": "",
+     "section_id": "SAM31053",
+     "title": "Discovery/contract settlements: Student loan and/or postgraduate loan repayments (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31054",
+     "description": "",
+     "section_id": "SAM31054",
+     "title": "Discovery: Update payments on account for next year (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31060",
+     "description": "",
+     "section_id": "SAM31060",
+     "title": "Contract settlement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31070",
+     "description": "",
+     "section_id": "SAM31070",
+     "title": "The automatic move signal"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31080",
+     "description": "",
+     "section_id": "SAM31080",
+     "title": "Enquiry status"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31090",
+     "description": "",
+     "section_id": "SAM31090",
+     "title": "Contract settlement - payments on account - examples"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31100",
+     "description": "",
+     "section_id": "SAM31100",
+     "title": "Enquiry window"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:28+00:00",
+ "section_id": "SAM31000",
+ "title": "Compliance: enquiry work: contents"
+}

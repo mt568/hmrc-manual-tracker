@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71118",
+ "body": "\n<p>Note: There is no requirement to review this work list pending further  instructions.  </p>\n\n<p>Event  </p>\n\n<p>A work item is created when one of the following events occur</p>\n\n<p> </p>\n\n<p> </p>\n\n<ul>\n  <li>Function CREATE SUNDRY CHARGE is used to create a charge of £1000 or more</li>\n  <li>Function MAINTAIN SUNDRY CHARGE is used to amend an existing charge of £1000 or more</li>\n  <li>Function MAINTAIN SUNDRY CHARGE is used to increase an existing charge to one of £1000 or more</li>\n</ul>\n\n<p> </p>\n\n<p> </p>\n\n<p>Or</p>\n\n<ul>\n  <li>Function CREATE OVER REPAYMENT CHARGE is used to create a charge of £1000 or more</li>\n  <li>An existing over – repayment charge is increased to £1000 or more</li>\n  <li>An existing over – repayment charge of £1000 or more is amended</li>\n</ul>\n\n<p>Specific details  </p>\n\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n\n<p> </p>\n\n<p> </p>\n\n<ul>\n  <li>‘Create’ if function CREATE SUNDRY CHARGE was used, or ‘Maintain’ if function MAINTAIN SUNDRY CHARGE was used</li>\n  <li>Amount of the current charge</li>\n  <li>Identity of the operator who created or amended the charge</li>\n</ul>\n\n<p>Allocation of responsibility  </p>\n\n<p>The work item is allocated to the user role of Clerical Processing Manager in the office with processing responsibility.  </p>\n\n<p>Frequency of review  </p>\n\n<p>It is recommended that this list is reviewed as directed.  </p>\n\n<p>Updating of details  </p>\n\n<p>Until the work item is cleared, the following details held on the work item are updated by Work Management immediately the corresponding entry is updated on the taxpayer record</p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n\n<ul>\n  <li>Taxpayer name</li>\n  <li>NINO</li>\n  <li>Employers reference (EMPREF) or Schedule D register number</li>\n</ul>\n\n<p>Action to take on the work item  </p>\n\n<p>Advice on the action to take to clear the work item is available in the section ‘Transfer From PAYE To SA’, (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam140051\">SAM140051</a>).  </p>\n\n<p>Deletion of the work item  </p>\n\n<p>The work item is not deleted automatically. It should be deleted manually using function WORK LIST CASES or function SELECTED CASE, on completion of the necessary clerical action.  </p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-03-14T14:58:45+00:00",
+ "section_id": "SAM71118",
+ "title": "Manage work: work management: W034 sundry charge  quality check"
+}

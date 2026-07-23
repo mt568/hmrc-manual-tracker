@@ -1,0 +1,27 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44550",
+ "body": "<p>S12 Inheritance Act 1984, S38 Income Tax (Trading and Other Income) Act 2005, S1290 Corporation Tax Act 2009</p>\n<h2>Employers’ contributions to employee benefit trusts</h2>\n<p>Employers’ contributions to employee benefit trusts (EBTs) are usually allowable as a deduction&nbsp;unless they :</p>\n<ul><li class=\"filledcircle\">Are capital expenditure, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44560\">BIM44560</a>, and/or</li><li class=\"filledcircle\">Are not wholly and exclusively for the purposes of the employer’s trade, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44565\">BIM44565</a>&nbsp;and/or</li><li class=\"filledcircle\">Are made or to be made on or after 1 April 2017 (CT) or 6 April 2017 (IT) and do not comply with the EBT anti-avoidance legislation introduced by Finance (No 2) Act 2017.</li></ul>\n<h2>Timing of deductions</h2>\n<p>The timing of when a deduction is given for a contribution to a general-purpose EBT, in computing an employer’s taxable trade profits, depends on:</p>\n<ul><li class=\"filledcircle\">when it is deducted in accounts prepared in accordance with generally accepted accounting practice, and</li><li class=\"filledcircle\">whether the timing of that deduction is deferred for tax purposes by specific legislation such as the EBT anti-avoidance legislation.</li></ul>\n<p>The EBT legislation broadly aligns the timing and amount of the employer’s deduction for contributions to general-purpose EBTs with the timing and amount on which the employee is chargeable to Income Tax and on which NICs liability arises.</p>\n<p>Additional rules apply to employee benefit contributions made or to be made on or after 1 April 2017 (CT) or 6 April 2017 (IT).&nbsp; These rules may prevent a deduction being allowable at any time, even when qualifying benefits are provided. This is explained more fully at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44571\" rel=\"nofollow\">BIM44571</a> and in the example at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44611\" rel=\"nofollow\">BIM44611</a></p>\n<p>Further guidance on the timing of deductions is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44570\">BIM44570</a> onwards.</p>\n<h2>Disallowing deductions - Inheritance Tax (IHT) consequences</h2>\n<p>A report should be made to&nbsp;WMBC Assets EBT Team&nbsp;where an EBT contribution has been disallowed as a deduction (whether the deduction has been deferred to a later period or disallowed altogether) if the company is a close company, and any of its shareholders are beneficiaries or potential beneficiaries of the EBT, for example by:</p>\n<ul><li>being directors or employees of the company and not being excluded by the terms of the trust deed from benefiting from the EBT, or</li><li>in fact receiving benefits from the EBT (for example by receiving interest free loans), or</li><li>having assets of the EBT irrevocably ring fenced in a sub trust from which they may benefit.</li></ul>\n<p>In these cases a report should also be made to&nbsp;WMBC Assets&nbsp;EBT Team&nbsp;if deductions for such contributions are allowed for a later period (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44605\">BIM44605</a>).</p>\n<p>The background to the need for such reports is that when an individual settles assets in a discretionary trust, a lifetime Inheritance Tax (IHT) charge may arise. Similarly, if a close company settles assets in a discretionary trust from which shareholders in the company may benefit, there may a lifetime IHT charge on the shareholders in proportion to their shareholdings. However, there are no IHT consequences if a close company makes a contribution to an EBT which is allowed as a deduction in computing the company’s taxable profits.</p>\n<p>Reports should be made to</p>\n<p>WMBC Assets EBT Team,<br />Queen Elizabeth House,<br />1 Sibbald Walk<br />Edinburgh </p>\n<p>EH8 8FT</p>\n<p>or by e-mail to <a href=\"Mailto:EBT, Meldrum (Specialist PT Trusts &amp; Estates)\">EBT, Meldrum (Specialist PT Trusts &amp; Estates)</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44540",
+   "section_id": "BIM44540"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2020-12-10T06:15:31+00:00",
+ "section_id": "BIM44550",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs: deductions for employers’ contributions: introduction"
+}

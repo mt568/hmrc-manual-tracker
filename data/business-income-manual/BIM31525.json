@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim31525",
+ "body": "<p>A trader who supplies taxable goods and services (including zero rated items) is effectively a collecting agent for VAT. Any VAT they charge their customers is borne by the customer and paid to the trader as part of the inclusive purchase price. The trader then passes this ‘output tax’ on to HMRC with a credit for any input tax (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31520\">BIM31520</a>). Where the input tax exceeds the output tax, the trader will get a repayment from HMRC.</p>\n\n<p>Normally for VAT registered businesses:</p>\n\n<ol>\n  <li>the output tax, and</li>\n  <li>the input tax, and</li>\n  <li>the balancing cash payments to and from HMRC,</li>\n</ol>\n\n<p>are carried to a VAT account. The flat rate VAT scheme is an exception - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31585\">BIM31585</a>. The other entries in the accounts are exclusive of VAT. Thus the sales and purchases are exclusive of VAT and the cost of any ’capital’ items (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31520\">BIM31520</a>) are exclusive of VAT. In such cases the VAT does not normally enter into the computation of the trade profits at all. The amount of the profits for tax purposes is the balance of the receipts and expenses exclusive of VAT and the cost of any capital items is for capital allowances the cost exclusive of VAT.</p>\n\n<p>In such cases the balance of the VAT account appears in the balance sheet and is an amount due to or from HMRC. Neither the balance of that account nor the entries appearing in it enter into the computation of the trade profits or the capital allowances figures. (But see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31520\">BIM31520</a> for the effect of the capital goods scheme.)</p>\n\n<p>Following the principle in Jay’s the Jewellers Ltd v CIR [1947] 29TC274 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim63151\">BIM63151</a>) if amounts charged to customers as VAT are not payable to HMRC they will be trade receipts. The timing of the recognition of these receipts is a matter of correct application of generally accepted accounting practice. Recognition may be as late as the date the amounts are no longer payable to HMRC. However, on the basis of the particular facts an accountant could reasonably conclude that it was appropriate to recognise the refund at an earlier point. Accounting standards dealing with events after the end of the reporting period are particularly relevant.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim31500",
+   "section_id": "BIM31500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:04+01:00",
+ "section_id": "BIM31525",
+ "title": "Value Added Tax: general accounts treatment"
+}

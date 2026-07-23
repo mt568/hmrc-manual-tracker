@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam126040",
+ "body": "\n<p>Facility  </p>\n\n<p>Customers are able to send virus free additional information as electronic PDF attachments when they file their SA returns online. No other type of online attachments will be accepted by the department.  </p>\n\n<p>It is recognised that in some cases it is not practical for customers to use the white space boxes. The use of the attachments elements of the service is intended for those cases where the customer feels it is crucial to provide additional information to support the return but for some reason cannot utilise the white space. An example is where a correctly completed return which included a claim for dual residence would require submission of the claim form with Help Sheet IR302 and a Certificate of Overseas Residence.  </p>\n\n<p>The service is not intended for general correspondence or information about issues unrelated to the SA return, or for routine attachments of documents relating to figures in the return such as accounts. If this type of online attachment is received, it may not receive appropriate attention.  </p>\n\n<p>Note:  This should be emphasised to customers in any relevant contact.  </p>\n\n<p>Limits  </p>\n\n<p>Customers who file online using SA Online will be limited in respect of the number of attachments and the maximum total file size. If a customer tries to make an attachment to their return which exceeds this limit, they will not be able to proceed. An error message will be displayed explaining the problem. In order to file successfully using SA Online, customers will have to reduce their attachments to the acceptable limit.  </p>\n\n<p>Other software products are available for customers to purchase to enable them to file online. Customers using this third party software may have no limit on the number of PDF attachments they can send, but the file size limit will still apply.  </p>\n\n<p>Rejections  </p>\n\n<p>In addition to the restrictions on size, all online attachments will be virus checked before being accepted onto the SA system. Any oversize attachments or attachments that appear to contain a virus will be rejected. Online SA returns with attachments are validated as one file so a valid return may be rejected if any of the accompanying attachments are rejected.  </p>\n\n<p>Note:  It is very important that this is emphasised to customers in any relevant contactand ensure that only clean and appropriately sized files are submitted.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam126000",
+   "section_id": "SAM126000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:06+00:00",
+ "section_id": "SAM126040",
+ "title": "Returns: filing returns online: filing attachments online"
+}

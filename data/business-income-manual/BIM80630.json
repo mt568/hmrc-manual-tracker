@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim80630",
+ "body": "<p>Where there is a succession or change of ownership of a business, the predecessor’s profits are computed as if the trade had been permanently discontinued, and the successor’s profits are computed as if the trade had been newly set up and commenced. In other words, there is a ‘deemed’ cessation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81025\">BIM81025</a>) and a ‘deemed’ commencement (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81015\">BIM81015</a>). The deemed cessation of a trade normally prevents the carry forward of losses. So the successor cannot set off losses sustained by the predecessor. But if a company sells its trade to a third party and reacquires it some years later it can carry forward trading losses from the earlier period to the later period. There are also special rules where a trade or part-trade is transferred between companies in common ownership (<a href=\"https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm06000\" rel=\"nofollow\">CTM06000</a> onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80500",
+   "section_id": "BIM80500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM80630",
+ "title": "Computing the amount to assess: business changes: succession and changes in ownership - effect of succession on the charge to tax"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64330",
+ "body": "<table>\n  <thead>\n    <tr>\n      <th>Tax treatment</th>\n      <th>Accounting treatment of pre-trading interest</th>\n      <th>-</th>\n      <th>-</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>-</td>\n      <td>Fixed asset</td>\n      <td>Finance debtor</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>-</td>\n      <td>FRS5</td>\n      <td>FRS5</td>\n      <td>SSAP9/FRS5</td>\n    </tr>\n    <tr>\n      <td>Non-trade</td>\n      <td>Example 1 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64335\">BIM64335</a>)</td>\n      <td>Example 3 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64345\">BIM64345</a>)</td>\n      <td>Example 5 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64355\">BIM64355</a>)</td>\n    </tr>\n    <tr>\n      <td>Trade</td>\n      <td>Example 2 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64340\">BIM64340</a>)</td>\n      <td>Example 4 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64350\">BIM64350</a>)</td>\n      <td>Example 6 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64360\">BIM64360</a>)</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64240",
+   "section_id": "BIM64240"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-21T12:05:00+00:00",
+ "section_id": "BIM64330",
+ "title": "Private Finance Initiative (PFI): interest: pre-trading: table of examples"
+}

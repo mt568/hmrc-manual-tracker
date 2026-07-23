@@ -1,0 +1,32 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim52550",
+ "body": "<p>This section contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52551",
+     "description": "",
+     "section_id": "BIM52551",
+     "title": "Check traders: background information"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim52555",
+     "description": "",
+     "section_id": "BIM52555",
+     "title": "Check traders: computation of profits"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:51+01:00",
+ "section_id": "BIM52550",
+ "title": "Check traders: contents"
+}

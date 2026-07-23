@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130032",
+ "body": "\n<p>Each Open Item shows the following information  </p>\n\n<ul>\n  <li>An item ‘Date’ in the left hand column for the first entry of each Open Item</li>\n  <li>A description of the Open Item in the first line followed by a description of any transaction (adjustment, credit and so on) affecting the item balance</li>\n  <li>The amount of each transaction with the suffix ‘CR’ where the transaction is a credit otherwise with no suffix</li>\n  <li>A summary of the amount collectible following any change to the original charge (Note: This summary line only appears on statements created after November 1998)</li>\n  <li>The total credit where there is more than one payment credit present (Note: This summary line only appears on statements created after November 1998)</li>\n  <li>Accruing interest on the last line of the Open Item if the Open Item is an overdue charge that is interest bearing - see section ‘Interest Calculation’</li>\n  <li>The Open Item balance in the Balance column to the right of the last entry for the Open Item</li>\n</ul>\n\n<p>Notes:  </p>\n\n<ol>\n  <li>\n    <p>Charge adjustments are displayed in date order immediately below the Open Item  </p>\n  </li>\n  <li>\n    <p>Each adjustment shows the difference between the old and the new charge  </p>\n  </li>\n  <li>\n    <p>Credits allocated against an Open Item are displayed in date order directly after charge adjustments. The credit date is shown within the description  </p>\n  </li>\n  <li>\n    <p>The last entry for an Open Item that is interest bearing and has an overdue balance, is the amount of accrued interest  </p>\n  </li>\n  <li>\n    <p>A payment wholly returned by the bank (returned payment) in SA is shown as a separate Open Item. The amount and balance columns both show ‘0.00’. The Open Item where the payment was allocated no longer reflects the credit</p>\n  </li>\n</ol>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130000",
+   "section_id": "SAM130000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:17+00:00",
+ "section_id": "SAM130032",
+ "title": "Statements: statement content and layout: open item  transaction details"
+}

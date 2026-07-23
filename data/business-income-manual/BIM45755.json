@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45755",
+ "body": "<p>This chapter applies for Income Tax purposes to the computation of trade profits and property income. References in the text to a ‘business’ should therefore be taken to include both trades and property businesses. The chapter does not apply for Corporation Tax purposes, where there are separate rules in the loan relationships legislation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm11000\">CFM11000</a>).</p>\n\n<p>S34 Income Tax (Trading and Other Income) Act 2005</p>\n\n<p>Where:</p>\n\n<ul>\n  <li>individual partners or directors borrow money to purchase land themselves, and</li>\n  <li>they permit the partnership or company to occupy the land rent-free, and</li>\n  <li>the partnership or company pays the interest on the loan and charge it in their accounts,</li>\n</ul>\n\n<p>the interest may be allowable as a business expense of the business entity.</p>\n\n<p>In considering whether the interest is allowable, the normal rules relating to deductions apply. Where the payment arises from the occupation of property used solely for business purposes it will ordinarily constitute an allowable deduction.</p>\n\n<p>There will be occasions when the interest will not be allowable either in part or in full. For example, where the interest payments exceed ordinary commercial consideration for the use of the property in the course of business, it is unlikely they will have been incurred wholly and exclusively for the purposes of the business. Alternatively if the interest payments are in respect of a property used partly for business and partly for some other purpose, such as private occupation by a business proprietor, the deductions for tax purposes will be restricted to the business proportion.</p>\n\n<p>Payments of interest by the business entity may constitute rent in the hands of the individual director or partner. However, a deduction may be given to the proprietor for interest payable even though someone else in fact pays it. The landlord will have an obligation to pay interest and that interest will have been paid by the tenant. We would therefore expect, following generally accepted accountancy principles, to treat the proprietor’s property income in relation to this particular property business as nil.</p>\n\n<p>In most circumstances where a director provides property for occupation by his employer in return for interest on the mortgage on that property being repaid, there will be no charge as employment income because the payment will not represent earnings `from’ the employment. Similarly provided the payment of interest by the company is no more than fair commercial consideration for the use of the property there will be no benefit under the benefits code.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45650",
+   "section_id": "BIM45650"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM45755",
+ "title": "Specific deductions - interest: properties occupied rent-free"
+}

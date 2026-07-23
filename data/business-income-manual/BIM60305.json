@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60305",
+ "body": "<p>Chap 3 Part 13 Income Tax Act 2007 (ITA 2007), Part 18 Corporation Tax Act 2010 (CTA 2010)</p>\n\n<p>The transactions in land rules prevent the avoidance of Income Tax and Corporation Tax on land transactions that are, in essence, trading transactions, but where the ‘profit’ emerges in a capital or non-taxable form.</p>\n\n<p>The anti-avoidance provisions can also apply to:</p>\n\n<ul>\n  <li>transactions where land is traded indirectly, for example via share sales (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60455\">BIM60455</a>), and</li>\n  <li>commercially motivated transactions where there may be no deliberate ‘avoidance’ motive (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60337\">BIM60337</a>).</li>\n</ul>\n\n<p>For the meaning of ‘land’, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60450\">BIM60450</a>.</p>\n\n<p>These anti-avoidance rules should not be used as an alternative tax treatment in straightforward transactions involving the purchase and sale of land that falls short of constituting a trade, or a venture in the nature of trade (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60307\">BIM60307</a>).</p>\n\n<p>There are exemptions for shares in land-dealing companies and disposals of private residences when certain conditions are satisfied (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60370\">BIM60370</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60375\">BIM60375</a>).</p>\n\n<p>Any gain on developed land which relates to a period before the intention to develop the land formed is also exempt from the transactions in land provisions (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60365\">BIM60365</a>).</p>\n\n<p>There is a formal clearance procedure available for taxpayers who think that these rules may apply to a proposed transaction or a transaction that has already taken place (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60395\">BIM60395</a>).</p>\n\n<p>Where these anti-avoidance provisions apply, the capital gain from the land transaction is treated as if it were income and a free-standing charge to tax as income applies on the full amount of the gain realised in the tax year (for Income Tax purposes) or the accounting period (for Corporation Tax purposes). See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60335\">BIM60335</a>.</p>\n\n<h3 id=\"priority-of-other-tax-provisions\">Priority of other tax provisions</h3>\n\n<p>It is possible that other taxing provisions will also apply to the gain on a disposal of land or assets where the value derives from land. S754 ITA 2007 for individuals, trustees and personal representatives and S817 CTA 2010 for companies provide that those other taxing provisions will take precedence over the transactions in land rules in the following cases:</p>\n\n<ul>\n  <li>where there is a settlement and the amount received is treated as income of the settlor under Chap 5 Part 5 Income Tax (Trading and Other Income) Act 2005 (see TSEM4010),</li>\n  <li>where any other provision applies which treats the amount received as trading income of a person.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+   "section_id": "BIM60300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:10+01:00",
+ "section_id": "BIM60305",
+ "title": "Transactions in land: Overview"
+}

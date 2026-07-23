@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122220",
+ "body": "\n<p>Partnerships with a turnover of £15 million or more and CT partnerships are not required to complete full Standard Accounts Information (SAI) when submitting the SA tax return. Instead they must submit full accounts and computations with the return and complete only boxes 3.29, 3.49, 3.65, 3.73 and 3.83 or 3.84, plus, where applicable, boxes 3.82, 3.97, 3.98 and 3.117.  </p>\n\n<p>In addition the partnership must complete any supplementary pages required and a partnership statement.  </p>\n\n<p>In these cases the receipt of the return will be logged and the relevant return details captured using function CAPTURE RETURN. The return and accounts should then be stored.  </p>\n\n<p>It is important that the relevant return details are captured for management information purposes and that the information is captured before any enquiry has commenced.  </p>\n\n<p>These cases will subsequently be profiled by the Compliance section so that the full accounts and computations can be reviewed.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:36+00:00",
+ "section_id": "SAM122220",
+ "title": "Returns: partnership returns: partnerships: turnover £15  million or more"
+}

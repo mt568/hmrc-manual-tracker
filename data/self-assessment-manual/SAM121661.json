@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121661",
+ "body": "<p>If the taxpayer has an adjustment in their code for earlier years Flat Rate Expenses or other expenses under the PAYE Service descriptor Earlier Years Adjustment follow steps 1 - 4 below.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Treat the overpayment of tax plus supplement relating to the Earlier Years Adjustment as additional PAYE tax</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>To calculate the value, multiply the EYA by the highest rate of tax at the primary source employment. The IABD screen will show the EYA calculation and the rate used to calculate EYA included in the code</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>Add the amount calculated to the figure in box 2 of the Employment page E1 (SA100) or box 2.3 (SA200) of the taxpayer’s return using function CAPTURE RETURN</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>Make a Customer Service Message (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121435\">SAM121435</a>) explaining the adjustment made</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:25+00:00",
+ "section_id": "SAM121661",
+ "title": "Returns: individuals returns: earlier years adjustment (EYA) in code (Action Guide)"
+}

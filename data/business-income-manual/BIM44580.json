@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44580",
+ "body": "<p>S38 Income Tax (Trading and Other Income) Act 2005, S1290 Corporation Tax Act 2009</p>\n\n<h2 id=\"contributions-to-ebts-made-before-1-april-2017-ct-or-6-april-2017-it\">Contributions to EBTs made before 1 April 2017 (CT) or 6 April 2017 (IT)</h2>\n\n<p>For these contributions the employee benefits contribution legislation broadly matches:</p>\n\n<ul>\n  <li>the timing and amount of employers’ deductions for employee benefit contributions, and</li>\n  <li>the timing and amount of benefits received by employees in the form of money or assets which are taxable and subject to employers’ National Insurance Contributions (under Class 1, 1A or 1B).</li>\n</ul>\n\n<h2 id=\"approach-of-the-legislation\">Approach of the legislation</h2>\n\n<p>The starting point of the employee benefit contribution legislation is that deductions for providing benefits to employees via a scheme (for example, through intermediaries such as EBTs) should, as far as possible, be broadly the same (both in terms of timing and amount) as they would be if the employer had provided the benefits directly to the employees.</p>\n\n<p>The ‘matching’ approach therefore reflects the fact that when employers provide remuneration and other benefits direct to their employees, in general:</p>\n\n<ul>\n  <li>the benefits are taxable when received by the employees,</li>\n  <li>the benefits, when received by the employees, give rise to a liability to employers’ NICs,</li>\n  <li>the timing of any deduction for the employer’s expenditure is broadly aligned with the time that the employees receive remuneration for employment Income Tax purposes (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47130\">BIM47130</a>),</li>\n  <li>if the employee’s benefit is the personal use of an asset (for example a company car), no deduction would be given in computing the employer’s taxable profits for its capital expenditure in acquiring the asset or for the amount of the benefit on which the employee is taxed,</li>\n  <li>if the employee’s benefit takes the form of the receipt of a beneficial loan from the employer, no deduction would be given in computing the employers’ taxable profits for making the loan or for the amount of the benefit on which the employee is taxed.</li>\n</ul>\n\n<h2 id=\"contributions-to-ebts-made-or-to-be-made-on-or-after-1-april-2017-ct-or-6-april-2017-it\">Contributions to EBTs made or to be made on or after 1 April 2017 (CT) or 6 April 2017 (IT)</h2>\n\n<p>Additional rules apply to these contributions such that a deduction for an employer’s contribution to an EBT may be permanently denied, rather than deferred under the ‘matching’ approach.</p>\n\n<p>A deduction for a contribution made or to be made on or after these dates will not be allowable unless and to the extent that:</p>\n\n<ul>\n  <li>qualifying benefits are provided out of the contribution within 5 years of the end of the period in which the contribution was made, AND</li>\n  <li>if the provision of qualifying benefits gives rise to both an income tax charge and NIC charge then the related tax and NIC that arise are paid within 12 months of the end of the period in which the contribution would otherwise be allowable.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-01-17T12:16:18+00:00",
+ "section_id": "BIM44580",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs: timing of deductions for contributions: overview"
+}

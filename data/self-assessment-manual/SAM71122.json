@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71122",
+ "body": "<p>Note: There is no requirement for processing staff to review this work list pending further instructions. Compliance staff should review the list as directed.</p>\n\n<p>Event</p>\n\n<p>A work item is created immediately when function CREATE INFORMAL DISCHARGE or function MAINTAIN INFORMAL DISCHARGE is used by an Enquiry Officer. These functions are used only where an outstanding debt on the SA record has been included in a contract settlement.</p>\n\n<p>A work item is also created immediately where an informal discharge is automatically adjusted and the original work item has already been deleted.</p>\n\n<p>Specific details</p>\n\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n\n<ul>\n  <li>Whether Creation, Cancellation or Adjustment of an Informal Discharge</li>\n  <li>Charge type</li>\n  <li>Return year</li>\n  <li>Amount</li>\n  <li>Operator ID</li>\n</ul>\n\n<p>Allocation of responsibility</p>\n\n<p>The work item is allocated to the office with processing or the office with technical responsibility. Within one of those offices, the item will be worked by an officer with the user role of Compliance Manager - Processing or Technical.</p>\n\n<p>Frequency of review</p>\n\n<p>This list should be reviewed daily</p>\n\n<p>Updating of details</p>\n\n<p>Until the work item is cleared, the following details held on the work item are updated by Work Management immediately the corresponding entry is updated on the taxpayer record</p>\n\n<ul>\n  <li>Taxpayer name</li>\n  <li>NINO</li>\n  <li>Employers reference (EMPREF) or Schedule D register number</li>\n  <li>Whether Creation, Cancellation or Adjustment</li>\n  <li>Amount</li>\n</ul>\n\n<p>Action to take on the work item</p>\n\n<p>Advice on the action required to review this item is in the section ‘Compliance Work Lists’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam33040\">SAM33040</a>).</p>\n\n<p>Deletion of the work item</p>\n\n<p>The work item is not deleted automatically. It should be deleted manually, using function WORK LIST CASES or function SELECTED CASE, when your review has been completed.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:14+00:00",
+ "section_id": "SAM71122",
+ "title": "Manage work:  work management: W036 informal discharge review"
+}

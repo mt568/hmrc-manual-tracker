@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11140",
+ "body": "<p>Adjustments to a formal standover </p>\n\n<p>A formal standover may be adjusted at any time prior to the determination of the appeal following an agreement between HMRC and the appellant. Function MAINTAIN STANDOVERS should be used to record the amended details.</p>\n\n<p>If an amendment is made to the charge arising from a Revenue assessment (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam20130\">SAM20130</a>), Revenue amendment (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam21020\">SAM21020</a>), or a Jeopardy amendment (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam21010\">SAM21010</a>), against which the formal standover has been applied, then the standover will be automatically reduced to NIL.</p>\n\n<p>In other circumstances if the appeal has been determined but the charge has not been adjusted you should reduce the standover to NIL using function MAINTAIN STANDOVERS.</p>\n\n<p>Adjustments to an informal standover </p>\n\n<p>An informal standover may be adjusted or reduced to NIL at any time, depending upon the circumstances of the case, using function MAINTAIN STANDOVERS.</p>\n\n<p>An informal standover may also be adjusted automatically when the original charge, less adjustments, remissions, transfers to PAYE and formal standovers is reduced to less than the amount already informally stoodover.</p>\n\n<p>Note: When the original charge is amended, although formal standovers are automatically cancelled, related informal standovers need to be reviewed and reduced to NIL where appropriate.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11000",
+   "section_id": "SAM11000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:38+00:00",
+ "section_id": "SAM11140",
+ "title": "Appeals, postponements and reviews: postponements: making adjustments to an SA standover"
+}

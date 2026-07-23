@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124070",
+ "body": "\n<p>Follow steps 1 - 2 below if you receive an amendment to a Trust and Estate or Individuals return from the trustee or taxpayer which includes a claim  </p>\n\n<p>To carry back relief from the current tax year to the year of the return  </p>\n\n<ul>\n  <li>Trading losses, Personal pension plan contributions or Retirement annuity paymentsOr</li>\n</ul>\n\n<p>To carry back relief from the year of the return to an earlier year  </p>\n\n<ul>\n  <li>Losses to be set against income of an earlier year</li>\n  <li>Personal pension plan or Retirement Annuity contributions</li>\n</ul>\n\n<p>Or  </p>\n\n<ul>\n  <li>Claim for Farmer’s averaging or Literary / Artistic spreading that has reduced the taxpayer’s Tax and Class 4 NIC liability for the previous yearFor details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.</li>\n</ul>\n\n<ol>\n  <li>\n    <p>Complete capture of the amended return in function AMEND RETURN (TSS for Trust and estate return cases), but do not make or amend an entry at box 14 or 15 of the Tax Calculation Summary page TCS2  </p>\n  </li>\n  <li>\n    <p>Treat the claim as a stand alone claim. Refer to section ‘Claims Made Outside a Return’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam114000\">SAM114000 </a>onwards) in business area ‘Repayments’  </p>\n  </li>\n</ol>\n\n<pre><code>For more information refer to section ‘Claims Made Outside a Return’ in business area ‘Repayments’.\n</code></pre>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124000",
+   "section_id": "SAM124000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:40+00:00",
+ "section_id": "SAM124070",
+ "title": "Returns: view and amend return: return amendments:  prior year adjustments (Action Guide)"
+}

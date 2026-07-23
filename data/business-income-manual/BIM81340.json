@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim81340",
+ "body": "<p>For the purpose of computing individual partners’ Income Tax liabilities, the share of the partnership’s untaxed income (other than trading profits) allocated to each partner is treated as having been derived from a separate, ‘notional business’, which that partner carries on alone.</p>\n<p>Where an individual is a partner in a partnership and is carrying on a notional business that they did not start or cease to carry on in 2023-24, this guidance will apply.</p>\n<p>The basis period for 2023-24 for the notional business will be the same as the 2023-24 basis period for their notional trade. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81250\" rel=\"nofollow\">BIM81250</a> to establish the basis period for the notional trade and <a href=\"https://www.gov.uk/hmrc-internal-manuals/partnership-manual/pm163080\">PM163080</a> for the definition of 'notional trade'.</p>\n<h3>Deductions for overlap profit</h3>\n<p>The amount available to be given as “overlap relief” is the amount of “overlap profits” which arise in an “overlap period”. An overlap period is a period which falls within the basis periods for two successive tax years.</p>\n<p>In computing the profits for the 2023-24 transition year, the partner must deduct overlap relief under certain circumstances. Overlap relief that can be deducted is:</p>\n<ul><li>the amount that would be available were the partner to permanently cease to carry on their business on 5 April 2024.&nbsp;</li><li>the amount that was available on a change of accounting date in an earlier tax year (that has not been previously deducted)</li></ul>\n<p>Where the amount of overlap profits to be deducted exceed the amount of the profits of the notional business the excess amount will be deducted in calculating the partner’s income for the 2023-24 tax year.&nbsp;</p>\n<p>Guidance on computing overlap relief is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81080\" rel=\"nofollow\">BIM81080</a>.</p>\n<h4>Example 25 – calculating taxable profits of a continuing notional business of a partner in a firm</h4>\n<p>An individual is a partner in a firm that has a rental business and is carrying on a trade.&nbsp;<br />The profits of the rental business that are allocated to the partner are:</p>\n<ul><li>£5,000 for the 12 months to 30 September 2023</li><li>£7,000 for the 12 months to 30 September 2024</li></ul>\n<p>They also have £20,000 of overlap profits from their notional business. The basis period for their notional trade for 2023-24 is 1 October 2022 to 5 April 2024. Their total income for the 2023-24 tax year is £50,000.</p>\n<p>The basis period for their notional business will be the same as the basis period for their notional trade: 1 October 2022 to 5 April 2024.&nbsp;</p>\n<p>The profits are computed by an apportionment using the number of days in the relevant periods and deducting any overlap relief available:</p>\n<table><thead><tr><th scope=\"col\">Step</th><th scope=\"col\">Detail</th></tr></thead><tbody><tr><td><p>Profits from accounts to 30 September 2023</p></td><td><p>1 October 2022 to 30 September 2023: £5,000</p></td></tr><tr><td><p>Apportion profits from accounts to 30 September 2024</p></td><td><p>1 October 2023 to 5 April 2024: £7,000 x 188/366 = £3,596</p></td></tr><tr><td><p>Total profits of notional business for 2023-24 basis period</p></td><td><p>£5,000 + £3,596 = £8,596</p></td></tr><tr><td><p>Deduct overlap relief (£20,000 relief available)</p></td><td><p>£8,596 - £8,596 = Nil.&nbsp;The profit of the notional business is nil.</p></td></tr><tr><td><p>Calculate overlap relief remaining</p></td><td><p>£20,000 - £8,596 = £11,404.&nbsp;They have £11,404 of overlap relief available to set off against their total income for the 2023-24 tax year.</p></td></tr><tr><td><p>Deduct remaining overlap relief from income of the tax year</p></td><td><p>£50,000 - £11,404 = £38,596.&nbsp;The remaining overlap relief is deducted from the partner’s total income for 2023-24.</p></td></tr></tbody></table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81000",
+   "section_id": "BIM81000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81200",
+   "section_id": "BIM81200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-03-04T16:53:36+00:00",
+ "section_id": "BIM81340",
+ "title": "Transitional rules: partners with continuing notional business"
+}

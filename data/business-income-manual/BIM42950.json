@@ -1,0 +1,42 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42950",
+ "body": "<p>Compensation may arise in a variety of circumstances. This chapter describes the tax treatment of payments and receipts for trading income purposes and covers the following:</p>\n\n<p>For other guidance, see:</p>\n\n<ul>\n  <li><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim62025\">BIM62025</a> - compensation paid for damages caused by mining operations</li>\n  <li><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40100\">BIM40100</a> onwards and <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim12852\">EIM12852</a> - treatment of compensation or damages in the hands of the recipient</li>\n  <li><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim51425\">BIM51425</a> - compensation payments by brewers to tenants of tied houses</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42951",
+     "description": "",
+     "section_id": "BIM42951",
+     "title": "General"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42955",
+     "description": "",
+     "section_id": "BIM42955",
+     "title": "Purpose test"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42960",
+     "description": "",
+     "section_id": "BIM42960",
+     "title": "Capital"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM42950",
+ "title": "Specific deductions: compensation & damages: contents"
+}

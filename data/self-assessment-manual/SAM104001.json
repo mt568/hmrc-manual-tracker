@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam104001",
+ "body": "<p>In day to day work, you may want to trace a taxpayer record when</p>\n\n<ul>\n  <li>Engaged on routine post tracing</li>\n  <li>Dealing with telephone enquiries</li>\n  <li>\n    <p>You have responsibility for either</p>\n\n    <ul>\n      <li>Setting up new SA records</li>\n    </ul>\n\n    <p>Or  </p>\n\n    <ul>\n      <li>Transfer of records</li>\n    </ul>\n  </li>\n</ul>\n\n<p>To do this you can use either the TBS function FIND TAXPAYER or the NPS function TRACE AND MATCH.</p>\n\n<p>The NPS function can be used to search for individual and employer records and the TBS function can be used to trace only for individual records.</p>\n\n<p>Guidance on using the TBS function can be found in the Taxpayer Business Service Guide (TBSG) at TBSG032 and guidance on using the NPS function can be found in the PAYE Manual at PAYE120001 onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam104000",
+   "section_id": "SAM104000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:08+00:00",
+ "section_id": "SAM104001",
+ "title": "Records: trace taxpayer record: introduction"
+}

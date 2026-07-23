@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim81075",
+ "body": "<h2>S205 Income Tax (Trading and Other Income) Act 2005</h2>\n<p>Where 5 April is used as the annual accounting date throughout the entire life of a business, there will be no overlaps between basis periods. In such cases the total profits charged to Income Tax will automatically equal the total profits made during the life of the business.</p>\n<p>In any other case there will be one or more years in which the basis periods for two successive tax years overlap. These overlaps may occur:</p>\n<ul><li class=\"filledcircle\">In years 2 or 3 during the period in which the basis periods and accounting periods are brought into alignment; or</li><li class=\"filledcircle\">During the period of realignment following a change of accounting date.</li></ul>\n<p>To ensure that the total profits charged to Income Tax exactly equal the total profits made during the life of the business, ‘overlap relief’ is given.</p>\n<p>The amount available to be given as overlap relief is the amount of profits which arise in any overlap periods. An overlap period is a period which falls within two basis periods. Guidance on computing overlap relief is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81080\">BIM81080</a>.</p>\n<p>Overlap relief is given as a deduction in calculating the profits of the trade for the tax year:</p>\n<ul><li class=\"filledcircle\">in which the trade ceases (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81095\">BIM81095</a>), and/or</li><li class=\"filledcircle\">an earlier tax year in which a change of accounting date occurs if the basis period for that tax year is longer than 12 months (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81090\">BIM81090</a>).</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81000",
+   "section_id": "BIM81000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:40+01:00",
+ "section_id": "BIM81075",
+ "title": "Computation of liability: overlap relief - introduction"
+}

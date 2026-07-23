@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60330",
+ "body": "<p>S768-S769 Income Tax Act 2007, S829-S830 Corporation Tax Act 2010</p>\n\n<p>If a person (person ‘A’) is taxed on the gain under the transaction in land rules but the consideration was actually received by another person (person ‘B’), person A has the right to recover the tax paid from person B.</p>\n\n<p>For the definition of ‘another person’ in this context, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60480\">BIM60480</a>.</p>\n\n<p>This provision concerns the scenario where someone other than the person charged to tax receives the consideration. This might be the case where the person who provides the value or the opportunity is taxed on the gain but is not the person who receives the consideration (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60328\">BIM60328</a>). However, do not get confused by the labelling of the ‘persons’ in both legislative provisions. The taxing provision terms the person receiving the consideration as person A and the provider of the opportunity as person B, whereas the recovery provisions discussed in this page refer to the person taxed on the gain as person A and the person who receives the consideration as person B.</p>\n\n<h3 id=\"certificate-of-tax-paid\">Certificate of tax paid</h3>\n\n<p>In order to help recover the tax from person B, person A can ask you to provide a certificate specifying:</p>\n\n<ul>\n  <li>the amount of income on which tax has been paid, and</li>\n  <li>the amount of tax paid.</li>\n</ul>\n\n<h3 id=\"proceedings-to-recover-the-tax-due\">Proceedings to recover the tax due</h3>\n\n<p>Similarly, if HMRC is unable to recover the tax due from person A and the tax is still outstanding six months from the due date, we may take proceedings against either person B or person A to recover the tax due.</p>\n\n<h3 id=\"income-treated-as-highest-part-of-total-income-of-individual\">Income treated as highest part of total income of individual</h3>\n\n<p>For the purposes of recovering the tax charged under the transactions in land provisions, if the person is an individual the income charged should be treated as the highest part of that individual’s total income.</p>\n\n<p>If there is more than one transaction in land in the tax year caught by these rules (or if the individual is also subject to tax on income under Chap 4 Part 13 ITA 2007 in the same tax year), only a just and reasonable proportion of each is treated as the highest part of total income (although see S1012 ITA 2007 for further rules on prioritisation of income).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+   "section_id": "BIM60300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:12+01:00",
+ "section_id": "BIM60330",
+ "title": "Transactions in land: Right to recover the tax from another person"
+}

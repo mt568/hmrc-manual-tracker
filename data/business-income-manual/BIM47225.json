@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim47225",
+ "body": "<h2 id=\"s163164-income-tax-trading-and-other-income-act-2005-and-s139140-corporation-tax-act-2009\">S163/164 Income Tax (Trading and Other Income) Act 2005 and S139/140 Corporation Tax Act 2009</h2>\n\n<h3 id=\"the-ir35-intermediaries-legislation\">The IR35 Intermediaries Legislation</h3>\n\n<p>The intermediaries legislation, commonly referred to as IR35, is anti-avoidance legislation designed to stop individuals gaining a tax and National Insurance advantage by disguising their employment status. In an IR35 case, an individual provides their services to a client via an intermediary. The intermediary is usually a company but can also be a partnership or individual.</p>\n\n<p>The intermediary earns all, or most, of its income from supplying the individual’s services in circumstances that would be employment if the individual had been engaged directly by the client. However, there is no contract between the worker and the client. Instead, there is a contract between the intermediary and the client (either directly or via an agency).</p>\n\n<p>When IR35 applies, the income of the intermediary is the starting point for calculating the worker’s earnings from an employment. The intermediary is treated as making a deemed employment payment to the worker which is chargeable to tax as employment income and subject to Class 1 NICs. The treatment of the deemed employment payment as employment income gives rise to an obligation to account for PAYE as well as Class 1 NICs.</p>\n\n<p>The payment actually received by the intermediary is trading income. Tax relief is available for companies and partnerships subject to IR35 on the amount of the deemed employment payment and any secondary NICs due on it. See ESM3200, ESM3204.</p>\n\n<p>Further details about IR35 can be found in the Employment Status Manual at ESM3000 onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim47000",
+   "section_id": "BIM47000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM47225",
+ "title": "Specific deductions: staffing costs: Deemed Employment Payments"
+}

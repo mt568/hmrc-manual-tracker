@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim84250",
+ "body": "<p>A market gardener has the following profits and would like to consider an averaging claim in 2016/2017.</p>\n<table summary=\"Table showing the above\"><thead><tr><th scope=\"col\">Tax Year</th><th scope=\"col\">Profits</th></tr></thead><tbody><tr><td>2015/2016</td><td>£92,468</td></tr><tr><td>2016/2017</td><td>-£265,480</td></tr></tbody></table>\n<p>As the volatility&nbsp;and other criteria are met an averaging claim can&nbsp;be made.</p>\n<p>The averaging computation looks like this.</p>\n<table summary=\"Table showing the averaging computation\"><thead><tr><th scope=\"col\">Tax Year</th><th scope=\"col\">Profits</th><th scope=\"col\">Profits for averaging</th><th scope=\"col\">Averaged Profits</th></tr></thead><tbody><tr><td>2015/2016</td><td>£92,468</td><td>£92,468</td><td>£46,234</td></tr><tr><td>2016/2017</td><td>-£265,480</td><td>£0</td><td>£46,234</td></tr></tbody></table>\n<p>So, the market gardener's profit for all tax purposes are now £46,234 for each year.</p>\n<p>The £265,480 of trade losses can be used in the normal manner.</p>\n<p>The&nbsp;market gardener's general income for 2016/2017 is £300,000, consisting of employment income of £253,766 and averaged trade profit of £46,234.</p>\n<p>The amount of trade loss relief that can claimed for 2016/2017 is&nbsp;£121,234.</p>\n<p>The figure of&nbsp;£121,234 is made up of £75,000 being the&nbsp;capped amount of relief&nbsp;(S24A(5) Income Tax Act 2007) and&nbsp;£46,234 that is not subject to the cap.</p>\n<p>For further information on the relief cap see HS204&nbsp;Limit on Income Tax Reliefs on GOV.UK.&nbsp;</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim84000",
+   "section_id": "BIM84000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-24T10:14:06+00:00",
+ "section_id": "BIM84250",
+ "title": "Averaging: example of a two year claim with loss cap restriction"
+}

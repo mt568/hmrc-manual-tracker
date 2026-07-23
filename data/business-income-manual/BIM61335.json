@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim61335",
+ "body": "<p>S681B-S681BM Income Tax Act 2007, S849-S862 Corporation Tax Act 2010</p>\n\n<p>This anti-avoidance legislation deals with the situation where the existing occupier of premises incurs additional rental liability for a comparatively short period in return for receiving a lump sum.</p>\n\n<ul>\n  <li>In form, the lump sum is the consideration received for assigning or surrendering the lease, usually to a charity or a pension fund, and the leaseback is for a short period at an increased rent.</li>\n  <li>In substance, however, the lump sum is a loan and the additional rent represents the repayment of principal and interest.</li>\n</ul>\n\n<p>The legislation applies to leasebacks:</p>\n\n<ul>\n  <li>entered into on or after 22 June 1971,</li>\n  <li>where the unexpired term of the original lease did not exceed 50 years, and</li>\n  <li>the leaseback is for a period of 15 years or less.</li>\n</ul>\n\n<p>Where the legislation applies, a proportion of the lump sum is treated as income of the recipient. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61345\">BIM61345</a>.</p>\n\n<p>For example, where a lease is for 15 years, 14/15ths of the lump sum is to be treated as a capital receipt of the lessee and 1/15th as an income receipt. In the case of leases for shorter periods, the capital element is to be correspondingly smaller and the income element greater.</p>\n\n<h2 id=\"example\">Example</h2>\n\n<p>A professional partnership:</p>\n\n<ul>\n  <li>occupying offices under a lease which has 8 years to run,</li>\n  <li>at a rent of £30,000 per annum,</li>\n  <li>assigns the remainder of the lease to a pension fund for £200,000 on 1 June 2012, and</li>\n  <li>is granted an immediate leaseback for 8 years less one day,</li>\n  <li>for a rent of £70,000 per annum.</li>\n</ul>\n\n<p>The commercial rental value of the premises on 1 June 2012 is approximately £100,000 per annum.</p>\n\n<p>Since the rent of £70,000 per annum is less than the commercial rent, no restriction is required under the guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61301\">BIM61301</a> onwards.</p>\n\n<p>The income proportion of the £200,000 is 8/15ths, that is, £106,666. It is treated as a receipt of the profession.</p>\n\n<p>The balance of £93,334 is within the charge to Capital Gains Tax.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim61300",
+   "section_id": "BIM61300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:01:59+01:00",
+ "section_id": "BIM61335",
+ "title": "Leasing: avoidance: sale and leaseback of land: new lease after assignment or surrender"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64080",
+ "body": "<p>FRS5 Application Note F requires that consideration is first given as to whether SSAP 21 ‘Accounting for leases and hire purchase contracts’ is applicable. That is, whether the PFI agreement can be separated into commercially independent property and service elements.</p>\n\n<p>For example, a unitary charge (the annual service payment) may be divisible into two separate income streams, both of which may vary according to usage or performance:</p>\n\n<ul>\n  <li>one of which relates to the availability of the PFI property,</li>\n  <li>the second to the provision of services.</li>\n</ul>\n\n<p>Where the PFI agreement can be separated into commercially independent elements and the property element is solely a payment for the property, i.e. it does not contain any service element, it is akin to a stand-alone lease and SSAP21 applies.</p>\n\n<p>Where the contract is not separable into commercially independent elements, or the property element includes an element of services, FRS5 applies. However, if another accounting standard contains more specific provisions it may also be applicable (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64085\">BIM64085</a>).</p>\n\n<p>FRS5 sets out the factors that are taken into account in determining whether a PFI property is to be shown as a fixed asset, or a finance debtor, on the balance sheet of the private sector operator (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64095\">BIM64095</a>).</p>\n\n<p>HMRC officers should refer any questions concerning the application of FRS5 and SSAP21 to their local compliance/advisory accountant.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64070",
+   "section_id": "BIM64070"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:40+01:00",
+ "section_id": "BIM64080",
+ "title": "Measuring the profits (particular trades): Private Finance Initiative (PFI): accounting: FRS5 and SSAP21"
+}

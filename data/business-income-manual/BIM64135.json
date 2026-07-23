@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64135",
+ "body": "<h4 id=\"pfi-property\">PFI property</h4>\n\n<table>\n  <thead>\n    <tr>\n      <th>Tax treatment</th>\n      <th>Accounting treatment</th>\n      <th>Accounting treatment</th>\n      <th>Accounting treatment</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Revenue</td>\n      <td>Fixed asset</td>\n      <td>Finance debtor</td>\n      <td>Finance debtor</td>\n    </tr>\n    <tr>\n      <td>Revenue</td>\n      <td>FRS5</td>\n      <td>FRS5</td>\n      <td>SSAP9/FRS5</td>\n    </tr>\n    <tr>\n      <td>Revenue</td>\n      <td>Example 1 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64140\">BIM64140</a>)</td>\n      <td>Example 2 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64145\">BIM64145</a>)</td>\n      <td>Example 3 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64150\">BIM64150</a>)</td>\n    </tr>\n    <tr>\n      <td>Capital</td>\n      <td>Example 4 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64155\">BIM64155</a>)</td>\n      <td>Example 5 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64160\">BIM64160</a>)</td>\n      <td>Example 6 (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64165\">BIM64165</a>)</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>The above examples do not deal with the tax treatment of interest, for which special statutory rules apply (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64240\">BIM64240</a> onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64120",
+   "section_id": "BIM64120"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-17T10:02:43+00:00",
+ "section_id": "BIM64135",
+ "title": "Private Finance Initiative (PFI): accounting and tax: income and expenditure recognition: table of examples"
+}

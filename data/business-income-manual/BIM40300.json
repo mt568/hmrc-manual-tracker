@@ -1,0 +1,36 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40300",
+ "body": "<p>This chapter looks at sums received under exclusivity agreements. Under these agreements, traders tie themselves to one supplier of goods or services for a number of years in exchange for a lump sum payment and/or periodic payments.</p>\n\n<p>Information on the tax treatment of the payer can be found at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35550\">BIM35550</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35560\">BIM35560</a>.</p>\n\n<p>This chapter is arranged as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40301",
+     "description": "",
+     "section_id": "BIM40301",
+     "title": "Background"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40305",
+     "description": "",
+     "section_id": "BIM40305",
+     "title": "Tax and accounting treatment"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:22+01:00",
+ "section_id": "BIM40300",
+ "title": "Specific receipts: exclusivity agreements: contents"
+}

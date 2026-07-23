@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110089",
+ "body": "<h2 id=\"IDAMNE4C\">Effective date of payment (EDP)</h2>\n\n<p>The later of</p>\n\n<ul>\n  <li>The date the overpayment was established. Note: In PAYE cases, this date is the end of the year in, for example, 5 April of the year to which the overpayment relates</li>\n</ul>\n\n<blockquote>\n  <p>And</p>\n</blockquote>\n\n<ul>\n  <li>The Relevant Due Date of any charge against which the credit is being set</li>\n</ul>\n\n<h2 id=\"IDAJOE4C\">Repayment supplement (RPS)</h2>\n\n<h4 id=\"from\">From</h4>\n\n<p>For overpayments from years 1995-96 and before</p>\n\n<ul>\n  <li>6 April, 12 months following the end of the tax year to which the overpayment relates. For example the RPS for a 1995-96 overpayment is payable from 06/04/1997</li>\n</ul>\n\n<p>For overpayments from years 1996-97 and later</p>\n\n<p>31 January following the end of the tax year to which the overpayment relates</p>\n\n<h4 id=\"to\">To</h4>\n\n<p>If the amount is to be repaid directed to the claimant / or agent</p>\n\n<ul>\n  <li>The projected date of issue of the repayment</li>\n</ul>\n\n<p>If the amount is to be set off or reallocated to a charge under the same UTR</p>\n\n<ul>\n  <li>The relevant due date of the charge against which the credit is being set</li>\n</ul>\n\n<p>If the amount is to be set off or reallocated to a different UTR or Head of Duty</p>\n\n<ul>\n  <li>The date that the set off / reallocation is made</li>\n</ul>\n\n<h2 id=\"IDAWYE4C\">RPS calculated automatically or manually?</h2>\n\n<ul>\n  <li>RPS will have to be calculated manually</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-04T08:44:57+01:00",
+ "section_id": "SAM110089",
+ "title": "Repayments: issue repayment: freestanding credit created manually on the SA record from a PAYE / CODA overpayment, including pre-SA SC60 deductions"
+}

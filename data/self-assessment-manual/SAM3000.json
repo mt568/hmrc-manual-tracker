@@ -1,0 +1,51 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3001",
+     "description": "",
+     "section_id": "SAM3001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3010",
+     "description": "",
+     "section_id": "SAM3010",
+     "title": "Locate SA payment using SA trace function"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3020",
+     "description": "",
+     "section_id": "SAM3020",
+     "title": "Refer tracing enquiry to Banking Operations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3030",
+     "description": "",
+     "section_id": "SAM3030",
+     "title": "Trace non-SA payment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3040",
+     "description": "",
+     "section_id": "SAM3040",
+     "title": "Types of non-cheque payment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3050",
+     "description": "",
+     "section_id": "SAM3050",
+     "title": "Non-matched payments"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:42+00:00",
+ "section_id": "SAM3000",
+ "title": "Amend payment: trace payment: contents"
+}

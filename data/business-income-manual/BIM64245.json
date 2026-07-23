@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64245",
+ "body": "<p>S297, S320 Corporation Tax Act 2009</p>\n\n<p>For Corporation Tax purposes, provided a company is a party to a loan relationship for the purposes of a trade carried on by it, interest payable under that relationship is treated as an expense of the trade.</p>\n\n<p>Relief is normally available for Corporation Tax purposes when an interest debit is made:</p>\n\n<ul>\n  <li>to the profit and loss account and is not subsequently ‘capitalised’ (see example 5 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64275\">BIM64275</a>), or</li>\n  <li>when an interest debit made direct to a finance debtor, or capitalised to a finance debtor, that represents revenue expenditure for tax purposes is matched against income (see examples 3 and 4 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64265\">BIM64265</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64270\">BIM64270</a>).</li>\n</ul>\n\n<p>The one exception is where the interest is debited, or capitalised, to a fixed capital asset or project. Such a debit is to be brought into account for Corporation Tax purposes in the accounting period for which it is given, in the same way as a debit is given in determining the profit or loss for that period (see example 6 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64280\">BIM64280</a>). We accept that where a PFI property is a fixed asset for tax purposes it falls within the definition of fixed capital project, whether reported as a fixed asset or a financial asset for accounting purposes (see examples 7 and 8 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64285\">BIM64285</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64290\">BIM64290</a>).</p>\n\n<p>Where a deduction for interest payable is made in a trading profits computation under the fixed capital asset or project rule, no further deduction is admissible as the asset is written off to the profit and loss account, or matched against income, in succeeding accounting periods (see examples 6, 7 and 8 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64280\">BIM64280</a>, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64285\">BIM64285</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64290\">BIM64290</a>).</p>\n\n<p>For the treatment of interest payable in a pre-trading period, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim64325\">BIM64325</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64240",
+   "section_id": "BIM64240"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:48+01:00",
+ "section_id": "BIM64245",
+ "title": "Private Finance Initiative (PFI): interest: trade"
+}

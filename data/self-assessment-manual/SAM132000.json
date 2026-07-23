@@ -1,0 +1,75 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132001",
+     "description": "",
+     "section_id": "SAM132001",
+     "title": "Statements: transactions on statements: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132010",
+     "description": "",
+     "section_id": "SAM132010",
+     "title": "Statements: transactions on statements: transactions on  brought forward statements"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132020",
+     "description": "",
+     "section_id": "SAM132020",
+     "title": "Statements: transactions on statements: transactions on  open item statements"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132030",
+     "description": "",
+     "section_id": "SAM132030",
+     "title": "Statements: transactions on statements: transactions on simple statements"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132040",
+     "description": "",
+     "section_id": "SAM132040",
+     "title": "Statements: transactions on statements: screen prints: transaction ‘types’"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132050",
+     "description": "",
+     "section_id": "SAM132050",
+     "title": "Statements: transactions on statements: transaction type: charge"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132051",
+     "description": "",
+     "section_id": "SAM132051",
+     "title": "Statement: transactions on statements: transaction type: payment credit"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132052",
+     "description": "",
+     "section_id": "SAM132052",
+     "title": "Statements: transactions on statements: transaction type: payment debit"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132053",
+     "description": "",
+     "section_id": "SAM132053",
+     "title": "Statements: transactions on statements: transaction type: adjustment and amendment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132054",
+     "description": "",
+     "section_id": "SAM132054",
+     "title": "Statements: transactions on statements: transaction type: miscellaneous"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:26+00:00",
+ "section_id": "SAM132000",
+ "title": "Statements: transactions on statements: contents"
+}

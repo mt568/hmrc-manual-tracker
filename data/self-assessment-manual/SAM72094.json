@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72094",
+ "body": "<p>The Office Manager is responsible for managing day to day access to the SA system, including</p>\n\n<ul>\n  <li>Setting up, amending, and deleting authorised users on the SA system</li>\n  <li>Allocating user roles</li>\n</ul>\n\n<p>The following table shows the functions linked to this role.</p>\n\n<p>On accessing the function, system help is available to you at function, screen, field, and error message levels.</p>\n\n<p>For ease of reference, the functions are grouped under the sub-heading ‘Operator’</p>\n\n<h2 id=\"operator\">Operator</h2>\n\n<p>Cease Operator</p>\n\n<p>Compose New Secondary Password</p>\n\n<p>Create Operator</p>\n\n<p>Invalidate Operator</p>\n\n<p>Maintain Operator Role</p>\n\n<p>Maintain Password</p>\n\n<p>Maintain Secondary Password</p>\n\n<p>Reset Operator</p>\n\n<p>Transfer Operator</p>\n\n<p>View OU Operators</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:27+00:00",
+ "section_id": "SAM72094",
+ "title": "Manage work: access to records: office manager"
+}

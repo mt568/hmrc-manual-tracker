@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim85035",
+ "body": "<p>S261B Taxation of Chargeable Gains Act 1992 (TCGA 1992)</p>\n\n<p>As explained in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85030\">BIM85030</a> (step 2), the determination of the ‘relevant amount’ enables a point in time to be established by reference to which the ‘maximum amount’ can be fixed. In ascertaining the ’maximum amount’, no account is to be taken of any event which:</p>\n\n<ul>\n  <li>occurs after the determination of the ‘relevant amount’,</li>\n  <li>could have the effect of reducing the amount on which the trader is chargeable.</li>\n</ul>\n\n<p>For example, if a roll-over relief claim has the effect of relieving gains chargeable for the year of the S261B TCGA 1992 claim, trading losses treated as allowable losses do not revert to being treated as trading losses; they simply remain as allowable capital losses and are carried forward accordingly. This avoids the possibility of fresh claims to Income Tax relief resulting in the reworking of several years’ computations.</p>\n\n<p>Trading losses which are treated as allowable losses cease to be available for set-off against chargeable gains for any year of assessment following that in which the trade ceases. So trading losses treated as allowable capital losses carried forward should be shown separately in the record of unrelieved Capital Gains Tax losses (<a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10400\">CG10400</a>) and cancelled for years of assessment beginning after the trader ceases to carry on the trade. Such losses (before cancellation) may be set off against gains in preference to other Capital Gains Tax losses.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim85000",
+   "section_id": "BIM85000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM85035",
+ "title": "Trade losses - types of relief: relief against chargeable gains - gains subsequently relieved"
+}

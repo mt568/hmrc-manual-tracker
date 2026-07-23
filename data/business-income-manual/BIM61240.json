@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim61240",
+ "body": "<p>S681C-S681CG Income Tax Act 2007, S863-S869 Corporation Tax Act 2010</p>\n<p>Anti-avoidance legislation (the leased trading assets legislation) applies where a person who carries on a trade (including&nbsp;profession or vocation) makes payments under a lease of an asset other than land or buildings (as to which see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61300\">BIM61300</a> onwards) and at any time before the lease was created the asset was used either:</p>\n<ul><li>in that trade,&nbsp;or</li><li>in another trade carried on by the person who then or later was carrying on the first trade,</li></ul>\n<p>and when so used was owned by the person carrying on the trade in which it was used.</p>\n<p>Where the legislation applies, when&nbsp;computing the profits and gains of the trade the deduction in respect of a payment under the lease must not exceed the commercial rent of the asset for the period for which the payment is made (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61245\">BIM61245</a>). See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61250\">BIM61250</a> for the calculation rules.</p>\n<p>The legislation does not apply to leases created on or before 14 April 1964 or to payments under long funding finance leases.</p>\n<p>Asset and lease have the same meanings as at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim61215\">BIM61215</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim61200",
+   "section_id": "BIM61200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-07-16T01:00:00+01:00",
+ "section_id": "BIM61240",
+ "title": "Leasing: avoidance: assets other than land: leased trading assets"
+}

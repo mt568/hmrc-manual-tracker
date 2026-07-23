@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim52530",
+ "body": "<p>S172ZE Income Tax (Trading and Other Income) 2005, S149E Corporation Tax Act 2009</p>\n\n<p>The ‘costs of the building’ are relevant for computing the trading deductions for crematoria in relation to the expenditure of memorials, inscriptions and niches. A partial trading deduction is available in relation to these costs. The calculation of the partial deduction is discussed in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim52520\">BIM52520</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim52525\">BIM52525</a>. This page covers the definition of the ‘costs of the building’.</p>\n\n<p>In order to be a ‘cost of the building’, the cost must be incurred by the trader (or a predecessor trader). However, the definition differs depending on whether the building was acquired or constructed.</p>\n\n<h3 id=\"acquisition\">Acquisition</h3>\n\n<p>If the building was acquired for the purposes of the trade, the costs are the lower of:</p>\n\n<ul>\n  <li>the market value of the building when it was acquired</li>\n  <li>the costs incurred in acquiring the building</li>\n</ul>\n\n<h3 id=\"construction\">Construction</h3>\n\n<p>If the building was constructed for the purposes of the trade, the costs are the costs incurred in constructing the building.</p>\n\n<h3 id=\"other-costs-of-the-building\">Other costs of the building</h3>\n\n<p>If further capital constructions costs (such as renovations or extensions) are incurred after the building was acquired or constructed, these costs are also costs of the building.</p>\n\n<h3 id=\"excluded-costs\">Excluded costs</h3>\n\n<p>The following costs should not be included as ‘costs of the building’:</p>\n\n<ul>\n  <li>costs of maintaining the building</li>\n  <li>the cost of the land on which the building is situated (to apportion costs between the land and the building, a just and reasonable basis is acceptable)</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim52500",
+   "section_id": "BIM52500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:50+01:00",
+ "section_id": "BIM52530",
+ "title": "Cemeteries and crematoria: costs of the building"
+}

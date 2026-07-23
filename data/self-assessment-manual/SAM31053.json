@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31053",
+ "body": "<p>To record the amount of Student Loan and/or Postgraduate Loan (PGL) repayments on the SA record, where they have been included in a discovery assessment or contract settlement, follow the step below.</p>\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</p>\n<p><span>1.&nbsp;&nbsp;Use function CREATE RETURN CHARGE (for each applicable year) to </span><strong>add</strong><span> the amount of additional Student Loan and/or PGL &nbsp;repayment to the existing entries in</span></p>\n<ul><li>The Student Loan and/or PGL Repayment field, and</li><li>The Overpayments for earlier years field</li></ul>\n<p>Once you have completed the CRC you will need to check the Student loan case indicator, if this is showing P, F or N you will need to ask EKSLU to report the case to their Business Help Desk as the new Student loan and/or PGL amount will not be sent to Student Loan Company (SLC)</p>\n<p><strong>Note:</strong>&nbsp; The amount in the Student Loan and/or PGL Repayment field will be notified to the Student Loans Company (replacing any amount already notified to them).&nbsp;</p>\n<p>If the customer has more than one loan type, that is Plan type and PGL, you will need to ask EKSLU to report the case to their Business Help Desk as the new student loan and/or PGL amount may not be sent to SLC regardless of the indicator</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31000",
+   "section_id": "SAM31000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-10-09T01:00:00+01:00",
+ "section_id": "SAM31053",
+ "title": "Compliance: enquiry work: discovery/contract settlements: Student loan and/or postgraduate loan repayments (Action Guide)"
+}

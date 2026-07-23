@@ -1,0 +1,54 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24450",
+ "body": "<h2 id=\"introduction-and-layout-of-guidance\">Introduction and layout of guidance</h2>\n\n<p>Where the trade satisfies the requirements for mutual trading and the trade is only carried on with members, there will seldom be any reason to consider the trading deduction rules - the profits not being taxable and any losses not being allowable.</p>\n\n<p>The issue will however arise where the trade is only partially mutual; for example an otherwise mutual trade is also carried on with non-members.</p>\n\n<p>The normal rules:</p>\n\n<ul>\n  <li>capital/revenue distinction (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35000\">BIM35000</a> onwards),</li>\n  <li>wholly and exclusively (see BIM37000 onwards) and</li>\n  <li>specific statutory rules (for example S58 Income Tax (Trading and Other Income) Act 2005 - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45800\">BIM45800</a> onwards)</li>\n</ul>\n\n<p>apply to a mutual trader in just the same way as they apply to a non-mutual trader.</p>\n\n<p>The guidance that follows covers:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24455",
+     "description": "",
+     "section_id": "BIM24455",
+     "title": "Allowable expenditure: trades that are partly non-mutual"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24460",
+     "description": "",
+     "section_id": "BIM24460",
+     "title": "Allowable expenditure: apportionment of mixed expenditure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24465",
+     "description": "",
+     "section_id": "BIM24465",
+     "title": "Allowable expenditure: judicial guidance on apportionment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24470",
+     "description": "",
+     "section_id": "BIM24470",
+     "title": "Allowable expenditure: members golf clubs: is intention relevant?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24475",
+     "description": "",
+     "section_id": "BIM24475",
+     "title": "Allowable expenditure: the ‘Peterhead’ principle"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:38+01:00",
+ "section_id": "BIM24450",
+ "title": "Meaning of trade: mutual trading and members clubs: allowable expenditure: contents"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46265",
+ "body": "<p>S61 Income Tax (Trading and Other Income) Act 2005, S63 Corporation Tax Act 2009</p>\n\n<p>Where a taxed lease is assigned (or sold - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1204\">PIM1204</a>) and the new tenant occupies or uses the land subject to the lease for the purposes of a trade, the new tenant inherits the old tenant’s entitlement to a deduction in respect of the premium.</p>\n\n<h2 id=\"example\">Example</h2>\n\n<p>The facts are the same as the example in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46255\">BIM46255</a>, except that B Limited vacates the property after ten years and sells its lease to C Limited. The consideration for the sale is £100,000.</p>\n\n<p>C Limited inherits B Limited’s entitlement to a trading deduction of £8,572 per annum for eleven years (21 less 10) or for such lesser period as C Limited occupies the property for trade purposes. If the rules dealing with the assignment of a lease at undervalue (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1222\">PIM1222</a>) do not apply, the sum of £100,000 paid by C Limited to B Limited as consideration for the assignment of the lease is a capital payment which is not a premium taxable on B Limited and does not rank as a trading deduction allowable to C Limited.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46250",
+   "section_id": "BIM46250"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM46265",
+ "title": "Specific deductions: premiums: assignment of lease"
+}

@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim84001",
+ "body": "<p>S221-S225 Income Tax (Trading and Other Income) Act 2005</p>\n\n<p>Averaging is a relief available to individuals who are farmers or market gardeners or who personally create literary or artistic works. It works by computing the total tax due for consecutive tax years as if the profit for each year is the average of the profits for those years.</p>\n\n<p>Creators of literary works can average profits over two consecutive tax years.</p>\n\n<p>Farmers and market gardeners can, from the 2016 / 2017 tax year, choose to average profits over two consecutive tax years or five consecutive tax years.</p>\n\n<p>It is generally beneficial to claim if the marginal rates of tax or NIC are different from one year to the next.</p>\n\n<p>There is an introduction to the relief in the Self Assessment Tax Return Help Sheets:</p>\n\n<ul>\n  <li>Farming and market gardening HS224.</li>\n  <li>Creators of literary or artistic works HS234.</li>\n</ul>\n\n<p>The way in which the relief operates is, very briefly, as follows. Claims are made in respect of either two or five consecutive tax years in the return for the last year. The profit for that year is adjusted to the average of the profits over the two or five years. In addition an adjustment in terms of tax and NIC is made to the tax due for the last year. The amount of the adjustment (which may be an increase or a decrease) is the amount by which the tax and NIC for the previous one or four years would have changed if the profit for those years had been adjusted to the average figure. The relief does not apply unless the profits for the two or five years are volatile. Volatile means that the profits in one of the years are less than 75% of the profits of the other years.</p>\n\n<p>Averaging will help if the top rate of tax or NIC is different in some of the years. For example:</p>\n\n<ul>\n  <li>averaging will not help a person who is chargeable to the highest rate of tax and Class 4 NIC for each year</li>\n  <li>averaging may help a person who pays tax at the basic rate one year and higher rate in another</li>\n  <li>averaging may help a person who is liable to tax one year but whose income falls below their allowances in another.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim84000",
+   "section_id": "BIM84000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-10-31T11:03:56+00:00",
+ "section_id": "BIM84001",
+ "title": "Averaging: introduction"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80050",
+ "body": "<h2 id=\"payments-processed-in-dm-banking\">Payments processed in DM Banking</h2>\n\n<p>DM Banking process the vast majority of payments that customers make. SA payments are separately identified and posted to the customer’s SA record and to the Management Account, and any non-matched payments are re-directed to the OAS system.</p>\n\n<h2 id=\"local-office-payments-and-transfers-in\">Local office payments and transfers in</h2>\n\n<p>Local office bank lodgement facilities were withdrawn in March 2006.</p>\n\n<h2 id=\"payment-allocation-overpayments-and-excess-payments\">Payment allocation, overpayments and excess payments</h2>\n\n<p>Each SA payment that finds a matching customer record is credited in full to that record.</p>\n\n<p>If a paid liability is reduced the resultant overpayment is re-allocated against any other SA charge that is or is about to become due.</p>\n\n<p>Payments are allocated or re-allocated to charges using automatic allocation rules.</p>\n\n<h2 id=\"payment-transfer\">Payment transfer</h2>\n\n<p>The movement of a credit to or from an SA record is described as a ‘transfer’. Payments can only be transferred between SA and OAS. There is no facility for moving payments directly between two SA records.</p>\n\n<p>You should record the OAS number when transferring a credit from SA, but if you fail to do so or are not given the option, the OAS number can be obtained by viewing the transferred credit as follows</p>\n\n<ul>\n  <li>In SA from top tool bar select ‘Statements’</li>\n  <li>From drop down menu select ‘View Taxpayer Credits’</li>\n  <li>Enter the UTR (and you may need to change the dates here to ensure you include the original date of payment of the transferred credit), select [OK]</li>\n  <li>Select the line of the credit you wish to view and select [OK]</li>\n  <li>The View Taxpayer Credits screen will display the allocation history of the credit and any OAS number</li>\n</ul>\n\n<p>More information on payment allocation and transfer is available in the Debt Management &amp; Banking Manual DMBM210100.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80000",
+   "section_id": "SAM80000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:31+00:00",
+ "section_id": "SAM80050",
+ "title": "Payments: payments overview: payment allocation and transfer"
+}

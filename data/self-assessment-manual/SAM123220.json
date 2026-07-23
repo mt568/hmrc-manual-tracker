@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123220",
+ "body": "<p>The capture of a trust return is not an automatic process. The tax liability is calculated using a Technical Support System (TSS). The SA Pension or SA Trust programmes on TSS are allocated by the Local Administrator and accessed through Single Point Security (SPS). The charge is passed automatically from TSS to SA.</p>\n\n<p>It is important when calculating the tax liability to accept the information under Process Now and deal with any enquiries under Check Later. It will also be necessary to carry out other clerical reviews, for example, to deal with correspondence received with the return, or to identify and repair obvious errors or mistakes on the return.</p>\n\n<p>Returns filed online have to be entered in TSS. Offices will need to obtain printouts of the returns to do this. In the majority of cases the printouts are issued automatically but some Network Offices will have to request copies of any Trust and Estate returns for periods of administration which have been filed electronically. The printouts can be obtained from the Online Services Helpdesk quoting the UTR and date of receipt of the return.</p>\n\n<p>Where Revenue Calculation has been requested or repairs have been made to a return where the taxpayer has self assessed, a Tax Calculation is produced automatically and printed out on the local printer in the Office for issue. The Tax Calculation incorporates a Revision Notice where obvious errors and mistakes have been repaired.</p>\n\n<p>In all cases where TSS is used an ACTION REQUIRED FOLLOWING DATA CAPTURE printout is produced on the local printer. This printout details the action which needs to be taken (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam123315\">SAM123315</a>) in respect of that return.</p>\n\n<p>The computer uses certain compliance signals for Check Later purposes. For a trust, because none of the information is being captured on the SA computer system from the return, the computer will only be able to set the Mandatory Review For Possible Enquiry signal automatically where</p>\n\n<ul>\n  <li>There has been a Failure to Notify</li>\n</ul>\n\n<p>Or  </p>\n\n<ul>\n  <li>It is a Very Late Return</li>\n</ul>\n\n<p>Note: All of the Mandatory Review and Potential Selection for Enquiry signals are passed automatically from TSS to the SA mainframe.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:42+00:00",
+ "section_id": "SAM123220",
+ "title": "Returns: trust returns: calculating trust liability"
+}

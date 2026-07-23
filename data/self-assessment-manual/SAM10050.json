@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10050",
+ "body": "<p>There are two types of item against which a taxpayer, (or a taxpayer’s representative), may appeal</p>\n\n<ul>\n  <li>SA charge based item</li>\n  <li>SA non charge based item</li>\n</ul>\n\n<h2 id=\"IDAQDGVI\">SA charged based items</h2>\n\n<p>Charged based items are those for which a charge is created on the taxpayer’s SA record. These items can be viewed in function VIEW STATEMENT. The charge may relate to tax, penalties, surcharge (for tax years 2009-10 and earlier) or interest.</p>\n\n<p>An appeal against a charge based item will often be accompanied by an application to postpone payment, although the circumstances in which a charge may be formally stoodover are very limited.</p>\n\n<p>The taxpayer may appeal against the following types of charge based item</p>\n\n<ul>\n  <li>Fixed penalty for late filing of SA return</li>\n  <li>Daily penalty for late filing of SA return</li>\n  <li>Tax geared penalty for late filing of SA return</li>\n  <li>Tax geared penalty for incorrect SA return</li>\n  <li>Tax geared penalty for failure to notify chargeability</li>\n  <li>Tax geared penalty for late payment</li>\n  <li>Tax geared penalty for excessive reduction of payments on account</li>\n  <li>Penalty for failure to produce documents</li>\n  <li>Penalty for failure to keep records</li>\n  <li>Surcharge (for tax years 2009-10, and earlier)</li>\n  <li>Revenue assessment (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam20130\">SAM20130</a>)</li>\n  <li>Revenue amendment to SA return (SAM21020)</li>\n  <li>Jeopardy amendment (SAM21010)</li>\n</ul>\n\n<p>The taxpayer has no right of appeal against the following items</p>\n\n<ul>\n  <li>Revenue determinations</li>\n  <li>Interest</li>\n  <li>Balancing payments</li>\n  <li>Payments on Account (although the taxpayer may claim to reduce the amounts payable)</li>\n  <li>Correction notices (although the taxpayer has the right to reject our corrections)</li>\n  <li>Revenue calculations</li>\n</ul>\n\n<p><a href=\"#Top\">Top of page</a></p>\n\n<h2 id=\"IDA1HGVI\">SA non charge based items</h2>\n\n<p>Non charged based items are those for which no charge is created on the taxpayer’s SA record. A postponement application should never accompany an appeal against one of these items.</p>\n\n<p>The taxpayer may appeal against the following types of non charge based item</p>\n\n<ul>\n  <li>A Revenue requirement to produce documents</li>\n  <li>The continuation of a Revenue enquiry</li>\n  <li>A Revenue amendment of a partnership statement</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10000",
+   "section_id": "SAM10000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:35+00:00",
+ "section_id": "SAM10050",
+ "title": "Appeals, postponements and reviews: appeals: what SA items are subject to appeal?"
+}

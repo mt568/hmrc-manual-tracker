@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110225",
+ "body": "\n<p>After a repayment has been created its current status can be viewed using function VIEW REPAYMENT. The status of a repayment can be one of the following</p>\n\n<p>Transmitted</p>\n\n<p>This status identifies a BACS or Payable Order (PO) repayment that has been passed to the repayments system for issue.</p>\n\n<p>A repayment cannot be cancelled whilst it is in ‘Transmitted’ status.</p>\n\n<p>Issued</p>\n\n<p>This status is applied to all repayments that have been issued.</p>\n\n<p>Rejected</p>\n\n<p>This identifies a repayment that has been rejected by the BACS system.</p>\n\n<p>Check Draft</p>\n\n<p>This identifies a repayment that is undergoing automatic computerised checks.</p>\n\n<p>Cancelled Draft</p>\n\n<p>This identifies a repayment that has been cancelled at the draft stage.</p>\n\n<p>Cancelled Selected</p>\n\n<p>This identifies a repayment that has been cancelled following clerical review of the selected cases prior to issue.</p>\n\n<p>Cancelled Authorised</p>\n\n<p>This identifies a repayment that has been cancelled after authorisation but before issue.</p>\n\n<p>Cancelled Issued</p>\n\n<p>This identifies a repayment that has been cancelled after issue.</p>\n\n<p>Pending</p>\n\n<p>This identifies that the repayment has been selected under TRUCE. For further information refer to COG102000.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2020-05-04T07:23:42+01:00",
+ "section_id": "SAM110225",
+ "title": "Repayments: issue repayment: repayment status"
+}

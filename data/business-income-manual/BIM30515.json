@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim30515",
+ "body": "<p>S27, S28 Income Tax (Trading and Other Income) Act 2005, S48, S49 Corporation Tax Act 2009</p>\n\n<p>Although the computational rules set out at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim30510\">BIM30510</a> do not provide for a comprehensive set of rules to cover every possible receipt or item of expenditure, there are statutory rules dealing with the inclusion of some specific receipts in the calculation and the deduction of some specific expenses. The terms ‘receipts’ and ‘expenses’ in the legislation are used simply to refer to any items brought into account as credits or debits in calculating the profits and there is no implication intended that a particular receipt or expense must have actually been received or paid before it can be brought into account. For guidance on the timing of when receipts are to be included in trade profits, and when deductions are to be allowed, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40075\">BIM40075</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42200\">BIM42200</a> onwards respectively.</p>\n\n<p>For guidance on receipts generally see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40050\">BIM40050</a> onwards and for guidance on deduction of expenses see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42200\">BIM42200</a> onwards. The exclusion of capital items, both receipts and expenditure, is discussed at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35000\">BIM35000</a> onwards and the prohibition on the deduction of expenditure not incurred wholly and exclusively for the purposes of the trade is covered at BIM37000 onwards.</p>\n\n<p>Trading receipts or expenses may also arise under the following sets of rules which are not covered in the Business Income Manual.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th> </th>\n      <th>Where to find guidance</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Capital Allowances</td>\n      <td>Capital Allowances Manual</td>\n    </tr>\n    <tr>\n      <td>Rules for companies about loan relationships, foreign exchange (FOREX) and derivative contracts</td>\n      <td>Corporate Finance Manual</td>\n    </tr>\n    <tr>\n      <td>Rules for companies about intangible assets</td>\n      <td>Corporate Intangibles Research and Development Manual</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30500",
+   "section_id": "BIM30500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:56+01:00",
+ "section_id": "BIM30515",
+ "title": "Measuring the profits (general rules): statutory rules: receipts and expenses"
+}

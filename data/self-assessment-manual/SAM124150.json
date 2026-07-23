@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124150",
+ "body": "<p>If the taxpayer amendment to the return is received on or before 31 December of the year following the end of the return year and the original return has not been captured or liability not calculated, you can use the taxpayer’s amended return details as if they formed part of the original return.</p>\n\n<p>If the amendment is received after 31 December and the original return has not been captured or liability not calculated it is necessary to use function CAPTURE RETURN or CREATE RETURN CHARGE to enter the return information based on the original return. You may repair (revise) obvious errors and mistakes identified in the original return (This content has been withheld because of exemptions in the Freedom of Information Act 2000) . Do not use any of the amended return details. Note: If using function CREATE RETURN CHARGE and there is an amount pre-populated in the ‘Outstanding debt included in your tax code’ field within function CREATE RETURN CHARGE you should use the SEES calculator to calculate the figures require. If you are unable to use the SEES calculator you must reduce any PAYE tax included in the tax deducted at source figure by the amount of the debt coded, before entering in function CREATE RETURN CHARGE. </p>\n\n<p>You should use a Customer Service Message (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121435\">SAM121435</a>) to advise the taxpayer that the amendment has been received and will be dealt with as soon as possible.</p>\n\n<p>It will then be necessary to process the amendment in function AMEND RETURN (or to enter the amended liability in function CREATE RETURN CHARGE) the next available day.</p>\n\n<p>If the repairs identified during capture of the original return or calculation of liability increase the taxpayer’s self assessment (This content has been withheld because of exemptions in the Freedom of Information Act 2000)  and no repayment is due, you must capture the return details in function CAPTURE RETURN or in TSS without any repairs.</p>\n\n<p>You should enter a Customer Service Message during capture advising the taxpayer that you have</p>\n\n<ul>\n  <li>Identified an entry or entries that require revision and that you will deal with the revision(s) as soon as possible</li>\n</ul>\n\n<p>And</p>\n\n<ul>\n  <li>Received the taxpayer’s amended return details and will deal with these when you revise other entries</li>\n</ul>\n\n<p>For more information on repairing an amended return after 31 December following the end of the return year, see subject ‘Dealing with taxpayer amendments’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam124060\">SAM124060</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124000",
+   "section_id": "SAM124000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:48+00:00",
+ "section_id": "SAM124150",
+ "title": "Returns: view and amend return: taxpayer amendment received before original return captured"
+}

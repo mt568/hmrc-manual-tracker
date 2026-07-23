@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim56890",
+ "body": "<p>Part 7 Corporation Tax Act 2009</p>\n<p>A company which enters into a derivative contract (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56880\">BIM56880</a>) is usually taxed within the specific Corporation Tax derivative contracts regime (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50000\" rel=\"nofollow\">CFM50000</a> onwards), and profits and losses are treated as revenue items. If the contract was entered into for the purposes of any trade which is carried on, receipts and payments are taken into account in computing the profits of that trade. In all other cases profits and losses are aggregated with other non-trading loan relationship credits and debits (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50040\" rel=\"nofollow\">CFM50040</a>).</p>\n<h2>Derivatives outside the scope of the regime</h2>\n<p>If, exceptionally, a derivative contract is entered into outside the scope of the derivative contracts regime, and the company entered into the contract as a normal incident of its trade, profits and losses are treated as part of the company’s trading profits. In practice it is usually immaterial whether the contracts are taxed under the derivative contracts regime or under the rules for trade profits because in each case profits and losses are computed on the basis of the accounts.</p>\n<p><a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50070\" rel=\"nofollow\">CFM50070</a> contains further detail on how derivative contracts not within the scope of the regime are dealt with.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56800",
+   "section_id": "BIM56800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:30+01:00",
+ "section_id": "BIM56890",
+ "title": "Financial traders - instruments and shares: derivative contracts and companies "
+}

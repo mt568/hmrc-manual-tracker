@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110160",
+ "body": "<p>Before April 2015, work items were created when the Final Return Year signal was set, an actual charge existed for the return year and there was an overpayment on the record of more than £10.</p>\n\n<p>From April 2015, no new work items will populate the list. Instead, when a final return includes a payment request, the repayment will be issued automatically via Repay to card (RTC) where it meets the RTC criteria. If it does not meet the RTC criteria, the repayment will be made in accordance with the disposal instructions on the return. For further information, see subject ‘Repay to card’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam110116\">SAM110116</a>).</p>\n\n<p>For cases that do not include a repayment request, where the overpayment is £500 or less it will be repaid automatically by Payable order (existing process). If the overpayment is £500 or more, it will remain on the customers SA record awaiting a repayment request.</p>\n\n<p>The SA251 (Exit letter) is being updated to include a reminder for customers leaving SA to claim any final overpayment.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:29+00:00",
+ "section_id": "SAM110160",
+ "title": "Repayments: issue repayment: overpayments in closed cases"
+}

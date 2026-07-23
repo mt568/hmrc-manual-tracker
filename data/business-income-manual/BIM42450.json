@@ -1,0 +1,224 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+ "body": "\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42500",
+     "description": "",
+     "section_id": "BIM42500",
+     "title": "Administration: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42550",
+     "description": "",
+     "section_id": "BIM42550",
+     "title": "Advertising: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42700",
+     "description": "",
+     "section_id": "BIM42700",
+     "title": "Bad and doubtful debts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim42950",
+     "description": "",
+     "section_id": "BIM42950",
+     "title": "Compensation and damages: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim43100",
+     "description": "",
+     "section_id": "BIM43100",
+     "title": "Crime (expenditure involving): contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim43250",
+     "description": "",
+     "section_id": "BIM43250",
+     "title": "Dilapidations under a lease: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+     "description": "",
+     "section_id": "BIM44000",
+     "title": "Employee share schemes: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+     "description": "",
+     "section_id": "BIM44500",
+     "title": "Employee benefit trusts: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45000",
+     "description": "",
+     "section_id": "BIM45000",
+     "title": "Entertainment: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45100",
+     "description": "",
+     "section_id": "BIM45100",
+     "title": "Flood and erosion projects : Introduction and contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45150",
+     "description": "",
+     "section_id": "BIM45150",
+     "title": "Gifts in kind and payroll giving: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45300",
+     "description": "",
+     "section_id": "BIM45300",
+     "title": "Guarantee payments: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45350",
+     "description": "",
+     "section_id": "BIM45350",
+     "title": "Hire purchase: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45500",
+     "description": "",
+     "section_id": "BIM45500",
+     "title": "Insurance: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45650",
+     "description": "",
+     "section_id": "BIM45650",
+     "title": "Interest: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45800",
+     "description": "",
+     "section_id": "BIM45800",
+     "title": "Incidental costs of loan finance: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45840",
+     "description": "",
+     "section_id": "BIM45840",
+     "title": "Land remediation relief"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45850",
+     "description": "",
+     "section_id": "BIM45850",
+     "title": "Losses: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45900",
+     "description": "",
+     "section_id": "BIM45900",
+     "title": "Overseas taxes: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45950",
+     "description": "",
+     "section_id": "BIM45950",
+     "title": "Patents & royalties: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim46000",
+     "description": "",
+     "section_id": "BIM46000",
+     "title": "Pension schemes: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim46250",
+     "description": "",
+     "section_id": "BIM46250",
+     "title": "Premiums: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim46350",
+     "description": "",
+     "section_id": "BIM46350",
+     "title": "Pre-trading expenditure: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim46400",
+     "description": "",
+     "section_id": "BIM46400",
+     "title": "Professional fees: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim46500",
+     "description": "",
+     "section_id": "BIM46500",
+     "title": "Provisions: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim46800",
+     "description": "",
+     "section_id": "BIM46800",
+     "title": "Rent & rates: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim46900",
+     "description": "",
+     "section_id": "BIM46900",
+     "title": "Repairs and renewals: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47000",
+     "description": "",
+     "section_id": "BIM47000",
+     "title": "Staffing costs: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47300",
+     "description": "",
+     "section_id": "BIM47300",
+     "title": "Security expenditure: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47400",
+     "description": "",
+     "section_id": "BIM47400",
+     "title": "Subscriptions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47600",
+     "description": "",
+     "section_id": "BIM47600",
+     "title": "Trade organisations: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47700",
+     "description": "",
+     "section_id": "BIM47700",
+     "title": "Travel & subsistence: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim47800",
+     "description": "",
+     "section_id": "BIM47800",
+     "title": "Use of home: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim48000",
+     "description": "",
+     "section_id": "BIM48000",
+     "title": "Crisis-driven changes to trading activities"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2020-06-03T15:55:10+01:00",
+ "section_id": "BIM42450",
+ "title": "Specific deductions: contents"
+}

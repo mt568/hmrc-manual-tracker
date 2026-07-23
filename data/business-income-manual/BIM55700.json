@@ -1,0 +1,66 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim55700",
+ "body": "<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim55000",
+   "section_id": "BIM55000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55701",
+     "description": "",
+     "section_id": "BIM55701",
+     "title": "Overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55705",
+     "description": "",
+     "section_id": "BIM55705",
+     "title": "Open market valuations of thoroughbred horses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55710",
+     "description": "",
+     "section_id": "BIM55710",
+     "title": "Stock valuation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55715",
+     "description": "",
+     "section_id": "BIM55715",
+     "title": "Animals used for racing"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55720",
+     "description": "",
+     "section_id": "BIM55720",
+     "title": "Studs farms on the herd basis"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55725",
+     "description": "",
+     "section_id": "BIM55725",
+     "title": "Losses in stud farms"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim55730",
+     "description": "",
+     "section_id": "BIM55730",
+     "title": "Stallion syndicates"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:22+01:00",
+ "section_id": "BIM55700",
+ "title": "Farming: stud farms: contents"
+}

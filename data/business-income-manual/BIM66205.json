@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim66205",
+ "body": "<h2>Practical considerations</h2>\n<p>As mentioned in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim66200\">BIM66200</a>, it is important that the employment status of subcontractors is properly established. The general principles are explained at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-status-manual/esm0100\">ESM0100</a> onwards.</p>\n<p>Cases which may merit closer examination include those where some or all of the following features are present:</p>\n<ul><li class=\"filledcircle\">the accounts of a self-employed person contain none of the usual indications of normal trading activities such as purchase of supplies, ownership of plant, wages to non-family members or other expenses paid out</li><li class=\"filledcircle\">the self-employed person was previously in employment in the same kind of work, perhaps with the same engager</li><li class=\"filledcircle\">the worker appears to be working more or less continuously for only one engager</li></ul>\n<p>If necessary you should examine the PAYE records to see whether the worker is one of a number of employees who having ceased employment have been re-engaged on a self-employed basis.</p>\n<p>For guidance on status generally, see&nbsp;<a href=\"https://www.gov.uk/employment-status/employee\">https://www.gov.uk/employment-status/employee</a>&nbsp;(gov.uk website). For more detailed advice please refer to the Employment Status Manual.</p>\n<h2>Construction Industry Scheme</h2>\n<p>The operation and existence of the Construction Industry Scheme (CIS) affects the computation of income chargeable to tax on subcontractors. It is a scheme solely concerned with how payments to subcontractors for construction work must be handled by contractors in the construction industry and certain other businesses. Only persons engaged under contracts which do not amount to contracts of employment fall within the CIS. Being registered as a CIS subcontractor is not proof of self-employed status. The guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-status-manual/esm0100\">ESM0100</a> onwards applies in the normal way.</p>\n<p>If you are satisfied that the subcontractor is correctly taxable as a self-employed trader (or, if the subcontractor is trading via a personal service company, you are satisfied that the deemed employment rules do not apply), you should deal with the expenses charged in the accounts in accordance with <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim66210\">BIM66210</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim66200",
+   "section_id": "BIM66200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-01-23T13:29:52+00:00",
+ "section_id": "BIM66205",
+ "title": "Subcontractors: determining the employment status of the subcontractor"
+}

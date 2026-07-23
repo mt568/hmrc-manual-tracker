@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121251",
+ "body": "<p>Unsatisfactory returns should be identified before logging takes place but if you have to unlog a previously logged unsatisfactory return before capture has taken place follow steps 1 - 4 below.</p>\n\n<p>For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Use function MAINTAIN RETURN SUMMARY to check the return has been logged</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>If the return has been logged, use function UNLOG RETURN to unlog the return and select a reason for the unlogging from the drop down menu</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>For years up to 2009-2010</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Use function AMEND FIXED PENALTIES</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>For years 2010-2011 onwards</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Use function VIEW/CANCEL PENALTIES</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>If some of the details have been captured, using function CAPTURE RETURN</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Select the Exit option from the File menu heading, you will be prompted to save the return</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Select the [Delete] button, the return details will be removed from LDC</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>If the whole return is to be sent back to the taxpayer, cross through any date stamp on the front of the return before returning the form to the taxpayer. For more information see ‘Unsatisfactory individuals returns’ Action Guide, (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121261\">SAM121261</a>)</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:11+00:00",
+ "section_id": "SAM121251",
+ "title": "Returns: individuals returns: unlogging unsatisfactory individuals returns (Action Guide)"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71126",
+ "body": "<p>Event</p>\n\n<p>Up to October 2014, work items were created immediately when function</p>\n\n<ul>\n  <li>CREATE FREESTANDING CREDIT is used to enter a credit on the SA record</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>CANCEL FREESTANDING CREDIT is used to cancel a credit previously entered on the SA record</li>\n</ul>\n\n<p>From October 2014, worklist items will only be created for a proportion of these items but work items will still be created in all cases where</p>\n\n<ul>\n  <li>A return containing a Schedule 1B claim is captured using function CAPTURE RETURN or electronically by Internet. Note: Automatic Freestanding Credits are not created following use of function AMEND RETURN or AMEND RETURN FOR ENQUIRY</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>The return from which the Freestanding Credit was created is unlogged, provided the Freestanding Credit has not already been cancelled</li>\n</ul>\n\n<p>Specific details</p>\n\n<p>Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n\n<ul>\n  <li>\n    <p>Work Reason</p>\n\n    <ul>\n      <li>Manual Creation (1)</li>\n      <li>Manual Cancellation (2)</li>\n      <li>Automatic Creation (3)</li>\n      <li>Automatic Cancellation (4)</li>\n    </ul>\n  </li>\n  <li>Amount</li>\n  <li>Effective Date of Payment</li>\n  <li>Operator ID</li>\n</ul>\n\n<p>Allocation of responsibility</p>\n\n<p>The work item is allocated to the office with processing responsibility, and is to be worked by an officer with the user role of Clerical Processing Manager.</p>\n\n<p>Frequency of review</p>\n\n<p>This list should be reviewed as directed</p>\n\n<p>Updating of details</p>\n\n<p>Until the work item is cleared, the following details held on the work item are updated by Work Management immediately the corresponding entry is updated on the taxpayer record</p>\n\n<ul>\n  <li>Taxpayer name</li>\n  <li>NINO</li>\n  <li>Employers reference (EMPREF) or Schedule D register number</li>\n</ul>\n\n<p>Action to take on the work item</p>\n\n<p>Advice on the action required to review this item is in the section ‘Issue Repayment,’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam110084\">SAM110084</a>).</p>\n\n<p>Deletion of the work item</p>\n\n<p>The work item is not deleted automatically. It should be deleted manually using function WORK LIST CASES or function SELECTED CASE, when your review has been completed.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-03-14T15:37:11+00:00",
+ "section_id": "SAM71126",
+ "title": "Manage work: work management: W038 freestanding credit review"
+}

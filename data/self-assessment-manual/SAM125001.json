@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125001",
+ "body": "<p>When certain events occur in the SA system, details are passed to Work Management to</p>\n\n<ul>\n  <li>Create a work item</li>\n  <li>Allocate that work item to the office with responsibility for that type of Revenue activity</li>\n  <li>Enter that work item on the appropriate Work List, which is available for display on screen</li>\n</ul>\n\n<p>When accessing a Work List, you will be presented with a list of all work items</p>\n\n<ul>\n  <li>Of the same work type</li>\n  <li>For your Organisation Unit</li>\n  <li>Under your user role</li>\n</ul>\n\n<p>In the returns business area, work items are created during and after capture of return information, from an original or amended return. Additionally, during the automatic selection process in February each year, ‘Manual Issue of Returns’ work items are created. Detailed advice on the creation of work items of all types, and the information held in Work Management, is available in the section ‘Work Management’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam71000\">SAM71000</a> onwards).</p>\n\n<h2 id=\"returns-review-work-list\">Returns Review Work List</h2>\n\n<p>The ‘Returns Review’ Work List was replaced by four new Work Lists in November 2005.</p>\n\n<h2 id=\"paper-lists\">Paper lists</h2>\n\n<p>In addition to Work Lists, the following paper lists are produced in the returns business area</p>\n\n<ul>\n  <li>DELETED RETURNS. See section ‘Individual Returns’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121000\">SAM121000</a>) or ‘Partnership Returns’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam122000\">SAM122000</a>), as appropriate</li>\n  <li>LDC RETURNS - CAPTURE FAILURES - NO RECORD FOUND. See section ‘Individual Returns’ or ‘Partnership Returns’, as appropriate</li>\n  <li>LDC RETURNS. Printed on request. See section ‘Individual Returns’ or ‘Partnership Returns’, as appropriate</li>\n  <li>LDC RETURNS - LOGGING FAILURES - NO RECORD FOUND. See section ‘Individual Returns’, ‘Partnership Returns’ or ‘Trust Returns’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam123000\">SAM123000</a>), as appropriate</li>\n  <li>LDC RETURNS TO BE DELETED. See section ‘Individual Returns’ or ‘Partnership Returns’, as appropriate</li>\n  <li>CHANGED PERSONAL AND BUSINESS DETAILS. The corresponding details are to be updated on the taxpayer’s SA record. See section ‘Filing Returns Online’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam126000\">SAM126000</a>)</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:51+00:00",
+ "section_id": "SAM125001",
+ "title": "Returns: returns works lists: introduction"
+}

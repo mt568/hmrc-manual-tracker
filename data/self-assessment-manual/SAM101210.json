@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101210",
+ "body": "<p>If an SA taxpayer is an individual, (including a partner), a computer record will have been set up using function SET UP INDIVIDUAL TAXPAYER.</p>\n\n<p>You can amend any of the details set up on the SA record in respect of an individual taxpayer.</p>\n\n<p>You will find further information on maintaining the individual taxpayer’s record in the following subjects</p>\n\n<ul>\n  <li>Linking SA and PAYE Records (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101170\">SAM101170</a>)</li>\n  <li>Breaking the SA and PAYE link (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101060\">SAM101060</a>)</li>\n  <li>Maintaining addresses (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101270\">SAM101270</a>)</li>\n  <li>Address Flow From CID Framework To SA (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101010\">SAM101010</a>)</li>\n  <li>Liability unlikely (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101160\">SAM101160</a>)</li>\n  <li>Maintain Partner (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101220\">SAM101220</a>)</li>\n  <li>Maintain Trade (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101250\">SAM101250</a>)</li>\n  <li>Maintain Capacities (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101190\">SAM101190</a>)</li>\n  <li>Maintain Agent For Taxpayer (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101180\">SAM101180</a>)</li>\n  <li>Maintain Taxpayer Return Profile (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101240\">SAM101240</a>)</li>\n</ul>\n\n<p>If you want to know which function(s) to use to maintain different aspects of an individual taxpayer’s SA record</p>\n\n<ul>\n  <li>Select ‘Index Of Functions’ on the left of the screen</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+   "section_id": "SAM101000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:52+00:00",
+ "section_id": "SAM101210",
+ "title": "Records: maintain taxpayer record: maintain individual record"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim90075",
+ "body": "<p>S257 Income Tax (Trading and Other Income) Act 2005, Para 5 Sch 1B Taxes Management Act 1970, S198-S200 Corporation Tax Act 2009</p>\n<h2>Post-cessation receipts incurred in the first six years after cessation can be carried back and treated as if they arose on cessation</h2>\n<p>There may be occasions where the person receiving the post-cessation receipt would rather that it was treated as arising at the date of the cessation of the trade.</p>\n<p>It is possible to thus carry back the post-cessation receipt if it arises within six years of the date of cessation. The amount of the post-cessation receipt carried back is the amount as reduced by any post-cessation expenses incurred in the period (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90095\">BIM90095</a>).</p>\n<p>In making the election, the return for the earlier period is not amended. Instead there is a stand alone charge for the extra tax due on the post-cessation receipts. The tax due is calculated using the tax rates and allowances for the earlier period.</p>\n<p>To give effect to a carry back claim, the election should be made on the return for the period in which the post-cessation receipt arises. The amount of tax due in the period in which the post-cessation receipt arises is increased by the difference between:</p>\n<ul><li class=\"filledcircle\">the amount chargeable to tax for the year of the cessation of trade, and</li><li class=\"filledcircle\">the amount that would be charged if effect were given to the carry back claim in the year of cessation.</li></ul>\n<h3>Time limit for election</h3>\n<p>The time limit for making the election is slightly different depending on whether the person making the election is subject to Income Tax (ie individuals, trustees, personal representatives and non-resident companies) or Corporation Tax.</p>\n<p>For Income Tax purposes, the election must be made by the first anniversary of the normal self-assessment filing date for the tax year in which the post-cessation receipt is actually received. The self-assessment filing date depends on the date the return was issued. For most taxpayers, the filing deadline will be 31 January following the end of the tax year.</p>\n<p>This means that, for example, if the receipt arose in the 2022/2023 tax year, the election must be made by 31 January 2025.</p>\n<p>For Corporation Tax purposes, the election must be made by the second anniversary of the end of the accounting period in which the receipt is received. Therefore, if the receipt arises in the accounting period ended 31 December 2022, the company has until 31 December 2024 to make the election.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim90000",
+   "section_id": "BIM90000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:42:03+01:00",
+ "section_id": "BIM90075",
+ "title": "Post-cessation receipts and expenses: Election to carry back post-cessation receipts"
+}

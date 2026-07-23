@@ -1,0 +1,39 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim50150",
+ "body": "<p>This section contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim50151",
+     "description": "",
+     "section_id": "BIM50151",
+     "title": "Actors and other entertainers: profession or employment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim50155",
+     "description": "",
+     "section_id": "BIM50155",
+     "title": "Actors and other entertainers: procedure"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim50160",
+     "description": "",
+     "section_id": "BIM50160",
+     "title": "Actors and other entertainers: expenses"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:28+01:00",
+ "section_id": "BIM50150",
+ "title": "Actors and other entertainers: contents"
+}

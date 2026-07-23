@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim47130",
+ "body": "<h2><strong>Remuneration paid before 01/04/17 (CT) or 06/04/17 (IT)</strong></h2>\n<p>S36, S37 Income Tax (Trading and Other Income) Act 2005, S1288, S1289 Corporation Tax Act 2009</p>\n<p>If, in calculating the profits of a trade for a period of account:</p>\n<ul><li class=\"filledcircle\">an amount is charged in the accounts for the period in respect of employees’ remuneration; and</li><li class=\"filledcircle\">a deduction for the remuneration would otherwise be allowed for the period,</li></ul>\n<p>no deduction is allowed for the remuneration for the period unless it is paid before the end of the nine months immediately following the end of the period.</p>\n<p>A period of account is a period for which accounts are made up.</p>\n<p>If the remuneration is paid after the end of the nine-month period, a deduction for it is allowed in the period of account in which it is paid.</p>\n<p>The rules on unpaid remuneration do not apply to businesses using the cash basis (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70000\">BIM70000</a> onwards).</p>\n<h2>Remuneration paid on or after 01/04/17 (CT) or 06/04/17 (IT)</h2>\n<p>S36, S37 Income Tax (Trading and Other Income) Act 2005, S1288, S1289 Corporation Tax Act 2009 apply as they do to remuneration paid before 01/04/17 (CT) or 06/04/17 (IT).</p>\n<p>In addition, Section 1290(3G) CTA 2009 or Section 38(3G) ITTOIA 2005 apply where:</p>\n<ul><li>an amount of remuneration is paid on or after 01/04/17 (CT) or 06/04/17 (IT), and</li><li>a deduction in respect of the amount of employees' remuneration would otherwise be allowable, and</li><li>as a consequence of the payment of that remuneration employee benefit contributions are made (or are to be made)</li></ul>\n<p>Where S1290(3G) or S38(3G) apply, for the purposes of calculating the employer's taxable profits, the deduction is to be treated as a deduction in respect of employee benefit contributions, and not as a deduction in respect of employees' remuneration.&nbsp; This means that the provisions in Sections 1290-1297 CTA 2009 or Sections 38-44 ITTOIA 2005 determine the availability and timing of any deduction (rather than Sections 1288 &amp; 1289 CTA 2009 or Sections 36 &amp; 37 ITTOIA 2005) where a payment of remuneration also comes within the technical definition of an employee benefit contribution.</p>\n<h2>When remuneration is paid</h2>\n<p>Remuneration is paid when it is treated as received by an employee for the purposes of the charge to Income Tax on employment income, or would be so treated if it were not exempt income.</p>\n<p>Guidance on when remuneration is treated as received for employment income purposes is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim42260\" rel=\"nofollow\">EIM42260</a> onwards.</p>\n<p>If it is contended that payment has been made (so there should be no disallowance under <strong>the nine-month rule</strong>) but PAYE has not been operated, then there has been - if nothing else - a PAYE failure.</p>\n<p>Conversely if PAYE has been operated, this should be accepted as sufficient evidence that the sums are remuneration that has been paid. Consult&nbsp;<span>IPD Employment Income Technical</span>&nbsp;in any case where, despite the operation of PAYE, remuneration may not have been ‘paid' until some later date.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim47000",
+   "section_id": "BIM47000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2021-09-28T15:32:25+01:00",
+ "section_id": "BIM47130",
+ "title": "Specific deductions: staffing costs: timing of deduction"
+}

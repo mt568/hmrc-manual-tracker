@@ -1,0 +1,38 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim67000",
+ "body": "<p>This section deals with the taxation of those underwriting an issue of shares.</p>\n\n<p>In this section ‘shares’ should be read as including stocks and securities and ‘underwriting’ as including sub-underwriting.</p>\n\n<h3 id=\"background\">Background</h3>\n\n<p>When a company decides to issue shares to the public, it may decide to enter a contract with an underwriter. Under such an arrangement the underwriter will agree to take those shares which are not otherwise subscribed.</p>\n\n<p>In exchange for this service the underwriter is paid a commission, which is usually a fixed percentage of the total offer price of the shares.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67001",
+     "description": "",
+     "section_id": "BIM67001",
+     "title": "Underwriting of shares: taxation of profits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67005",
+     "description": "",
+     "section_id": "BIM67005",
+     "title": "Underwriting of shares: casual underwriting"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim67010",
+     "description": "",
+     "section_id": "BIM67010",
+     "title": "Underwriting of shares: investment trust companies"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:38:02+01:00",
+ "section_id": "BIM67000",
+ "title": "Underwriting of shares: contents"
+}

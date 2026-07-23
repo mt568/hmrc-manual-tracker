@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11090",
+ "body": "<p>This subject supplements the guidance given in subject ‘Handling an informal standover’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam11071\">SAM11071</a>) and gives further information in respect of informal standovers relating to penalties or surcharge. Note: Surcharge was replaced by tax geared late filing penalties from April 2011 for 2010-11 and later tax years.</p>\n\n<p>A taxpayer or agent may appeal against a charge arising from a penalty or surcharge but may not apply to formally standover the charge. All standovers relating to a penalty or surcharge will be informal standovers. </p>\n\n<p>In practice, if an appeal is received against a penalty or surcharge then the full amount of the charge should be informally stoodover pending settlement of the appeal.</p>\n\n<p>Special procedures apply in the case of an appeal against a penalty charged following the failure to submit a partnership return by the filing date. See subject ‘Postponement application - partnership’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam11120\">SAM11120</a>).</p>\n\n<h2 id=\"amending-the-standover\">Amending the standover</h2>\n\n<p>If the penalty or the surcharge is reduced to NIL using either function AMEND FIXED PENALTIES or MAINTAIN SURCHARGE the amount of the informal standover should also be automatically reduced to NIL.</p>\n\n<p>If part of the penalty or surcharge is remitted then the amount of informal standover should be automatically reduced to the revised maximum amount available to be informally stoodover, which will exclude remissions.</p>\n\n<p>Always check the informal standover using function MAINTAIN STANDOVERS after any adjustment has been made to the penalty or surcharge. It may be necessary to make a further amendment to the amount stoodover or, more likely, to reduce the informal standover to NIL.</p>\n\n<p>The entry on the ‘Review Informal Standovers’ work list is automatically deleted when the informal standover is reduced to NIL.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11000",
+   "section_id": "SAM11000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:35+00:00",
+ "section_id": "SAM11090",
+ "title": "Appeals, postponements and reviews: postponements: postponement application - penalty or surcharge"
+}

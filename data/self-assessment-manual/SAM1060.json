@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1060",
+ "body": "<h2><a id=\"IDA4KYKI\">Adjustment and re-allocation</a></h2>\n<p>Where an adjustment reduces a payment on account below the amount paid, a re-allocation is triggered and the record may become overpaid.</p>\n<p>A subsequent re-allocation of an overpaid amount against a charge for which the due date has passed may cause interest and repayment supplement (RPS) to be calculated and included on the taxpayer record.</p>\n<h2><a id=\"IDAKLYKI\">Advice about correcting errors</a></h2>\n<p>Unless you are clear about the interest and RPS consequences,<strong> you should always refer to a Technician&nbsp;before attempting to correct these cases</strong>. A Technician can<strong> contact the BusinessUserSupport (SA) mailbox for information</strong> about what transactions to use and in what sequence.</p>\n<p>If you come across a case where inappropriate amounts of interest and / or RPS are included on the taxpayer’s record, refer to subject ‘Payment Allocation and Transfer’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam80050\">SAM80050</a>) and then the Debt Management and Banking Manual (DMBM). Again you should seek the assistance of a Technician and where necessary, the BusinessUserSupport(SA), mailbox if you are unsure how to proceed.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1000",
+   "section_id": "SAM1000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-11-13T00:00:00+00:00",
+ "section_id": "SAM1060",
+ "title": "Amend payment: claim to adjust payments on account: incorrect adjustments and errors"
+}

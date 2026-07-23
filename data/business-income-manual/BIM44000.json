@@ -1,0 +1,300 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+ "body": "<p>A full list of the contents of the guidance on employee share schemes is shown below. The guidance is subdivided into two main sections: (1) General Matters,&nbsp;<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44001\">BIM44001</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44025\">BIM44025</a>&nbsp;and (2) Deductions for providing shares to employees,&nbsp;<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44247\">BIM44247</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44465\">BIM44465</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44001",
+     "description": "",
+     "section_id": "BIM44001",
+     "title": "Glossary"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44002",
+     "description": "",
+     "section_id": "BIM44002",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44005",
+     "description": "",
+     "section_id": "BIM44005",
+     "title": "Types of schemes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44010",
+     "description": "",
+     "section_id": "BIM44010",
+     "title": "Tax advantaged schemes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44015",
+     "description": "",
+     "section_id": "BIM44015",
+     "title": "Summary of tax and NICs treatment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44020",
+     "description": "",
+     "section_id": "BIM44020",
+     "title": "Costs of setting up schemes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44025",
+     "description": "",
+     "section_id": "BIM44025",
+     "title": "Incidental costs of running schemes"
+    }
+   ],
+   "title": "General matters"
+  },
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44247",
+     "description": "",
+     "section_id": "BIM44247",
+     "title": "Providing shares to employees: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44250",
+     "description": "",
+     "section_id": "BIM44250",
+     "title": "Providing shares to employees: overview"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44251",
+     "description": "",
+     "section_id": "BIM44251",
+     "title": "Share Incentive Plans: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44253",
+     "description": "",
+     "section_id": "BIM44253",
+     "title": "Share Incentive Plans: general rules"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44255",
+     "description": "",
+     "section_id": "BIM44255",
+     "title": "Share Incentive Plans: special rules for trusts acquiring 10% of ordinary share capital"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44260",
+     "description": "",
+     "section_id": "BIM44260",
+     "title": "Qualifying shares: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44265",
+     "description": "",
+     "section_id": "BIM44265",
+     "title": "Qualifying shares: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44270",
+     "description": "",
+     "section_id": "BIM44270",
+     "title": "Qualifying shares: requirements for relief"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44275",
+     "description": "",
+     "section_id": "BIM44275",
+     "title": "Qualifying shares: how the relief is given"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44280",
+     "description": "",
+     "section_id": "BIM44280",
+     "title": "Qualifying shares: overview of the legislation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44285",
+     "description": "",
+     "section_id": "BIM44285",
+     "title": "Qualifying shares: meaning of qualifying shares"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44290",
+     "description": "",
+     "section_id": "BIM44290",
+     "title": "Qualifying shares: kind of shares acquired"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44295",
+     "description": "",
+     "section_id": "BIM44295",
+     "title": "Qualifying shares: company whose shares are acquired"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44300",
+     "description": "",
+     "section_id": "BIM44300",
+     "title": "Qualifying shares: which company gets the deduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44305",
+     "description": "",
+     "section_id": "BIM44305",
+     "title": "Qualifying shares: the relevant business requirements"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44307",
+     "description": "",
+     "section_id": "BIM44307",
+     "title": "Host Employer rules "
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44310",
+     "description": "",
+     "section_id": "BIM44310",
+     "title": "Qualifying shares: when the deduction is given"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44315",
+     "description": "",
+     "section_id": "BIM44315",
+     "title": "Qualifying shares: amount of deduction for acquisition periods"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44320",
+     "description": "",
+     "section_id": "BIM44320",
+     "title": "Qualifying shares: Income Tax position of employee"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44325",
+     "description": "",
+     "section_id": "BIM44325",
+     "title": "Qualifying shares: valuation issues"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44360",
+     "description": "",
+     "section_id": "BIM44360",
+     "title": "Qualifying shares: restricted or convertible shares: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44385",
+     "description": "",
+     "section_id": "BIM44385",
+     "title": "Qualifying shares: restricted shares"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44390",
+     "description": "",
+     "section_id": "BIM44390",
+     "title": "Qualifying shares: restricted shares: examples"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44400",
+     "description": "",
+     "section_id": "BIM44400",
+     "title": "Qualifying shares: convertible shares"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44405",
+     "description": "",
+     "section_id": "BIM44405",
+     "title": "Qualifying shares: convertible shares: examples"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44410",
+     "description": "",
+     "section_id": "BIM44410",
+     "title": "Qualifying shares: cash cancelled and net settled share options"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44411",
+     "description": "",
+     "section_id": "BIM44411",
+     "title": "Qualifying shares: cash cancelled and net settled share options: deductions allowable"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44412",
+     "description": "",
+     "section_id": "BIM44412",
+     "title": "Qualifying shares: cash cancelled: examples"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44413",
+     "description": "",
+     "section_id": "BIM44413",
+     "title": "Qualifying shares: net settled examples"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44414",
+     "description": "",
+     "section_id": "BIM44414",
+     "title": "Qualifying shares: payment made in excess of fair value (\"EFV\")"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44415",
+     "description": "",
+     "section_id": "BIM44415",
+     "title": "Qualifying shares: Cash Cancelled and Net Settled Options: Interaction with Deferred Remuneration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44450",
+     "description": "",
+     "section_id": "BIM44450",
+     "title": "Non-qualifying shares: introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44455",
+     "description": "",
+     "section_id": "BIM44455",
+     "title": "Non-qualifying shares: through an employee benefit trust"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44457",
+     "description": "",
+     "section_id": "BIM44457",
+     "title": "Non-qualifying shares: through an employee benefit trust: whether contributions deductible"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44458",
+     "description": "",
+     "section_id": "BIM44458",
+     "title": "Non-qualifying shares: through an employee benefit trust: tax cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44460",
+     "description": "",
+     "section_id": "BIM44460",
+     "title": "Non-qualifying shares: through global share schemes"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44463",
+     "description": "",
+     "section_id": "BIM44463",
+     "title": "Non-qualifying shares: through global share schemes: tax case"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim44465",
+     "description": "",
+     "section_id": "BIM44465",
+     "title": "Non-qualifying shares: new shares issued direct to employees"
+    }
+   ],
+   "title": "Deductions for providing shares to employees"
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2026-05-28T01:00:00+01:00",
+ "section_id": "BIM44000",
+ "title": "Specific deductions: employee share schemes: contents"
+}

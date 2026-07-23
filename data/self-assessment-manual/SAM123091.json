@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123091",
+ "body": "<p>Where you discover the office with processing responsibility is elsewhere follow steps 1 - 7 below. For details of how to access the function, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDAEXIWE\">In all cases</h2>\n\n<p>1. Stamp the date of receipt on the front of the return. Where the filing date falls on a day when the office is closed, all returns received in the post on the day following closure should be date stamped as received on the filing date</p>\n\n<h2 id=\"IDA4XIWE\">Before logging, if it is obvious from the return or enclosures</h2>\n\n<p>2. Record receipt of the return using function LOG RETURN</p>\n\n<p>3. Send the return, with a covering note of any other action taken, to the office with processing responsibility immediately by Tax Post Direct</p>\n\n<h2 id=\"IDAPZIWE\">Returns received and logged before 31 October but not sent to Responsible Office before December cut-off date</h2>\n\n<p>4. Capture the return details, except for returns applicable to Public Departments 1. (Under no circumstances should you capture any returns in respect of cases applicable to Public Departments 1 (PD1), which will include the office reference of 940. These should be sent immediately to PD1 by Tax Post Direct, marked for the attention of the Area Operations Manager)</p>\n\n<p>5. Send the return, with a covering note of the action taken, to the new office with processing responsibility immediately by Tax Post Direct</p>\n\n<h2 id=\"IDAZ0IWE\">Returns received and logged before 31 January but not sent to Responsible Office before March cut-off date</h2>\n\n<p>6. Capture the return details, except for returns applicable to Public Departments 1. (Under no circumstances should you capture any returns in respect of cases applicable to Public Departments 1 (PD1), which will include the office reference of 940. These should be sent immediately to PD1 by Tax Post Direct, marked for the attention of the Area Operations Manager)</p>\n\n<p>7. Send the return, with a covering note giving details of the action taken, to the new office with processing responsibility immediately by Tax Post Direct</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-09-05T10:54:00+01:00",
+ "section_id": "SAM123091",
+ "title": "Returns: trust returns: return receipt (trust): responsible office elsewhere (Action Guide)"
+}

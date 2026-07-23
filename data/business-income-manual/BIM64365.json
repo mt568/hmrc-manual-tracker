@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim64365",
+ "body": "<p>S218, S230, S232 Corporation Tax Act 2009</p>\n\n<p>Where a private sector operator is granted a lease of less than 50 years by a public sector purchaser, as part of a PFI agreement, the terms of which impose obligations on the operator to carry out capital works on the premises, the lease may be deemed to have required the payment of a premium (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1212\">PIM1212</a>).</p>\n\n<p>In such circumstances the landlord is treated, for tax purposes, as receiving a revenue property business receipt based on a proportion of the deemed premium (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1205\">PIM1205</a>).</p>\n\n<p>Where the payer of the deemed premium sublets, without receiving a premium, the amount of the deemed premium treated as a revenue receipt of the landlord is treated as if it were a revenue expenseincurred by the payer. That is, it is deductible in computing the property income profit over the period of the sublease (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2310\">PIM2310</a>). However, note that the amount of the expense is restricted where the carrying out of work gives rise to qualifying expenditure for capital allowances.</p>\n\n<p>A similar provision applies where the payer of the deemed premium occupies the land for the purposes of their trade (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46255\">BIM46255</a>).</p>\n\n<p>The relief is due even where the landlord is not chargeable on the deemed premium, e.g. because the landlord is exempt from tax (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2310\">PIM2310</a>). However, in such cases it is necessary to ensure that an accurate valuation of the deemed premium is obtained (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1232\">PIM1232</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64000",
+   "section_id": "BIM64000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim64240",
+   "section_id": "BIM64240"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:55+01:00",
+ "section_id": "BIM64365",
+ "title": "Private Finance Initiative (PFI): deemed premium on lease"
+}

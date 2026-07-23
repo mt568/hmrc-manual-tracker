@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44285",
+ "body": "<p>S1008, S1016 Corporation Tax Act 2009</p>\n\n<p>To qualify for the statutory deduction the shares acquired by the employees must satisfy certain conditions relating to:</p>\n\n<ul>\n  <li>the kind of shares acquired, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44290\">BIM44290</a>; and</li>\n  <li>the company whose shares are acquired, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44295\">BIM44295</a>.</li>\n</ul>\n\n<h2 id=\"when-these-conditions-must-be-satisfied\">When these conditions must be satisfied</h2>\n\n<p>The conditions relating to the kind of shares acquired must be satisfied at the time the employees acquire the shares.</p>\n\n<p>The conditions relating to the company whose shares are acquired must be satisfied:</p>\n\n<ul>\n  <li>for share awards - at the time the employees acquire the shares;</li>\n  <li>for share acquisitions arising from share options - at the time the employee was originally granted the option.</li>\n</ul>\n\n<p>The time that employees acquire the shares is when they acquire a beneficial interest in the shares and not, if different, the time that the shares are conveyed or transferred to them.</p>\n\n<h2 id=\"shares-acquired-under-hmrc-approved-employee-share-schemes\">Shares acquired under HMRC-approved employee share schemes</h2>\n\n<p>In practice, it is reasonable to assume that all shares provided to employees in accordance with the terms of an HMRC approved scheme will be qualifying shares. The definitions of ‘qualifying shares’ are very similar to those which apply to shares which can be provided under approved employee share schemes.</p>\n\n<h2 id=\"shares-acquired-under-unapproved-employee-share-schemes\">Shares acquired under unapproved employee share schemes</h2>\n\n<p>Shares acquired by employees under unapproved schemes are also ‘qualifying shares’ if they satisfy the required conditions relating to the kind of shares acquired (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44290\">BIM44290</a>) and the company whose shares are acquired (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44295\">BIM44295</a>).</p>\n\n<p>Guidance on deductions for providing employees with ‘non-qualifying’ shares is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44450\">BIM44450</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:06+01:00",
+ "section_id": "BIM44285",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: qualifying shares: meaning of qualifying shares "
+}

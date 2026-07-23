@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam131110",
+ "body": "<p>A new signal has been created in function INHIBIT STATEMENT that shows the ‘Preferred Statement Format’ of the statement to be issued to the taxpayer. By default the signal is set to ’Simple’ statement format and this must not be changed before the first simple statement is issued to a taxpayer.</p>\n\n<p>Whilst we expect the numbers to be very small, if a taxpayer or their agent asks to continue receiving the old style of statement (to be known as the ‘Full’ Statement) for operational reasons you must not change the signal on their record until after they have been issued with their first statement. You should explain to the taxpayer that they will receive a one-off simple format statement and then their statements will revert to the Full format.</p>\n\n<p>Note: If this is unsatisfactory to the taxpayer or their agent, please apologise and say that you will let them have a SEES SA Statement shortly after the issue of their simple statement. You will then need to check at the end of each statement run to see if they were issued with their first statement in simple format and if so, issue a copy of that statement by using the SEES SA Statement facility. For guidance on producing a SEES Statement please see action guide ‘View and Print SEES SA Statement’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam131151\">SAM131151</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam131000",
+   "section_id": "SAM131000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:23+00:00",
+ "section_id": "SAM131110",
+ "title": "Statements: statement issue: statement type: changing the full or simple signal"
+}

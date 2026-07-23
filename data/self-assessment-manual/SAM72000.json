@@ -1,0 +1,236 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72001",
+     "description": "",
+     "section_id": "SAM72001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72010",
+     "description": "",
+     "section_id": "SAM72010",
+     "title": "Case view hierarchy"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72020",
+     "description": "",
+     "section_id": "SAM72020",
+     "title": "Individual access"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72030",
+     "description": "",
+     "section_id": "SAM72030",
+     "title": "Responsible offices and agents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72040",
+     "description": "",
+     "section_id": "SAM72040",
+     "title": "Responsible offices and taxpayers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72050",
+     "description": "",
+     "section_id": "SAM72050",
+     "title": "Transfer of responsibility for taxpayers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72060",
+     "description": "",
+     "section_id": "SAM72060",
+     "title": "User roles"
+    }
+   ]
+  },
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72062",
+     "description": "",
+     "section_id": "SAM72062",
+     "title": "Agent maintainer"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72064",
+     "description": "",
+     "section_id": "SAM72064",
+     "title": "Appeals handler - processing and technical office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72066",
+     "description": "",
+     "section_id": "SAM72066",
+     "title": "Appeals handler - recovery office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72068",
+     "description": "",
+     "section_id": "SAM72068",
+     "title": "BACS rejection processor - FAO"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72070",
+     "description": "",
+     "section_id": "SAM72070",
+     "title": "Call centre adviser"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72072",
+     "description": "",
+     "section_id": "SAM72072",
+     "title": "Charge remitter - recovery office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72074",
+     "description": "",
+     "section_id": "SAM72074",
+     "title": "Clerical accounts office caseworker"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72076",
+     "description": "",
+     "section_id": "SAM72076",
+     "title": "Clerical caseworker - recovery office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72078",
+     "description": "",
+     "section_id": "SAM72078",
+     "title": "Clerical caseworker - technical office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72080",
+     "description": "",
+     "section_id": "SAM72080",
+     "title": "Clerical processing manager"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72082",
+     "description": "",
+     "section_id": "SAM72082",
+     "title": "Clerical processing officer"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72084",
+     "description": "",
+     "section_id": "SAM72084",
+     "title": "Clerical reallocation officer - processing, recovery and technical offices"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72086",
+     "description": "",
+     "section_id": "SAM72086",
+     "title": "Compliance manager"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72088",
+     "description": "",
+     "section_id": "SAM72088",
+     "title": "Compliance signals maintainer"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72090",
+     "description": "",
+     "section_id": "SAM72090",
+     "title": "Enquiry officer - processing office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72092",
+     "description": "",
+     "section_id": "SAM72092",
+     "title": "Enquiry officer - technical office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72094",
+     "description": "",
+     "section_id": "SAM72094",
+     "title": "Office manager"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72096",
+     "description": "",
+     "section_id": "SAM72096",
+     "title": "Payment processor - processing office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72098",
+     "description": "",
+     "section_id": "SAM72098",
+     "title": "Payment processor - recovery and technical office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72100",
+     "description": "",
+     "section_id": "SAM72100",
+     "title": "Repayment authoriser"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72102",
+     "description": "",
+     "section_id": "SAM72102",
+     "title": "Review interest officer - processing and recovery offices"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72104",
+     "description": "",
+     "section_id": "SAM72104",
+     "title": "Review interest officer - technical office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72106",
+     "description": "",
+     "section_id": "SAM72106",
+     "title": "RTC agent - receivables telephone centre"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72108",
+     "description": "",
+     "section_id": "SAM72108",
+     "title": "SA quality case selection officer"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72110",
+     "description": "",
+     "section_id": "SAM72110",
+     "title": "SA view only"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72112",
+     "description": "",
+     "section_id": "SAM72112",
+     "title": "Time to pay officer - processing and recovery office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72114",
+     "description": "",
+     "section_id": "SAM72114",
+     "title": "Worklist manager - recovery office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72116",
+     "description": "",
+     "section_id": "SAM72116",
+     "title": "Worklist manager - technical office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72118",
+     "description": "",
+     "section_id": "SAM72118",
+     "title": "Worklist viewer"
+    }
+   ],
+   "title": "User role information"
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:22+00:00",
+ "section_id": "SAM72000",
+ "title": "Manage work: access to records: contents"
+}

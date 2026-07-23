@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72104",
+ "body": "<p>The Review Interest Officer in the office with technical responsibility is responsible for</p>\n\n<ul>\n  <li>Maintaining the relevant dates for interest purposes in respect of liabilities on the SA record</li>\n  <li>Dealing with interest objections</li>\n</ul>\n\n<p>The following list shows the functions linked to this role.</p>\n\n<p>For details of how to access any of these functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>On accessing the function, system help is available to you at function, screen, field, and error message levels.</p>\n\n<p>For ease of reference, the functions are grouped under the following sub-headings</p>\n\n<p><a href=\"#IDA5KDPI\">Compliance</a><br />\n<a href=\"#IDAHLDPI\">Statements</a><br />\n<a href=\"#IDA1LDPI\">Taxpayer</a></p>\n\n<h2 id=\"IDA5KDPI\">Compliance</h2>\n\n<p>View Compliance History</p>\n\n<h2 id=\"IDAHLDPI\">Statements</h2>\n\n<p>Amend Effective Date of Payment</p>\n\n<p>Amend Relevant Dates</p>\n\n<p>View Payment Details</p>\n\n<p>View Statement</p>\n\n<h2 id=\"IDA1LDPI\">Taxpayer</h2>\n\n<p>Case Summary</p>\n\n<p>Maintain SA Notes</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-02T11:45:31+01:00",
+ "section_id": "SAM72104",
+ "title": "Manage work: access to records: review interest officer - technical office"
+}

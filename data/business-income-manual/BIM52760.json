@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim52760",
+ "body": "<p>S805, S807, S812-S823, S828 Income Tax (Trading and Other Income) Act 2005</p>\n\n<p>The basis on which qualifying care relief is given depends on whether or not the carer’s ‘total qualifying care receipts’ for a tax year or period of account exceed the carer’s ‘qualifying amount’ for that year or period.</p>\n\n<p>Where profits from qualifying care would be chargeable as trade profits, the comparison is made for each period of account. Where profits would be charged under the rules for miscellaneous income, the comparison is made for the actual tax year to 5 April.</p>\n\n<p>The total qualifying care receipts for a year or period of account are receipts from the provision of qualifying care which accrue during that year or period and would otherwise be brought into account in calculating the profits of a trade or as miscellaneous income. This can include any payments made by the local authority to secure the services of a carer prior to placement, such as retainer fees paid to emergency placement carers. No deduction is allowed for expenses or any other matter when calculating qualifying care receipts.</p>\n\n<p>If the receipts would otherwise be brought into account in calculating the profits of a trade and an election to use the cash basis (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70000\">BIM70000</a> onwards) has effect in relation to the trade, the total qualifying care receipts are those received during the year or period of account and include any amounts brought into account under S96A ITTOIA 2005 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70020\">BIM70020</a></p>\n\n<p>For the calculation of the qualifying amount, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim52765\">BIM52765</a>.</p>\n\n<h2 id=\"full-relief\">Full relief</h2>\n\n<p>Where the carer’s total qualifying care receipts for a tax year or period of account are not more than the carer’s qualifying amount for the year or period, their profit for the year or period is deemed to be nil (no profit, no loss), and no claim for capital allowances is permitted.</p>\n\n<h2 id=\"alternative-calculation-of-profits-simplified-method\">Alternative calculation of profits (simplified method)</h2>\n\n<p>Carers whose total qualifying care receipts exceed their qualifying amount may elect to have their profits for the tax year calculated by subtracting their limit from their total qualifying care receipts (the ‘simplified method’). Capital allowances are not available if such a claim is made. The election must be made on or before the first anniversary of 31 January next following the end of the tax year to which it relates.</p>\n\n<p>If a carer does not make such an election, they will need to calculate their profits in the normal way (the ‘profit method’).</p>\n\n<h2 id=\"overlap-relief\">Overlap relief</h2>\n\n<p>The operation of the exemption does not restrict overlap relief. Where there is a cessation or a change of accounting date, overlap relief may operate to reduce profits or create a loss for the tax year.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim52750",
+   "section_id": "BIM52750"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:53+01:00",
+ "section_id": "BIM52760",
+ "title": "Care providers: qualifying care relief: operation of relief"
+}

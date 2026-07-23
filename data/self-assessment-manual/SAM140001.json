@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140001",
+ "body": "<p>PAYE underpayments will in certain instances, be transferred to SA for collection through the SA system.</p>\n\n<p>A transfer from PAYE to SA can arise where</p>\n\n<ul>\n  <li>A PAYE case is brought into SA for one year only. For example, an underpayment of £3000 or more arising from PAYE income which needs to be brought into SA for one year only to recover the liability</li>\n  <li>A non-SA taxpayer has been issued with an informal calculation (form P800(T)) for more than one year and it is not possible to collect the underpayment through PAYE. For more information, see subject ‘Transfer from PAYE to SA: one or more tax year PAYE cases’ (Action Guide) (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam140021\">SAM140021</a>)</li>\n  <li>There is an SA stranded underpayment. This can occur where the coding out of an SA balancing payment through PAYE has proved wholly, or partly unsuccessful</li>\n</ul>\n\n<h2 id=\"transfer-to-sa\">Transfer to SA</h2>\n\n<p>As a P800(T) is an informal computation an underpayment on a P800(T) cannot be transferred to the SA system. For each year concerned the taxpayer will need to complete an SA return to formalise the liability.</p>\n\n<p>The transfer from PAYE to the SA system of an uncollected SA balancing payment (previously transferred to PAYE for coding out) will, in most cases, be handled through the issue and processing of the SA return for the year in which the underpayment was coded out.</p>\n\n<p>In certain circumstances, it will be necessary to use the SA function CREATE SUNDRY CHARGE to enter the uncollected SA charge on the taxpayer’s record. Further information about when to use this function is provided in subject ‘SA Stranded Underpayments’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam140030\">SAM140030</a>).</p>\n\n<p>When an SA balancing payment is transferred back from PAYE the relevant due date for interest is to be given as the later of</p>\n\n<ul>\n  <li>31 January following the end of the year for which the payment is due</li>\n  <li>6 weeks following reinstatement to SA</li>\n</ul>\n\n<h2 id=\"paye-record\">PAYE record</h2>\n\n<p>No special action will be taken in SA to monitor the collection of an SA balancing payment through PAYE. Coding failures and voluntary direct payments will be identified in day to day PAYE work.</p>\n\n<p>Existing procedures will need to be followed to update the taxpayer’s PAYE record when an SA balancing payment, coded out in PAYE, is transferred back to SA. Detailed guidance is given in the PAYE Manual, business area ‘Reconcile Individual’, section ‘Underpayments’ (PAYE90000).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140000",
+   "section_id": "SAM140000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:33+00:00",
+ "section_id": "SAM140001",
+ "title": "Transfer of liability: transfer from PAYE to SA: introduction"
+}

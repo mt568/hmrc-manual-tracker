@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam22020",
+ "body": "<p>The SEES 310(Z) assessment letter can be found in the SEES menu under the SAFE category.</p>\n\n<p>This form can be used to create an original, an amended, a further or an amended further assessment, depending on the option selected. A file copy will be created and an agents copy, if selected. The Determination option will only be used in CIS cases.</p>\n\n<p>When creating the SEES assessment letter</p>\n\n<ul>\n  <li>Select the type of assessment required</li>\n  <li>Enter agent details if an agent is acting</li>\n  <li>Select the appropriate legislation title. This will print the legislation and interest rules on the assessment</li>\n  <li>Enter the assessment particulars</li>\n  <li>Calculate and enter the correct amount of tax due</li>\n</ul>\n\n<p>The SEES assessment letter will show how the charge has been created so there is no need to create a separate calculation. The charge must be created on SAFE.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam22000",
+   "section_id": "SAM22000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-09-12T14:34:53+01:00",
+ "section_id": "SAM22020",
+ "title": "Assessments: non SA assessing: creating the SEES 310(Z) letter"
+}

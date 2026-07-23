@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35805",
+ "body": "<p>An article on the treatment of computer software expenditure on or after 10 March 1992 was published in Tax Bulletin 9F (November 1993), and is reproduced below.</p>\n\n<h2 id=\"software-acquired-under-licence\">Software acquired under licence</h2>\n\n<p>This is the way that nearly all off-the-shelf software is acquired nowadays. The treatment of expenditure of this nature depends on the form the consideration for the licence takes.</p>\n\n<h2 id=\"regular-payments-akin-to-a-rental\">Regular payments akin to a rental</h2>\n\n<p>Payments of this kind are revenue. The timing of deductions is governed by correct accounting practice which normally requires the rentals to be spread over the useful life of the software in accordance with the accruals basis (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31030\">BIM31030</a>). What is correct accounting practice is ultimately a question of law but the courts are heavily influenced by current generally acceptable practice.</p>\n\n<h3 id=\"lump-sum\">Lump sum</h3>\n\n<p>The first question to be asked here is whether the licence is a capital asset in the trade of the licensee. In broad terms a licence is a capital asset if it has a sufficiently enduring nature. This approach has to be applied by reference to the function of the licensed software in the context of the licensee’s trade. Very often the expectation will be that the software will function as a tool of the trade for a period of several years. On the other hand, the benefit to be obtained by the licensee in question may be sufficiently transitory to stamp the payment as revenue even though the licence granted is for an indefinite period.</p>\n\n<p>No simple rule of thumb covering every business situation can be successfully devised but, in any event, where software is expected to have a useful economic life of less than two years Inspectors will accept that the expenditure is revenue. In these circumstances the timing of the deduction will depend on the correct accounting treatment in the same way as it does for regular payments.</p>\n\n<p>Where the licensed software functions as a capital asset of the licensee’s trade capital allowances on plant and machinery will be due under CAA01/S71. This will be the case whether or not the software comes in a corporeal medium … separate from the licensee’s computer hardware. A short life asset election may be made where appropriate. Computer software is not defined for capital allowances purposes and therefore has its normal meaning which is wide and covers both programs and data (for example books stored in digital form).</p>\n\n<h3 id=\"equipment-acquired-as-a-package\">Equipment acquired as a package</h3>\n\n<p>Often computer hardware and the licence to use software are purchased as a package for a single payment. In these circumstances the expenditure between hardware and software should be apportioned. Capital allowances under the ordinary plant and machinery rules will be due on the expenditure attributable to the hardware. The treatment of the balance of the expenditure, attributable to the software licence, will depend on the considerations described above. Where, however, both the hardware and software are acquired on capital account and the expenditure all goes into the general machinery and plant ‘pool’, apportionment will not in practice be necessary.</p>\n\n<h3 id=\"software-owned-outright\">Software owned outright</h3>\n\n<p>Most widely marketed software is licensed to users and not sold to them outright. But some, particularly larger, concerns may develop their own software. The treatment of expenditure on software acquired outright follows the same principles as those governing the treatment of licensed software. In particular, where the expenditure concerned (including salaries of in-house computer professionals) is capital or revenue again depends on the economic function of the software in the trade in question as it does for licences acquired for lump sums.’</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35800",
+   "section_id": "BIM35800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T11:42:29+00:00",
+ "section_id": "BIM35805",
+ "title": "Capital/revenue divide: computer software: Tax Bulletin article"
+}

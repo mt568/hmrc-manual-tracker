@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35445",
+ "body": "<p>Alterations or improvements are normally capital expenditure and not allowable as a deduction. An improvement or alteration means that the asset has not merely been restored to what it was before; it has in some way been changed.</p>\n\n<p>If it has been changed to do something else, or has been changed to do more, then the character of the asset has changed and it has not merely been restored to its previous efficiency. The asset has become something else. In this situation the expenditure is capital and is not allowable as a deduction in computing the taxable profits of the trade.</p>\n\n<p>It is perhaps helpful that there are a number of instances where courts and tribunals have considered cases where similar types of work were carried out, as these emphasise how different facts lead to different outcomes.</p>\n\n<p>The cases of Auckland Gas Co Ltd v CIR [2000] 73TC266 and Transco Plc v R A Dyall [2002] SpC310 both involved the insertion of polyethylene pipes into existing cast iron and steel pipes (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35470\">BIM35470</a>). In the case of Auckland Gas, the Privy Council found that the work on replacing a pipe network was capital expenditure and not allowable as a deduction. In the Transco case, the work was a repair to a part of the network and allowable. The Special Commissioners in Transco set out the differences between the two cases.</p>\n\n<ul>\n  <li>In Transco, the replacement pipes did the same job as the old pipes, there was no increase in capacity and there was no increase in pressure.</li>\n  <li>In Auckland Gas the new pipes were able to take higher pressure/higher capacity.</li>\n  <li>In Transco the old pipes had been successfully carrying natural gas for years unlike in Auckland Gas, where the old pipes were not suited for natural gas.</li>\n</ul>\n\n<p>In Transco, the pipeline was simply restored to its previous efficiency. As a result the cost of the work was revenue expenditure and Transco could claim a deduction for the cost of the work when it was recognised in accordance with GAAP.</p>\n\n<p>The cases of Highland Railway Co v Balderston (Surveyor of Taxes) (1889) 2 TC 485 and Rhodesia Railways Ltd v Collector of Income Tax, Bechuanaland Protectorate [1933] AC 368 both concerned the re-laying of railway track (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35475\">BIM35475</a>). Both cases concerned lines that were in poor condition: in Highland Railway the company had acquired a railway line that had been built to a poor standard; whereas in Rhodesia Railways the line had been built to the appropriate standard, and then allowed to fall into disrepair.</p>\n\n<p>The expenditure in Highland Railway was found to be an improvement and capital expenditure, whilst the work carried out by Rhodesia Railways was simply a repair. Even though the repairs in Rhodesia Railways had built up over time they remained repairs. Works are not improvement provided that the character of the asset remains unchanged.</p>\n\n<p>For further guidance on cases where the asset is acquired second-hand, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35450\">BIM35450</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35400",
+   "section_id": "BIM35400"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:32+01:00",
+ "section_id": "BIM35445",
+ "title": "Capital/revenue divide: tangible assets: improvements"
+}

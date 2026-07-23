@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45530",
+ "body": "<p>Whether the sole purpose condition in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45525\">BIM45525</a> is met is a question of fact, to be determined by evidence of what the directors of the company concerned, or the proprietors of an unincorporated business, were seeking to achieve by taking out the insurance policy and paying the premiums.  General guidance on the ‘wholly and exclusively’ test is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37000\">BIM37000</a> onwards.</p>\n<p>Circumstances in which there may be non-trade purposes for taking out a ‘key person’ policy are:</p>\n<ul><li class=\"filledcircle\">where the policy is in respect of directors who are major shareholders but not other employees</li><li class=\"filledcircle\">if benefits under the policy exceed sick pay arrangements - or other employee benefits - typically offered to employees of equivalent status in similar concerns</li></ul>\n<p>For example, where the key person is a director whose death would significantly affect the value of shares in the company, one of the purposes for taking out the policy may be a non-trade purpose of protecting the value of the director’s shares and therefore the value of their estate.</p>\n<p>This was the case with one of the policies in <strong>Beauty Consultants Ltd v Inspector of Taxes</strong> [2002] SpC 321 where the Special Commissioner decided that the premiums on all four of the insurance policies in dispute were not paid wholly and exclusively for the purposes of the company’s trade. This was because:</p>\n<ul><li class=\"filledcircle\">the first two policies were on the life of each of A and B, the two directors of the company, and were taken out a number of years before the company was formed. The policies related to the directors’ ownership of their private residence - the only connection between the company and these policies was that the bank lending to the company had a second charge on the house.</li><li class=\"filledcircle\">the third policy was in the directors’ own names and linked to a first charge on the property from which the business was conducted under which the directors’ preference shares would be repaid on the sale of the business premises. As the excess of the policy moneys over the secured debts would belong to the directors the Special Commissioner could not identify any benefit to the company or its trade in paying the premiums.</li><li class=\"filledcircle\">the fourth policy was taken out by another company of which A and B were the sole shareholders and directors. It was assigned to Beauty Consultants Ltd in circumstances where A and B were about to become directors of the company with arrangements to acquire shares in it. The Special Commissioner decided that this policy had a dual purpose, similar to that in <strong>Samuel Dracup &amp; Sons Ltd v Dakin</strong> [1957] 37 TC 377 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37745\">BIM37745</a>). Although the policy would benefit the trade of the company it would also improve the value of the directors’ shares.</li></ul>\n<h3>Group policies</h3>\n<p>Where there is a non-trade or personal purpose in paying premiums in the case of some members of a group policy but not others, a reasonable apportionment may be made.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45500",
+   "section_id": "BIM45500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:33+01:00",
+ "section_id": "BIM45530",
+ "title": "Specific deductions: insurance: key persons - non-trade purposes"
+}

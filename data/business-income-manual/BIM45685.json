@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45685",
+ "body": "<p>This chapter applies for Income Tax purposes to the computation of trade profits and property income. References in the text to a ‘business’ should therefore be taken to include both trades and property businesses. The chapter does not apply for Corporation Tax purposes, where there are separate rules in the loan relationships legislation (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm11000\">CFM11000</a>).</p>\n<p>S34 Income Tax (Trading and Other Income) Act 2005</p>\n<p>The security for borrowed funds does not determine the use of those funds. It is very common in small businesses for loans to be secured on the proprietor’s home, because that is the only substantial owned asset. This is not relevant to the consideration of the use of the funds borrowed. Similarly guarantees given by another person do not affect the use of the funds.</p>\n<p>Alternatively a loan may be secured on a business asset and yet be used for a non-business purpose (see example 3 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45675\">BIM45675</a> and example 3 at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45700\">BIM45700</a>).</p>\n<h2>Example</h2>\n<p>Max has been driving an HGV for several years. They gets the opportunity to buy a nearly new vehicle for £25,000 if they can put down a deposit of £5,000. Their home mortgage building society lets them borrow that money as they have equity of £20,000 in their house. The loan is secured on their house. This does not prevent the interest on the loan of £5,000 being accepted as incurred wholly and exclusively for trading purposes, since the loan has been used to fund the acquisition of a trade asset. The security is not relevant.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45650",
+   "section_id": "BIM45650"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:37+01:00",
+ "section_id": "BIM45685",
+ "title": "Specific deductions - interest: Security for the funds"
+}

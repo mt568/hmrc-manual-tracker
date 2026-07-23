@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121211",
+ "body": "<p>Where the return includes a PAYE source follow steps 1 - 10 below. This guide is presented as follows</p>\n\n<p><a href=\"#IDAJWO1H\">Review of PAYE Service functions for coding adjustments and tax already refunded</a> - Steps 1 - 10</p>\n\n<h2 id=\"IDAJWO1H\">Review of PAYE Service functions for coding adjustments and tax already refunded</h2>\n\n<p>1. Establish any previous year’s underpayment coded for the SA year</p>\n\n<p>2. Establish any potential underpayment for the SA year which is coded for a later year or which has been paid voluntarily by the taxpayer</p>\n\n<p>3. Make a note of the figures. You may want to note the figures on the return in the boxes to be captured (boxes 7 and 8 of the Tax Calculation Summary page TCS 1 Main Tax Return (SA100), boxes 2.6A and 2.6B Short Tax Return (SA200)), if so use pencil</p>\n\n<p>4. For Self Calculation taxpayers, where the taxpayer has omitted details or made an obvious error, repair the details on the return</p>\n\n<p>5. Check the PAYE Service - Individual - Indicators - to confirm the Live SA box is ticked. If not, make a full Contact History note stating the first SA year and the UTR</p>\n\n<p>6. Establish any amount in respect of tax already refunded for the year of the return and compare with any amount entered on the return (box 1 of the Finishing your Tax Return section page TR 5.1 SA100, box 12.11 SA200). This information can be found in the Financial Events Summary in Accounting on the PAYE record</p>\n\n<p>7. Where the taxpayer has omitted details or entered incorrect details, repair the details on the return</p>\n\n<p>8. Enter the details during capture</p>\n\n<p>9. Update the PAYE record of any coding changes if not to be picked up by Auto-coding</p>\n\n<p>10. File the return away</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-12T09:55:17+01:00",
+ "section_id": "SAM121211",
+ "title": "Returns: individuals returns: returns which include a PAYE source of income (Action Guide)"
+}

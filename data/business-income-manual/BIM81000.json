@@ -1,0 +1,158 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim81000",
+ "body": "<p>NOTE: The basis period rules are changing in 2023/24, which may mean that the guidance in these pages may not apply from the tax year 2023/24 (depending on your circumstances. Please see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81230\">BIM81230</a> to <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81360\">BIM81360</a> for guidance on the transitional year in 2023/24 and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81201\">BIM81201</a> for 2024/25 onward.</p>\n\n<p>This chapter explains how profits chargeable to Income Tax are computed. Profits are calculated with reference to a period of account which may not correspond with a tax year. There are rules to determine which period or periods will form the basis for the charge to tax for a particular year. The legislation on basis periods is in S196-S220 Income (Trading and Other Income) Act 2005.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81001",
+     "description": "",
+     "section_id": "BIM81001",
+     "title": "Introduction to basis periods"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81010",
+     "description": "",
+     "section_id": "BIM81010",
+     "title": "Basis periods – general rules"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81015",
+     "description": "",
+     "section_id": "BIM81015",
+     "title": "Commencement years"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81020",
+     "description": "",
+     "section_id": "BIM81020",
+     "title": "First accounting date just before end of tax year"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81025",
+     "description": "",
+     "section_id": "BIM81025",
+     "title": "Year of cessation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81030",
+     "description": "",
+     "section_id": "BIM81030",
+     "title": "Slight variations in accounting date"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81035",
+     "description": "",
+     "section_id": "BIM81035",
+     "title": "Change of accounting date – introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81040",
+     "description": "",
+     "section_id": "BIM81040",
+     "title": "Change of accounting date – years 1 – 3"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81045",
+     "description": "",
+     "section_id": "BIM81045",
+     "title": "Change of accounting date – year 4 onwards"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81050",
+     "description": "",
+     "section_id": "BIM81050",
+     "title": "Change of accounting date – year 4 onwards - commercial reasons for change"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81055",
+     "description": "",
+     "section_id": "BIM81055",
+     "title": "Change of accounting date – year 4 onwards – year after ineffective change"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81060",
+     "description": "",
+     "section_id": "BIM81060",
+     "title": "Change of accounting date – year 4 onwards – examples"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81065",
+     "description": "",
+     "section_id": "BIM81065",
+     "title": "Apportioning profits to basis periods"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81070",
+     "description": "",
+     "section_id": "BIM81070",
+     "title": "Apportioning losses to basis periods"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81075",
+     "description": "",
+     "section_id": "BIM81075",
+     "title": "Overlap relief – introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81080",
+     "description": "",
+     "section_id": "BIM81080",
+     "title": "Overlap relief – computation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81085",
+     "description": "",
+     "section_id": "BIM81085",
+     "title": "Overlap relief – how given"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81090",
+     "description": "",
+     "section_id": "BIM81090",
+     "title": "Overlap relief – given on change of accounting date"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81095",
+     "description": "",
+     "section_id": "BIM81095",
+     "title": "Overlap relief – given on cessation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81100",
+     "description": "",
+     "section_id": "BIM81100",
+     "title": "Introduction to `previous year’ basis period rules"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81105",
+     "description": "",
+     "section_id": "BIM81105",
+     "title": "Previous year basis – 1996-1997 transitional rules"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81110",
+     "description": "",
+     "section_id": "BIM81110",
+     "title": "Previous year basis - transitional overlap relief"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim81200",
+     "description": "",
+     "section_id": "BIM81200",
+     "title": "Tax Year basis and transitional rules: contents"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2023-03-07T15:56:52+00:00",
+ "section_id": "BIM81000",
+ "title": "Computation of liability: contents"
+}

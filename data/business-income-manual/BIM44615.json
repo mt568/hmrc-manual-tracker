@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44615",
+ "body": "<p>S42 Income Tax (Trading and Other Income) Act 2005, S1294 Corporation Tax Act 2009</p>\n\n<p>Whether qualifying benefits provided during a particular period were paid ‘out of’ an employer’s contribution (which would otherwise be deductible in computing the employer’s taxable profits for the period) is relevant in deciding to what extent the deduction is disallowed for a period and may be allowable for a later period.</p>\n\n<p>Whether qualifying expenses paid by the EBT trustees during a particular period were paid ‘out of’ an employer’s contribution (which would otherwise be deductible in computing the employer’s taxable profits for the period) is only relevant in deciding to what extent the deduction is disallowed for a period.</p>\n\n<h2 id=\"payments-out-of-contributions\">Payments ’out of’ contributions</h2>\n\n<p>There are special deeming rules in determining whether qualifying benefits have been provided or qualifying expenses have been met ‘out of’ the contribution concerned, other receipts and expenses of the EBT are ignored.</p>\n\n<p>For contributions made or to be made on or after 1 April 2017 (CT) or 6 April 2017 (IT), no deduction is allowed for a period of account which starts more than 5 years after the end of the period of account in which the contribution is made. Therefore it will be necessary to track the use of such contributions to determine the extent to which deductions are allowable.</p>\n\n<h2 id=\"example\">Example</h2>\n\n<h3 id=\"accounting-period-ended-31122012\">Accounting period ended 31/12/2012</h3>\n\n<table>\n  <thead>\n    <tr>\n      <th>Date</th>\n      <th>-</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>01/02/2012</td>\n      <td>Initial amount settled to create EBT (capital expenditure)</td>\n      <td>£ 1,000</td>\n    </tr>\n    <tr>\n      <td>02/02/2012</td>\n      <td>Company contribution to EBT</td>\n      <td>£500,000</td>\n    </tr>\n    <tr>\n      <td>01/06/2012</td>\n      <td>EBT incurs non-qualifying expenditure</td>\n      <td>(£ 5,000)</td>\n    </tr>\n    <tr>\n      <td>01/09/2012</td>\n      <td>EBT receives bank interest</td>\n      <td>£ 10,000</td>\n    </tr>\n    <tr>\n      <td>01/12/2012</td>\n      <td>EBT pays qualifying benefits to employees</td>\n      <td>(£500,000)</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>The qualifying benefits paid to employees on 1/12/2012 are deemed to have been paid ‘out of’ the £500,000 contributed to the EBT on 2/2/2012.</p>\n\n<p>The other income received by the trustees (£11,000) and the non-qualifying expenses (£5,000) are ignored for this purpose.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44500",
+   "section_id": "BIM44500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-03-13T08:15:07+00:00",
+ "section_id": "BIM44615",
+ "title": "Specific deductions: employee benefit trusts: general-purpose EBTs: timing of deductions for contributions: payments ‘out of’ contributions"
+}

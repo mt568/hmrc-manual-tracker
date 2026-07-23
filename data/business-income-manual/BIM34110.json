@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34110",
+ "body": "<p>S235 Income Tax (Trading and Other Income) Act 2005, S184 Corporation Tax Act 2009</p>\n\n<p>In some circumstances adjustments are made to the value of stock shown in the accounts for tax computation purposes. When the tax adjustments cease the value of stock shown in the accounts is unchanged, but the computation of taxable profits is affected. Without special legislative enactment the amount of the difference between the tax adjusted closing stock of the period before the change and the accounts value opening stock of the new period would be brought into account as a positive or negative adjustment in the year of change. This special provision allows the adjustment to be brought into account only when the stock is sold, otherwise realised or written off.</p>\n\n<p>This provision also applies when the adjustment is in respect of any amount brought into account in respect of depreciation.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34090",
+   "section_id": "BIM34090"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:25+01:00",
+ "section_id": "BIM34110",
+ "title": "Change of basis of computing taxable profits: adjustment income and expenses: stock and depreciation"
+}

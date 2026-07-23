@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35801",
+ "body": "<h2 id=\"availability-of-capital-allowances\">Availability of capital allowances</h2>\n\n<p>S71 Capital Allowances Act 2001</p>\n\n<p>Except where the Corporation Tax intangible assets regime applies (see below), capital allowances are available for capital expenditure on a ‘right to use or otherwise deal with’ computer software for the purposes of a trade.</p>\n\n<p>Computer software is usually acquired under licence, payment for which may take the form of regular amounts or a lump sum. You should give critical consideration to whether lump sums paid out for licences are in law capital expenditure.</p>\n\n<p>Sometimes a single payment is made to purchase computer hardware plus a licence to use the accompanying software, and we now take the view that the expenditure should be apportioned except where that exercise will not have significant tax consequences.</p>\n\n<p>Some, particularly larger, concerns may develop their own software. The treatment of expenditure on software acquired outright follows the same principles as those governing the treatment of licensed software.</p>\n\n<h3 id=\"corporation-tax-intangible-assets-regime\">Corporation Tax intangible assets regime</h3>\n\n<p>Under the Corporation Tax intangible fixed assets regime, capital and revenue receipts and expenditure relating to intangible assets and intellectual property are normally brought into the computation of trading profits in accordance with their accounting treatment. The capital/revenue divide therefore has no effect for assets within the regime.</p>\n\n<p>Licences and rights over software usually fall within the regime where created or acquired from an unrelated party on or after 1 April 2002. Capital allowances are not available for rights within the regime. In the following circumstances, however, computer software is excluded from the regime:</p>\n\n<ul>\n  <li>where it is treated for accounting purposes as part of the cost of the related hardware;</li>\n  <li>where the company makes an election under S815 Corporation Tax Act 2009 to exclude capital expenditure on a particular item of computer software.</li>\n</ul>\n\n<p>Note that in the first case, royalties remain within the intangible assets regime.</p>\n\n<p>A further exclusion from the regime applies to an asset treated in the company’s accounts as an intangible asset but which in a previous accounting period was treated as a tangible asset on which plant and machinery capital allowances were claimed. This rule is intended particularly to deal with expenditure on web sites treated as a tangible asset under UK generally accepted accounting practice but as an intangible asset under international accounting standards.</p>\n\n<p>Where expenditure on software is excluded from the intangible assets regime the guidance at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35805\">BIM35805</a> onwards applies.</p>\n\n<p>For guidance on the intangible assets regime, see CIRD10000 onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35800",
+   "section_id": "BIM35800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:12:27+01:00",
+ "section_id": "BIM35801",
+ "title": "Capital/revenue divide: computer software: introduction"
+}

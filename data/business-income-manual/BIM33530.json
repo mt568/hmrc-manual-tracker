@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33530",
+ "body": "<h2><a id=\"IDADQJHC\">Sale at under value</a></h2>\n<p>Dora has stock worth £1,600,100 (arm’s length value) which cost them £100,100 (acquisition value).  If they sold it in the normal course of trade they would pay tax on a profit of £1,500,000 at say 45% = £675,000.</p>\n<p>Dora ceases trading and sells the stock to a trading company (A), which they controls, at a gross undervaluation, £100 (price received).  This creates a trading loss for Dora for the year of £100,000.&nbsp; Dora sets off this trading loss against other profits and gets a repayment of £100,000 at 40% = £40,000.</p>\n<h3>Tax consequences without Pt 3 Ch 11 Corporation Tax Act 2009 (CTA 2009)</h3>\n<p>The cost of the stock to company (B) is £100.  If it sells that stock in its first accounting period ended 31 March 2024 for £1,600,100 it is taxable on a profit on the stock of £1,600,000 at the full CT rate of 25% = £400,000.  Thus the total net tax payable by Dora and company A is £360,000.</p>\n<p>If the stock had been sold at its arms length price the tax paid by Dora on the sale of the stock would have been £675,000.  But company A would not have paid tax as it would not have made a profit on the stock.  Thus the total tax payable would be £675,000.  So the scheme provides a cash saving of £315,000. In addition there is a timing advantage.</p>\n<h3>Pt 3 Ch 11 CTA 2009 adjustments</h3>\n<p>Pt 3 Ch 11 CTA 2009 substitutes the arm's length value (£1,600,100), but as that value exceeds both acquisition value and the price actually received the parties can make an election under S167 CTA 2009 (Corporation Tax purposes) and S178 Income Tax (Trading and Other Income) Act 2005 (Income Tax purposes).  They can elect to substitute the acquisition value as this is more than the price received, (£100,100 is more that £100).</p>\n<p><a href=\"#Top\">Top of page</a></p>\n<h2><a id=\"IDAE3GHC\">Sale at over value</a></h2>\n<p>Companies A and B are in the same group.  At 1 January 2025 B has signed a contract that will result in a profit of £10 million for the year ended 31 March 2025.  A has trading losses brought forward of £11 million, which cannot be set off against the profits of other members of the group.  A has stock that originally cost £1 million and which is worth £2 million at 1 January 2013.</p>\n<h3>Tax consequences without Pt 3 Ch 11 CTA 2009</h3>\n<p>To transfer its losses A ceases trading at 28 February 2025 and sells its stock to B at overvalue, at £12 million.  A makes a profit of £11 million which is all covered by the losses brought forward, so no tax is payable by A.  B crystallises the £10 million loss inherent in the stock acquired from A at the overvalued price of £12 million by either selling the stock for its market value or by valuing it at its net realisable value.</p>\n<p>B's manufactured loss of £10 million cancels out the real profit arising on the newly signed contract.  There would be a tax saving of £10 million at say 25% = £2.5 million.</p>\n<h3>Pt 3 Ch 11 CTA 2009 adjustments</h3>\n<p>S166 CTA 2009 substitutes the arm's length value and no election under S167 CTA 2009 is possible as the price received is more than the arm's length value.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33450",
+   "section_id": "BIM33450"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:19+01:00",
+ "section_id": "BIM33530",
+ "title": "Stock: valuation on discontinuance of business: examples"
+}

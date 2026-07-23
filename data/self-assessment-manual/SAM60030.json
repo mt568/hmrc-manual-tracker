@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam60030",
+ "body": "<p>RPS and interest charges can arise in the same period where reallocation of a qualifying overpayment for RPS purposes takes place after the relevant date of the charge to which it is being reallocated. In this situation</p>\n\n<ul>\n  <li>RPS is granted from the effective date of payment (EDP) to the date of reallocation</li>\n</ul>\n\n<blockquote>\n  <p>And</p>\n</blockquote>\n\n<ul>\n  <li>Interest is charged from the relevant due date to the date of reallocation</li>\n</ul>\n\n<p>As a consequence, both RPS and interest arise for the common period from the later of the relevant due date and the EDP, to the date of reallocation. However, this may disadvantage the taxpayer.</p>\n\n<p>Where you identify that the taxpayer has been disadvantaged, or receive an objection because of the interaction of RPS and interest, you should correct the SA record. The correction is to be made regardless of whether the RPS / interest calculation was caused by HMRC error or by the input of data notified by the taxpayer.</p>\n\n<p>Further information about dealing with objections and corrections to RPS / interest is provided in the <a href=\"https://www.gov.uk/hmrc-internal-manuals/debt-management-and-banking\">Debt Management &amp; Banking Manual (DMBM)</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam60000",
+   "section_id": "SAM60000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2023-09-12T14:37:08+01:00",
+ "section_id": "SAM60030",
+ "title": "Interest, penalties and surcharge: interest: interest charges / repayment supplement"
+}

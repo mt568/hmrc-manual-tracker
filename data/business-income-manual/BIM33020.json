@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33020",
+ "body": "<p>The term ‘work in progress’ does not have a defined meaning and in practice is applied to three different types of uncompleted items:</p>\n\n<ul>\n  <li>manufactured products,</li>\n  <li>contracts for services, and</li>\n  <li>construction contracts, see BIM33025.</li>\n</ul>\n\n<p>Manufactured products covers uncompleted products in which the manufacturer retains title to the materials incorporated in the product. The uncompleted work is represented by a physical asset capable of sale by the manufacturer and to which a ‘net realisable value’ (BIM33140) may be attributed.</p>\n\n<p>Contracts for services covers uncompleted services, including:</p>\n\n<ul>\n  <li>Contracts for the production of a physical asset such as a building, where title in the materials used by the contractor generally passes to the customer as they are incorporated in the product. The contractor does not own the physical asset rather the contractor has only the rights under the contract.</li>\n  <li>Contracts for services including professional services supplied by lawyers, accountants, architects etc, where the uncompleted services are not represented by any significant physical asset capable of sale.</li>\n</ul>\n\n<p>Uncompleted contracts for services should be valued in accordance with FRS 102 Section 23 Revenue. In most cases revenue for service contracts should be accounted for under what is known as the ‘percentage of completion’ method. In very simple terms, this means that if a contract is in progress at the year end, then the supplier of services would include the proportion undertaken to that date in its accounts. So, if the contract is 50% complete, 50% of the contract value will be recorded in the accounts as revenue.</p>\n\n<p>IFRS 15 Revenue from Contracts with Customers Paragraphs 35 to 27 contains a similar concept of recognising revenue over time, if performance obligations (promises in contracts with customers to transfer either goods, services or a series of distinct goods or services to the customer) are satisfied over time.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33005",
+   "section_id": "BIM33005"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-06T16:49:58+00:00",
+ "section_id": "BIM33020",
+ "title": "Stock: meaning of: work in progress"
+}

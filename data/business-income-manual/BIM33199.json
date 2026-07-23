@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33199",
+ "body": "<h3 id=\"valid-to-valid\">Valid to valid</h3>\n\n<p>The two valid methods of stock valuation are the lower of cost and net realisable value and mark to market. If an entity changes the estimation technique used to make it more accurate that is not a change in basis. However if there is a change in the tax adjustment required that would be a change in basis. Guidance on a change from a valid method to another valid method is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34040\">BIM34040</a> onwards.</p>\n\n<h3 id=\"changing-from-an-invalid-basis-of-stock-valuation\">Changing from an invalid basis of stock valuation</h3>\n\n<p>The basis may be invalid because it does not follow generally accepted accounting practice or because it pays so little attention to the facts that it is not reflecting cost or net realisable value.</p>\n\n<p>In the accounting period when the basis of stock valuation is changed from an invalid basis to a valid basis both the opening stock valuation and the closing stock valuation must be computed on the new valid basis.</p>\n\n<p>Where it is possible to re-open or amend earlier years (using discovery powers) the opening and closing stock figures must also be computed on the new valid basis.</p>\n\n<p>Guidance when the change is from an invalid basis of valuation to a valid basis is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34025\">BIM34025</a> onwards.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33100",
+   "section_id": "BIM33100"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:15+01:00",
+ "section_id": "BIM33199",
+ "title": "Stock: valuation: change of accounting or tax basis of stock valuation"
+}

@@ -1,0 +1,243 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim80500",
+ "body": "<p>This chapter considers the principles which determine whether a commencement or cessation of trade has occurred. The taxation treatment on commencement of trade is described in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81015\">BIM81015</a> and the cessation provisions are at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81025\">BIM81025</a>. Certain loss reliefs are available only on commencement (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85045\">BIM85045</a>) or cessation (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85055\">BIM85055</a>). Income relating to the trade which arises after cessation has occurred will be taxed as post cessation receipts. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim90000\">BIM90000</a> onwards. The chapter also considers changes in the persons carrying on a trade, which normally is referred to as ‘succession’.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80501",
+     "description": "",
+     "section_id": "BIM80501",
+     "title": "A matter of fact"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80505",
+     "description": "",
+     "section_id": "BIM80505",
+     "title": "Commencement: general principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80510",
+     "description": "",
+     "section_id": "BIM80510",
+     "title": "Commencement: manufacturers and retailers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80515",
+     "description": "",
+     "section_id": "BIM80515",
+     "title": "Commencement: high technology businesses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80520",
+     "description": "",
+     "section_id": "BIM80520",
+     "title": "Commencement: mining and similar businesses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80525",
+     "description": "",
+     "section_id": "BIM80525",
+     "title": "Commencement: trading before company formation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80530",
+     "description": "",
+     "section_id": "BIM80530",
+     "title": "One trade or more than one trade: general principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80535",
+     "description": "",
+     "section_id": "BIM80535",
+     "title": "One trade or more than one trade: companies"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80540",
+     "description": "",
+     "section_id": "BIM80540",
+     "title": "One trade or more than one trade: decided cases"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80545",
+     "description": "",
+     "section_id": "BIM80545",
+     "title": "One trade or more than one trade: carrying on a trade and a profession"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80550",
+     "description": "",
+     "section_id": "BIM80550",
+     "title": "One trade or more than one trade: same trade by different entities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80555",
+     "description": "",
+     "section_id": "BIM80555",
+     "title": "One trade or more than one trade: losses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80565",
+     "description": "",
+     "section_id": "BIM80565",
+     "title": "Cessation: general principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80570",
+     "description": "",
+     "section_id": "BIM80570",
+     "title": "Cessation: death and insolvency"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80575",
+     "description": "",
+     "section_id": "BIM80575",
+     "title": "Cessation: collection of trade debts"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80580",
+     "description": "",
+     "section_id": "BIM80580",
+     "title": "Cessation: break in activities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80585",
+     "description": "",
+     "section_id": "BIM80585",
+     "title": "Cessation: professions and vocations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80590",
+     "description": "",
+     "section_id": "BIM80590",
+     "title": "Changes in scale, nature or location of trade: general principles"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80595",
+     "description": "",
+     "section_id": "BIM80595",
+     "title": "Changes in scale, nature or location of trade: organic unity"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80600",
+     "description": "",
+     "section_id": "BIM80600",
+     "title": "Changes in scale, nature or location of trade: part-time to full-time"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80605",
+     "description": "",
+     "section_id": "BIM80605",
+     "title": "Changes in scale, nature or location of trade: relocations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80610",
+     "description": "",
+     "section_id": "BIM80610",
+     "title": "Changes in scale, nature or location of trade: changes in residence status"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80615",
+     "description": "",
+     "section_id": "BIM80615",
+     "title": "Changes in scale, nature or location of trade: business expansion"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80620",
+     "description": "",
+     "section_id": "BIM80620",
+     "title": "Succession and changes in ownership: what is a succession?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80625",
+     "description": "",
+     "section_id": "BIM80625",
+     "title": "Succession and changes in ownership: professions and vocations"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80630",
+     "description": "",
+     "section_id": "BIM80630",
+     "title": "Succession and changes in ownership: effect of succession on the charge to tax"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80635",
+     "description": "",
+     "section_id": "BIM80635",
+     "title": "Succession and changes in ownership: partial changes in ownership"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80640",
+     "description": "",
+     "section_id": "BIM80640",
+     "title": "Succession and changes in ownership: succession and part-trades"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80645",
+     "description": "",
+     "section_id": "BIM80645",
+     "title": "Succession and changes in ownership: is a sale of a business to another trader a succession?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80650",
+     "description": "",
+     "section_id": "BIM80650",
+     "title": "Succession and changes in ownership: factors affecting succession"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80655",
+     "description": "",
+     "section_id": "BIM80655",
+     "title": "Succession and changes in ownership: insolvency"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80660",
+     "description": "",
+     "section_id": "BIM80660",
+     "title": "Succession and changes in ownership: date of succession"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80665",
+     "description": "",
+     "section_id": "BIM80665",
+     "title": "Succession and changes in ownership: apportionment of profits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80675",
+     "description": "",
+     "section_id": "BIM80675",
+     "title": "Succession and changes in ownership: expansion by acquiring a business as a going concern"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80680",
+     "description": "",
+     "section_id": "BIM80680",
+     "title": "Succession and changes in ownership: mergers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80685",
+     "description": "",
+     "section_id": "BIM80685",
+     "title": "Succession and changes in ownership: demergers"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim80690",
+     "description": "",
+     "section_id": "BIM80690",
+     "title": "Professional work in progress at cessation"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-11-29T14:05:01+00:00",
+ "section_id": "BIM80500",
+ "title": "Computing the amount to assess: business changes: contents"
+}

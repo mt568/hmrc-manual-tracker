@@ -1,0 +1,37 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45900",
+ "body": "<p>In many cases, overseas taxes may be deducted from trading profits, but the matter is not always straightforward and may require specialist advice from <span>Business Profits</span>.</p>\n<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45901",
+     "description": "",
+     "section_id": "BIM45901",
+     "title": "Summary"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45905",
+     "description": "",
+     "section_id": "BIM45905",
+     "title": "Particular countries"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2025-08-06T01:00:00+01:00",
+ "section_id": "BIM45900",
+ "title": "Specific deductions: overseas taxes: contents"
+}

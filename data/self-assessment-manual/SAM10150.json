@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10150",
+ "body": "<p>The only update that can be made to appeal details held on SA is closure using function MAINTAIN APPEAL. You can, however, amend standover details using function MAINTAIN STANDOVERS.</p>\n\n<p>If you find that you have incorrectly entered details of an appeal you must</p>\n\n<ul>\n  <li>Close the appeal</li>\n</ul>\n\n<p>And</p>\n\n<ul>\n  <li>Enter the correct details as a new appeal</li>\n</ul>\n\n<p>When you close an appeal the appropriate entry on the ‘Open Appeals’ Work List will be deleted, providing that any associated formal standover has also been reduced to nil.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10000",
+   "section_id": "SAM10000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:57+00:00",
+ "section_id": "SAM10150",
+ "title": "Appeals, postponements and reviews: appeals: amending appeal details"
+}

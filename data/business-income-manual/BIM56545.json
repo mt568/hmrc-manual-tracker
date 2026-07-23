@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim56545",
+ "body": "<p>S802 Income Tax Act 2007, Partnerships (Restrictions on Contributions to a Trade) Regulations 2005, SI 2005/2017</p>\n<p>The regulations apply to restrict the amount that is deemed to be an individual partner’s capital contribution to the trade for the purpose of determining:</p>\n<ul><li class=\"filledcircle\">whether an exit event (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56525\">BIM56525</a>) occurs, and</li><li class=\"filledcircle\">where it does, the chargeable amount (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56535\">BIM56535</a>).</li></ul>\n<p>The restrictions only apply to individuals benefited by film relief who sustained a film related loss (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56520\">BIM56520</a>) from a trade which they carried on in partnership.</p>\n<h2>The restrictions</h2>\n<p>The restrictions on what is deemed to be a capital contribution to a trade under the regulations, and the exemptions from these restrictions, are described at <a href=\"https://www.gov.uk/hmrc-internal-manuals/partnership-manual/pm202000\">PM202000</a>. However, you should note that the exemptions specified in the regulations are only exemptions from the application of the restrictions in those regulations. They are not exemptions from the rules in the primary legislation described at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56540\">BIM56540</a>.</p>\n<p>For example, the regulations do not apply to restrict the amount of a capital contribution to the trade where an individual’s spouse may be jointly liable because money borrowed is secured on their home. However, this exemption does not extend to ‘reimbursement by any person’ specified in the primary legislation for the exit charge. Similarly, a person who has become insolvent is not exempted under the primary legislation if his capital contribution is reimbursed. However, whilst reimbursement can lead to an exit event in these circumstances, it cannot lead to a chargeable event unless there is also a disposal of rights to profits from the trade.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56000",
+   "section_id": "BIM56000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56500",
+   "section_id": "BIM56500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:28+01:00",
+ "section_id": "BIM56545",
+ "title": "Films and sound recordings: old regime for films: avoidance: individual exit schemes - capital contributions not at risk"
+}

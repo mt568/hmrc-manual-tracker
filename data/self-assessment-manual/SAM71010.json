@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71010",
+ "body": "<p>When certain events occur in the SA system, details are passed to Work Management to create a work item. Work Management then</p>\n\n<ul>\n  <li>Allocates that work item to the office with responsibility for that type of HMRC activity</li>\n</ul>\n\n<p>And</p>\n\n<ul>\n  <li>Enters that work item on the appropriate work list, which is available for display on screen</li>\n</ul>\n\n<p>Access to a work list is from the operator menu, either</p>\n\n<ul>\n  <li>Direct</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>Through CASE SUMMARY</li>\n</ul>\n\n<h2 id=\"case-summary\">Case Summary</h2>\n\n<p>In CASE SUMMARY the [Work] button will be present only if there is currently at least one open work item, and you have access to the appropriate Work Management function. The button will take you to function TAXPAYER WORK LIST. This function allows you to view a summary of work lists, for all types of Revenue activity, containing an entry for the selected taxpayer. It will not allow you to access any work list shown on screen that has not been allocated to your Organisation Unit, and is not appropriate to your user role.</p>\n\n<p>For example, if your office has processing responsibility for the taxpayer, your access is restricted to the Processing work lists under your user role.</p>\n\n<p>When accessing a particular work list, you will be presented with a list of all work items</p>\n\n<ul>\n  <li>Of the same work type</li>\n  <li>For your Organisation Unit</li>\n  <li>Under your user role</li>\n</ul>\n\n<h2 id=\"menu\">Menu</h2>\n\n<p>From the drop down menu at the top of the screen, you may access the following functions, which summarise work lists with current entries allocated to your Organisation Unit under your user role</p>\n\n<ul>\n  <li>OPERATOR WORK LIST SUMMARY</li>\n  <li>IMMEDIATE ACTION WORK LISTS</li>\n</ul>\n\n<p>On selecting a work list</p>\n\n<ul>\n  <li>Where you have update access to that work list, the full range of Work Management functions is available to you</li>\n  <li>\n    <p>Where you do not have update access, the more limited functions available allow you to</p>\n\n    <ul>\n      <li>View the entries on the selected work list</li>\n      <li>Filter and Sort that list to provide a personal view of it</li>\n      <li>Print the list</li>\n      <li>View all available details on a selected work item</li>\n    </ul>\n  </li>\n</ul>\n\n<p>If you have created buttons for frequently accessed functions and work lists, you will select the appropriate button to access the required function or work list.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:04+00:00",
+ "section_id": "SAM71010",
+ "title": "Manage work: work management: access to work lists"
+}

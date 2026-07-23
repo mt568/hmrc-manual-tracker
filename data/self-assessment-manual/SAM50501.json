@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50501",
+ "body": "<p>From April 2014, changes were introduced to improve the online service offered to Self Assessment customers. The service is provided on GOV.UK and a phased approach is being used with the new functionality available initially to a small numbers of customers building up over a period of time. The initial functionality included:</p>\n\n<ul>\n  <li>The facility to enable individual customers to sign up to receive certain Self Assessment outputs digitally rather than by paper. Then customers will be sent an e-mail to prompt them to login and view their digital output. Further information about the particular outputs and when they were available digitally can be found at SAM50520.</li>\n  <li>The facility for the customer to amend the e-mail address provided when signing up to receive digital outputs.</li>\n  <li>The facility for the customer to opt back into receiving paper outputs rather than digitally.</li>\n</ul>\n\n<p>Future plans include:</p>\n\n<ul>\n  <li>The facility for agents to opt in to receive their copies of the clients output digitally.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50500",
+   "section_id": "SAM50500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-03-10T10:47:24+00:00",
+ "section_id": "SAM50501",
+ "title": "Digital services: introduction"
+}

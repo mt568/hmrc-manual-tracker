@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim39575",
+ "body": "<p>The <strong>Marine Midland</strong> case (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39555\">BIM39555</a>) is concerned only with the computation of trading profits, and does not apply to capital gains.  Following <strong>Bentley v Pike</strong> [1981] 53 TC 590, the foreign currency cost of acquiring a chargeable asset must be translated into sterling at the rate applying at the date of acquisition.  Disposal proceeds must be translated at the rate appropriate to the time of disposal - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25391\" rel=\"nofollow\">CG25391</a>.</p>\n<p>Where a business accounts for an investment in an overseas entity using the ’offset method’ (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39565\">BIM39565</a>), you should apply the appropriate capital gains rules if there is a disposal of the investment.  There is no statutory provision for bringing into account any exchange gains or losses on a matching liability.</p>\n<p>’Marine Midland matching’ (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39560\">BIM39560</a>) applies only to monetary assets, which in many cases will not be chargeable assets.  But if a ’Marine Midland matched’ asset is a chargeable asset (for example, if the asset is a debt on a security), the normal capital gains provisions apply on disposal.  Again, no offset or adjustment should be made for gains or losses on the matched liability.</p>\n<p>If a profit or loss on a currency contract is not within the charge on trade profits (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim39570\">BIM39570</a>), you should consider whether the derivative is a chargeable asset.  S143 Taxation of Chargeable Gains Act 1992 treats financial futures (which includes currency futures and many forward currency contracts, but not swaps) and qualifying options as chargeable assets.  Any currency option that is not a ’qualifying option’ will nevertheless be a chargeable asset on general principles.  Guidance is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55400p\" rel=\"nofollow\">CG55400P</a> onwards.</p>\n<p>BAI will advise if the tax treatment of a currency contract, or a foreign currency asset or liability hedged by a currency contract, appears uncertain or presents difficulties.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim39500",
+   "section_id": "BIM39500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:11+01:00",
+ "section_id": "BIM39575",
+ "title": "Foreign exchange: capital gains interactions"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40115",
+ "body": "<p>S5 Income Tax (Trading and Other Income) Act 2005, S35 Corporation Tax Act 2009</p>\n\n<h2 id=\"damage-to-fixed-or-circulating-capital\">Damage to fixed or circulating capital</h2>\n\n<p>A payment received in respect of the permanent loss, deprivation or sterilisation of a fixed capital asset of the business ranks as a capital receipt (see The Glenboig Union Fireclay Co Ltd v CIR [1922] 12 TC 427, which is discussed in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35600\">BIM35600</a>).</p>\n\n<p>In contrast, a payment that is compensation for some temporary interference with the trader’s use of such an asset is a trading receipt (see Sutherland v CIR [1918] 12 TC 63; Ensign Shipping Co Ltd v CIR [1928] 12 TC 1169; Burmah Steam Ship Company Ltd v CIR [1930] 16 TC 67, the last of these is discussed in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35427\">BIM35427</a>).</p>\n\n<p>Compensation for loss of or damage to a fixed capital asset will often include an element referable to the effect on trading income. Depending on the particular facts, the compensation may be broken down into its component parts so that the income and capital elements are separated and charged to Income Tax, Capital Gains Tax or Corporation Tax as appropriate.</p>\n\n<p>Examples of this include:</p>\n\n<p>London &amp; Thames Haven Oil Wharves Ltd v Attwooll [1966] 43 TC 491 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35600\">BIM35600</a>) in which it was held that, on the particular facts, to the extent that compensation exceeded the cost of repairing the physical damage, it was for loss of profits and taxed as a revenue receipt.</p>\n\n<p>City of Stoke-on Trent v Wood Mitchell &amp; Co Ltd (a Lands Tribunal case heard in the Court of Appeal and reported at [1980] 1 WLR 254 and [1979] 2 All ER 65) which concerned compensation in respect of compulsory purchase under the Land Compensation Act 1961. The compensation included a payment for loss of profits and it was held that the effect of what is now S52(4) Taxation of Chargeable Gains Act 1992 was to permit the receipt to be broken down into its component parts. Following this decision, Statement of Practice 8/79 was issued on 18 June 1979 (this is reproduced at CG72150).</p>\n\n<h3 id=\"circulating-capital\">Circulating capital</h3>\n\n<p>Compensation referable to the loss or deprivation of circulating assets is invariably a trading receipt; as regards trading stock, see Green v J Gliksten &amp; Son Ltd [1929] 14 TC 364 and CIR v Newcastle Breweries Ltd [1927] 12 TC 927; as regards consumable stores, see George Thompson &amp; Co Ltd v CIR [1927] 12 TC 1091.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40100",
+   "section_id": "BIM40100"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM40115",
+ "title": "Specific receipts: compensation and damages: tangible assets fixed capital"
+}

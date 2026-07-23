@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24605",
+ "body": "<p>S104 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S101 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<p>The situation where you may be able to tax a distribution on first principles is discussed briefly at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24555\">BIM24555</a>.</p>\n\n<p>Traders who are members of a mutual entity may make payments to that entity. These payments are allowable if they are not capital (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35000\">BIM35000</a>) and are incurred wholly and exclusively for the purposes of the trade (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42100\">BIM42100</a>).</p>\n\n<p>Any payments received by a trader from the entity are treated, on first principles, as a receipt of the recipient’s trade to the extent that they constitute a return of contributions made.</p>\n\n<p>The following distributions out of the mutual surplus from a mutual business are taxable as receipts from the recipient’s trade without recourse to legislation:</p>\n\n<ul>\n  <li>from a corporate mutual concern (other than in a dissolution or winding up), or</li>\n  <li>from a non-corporate concern in all circumstances.</li>\n</ul>\n\n<p>Anything that is not a return of contributions must have arisen from the mutual entity’s non-mutual operations and should therefore have been taxed in the mutual’s hands. Hence S1070 Corporation Tax Act 2010 applies the distributions legislation to such sums.</p>\n\n<p>S104 ITTOIA 2005 and S101 CTA 2009 act to bring into charge to Corporation Tax or Income Tax any sums received on winding-up or dissolution from a body corporate carrying on a business that is, or is in part, a mutual trade. Such a distribution is treated as a receipt in calculating the profits of the recipient’s trade. If the recipient has ceased trading before receiving the distribution, it is treated as a post cessation receipt of the trade.</p>\n\n<p>The legislation is structured to ensure that the charge cannot be avoided by:</p>\n\n<ul>\n  <li>arranging for assets to be distributed as part of a wider scheme of reconstruction or amalgamation, or</li>\n  <li>transferring or surrendering the right to receive a distribution.</li>\n</ul>\n\n<p>The legislation only applies if a deduction has previously been allowed for a contribution to the body corporate. This is a simple qualitative test. The charge is not linked to the extent of any previous claimed deduction.</p>\n\n<p>For the purposes of the charge, trade does not include any trade where all the profits have been chargeable to tax (ie non-mutual trade).</p>\n\n<p>The assets out of which the distribution is made must themselves represent profits of the body corporate’s mutual business. This means that the charge does not apply to distributions that:</p>\n\n<ul>\n  <li>represent the return of capital,</li>\n  <li>represent capital gains, or</li>\n  <li>are made out of profits which have been chargeable to tax.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24550",
+   "section_id": "BIM24550"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:43+01:00",
+ "section_id": "BIM24605",
+ "title": "Meaning of trade: mutual trading and members clubs: distributions on winding-up: taxable on first principles or statute"
+}

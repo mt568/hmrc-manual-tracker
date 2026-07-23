@@ -1,0 +1,39 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim57600",
+ "body": "<p>Various forms of agreement are often described, somewhat loosely, as franchises, for example licences, dealerships and concessions. This section is particularly concerned with the tax implications of payments under `business system franchise agreements'.</p>\n<p>The type of situation we are looking at is:</p>\n<ul><li class=\"filledcircle\">Ferdy has established a chain of Needlework &amp; Craft shops. He allows people to run shops using his brand and system. These are franchises. Ferdy is a franchiser.</li><li class=\"filledcircle\">Ferdy has given John the franchise to operate one of these shops. John is a franchisee.</li></ul>\n<p>The guidance on know-how allowances for franchisees is at CA70000 onwards.</p>\n<h3>Intangible assets regime for companies</h3>\n<p>Where a company acquires or sells a franchise, the Corporation Tax intangible assets regime applies. The regime is introduced at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35501\">BIM35501</a>, and covered more fully in the CIRD manual. Where the intangible assets regime applies then it takes precedence over the guidance here.</p>\n<p>This section contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim57601",
+     "description": "",
+     "section_id": "BIM57601",
+     "title": "General"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim57610",
+     "description": "",
+     "section_id": "BIM57610",
+     "title": "Initial lump sum received by franchiser"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim57620",
+     "description": "",
+     "section_id": "BIM57620",
+     "title": "Initial fee paid by franchisee"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:31+01:00",
+ "section_id": "BIM57600",
+ "title": "Franchising: contents"
+}

@@ -1,0 +1,42 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim41800",
+ "body": "<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim41801",
+     "description": "",
+     "section_id": "BIM41801",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim41805",
+     "description": "",
+     "section_id": "BIM41805",
+     "title": "Loss of office"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim41810",
+     "description": "",
+     "section_id": "BIM41810",
+     "title": "Others"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:31+01:00",
+ "section_id": "BIM41800",
+ "title": "Specific receipts: voluntary receipts: contents"
+}

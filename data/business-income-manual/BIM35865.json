@@ -1,0 +1,27 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35865",
+ "body": "<p>The following examples show how we have viewed certain types of expenditure on software development in the past.</p>\n\n<h3 id=\"example-1-the-millennium-bug\">Example 1: the millennium bug</h3>\n\n<p>The year 2000 issue was widely reported in the press. The problem was that many computer systems recorded the year using only the last two digits; for example, 85 for 1985 or 98 for 1998. This was done to save storage space.</p>\n\n<p>Year 2000 conversion costs</p>\n\n<p>Conventionally, systems assumed that time began with the year 1900 (00). This provided a unique year identifier up to and including 1999. There was a risk that after 1999 affected computer systems would see the year as 00 but not know whether the year was 1900 or 2000. Businesses may have spent large sums to modify their systems to avoid confusion. The extent of the problem was not clear but media reports suggested that it could be very serious.</p>\n\n<p>Strategic changes</p>\n\n<p>An in-house software project to ensure that existing systems could be adapted for the millennium will always be a revenue matter unless it is part of a major new project instituting other changes and the project is of a capital nature. For example, a concern may decide that for strategic reasons the need for the specific millennium conversion expenditure which would otherwise have been necessary should be pre-empted by a much more substantial undertaking, for example the development of an entirely new (and of course millennium-proof) business system. You should follow the general guidance in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35820\">BIM35820</a> to <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35860\">BIM35860</a> in deciding whether or not such a major new project brings into being a business tool of a capital nature.</p>\n\n<h3 id=\"example-2-economic-and-monetary-union-emu-conversion-costs\">Example 2: Economic and monetary union (EMU) conversion costs</h3>\n\n<p>In-house software development expenditure connected with the EMU and adoption of the euro raises similar issues.</p>\n\n<p>EMU requires banks and other members of the international financial markets to incur expenditure on modifying their information technology systems to accommodate changes entailed by the conversion process. These include the modification of systems, including management and financial accounting, payment, settlement and clearing processes. Interfaces with agency systems (BACS, SWIFT and CHAPS) as well as regulatory reporting and cross-border settlements are affected. TARGET, a cross-border euro settlement system (interlinking CHAPS and its equivalent systems), was introduced for use throughout the European Economic area. Banks’ existing clearing systems required adaptation to interface with the new system.</p>\n\n<p>Such purely conversion-driven costs required in adapting systems for the euro are unlikely to be capital. But changes of this nature may be overtaken by the development of new business systems for strategic reasons, for example to exploit changes in the financial markets accompanying EMU in order to open up new trading opportunities. You should follow the approach outlined above in the discussion of millennium conversion costs in determining whether expenditure on such systems is capital.</p>\n\n<p>Expenditure on forward planning for possible entry by the UK into EMU may be needed and you should take into account <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35850\">BIM35850</a> first stage as regards research costs which may be incurred before any decision is made to implement a particular project to develop a new software system.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35800",
+   "section_id": "BIM35800"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35820",
+   "section_id": "BIM35820"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:12:30+01:00",
+ "section_id": "BIM35865",
+ "title": "Capital/revenue divide: computer software: in-house software development costs: examples of revenue expenditure"
+}

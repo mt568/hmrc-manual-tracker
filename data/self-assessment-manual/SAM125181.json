@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125181",
+ "body": "\n<p>Where there is an entry LIABILITY UNLIKELY on the ‘Weekly Returns Review’ Work List follow steps 1 - 6 below.  </p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p> </p>\n\n<ol>\n  <li>In function WORK LIST CASES</li>\n</ol>\n\n<pre><code>* Select the entry that you want to work\n* Select the [View] button. You will be taken to function SELECTED CASE, to see all available details on the work item\n* If the entry is for an Individual or Partnership record, follow step 6 to delete the entry and take no further action\n* If the entry is for a trust return follow the steps below\n</code></pre>\n\n<ol>\n  <li>Review the return to decide whether the taxpayer will probably be liable to tax or Class 4 NIC in future years<br />\n     </li>\n  <li>Use function AMEND TAXPAYER SIGNALS to view the entry in the LU Year field<br />\n     </li>\n  <li>Where there is likely to be future liability to tax and / or Class 4 NIC to be met<br />\n     </li>\n</ol>\n\n<pre><code>* In function AMEND TAXPAYER SIGNALS, delete the LU YEAR entry\n</code></pre>\n\n<ol>\n  <li>Where there is not likely to be future liability to tax and / or Class 4 NIC to be met<br />\n     </li>\n</ol>\n\n<pre><code>* Consider whether the LU YEAR period should be amended\n\nAnd either\n\n* In function AMEND TAXPAYER SIGNALS, amend the period\n\nOr\n\n* Leave the LU YEAR entry in function AMEND TAXPAYER SIGNALS undisturbed\n</code></pre>\n\n<ol>\n  <li>Use function WORK LIST CASES or function SELECTED CASE to delete the work item from the Work List, but only when all aspects that caused the item to be  created have been cleared. Select the [Del] button<br />\n     </li>\n</ol>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-18T14:35:36+01:00",
+ "section_id": "SAM125181",
+ "title": "Returns: returns work lists: w054 weekly returns review:  liability unlikely (Action Guide)"
+}

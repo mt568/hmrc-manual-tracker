@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123031",
+ "body": "\n<p>Where you discover a trustee has ceased or died follow steps 1 - 5 below. For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.  </p>\n\n<ol>\n  <li>Use function MAINTAIN CAPACITY SUMMARY  </li>\n</ol>\n\n<pre><code>* Check if the ceased trustee appears on line 1If the trustee does appear and there are other live trustees present\n\n  \n  \n* Go to step 2If the trustee does appear and there are no other live trustees present\n\n  \n  \n* Go to step 3\n</code></pre>\n\n<ol>\n  <li>Select the line number on which the new main trustee appears  </li>\n</ol>\n\n<pre><code>* Select the [Main] button\n\nThen  \n\n\n* Select the line number on which the ceased trustee appears\n\nAnd then  \n\n\n* Select the [Cease] button\n</code></pre>\n\n<ol>\n  <li>Check in the file for details of any other trustees who have not been set up on the trust’s SA record or contact any agent who may be acting  </li>\n</ol>\n\n<pre><code>If a new trustee is found\n\n  \n  \n* Go to step 4If no new trustee is found\n\n  \n  \n* Go to step 5\n</code></pre>\n\n<ol>\n  <li>For each new trustee  </li>\n</ol>\n\n<pre><code>* Use function SET UP CAPACITY DETAILS to record details of the new trustee\n* Use function MAINTAIN CAPACITY SUMMARY to nominate the new main trustee\n\n* Select the line number on which the new main trustee appears\n* Select the [Main] button\n</code></pre>\n\n<p>Then for each ceased trustee  </p>\n\n<pre><code>* Select the line number on which the ceased trustee appears\n\nAnd  \n\n\n* Select the [Cease] button\n</code></pre>\n\n<ol>\n  <li>If no new trustees can be found  </li>\n</ol>\n\n<pre><code>* Use function MAINTAIN CAPACITY SUMMARY to cease the trustee\n\n* Select the line number on which the ceased trustee appears\n\nAnd  \n\n\n* Select the [Cease] button\n* Continue to make enquiries to establish the details of the new trustees\n</code></pre>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:38+00:00",
+ "section_id": "SAM123031",
+ "title": "Returns: trust return: cessation or death of a trustee  (Action Guide)"
+}

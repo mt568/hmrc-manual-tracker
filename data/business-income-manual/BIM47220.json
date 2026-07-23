@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim47220",
+ "body": "<p>Part7A Income Tax (Earnings and Pensions) Act 2003 (ITEPA 2003)</p>\n\n<h2 id=\"background\">Background</h2>\n\n<p>Part7A ITEPA 2003, concerning income provided to employees through third parties (also referred to as the ‘disguised remuneration legislation’), was introduced to tackle arrangements involving third parties which seek to avoid or defer the payment of Income Tax on employment income. It is wide ranging anti-avoidance legislation.</p>\n\n<p>Guidance on the disguised remuneration legislation generally is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45000\">EIM45000</a> onwards.</p>\n\n<h2 id=\"employee-benefit-trusts\">Employee benefit trusts</h2>\n\n<p>Broadly, an amount treated as the employee’s employment income arising under the disguised remuneration legislation attracts a deduction for the employer under the employee benefit trusts (EBT) legislation to the extent that the income arising occurs in respect of an underlying contribution to an EBT (or other arrangement) paid by that employer. For further details, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44636\">BIM44636</a>.</p>\n\n<p>Note that due to the nature of the legislation, not all charges arising under the disguised remuneration rules result from underlying expenditure by the employer. In such a case the only deduction due for the employer would be for any tax/NIC paid in respect of the charge by the employer, which should be considered under normal principles.</p>\n\n<h2 id=\"other-charges-related-to-the-disguised-remuneration-legislation\">Other charges related to the disguised remuneration legislation</h2>\n\n<p>In respect of other charges, for example employers’ National Insurance Contributions, arising from the disguised remuneration legislation you should address the issue of whether a deduction is due for the employer by looking at first principles:</p>\n\n<ul>\n  <li>Is there properly a deduction in the accounts of the employer prepared under generally accepted accounting practice (GAAP)?</li>\n  <li>If so then is any adjustment to the profits under GAAP required or authorised by law?</li>\n</ul>\n\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim30510\">BIM30510</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim47000",
+   "section_id": "BIM47000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM47220",
+ "title": "Specific deductions: staffing costs: deductions relating to disguised remuneration"
+}

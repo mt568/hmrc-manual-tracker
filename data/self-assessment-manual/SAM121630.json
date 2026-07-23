@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121630",
+ "body": "<p>In the majority of cases the computer will automatically calculate the amount of Top Slicing Relief due. During capture of the return the Top Slicing Relief Due screen is displayed in all cases where the computer considers Top Slicing Relief may be due. For example, where the taxpayer is liable at a higher rate when the gains are added to income for the year, whereas normally the taxpayer would only be liable at the lower rate and basic rate if the gains were ignored.</p>\n\n<p>You are prompted to enter the amount of Chargeable Event Gains divided by the number of years on the screen. An entry is only required in cases where the taxpayer has not entered the number of years in boxes 5, 7, 9 on the Additional information page Ai 1 or box 44 on the Foreign page F 6.</p>\n\n<p>Where the taxpayer has entered the number of years in Ai 1 boxes 5, 7, 9 or F 6 box 44 you need only satisfy yourself that the entries on the return are correct. If you are satisfied you then select the [Amount OK] button.</p>\n\n<p>Where the taxpayer has not entered the number of years you should use the details given in the Additional information box on the return to calculate the amount of Chargeable Event Gains divided by the number of years. You should then select the [Enter CEG Amount] button and enter the amount in the Enter Amount field on the screen.</p>\n\n<p>Full details of how to calculate the relief can be found in the Insurance Policyholder Taxation Manual (IPTM) from IPTM3820 onwards. Changes to the calculation of Top Slicing Relief were announced at Budget 2020, and will apply to tax years 2018-19 onwards. The computer calculation has been updated to reflect these changes and you do not need to do anything differently.</p>\n\n<p>Where you identify a case where the calculation will be incorrect you should calculate the liability manually, issue a manual Tax Calculation and enter the return charge in function CREATE RETURN CHARGE.</p>\n\n<p>Further action is then required as the computer will not automatically</p>\n\n<ul>\n  <li>Update the taxpayer’s return profile</li>\n  <li>Create work items</li>\n  <li>Make any repayment where claimed on the return</li>\n  <li>Or</li>\n  <li>Set Mandatory review signals</li>\n</ul>\n\n<p>For more information on the actions to take see subject ‘Computer calculation is incorrect’ (SAM121420).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2020-11-03T08:27:11+00:00",
+ "section_id": "SAM121630",
+ "title": "Returns: individuals returns: top slicing relief"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim38110",
+ "body": "<p>S34 Income Tax (Trading and Other Income) Act 2005</p>\n<h2>Treat in the same way as any other trade expense</h2>\n<p>Rent paid at a commercial rate by a partnership to one of the partners for property used in the trade, profession or vocation is allowable to the extent of such use. Rent in excess of a commercial rate is not allowable. Where the rent appears to be excessive, you should ask the District Valuer to confirm the commercial rent. Rent below a commercial rent is allowable, but the property income computation of the partner may need to be adjusted because an uncommercial rent has been charged (see PIM2220).</p>\n<p>In the case of <strong>Heastie v Veitch &amp; Co</strong> [1933] 18 TC 305, a firm of accountants carried on their practice in premises owned by the senior partner. The partnership paid the senior partner a fair rent for their occupation. The Court of Appeal allowed a deduction for the rent. The court also allowed error or mistake claims (what is now Sch1AB Taxes Management Act 1970) for the earlier years when the partnership had omitted to claim a deduction. The main issue in the case concerned the question of whether the deduction should be of the rent actually paid or of the annual value of the premises under the appropriate property income rules which applied at the time.</p>\n<p>The Master of the Rolls, Lord Hanworth explained that the rent was deductible notwithstanding that it was paid to a partner. There was nothing to show that the rent was uncommercial. The property was used for the purpose of the firm’s profession and the fact that the recipient was a partner made no difference.</p>\n<p>Note that the payment of rent may affect the partner's entitlement to Business Asset Disposal Relief, if the property used by the partnership were to qualify for the relief as an 'associated disposal'. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64145\" rel=\"nofollow\">CG64145</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim37000",
+   "section_id": "BIM37000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim38100",
+   "section_id": "BIM38100"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2024-12-18T11:59:33+00:00",
+ "section_id": "BIM38110",
+ "title": "Wholly and exclusively: partnerships: paying a partner a commercial rate for goods or services"
+}

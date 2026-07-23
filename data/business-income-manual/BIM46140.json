@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46140",
+ "body": "<p>S393A Income Tax (Earnings and Pensions) Act 2003, S246 Finance Act 2004, S38 Income Tax (Trading and Other Income) Act 2005, S1290 Corporation Tax Act 2009</p>\n\n<p>This guidance outlines when a contribution, or a provision for a contribution, to an employer financed retirement benefits scheme by an employer or former employer is allowable as a deduction in computing their profits for tax purposes.</p>\n\n<p>An employer-financed retirement benefits scheme is a scheme that provides relevant benefits to employees or former employees but which is neither a registered pension scheme nor a pension fund to which S615(3) Income and Corporation Taxes Act 1988 applies (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46145\">BIM46145</a>). Such schemes are also sometimes called unregistered or non-registered pension schemes.</p>\n\n<p>Guidance on employer-financed retirement benefits schemes is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15000\">EIM15000</a> onwards.</p>\n\n<p>Where there is an employer-financed retirement benefits scheme, the employer may put money into the scheme (a ‘funded’ scheme), or the employer may make an accountancy provision in the current period and pay the benefit direct to the former employee after they retire (an ‘unfunded’ scheme).</p>\n\n<p>The tax treatment for employer contributions for both funded and unfunded employer financed retirement benefits schemes is as follows. The employer adds back the deduction in the accounts. The employer may only get relief when the former employee receives a qualifying benefit, including a taxable benefit, or a benefit that would be taxable if the former employee was resident in the UK, or a charge arises under the disguised remuneration legislation.</p>\n\n<p>Guidance on when a former employee is taxable is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010\">EIM15010</a> onwards.</p>\n\n<h2 id=\"funded-employer-financed-retirement-benefits-schemes\">Funded employer-financed retirement benefits schemes</h2>\n\n<p>The employee benefit trust legislation applies to contributions to an employer-financed retirement benefits scheme. Guidance is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44575\">BIM44575</a> onwards. Although this guidance is written in terms of contributions to employee benefits trusts (EBTs) it also applies to contributions to employer-financed retirement benefits schemes.</p>\n\n<p>Additional rules apply to employee benefit contributions made or to be made to employer-financed retirement benefit schemes on or after 1 April 2017 (CT) or 6 April 2017 (IT). These rules may prevent a deduction being available at any time, even when qualifying benefits are provided. This is explained more fully at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44571\">BIM44571</a> and in the example at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44611\">BIM44611</a>.</p>\n\n<h2 id=\"unfunded-employer-financed-retirement-benefits-scheme\">Unfunded employer-financed retirement benefits scheme</h2>\n\n<p>Where an employer makes a provision for a benefit under an unfunded employer-financed retirement benefit scheme then the accounting entry is added back.</p>\n\n<p>Where the former employee is subject to Income Tax on the receipt of the benefit, or would be if they were resident in the UK, then the benefit is deducted in arriving at the taxable profits for the period in which it is paid.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46000",
+   "section_id": "BIM46000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:21:28+00:00",
+ "section_id": "BIM46140",
+ "title": "Specific Deductions: pension schemes: employer-financed retirement benefits schemes"
+}

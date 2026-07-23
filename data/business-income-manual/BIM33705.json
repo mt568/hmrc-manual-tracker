@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33705",
+ "body": "<p>FRS 102 Section 19 Business Combinations and Goodwill  requires entities to account for business combinations using the purchase method. The purchase method involves the following steps:</p>\n\n<ul>\n  <li>\n    <p>Identifying an acquirer</p>\n  </li>\n  <li>Determining the acquisition date</li>\n  <li>Measuring the cost of the business combination (‘consideration’)</li>\n  <li>Allocating the costs of the business combination to the assets acquired</li>\n  <li>Recognising and measuring goodwill</li>\n</ul>\n\n<p>When allocating the cost of a business combination the entity should recognising the identifiable assets and liabilities acquired at their fair values at the acquisition date.</p>\n\n<p>Fair values at acquisition are not affected by provisions or accruals for future expenditure that are expected to be incurred as a result of the acquisition. For example, if the acquirer intended to retrain some employees after the take-over it is not entitled to include a provision for retraining costs as part of the calculation.</p>\n\n<p>The cost of acquisition of a business includes the cash, loan notes or shares paid and the value of the assumption of liabilities.</p>\n\n<p>In certain specified circumstances, including group reconstructions, businesses may use merger accounting when they acquire another business.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33700",
+   "section_id": "BIM33700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T10:15:55+00:00",
+ "section_id": "BIM33705",
+ "title": "Business successions: accounting: business combinations and goodwill"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim46905",
+ "body": "<p>S25, S33 Income Tax (Trading and Other Income) Act 2005, S46, S53 Corporation Tax Act 2009</p>\n\n<p>The taxable profits of a trade must be calculated in accordance with generally accepted accounting practice (GAAP), subject to any adjustment required or authorised by law. One such adjustment is to disallow capital expenditure.</p>\n\n<p>It is therefore a tax question whether expenditure on ‘repairs’ is capital or revenue and accountancy practice has no role in deciding the answer. If, however, the expenditure is revenue (and not disallowed under any other rule), the treatment under GAAP determines when relief is given for tax purposes.</p>\n\n<h2 id=\"spreading-relief\">Spreading relief</h2>\n\n<p>Sometimes all the cost of repairs is not charged to the profit and loss account when it is incurred; instead it is recognised (sometimes referred to as ‘capitalised’) in the balance sheet and released to the profit and loss accounts over its expected useful life.</p>\n\n<p>The fact that the expenditure is referred to as ‘capitalised’ does not make it capital expenditure for tax purposes. If it is allowable expenditure then the fact that relief is deferred does not make any difference. The tax treatment simply follows the accounts, giving relief in the year in which the cost of repairs is charged to the profit and loss account.</p>\n\n<h2 id=\"provisions\">Provisions</h2>\n\n<p>We accept that a provision for future repairs correctly made in accordance with GAAP is an allowable expense except where there are specific tax rules to the contrary. For example provisions for capital expenditure are not tax deductible. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46500\">BIM46500</a> for further guidance.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim46900",
+   "section_id": "BIM46900"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:57+01:00",
+ "section_id": "BIM46905",
+ "title": "Specific deductions: repairs and renewals: role of accountancy"
+}

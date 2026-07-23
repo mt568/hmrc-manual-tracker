@@ -1,0 +1,33 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam21000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam21001",
+     "description": "",
+     "section_id": "SAM21001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam21010",
+     "description": "",
+     "section_id": "SAM21010",
+     "title": "Jeopardy amendment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam21020",
+     "description": "",
+     "section_id": "SAM21020",
+     "title": "Revenue amendment"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:24+00:00",
+ "section_id": "SAM21000",
+ "title": "Assessments: revenue amendment: contents"
+}

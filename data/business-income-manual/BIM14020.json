@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim14020",
+ "body": "<p>SS2, 4, 366(1), 575(1) Income (Trading and Other Income) Act 2005; SS201, 982(1) Corporation Tax Act 2009</p>\n\n<p>To ensure that income is taxed only once, there are rules to determine which charge takes priority where two different charges could potentially apply to the same income.</p>\n\n<p>A receipt or other credit item which would otherwise be treated both as a trade receipt and as a receipt of a UK property business is dealt with under the property income provisions. Similarly, a receipt or credit item falling to be treated both as a trade receipt and as employment income, pension income or social security income is dealt with under the Income Tax (Earnings and Pensions) Act 2003 as employment, pension or social security income. For Corporation Tax purposes, an amount which would otherwise be treated both as a receipt of a trade and as income from holding an office is dealt with under the rules for income from holding an office.</p>\n\n<p>Conversely, for Income Tax purposes, savings and investment income, and income otherwise within one of the charges on miscellaneous income (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim100000\">BIM100000</a>), which also falls to be treated as a trade receipt is dealt with under the trading income rules. For Corporation Tax purposes, distributions from unauthorised unit trusts and income from the sale of foreign dividend coupons which are also trade receipts are dealt with under the trading income rules.</p>\n\n<p>The Income Tax priority rules must be considered together with other rules of law about the scope of particular provisions or the order of priority to be given to them. For example, S171(2) Finance Act 1993 provides that profits of Lloyd’s underwriters are charged only as trading income. There are also particular rules which expressly require certain activities to be treated as a trade. These rules are described at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim15060\">BIM15060</a> onwards.</p>\n\n<p>Profits arising from operations which cannot definitely be regarded as amounting to a trade may in some cases be charged as miscellaneous income: see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim22035\">BIM22035</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim14000",
+   "section_id": "BIM14000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-11-13T14:47:40+00:00",
+ "section_id": "BIM14020",
+ "title": "Trading income: priority rules"
+}

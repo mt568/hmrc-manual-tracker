@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45011",
+ "body": "<p>S45 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S1298 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<h2 id=\"insight-given-by-vat-cases\">Insight given by VAT cases</h2>\n\n<p>There are no tax cases on the meaning of business entertainment in the specific context of the above legislation. However, a number of relevant principles emerge from VAT decisions. Although these decisions have no legal status with respect to taxes on income, the similarity of the underlying legislation means that in practice they will often inform the interpretation of the direct tax legislation. Having said this, there are important differences, which mean that VAT decisions cannot always be taken as determining the correct position for taxes on income. Those differences are identified below.</p>\n\n<p>The legislation for VAT on entertaining expenditure is included in the Value Added Tax (Input Tax) Order 1992, SI 1992 No 3222, Article 5(3) which was closely modelled upon S577 Income and Corporation Taxes Act 1988 (which was the predecessor provision to the current rules in ITTOIA 2005 and CTA 2009 disallowing business entertainment). Article 5(3) excludes from credit as input tax VAT on supplies which are used for business entertainment and states that ‘for the purposes of this article, ‘business entertainment’ means entertainment including hospitality of any kind provided by a taxable person in connection with a business carried on by him.’</p>\n\n<p>Despite this similarity, the purpose behind the VAT legislation is quite different and arises from a different problem. Whereas the original intention for direct taxes was to prevent tax deductions being given for hospitality, the VAT problem was stated in BMW (GB) Ltd v Customs and Excise [1997] STC 824 as follows:</p>\n\n<blockquote>\n  <p>‘Where a person receives food, drink or similar benefits without making any payment for them, he by definition pays no VAT for that supply to him. If the person providing those facilities is entitled to credit for the input tax he has paid on them, then the end result is that he does not pay VAT on them either…’</p>\n</blockquote>\n\n<p>There are also differences in the detail of the legislation. For instance, the decision in Thorn EMI plc v Customs and Excise [1995] STC 674 that a part of the entertaining expenditure incurred could be allowed if it related to advertising would not apply for direct taxes. This is because:</p>\n\n<ul>\n  <li>the direct tax provisions disallow incidental expenditure, while the VAT legislation has no similar provision, and</li>\n  <li>the VAT legislation permits apportionment while the direct tax legislation does not</li>\n</ul>\n\n<p>Although these differences exist, many of the conclusions reached in VAT cases are persuasive in establishing the meaning of business entertainment. Unless the facts or legal context of a particular case suggests otherwise you should take an analogous VAT decision into account when considering the direct tax legislation. For further guidance on the meaning of entertainment for VAT purposes, see VIT43200.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45000",
+   "section_id": "BIM45000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:51:07+00:00",
+ "section_id": "BIM45011",
+ "title": "Specific deductions: entertainment: meaning of business entertainment: judicial guidance"
+}

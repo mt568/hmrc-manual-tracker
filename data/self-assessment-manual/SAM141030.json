@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141030",
+ "body": "<p>A work item will be created on the ‘Reduction of Amount Coded Out’ work list (W037) when a balancing payment of £2999.99 or less has previously been transferred to PAYE for coding out in CY+1 and the amount available for transfer has now been reduced by use of one of the following functions</p>\n\n<ul>\n  <li>AMEND RETURN</li>\n  <li>AMEND RETURN FOR ENQUIRY</li>\n  <li>CREATE RETURN CHARGE</li>\n  <li>CREATE RETURN CHARGE FOR ENQUIRY</li>\n  <li>UNLOG RETURN</li>\n</ul>\n\n<p>Note: A work item will not be produced where</p>\n\n<ul>\n  <li>The reduction results from the use of function CREATE RETURN CHARGE or CREATE RETURN CHARGE FOR ENQUIRY and</li>\n  <li>The Last Year for SA Return signal is set</li>\n</ul>\n\n<p>In these circumstances you must manually review the ‘Reconciliation Summary’ screen in the PAYE Service and make any amendment to the coding where required, at the time of using either function.</p>\n\n<p>The ‘Reduction of Amount Coded Out’ work list is allocated to the Clerical Processing Officer in the office with processing responsibility.</p>\n\n<p>Function SELECTED CASE will show the return year and the adjustment to the amount already coded out for the selected work item.</p>\n\n<p>There is no automatic transfer between SA and PAYE for these cases. You must now</p>\n\n<ul>\n  <li>Reconsider the PAYE coding</li>\n  <li>Delete the work item</li>\n</ul>\n\n<p>For information about the action to take to review the work item see subject ‘W037 - Reduction of Amount Coded Out’ in section ‘Work management’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam71124\">SAM71124</a>) which provides a link to the Standard Process Description.</p>\n\n<p>Note: Where the amount coded out has been settled in full or in part by a Voluntary Direct Payment the amount overpaid must be transferred to the SA record. See Section ‘Transfer From PAYE to SA’, subject ‘Voluntary Direct Payments’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam140040\">SAM140040</a>) for further guidance.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141000",
+   "section_id": "SAM141000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:20+00:00",
+ "section_id": "SAM141030",
+ "title": "Transfer of liability: transfer from SA to PAYE: transfer of reduced balancing payment to PAYE"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60835",
+ "body": "<p>For the purposes of this legislation the definition of ‘disposal’ can be found in Section 356OQ CTA 2010 and Section 517R ITA 2007.</p>\n\n<p>A disposal is any case where the property is effectively disposed of either in whole or in part by one or more transactions or arrangements.</p>\n\n<p>In a straightforward sale this will be the date of completion. If the date of completion is delayed but the property has effectively been disposed of an earlier date may be applied.</p>\n\n<p>The definition includes part disposals. There is a part disposal where the person disposing of the asset retains any form of property derived from the asset.</p>\n\n<p>Where a lease is granted with a premium the treatment of the premium will follow the rules as set out at <a href=\"https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1200\">PIM1200</a>.</p>\n\n<p>Example</p>\n\n<p>A developer sets up a company to complete a housing development. The developer intends to dispose of 40% of the properties to a third party and retain 60% of the properties as a longer term investment. When the properties are finished they sell 40% of their shares to the third party. In this instanced the 40% is a disposal of property deriving its value from land.</p>\n\n<p>Disposal: Commencement and anti-forestalling rules</p>\n\n<p>As described above, there is a specific anti-forestalling rule for disposals made to associates during the period between 16 March 2016 and 5 July 2016.</p>\n\n<p>For the purpose of the commencement and anti-forestalling rules, where any property is disposed of under a contract, the time of disposal is treated as the time the contract is made. It is not, if different, the time the property is conveyed or transferred.</p>\n\n<p>The references to ‘contract’ includes conditional contracts.</p>\n\n<p>The main commencement and transitional provisions exclude cases where a contract for disposal was made prior to 5 July 2016. The anti-forestalling rule will not apply where the contract was made before 16 March 2016.</p>\n\n<p>Example</p>\n\n<p>A property is purchased off plan in February 2016, when the buyer pays an initial fee to the seller - to reserve the property - which locks in the price and takes the property off the market. The buyer performs the necessary due diligence and searches in March 2016, and subsequently enters into a binding contract for the sale/purchase of the property. Legal title will not pass until the purchase price is paid, and the contract is completed in August 2016.</p>\n\n<p>Subject to there being no conditions that allowed for the agreement to be cancelled unilaterally, the contract is ‘made’ in March 2016, which would be the date of disposal under the commencement and transitional provisions.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60510",
+   "section_id": "BIM60510"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60800",
+   "section_id": "bim60800"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2017-01-28T22:16:22+00:00",
+ "section_id": "BIM60835",
+ "title": "Definitions: Disposal "
+}

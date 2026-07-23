@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim85725",
+ "body": "<p>Where there is a change in the membership of a partnership carrying on a trade, that trade is treated as continuing so long as there was at least one person who was engaged in the trade both before and after the change. Each partner in a partnership carries on a notional trade. The basis period rules apply to each partner’s notional trade, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim82260\">BIM82260</a>-<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim82270\">BIM82270</a>.</p>\n\n<p>It follows that if, during the basis period for the tax year, there is a change in the way the trade is carried on and the loss qualifies for relief under the provisions of S66(5) Income Tax Act 2007 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim85715\">BIM85715</a>), the continuing partners are entitled to claim relief for their shares of the losses of the firm as previously constituted as well as of the new firm. This applies even when the change in the membership of the partnership occurs before the change in the manner of trading. Outgoing partners are denied any relief for losses for that year unless the change in the manner of trading took place before they ceased to be partners.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim85700",
+   "section_id": "BIM85700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:41:55+01:00",
+ "section_id": "BIM85725",
+ "title": "Trade losses - restriction of relief: partners"
+}

@@ -1,0 +1,36 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45300",
+ "body": "<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45301",
+     "description": "",
+     "section_id": "BIM45301",
+     "title": "Loan guarantee"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45305",
+     "description": "",
+     "section_id": "BIM45305",
+     "title": "Exhibitions"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:29+01:00",
+ "section_id": "BIM45300",
+ "title": "Specific deductions: guarantee payments: contents"
+}

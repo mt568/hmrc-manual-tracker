@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim15030",
+ "body": "<p>SS37, 39 Taxation of Chargeable Gains Act 1992 (TCGA 1992)</p>\n\n<p>Because the charge to tax on trade profits is restricted to income rather than capital, any capital gains or losses are excluded and instead dealt with under the chargeable gains code.</p>\n\n<h2 id=\"IDAW1DHC\">Individuals</h2>\n\n<p>S37 TCGA 1992 requires that any part of the consideration for the disposal of an asset which has been either:</p>\n\n<ul>\n  <li>charged to tax as income, or</li>\n  <li>taken into account in computing income or profits or gains or losses of the disposer,</li>\n</ul>\n\n<p>should be excluded from a computation of a chargeable gain.</p>\n\n<p>Similarly, S39 TCGA 1992 requires the exclusion from allowable capital gains deductions of amounts which are:</p>\n\n<ul>\n  <li>allowable in computing profits or losses of a trade etc for the purposes of Income Tax, or</li>\n  <li>allowable in computing any other income etc for the purposes of Income Tax, or</li>\n  <li>even though not so allowable in computing losses, would be allowable but for an insufficiency of income etc.</li>\n</ul>\n\n<p>The result of these provisions is that an Income Tax charge must always take priority over a Capital Gains Tax charge. You should always consider and discard liability to Income Tax before examining liability to Capital Gains Tax.</p>\n\n<p><a href=\"#Top\">Top of page</a></p>\n\n<h2 id=\"IDAW3BCC\">Companies</h2>\n\n<p>Companies do not pay Capital Gains Tax as such but are chargeable to Corporation Tax on their chargeable gains. The above provisions apply to determine the relationship between the charges to Corporation Tax on income and on chargeable gains as a result of SA1 Corporation Tax Act 2009 and S8(3) TCGA 1992.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim14000",
+   "section_id": "BIM14000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:54+01:00",
+ "section_id": "BIM15030",
+ "title": "Trade profits: relationship to capital gains tax"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86044",
+ "body": "<p>Where 5 April is used as the annual accounting date throughout the entire life of a business, there will be no overlaps between basis periods. In such cases the total profits charged to Income Tax will automatically equal the total profits made during the life of the business.</p>\n<p>In any other case there will be one or more years in which the basis periods for two successive tax years overlap. These are called ‘overlap periods’.&nbsp;They normally occur:</p>\n<ul><li>When the business commences, or</li><li>Following a change of accounting date</li></ul>\n<p>Any profits which arise during an overlap period are subject to tax twice.&nbsp; These are known as ‘overlap profits’.&nbsp; Relief for overlap profits is given when the business ceases or following a change of accounting date.&nbsp; This is known as ‘overlap relief’.&nbsp;&nbsp;For more details regarding overlap relief see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81075\" rel=\"nofollow\">BIM81075</a>.</p>\n<h4>Effect on Overlap Relief</h4>\n<p>Individuals can have multiple trades and use the allowances to reduce the taxable profits of different trades in different tax years in different ways. New rules were included at S204A ITTOIA 2005 to modify the existing rules for calculating how much overlap relief is due in situations where an individual is claiming the trading allowance during an overlap period.</p>\n<p>The effect that different uses of the allowance has on the amount of overlap relief is summarised as follows:</p>\n<ul><li>If full relief has been given in both tax years included in the overlap period then no overlap relief will be due as no tax has been paid at all.</li><li>If full relief (or partial relief that fully extinguishes the taxable profits) has been given in one of the tax years included in the overlap period then no overlap relief is due as tax has only been paid once on the overlap profits.</li><li>If an individual has claimed partial relief in one of the tax years included in an overlap period (year ‘A’) but neither partial nor full relief in the other (year ‘B’), the amount of overlap relief will be the amount of profits falling within that part of the overlap period falling in year A. This is because this amount is the only amount on which tax has been paid twice.</li><li>If an individual claims partial relief in both tax years making up the overlap period then the amount of overlap relief will be the amount of profits in the overlap period on which tax has been paid twice. In this scenario an individual will have their profits in each tax year included in the overlap period reduced to a different amount during the overlap period. They will pay tax on both amounts falling in the overlap period but they will only pay tax twice on the lesser of these two amounts.</li></ul>\n<p>The example at BIM86086 illustrates what effect electing for partial relief to apply in both years of an overlap period has on the generation of overlap relief.</p>\n<p>For further guidance on overlap relief see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81075\" rel=\"nofollow\">BIM81075</a> to <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81095\" rel=\"nofollow\">BIM81095</a> inclusive.</p>\n<h4>Using the Trading Allowances and Overlap Relief</h4>\n<p>The deduction of overlap relief takes place after the deduction of the trading allowance. This is set out in S783AI (2) ITTOIA 2005.</p>\n<p>This means that if giving overlap relief creates a loss, that loss is available for loss relief in the normal way – however, the trading allowance itself can still not create a loss.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86040",
+   "section_id": "BIM86040"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T02:00:25+00:00",
+ "section_id": "BIM86044",
+ "title": "TMIA – Other Considerations: Overlap Relief"
+}

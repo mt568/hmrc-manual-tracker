@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim81250",
+ "body": "<p>The guidance from <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81250\">BIM81250</a> onwards sets out the transitional rules for continuing trades (trades not commencing or ceasing in 2023-24).</p>\n\n<p>The basis period for 2023-24 for a trade commencing before 2023-24 (and not ceasing in 2023-24) will start on the day after the end of the basis period for 2022-23 and will end on 5 April 2024.</p>\n\n<p>The basis period will comprise up to three components:</p>\n\n<ul>\n  <li>the standard part</li>\n  <li>the transition part (where applicable)</li>\n  <li>days following a late accounting date (where applicable)</li>\n</ul>\n\n<p>The diagram below illustrates this:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th> </th>\n      <th>Basis period for 2023-24</th>\n      <th> </th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Standard part</td>\n      <td>Transition part</td>\n      <td>Days following late accounting date</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81000",
+   "section_id": "BIM81000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81200",
+   "section_id": "BIM81200"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-03-04T12:47:37+00:00",
+ "section_id": "BIM81250",
+ "title": "Transitional rules: trades commencing before 2023-24 (continuing trades) - introduction"
+}

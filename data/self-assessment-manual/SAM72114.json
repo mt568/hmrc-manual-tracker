@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72114",
+ "body": "<p>The Worklist Manager in the Recovery Office is responsible for</p>\n\n<ul>\n  <li>Monitoring the work state of the office, through the use of ‘WORK’ online functions - in particular OFFICE WORK LIST SUMMARY</li>\n</ul>\n\n<blockquote>\n  <p>And</p>\n</blockquote>\n\n<ul>\n  <li>Dealing with work items appearing on the ‘Remissions and Remission Cancellation Quality Assurance’ and ‘Inhibited Statements’ work lists</li>\n</ul>\n\n<p>The following list shows the functions linked to this role.</p>\n\n<p>For details of how to access any of these functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>On accessing the function, system help is available to you at function, screen, field, and error message levels.</p>\n\n<p>For ease of reference, the functions are grouped under the following sub-headings</p>\n\n<p><a href=\"#IDACEYTI\">Appeals</a><br />\n<a href=\"#IDAKEYTI\">Compliance</a><br />\n<a href=\"#IDAWEYTI\">Office</a><br />\n<a href=\"#IDA4EYTI\">Returns</a><br />\n<a href=\"#IDAGFYTI\">Statements</a><br />\n<a href=\"#IDAOFYTI\">Taxpayer</a><br />\n<a href=\"#IDACGYTI\">Work</a></p>\n\n<h2 id=\"IDACEYTI\">Appeals</h2>\n\n<p>Maintain Appeal</p>\n\n<h2 id=\"IDAKEYTI\">Compliance</h2>\n\n<p>View Compliance History</p>\n\n<p>View Compliance Summary</p>\n\n<h2 id=\"IDAWEYTI\">Office</h2>\n\n<p>Maintain Responsible Office</p>\n\n<h2 id=\"IDA4EYTI\">Returns</h2>\n\n<p>Maintain Return Summary</p>\n\n<h2 id=\"IDAGFYTI\">Statements</h2>\n\n<p>View Statement</p>\n\n<h2 id=\"IDAOFYTI\">Taxpayer</h2>\n\n<p>Amend Taxpayer Signals</p>\n\n<p>Case Summary</p>\n\n<p>Maintain SA Notes</p>\n\n<p>View Taxpayer Designatory Details</p>\n\n<h2 id=\"IDACGYTI\">Work</h2>\n\n<p>Immediate Action Work Lists</p>\n\n<p>Office Work List Summary</p>\n\n<p>Operator Work List Summary</p>\n\n<p>Taxpayer Work List</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-02T11:52:49+01:00",
+ "section_id": "SAM72114",
+ "title": "Manage work: access to records: worklist manager - recovery office"
+}

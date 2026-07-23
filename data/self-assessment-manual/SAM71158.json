@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71158",
+ "body": "<p><strong>Event</strong><br /><br />A work item is created when the captured return shows any of the following situations</p>\n<ul><li class=\"dash\">Liability but the Liability Unlikely signal is set on the SA record</li><li class=\"dash\">Transfer of surplus allowances</li><li class=\"dash\">Source exception - source reference mismatch between that entered during capture and that held on the SA record</li></ul>\n<p><strong>Specific details</strong><br /><br />Other than details common or potentially common to all types of work item, the following specific details will be available</p>\n<ul><li class=\"dash\">Return year</li><li class=\"dash\">And as appropriate</li><li class=\"dash\">Liability unlikely</li><li class=\"dash\">Transfer of allowances</li><li class=\"dash\">Source exception</li></ul>\n<p><strong>Allocation of responsibility</strong><br /><br />The work item is allocated to the office with processing responsibility for the taxpayer. Within that office, the item will be worked by an officer with the user role of Clerical Processing Officer.<br /><br /><strong>Frequency of review</strong><br /><br />The Work List should be reviewed as directed.<br /><br /><strong>Updating of details</strong><br /><br />Until the work item is cleared, the following details held on the work item are updated by Work Management immediately the corresponding entry is updated on the taxpayer record</p>\n<ul><li class=\"dash\">Taxpayer name</li><li class=\"dash\">NINO</li><li class=\"dash\">Employer reference (EMPREF) or Schedule D register number</li></ul>\n<p><strong>Action to take on the work item</strong><br /><br />Advice on the action to take to clear the work item is available in section ‘Returns Work Lists’, as follows</p>\n<ul><li class=\"dash\">Weekly return review: liability unlikely (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125181\">SAM125181</a>)</li><li class=\"dash\">Weekly return review: source exception (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125191\">SAM125191</a>)</li><li class=\"dash\">Weekly returns review: transfer of allowances (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam125201\">SAM125201</a>)</li></ul>\n<p><strong>Deletion of the work item</strong><br /><br />The work item should be deleted manually once it has been reviewed.<br />&nbsp;</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+   "section_id": "SAM71000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-03-22T11:53:11+00:00",
+ "section_id": "SAM71158",
+ "title": "Manage work: work management: W054 weekly returns review list (decommissioned December 2023)"
+}

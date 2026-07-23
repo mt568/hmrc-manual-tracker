@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44455",
+ "body": "<p>Deductions for contributions to employee share ownership trusts or general employee benefit trusts used to provide employees with ‘non-qualifying shares’ depend on general tax case law principles. Further guidance is as follows:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44457\">BIM44457</a></th>\n      <th>Whether contributions deductible</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44458\">BIM44458</a></td>\n      <td>Tax cases</td>\n    </tr>\n  </tbody>\n</table>\n\n<h2 id=\"timing-of-the-deduction\">Timing of the deduction</h2>\n\n<p>If a deduction is in principle allowable for such contributions, the employee benefit trusts anti-avoidance legislation in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44500\">BIM44500</a> onwards applies to determine when it is allowable. The legislation’s ‘matching’ effect defers the timing of the deduction until, and restricts it to the extent that, the employee receives benefits in the form of money or assets (including the ‘non-qualifying shares’) on which both Income Tax and NICs liability arises.</p>\n\n<p>All ‘non-qualifying shares’ are deemed to be readily convertible assets. Liability to Income Tax (collected under PAYE) and NICs arises when an employee acquires the shares, so they are ‘qualifying benefits’ for the purposes of the employee benefit trust legislation.</p>\n\n<h2 id=\"quests-and-non-qualifying-shares\">QUESTs and non-qualifying shares</h2>\n\n<p>It is reasonable to assume that shares acquired by employees from a qualifying employee share ownership trust (QUEST - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44010\">BIM44010</a>) are ‘qualifying shares’.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:11+01:00",
+ "section_id": "BIM44455",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: non-qualifying shares: through an employee benefit trust "
+}

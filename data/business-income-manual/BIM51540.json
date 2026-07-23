@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim51540",
+ "body": "<p>The cost of a reversionary interest should be computed for the purpose of <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim51535\">BIM51535</a> by using the formula c / (b + c) x a where:</p>\n\n<p>a = total expenses (including cost of land, cost of development and incidental expenditure such as legal expenses),</p>\n\n<p>b = consideration for the grant of the lease, and</p>\n\n<p>c = the market value of the reversion (including the right to receive ground rents) at the time of the grant.</p>\n\n<p>This was the method used by the Special Commissioners in the CIR v John Emery &amp; Sons [1936] 20TC213 at page 219, and judicially approved in Heather v Redfern &amp; Sons [1944] 26TC119.</p>\n\n<p>In arriving at the values of the factors used in the formula, the effect of taxation provisions should be ignored. For example, no account should be taken of the fact that part of the premium which is the consideration for the lease may not be treated as a trading receipt (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim51525\">BIM51525</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim51500",
+   "section_id": "BIM51500"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim51510",
+   "section_id": "BIM51510"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:43+01:00",
+ "section_id": "BIM51540",
+ "title": "Builders, property dealers & developers: income recognition: ground rents: reversionary interest"
+}

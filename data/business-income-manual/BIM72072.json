@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim72072",
+ "body": "<p><span>If a business\nwere to pay its business rates (for example) for the whole year up front, some\nof that payment could be a prepayment.</span></p>\n<p><span><strong>Example</strong></span></p>\n<p><span>12 months\nbusiness rates of £1,200 is paid in March 2025, for the rates year commencing 1\nApril 2025, while in the cash basis. So 360 days’ worth of rates (£1,183) has\nbeen prepaid (covering period 6 April 2025 to 31 March 2026).</span></p>\n<p><span>The business\ngets a tax deduction for the full £1,200 paid in the tax year ending 5 April\n2025 under cash basis rules.</span></p>\n<p><span>The business subsequently\nelects to prepare accruals based accounts for the tax year commencing 6 April\n2025. For those accruals based accounts to be correctly prepared, they would\nhave to include an expense for the business rates that related to the period (6\nApril to 5 April 2026) so would include an expense for the £1,183 ( prepaid rates\nfor the period 6 April 2025 to 31 March 2026) above. The profit figure from\nthose accounts would be the starting point for the taxable profits.</span></p>\n<p><span>It looks like\nthe business would get a deduction twice for £1,183 of the rates that had been\nprepaid: once in the cash basis period, and again in the first accruals\naccounts period.</span></p>\n<p><span>To prevent\nthis, the legislation requires that the expense that is brought into the\naccruals based accounts that relates to an amount prepaid while in the cash\nbasis is disallowed for tax.</span></p>\n<p><span>So in this\nexample, the £1,183 (the amount of the prepayment made in the last cash basis\nperiod) would be disallowed when calculating the taxable profits for the tax\nyear ending 5 April 2026.</span></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim70000",
+   "section_id": "BIM70000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim72001",
+   "section_id": "BIM72001"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-04-07T09:53:15+01:00",
+ "section_id": "BIM72072",
+ "title": "Cash basis: transitional adjustments: leaving the cash basis: prepayments"
+}

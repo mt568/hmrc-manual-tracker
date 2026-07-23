@@ -1,0 +1,42 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40500",
+ "body": "<p>This section of the guidance provides a summary of the government schemes to support domestic microgeneration of electricity and describes the tax treatment and exemptions which apply to them.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40510",
+     "description": "",
+     "section_id": "BIM40510",
+     "title": "Renewables obligation and feed-in tariffs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40520",
+     "description": "",
+     "section_id": "BIM40520",
+     "title": "Income Tax exemption for domestic microgeneration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40530",
+     "description": "",
+     "section_id": "BIM40530",
+     "title": "Renewables obligation certificates for domestic microgeneration"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:27+01:00",
+ "section_id": "BIM40500",
+ "title": "Specific receipts: domestic microgeneration: contents"
+}

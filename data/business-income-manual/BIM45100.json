@@ -1,0 +1,67 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45100",
+ "body": "<p>S86A &amp; S86B Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005)&nbsp;</p>\n<p>S86A &amp; S86B Corporation Tax Act 2009 (CTA 2009)</p>\n<p><br /></p>\n<h2>Introduction</h2>\n<p>This guidance applies to contributions made to qualifying flood and coastal erosion risk management projects, paid or provided<br />on or after 1 January 2015.</p>\n<p>A deduction is allowed under this section in computing the profits of a trade for contributions made to flood and coastal erosion risk management projects, where no deduction is otherwise allowable in calculating trading profits and the following conditions are met:</p>\n<ul><li>The project to which the contribution is made is a qualifying project</li><li>The contribution made to the project is a qualifying contribution</li></ul>\n<p>It is therefore possible for expenditure that would be disallowed under normal computational rules, for example because it is capital in nature, to be allowed under these provisions if the above conditions are satisfied.</p>\n<p>However, no deduction is allowed if, in connection with the making of the contribution, the contributor or a person connected to the contributor:</p>\n<ul><li>receives a disqualifying benefit, or</li><li>is entitled to receive such a benefit.</li></ul>\n<p>Further guidance is provided on the following pages:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45105",
+     "description": "",
+     "section_id": "BIM45105",
+     "title": "Qualifying projects"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45110",
+     "description": "",
+     "section_id": "BIM45110",
+     "title": "Qualifying contributions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45115",
+     "description": "",
+     "section_id": "BIM45115",
+     "title": "Interaction with Capital Allowances"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45120",
+     "description": "",
+     "section_id": "BIM45120",
+     "title": "Disqualifying benefits"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45125",
+     "description": "",
+     "section_id": "BIM45125",
+     "title": "Refunds and compensation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45130",
+     "description": "",
+     "section_id": "BIM45130",
+     "title": "Other definitions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45135",
+     "description": "",
+     "section_id": "BIM45135",
+     "title": "Examples"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-10-17T17:35:06+01:00",
+ "section_id": "BIM45100",
+ "title": "Specific deductions: flood and erosion projects: Introduction and contents"
+}

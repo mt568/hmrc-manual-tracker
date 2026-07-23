@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100251",
+ "body": "<p>When you want to set up a trade source on the SA record, follow steps 1 - 7 below.</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>1. Obtain completed form CWF1 or SA400 where necessary or 41G(Trust) up to June 2017 or from the Trust Registration Service after June 2017 where</p>\n\n<p>Note: Form 41 G (Trust) is obsolete from June 2017</p>\n\n<p>2. Use function SET UP TRADE, once for each trading source you want to set up in the case of an individual or trust record. The first source set up is accepted by the computer as the main source. Unless the SA record is linked to PAYE, by setting up the main source first you will not have to use function MAINTAIN SOURCES to nominate the main source</p>\n\n<p>3. Issue form P510 to the relevant PAYE office / section, if the business has employees</p>\n\n<p>4. Use function MAINTAIN RETURN PROFILE to record the supplementary pages</p>\n\n<ul>\n  <li>To be issued with the basic return in the case of an individual or trust record</li>\n  <li>To be recorded for statistical purposes in the case of a partnership record</li>\n</ul>\n\n<p>5. Where appropriate, prepare construction industry sub-folders in accordance with the instructions on subcontractors in the Construction Industry Scheme Reform (CISR) Manual (CISR18180)</p>\n\n<p>6. Handle any registration application on form CIS301, CIS302 or CIS304 in accordance with the instructions on subcontractors in the Construction Industry Scheme Reform (CISR) Manual (CISR42000 onwards)</p>\n\n<p>7. Use function MAINTAIN COMPLIANCE SIGNALS to view any entry for the nature of the taxpayer’s involvement in the construction industry. If it is no longer correct, or there is no entry</p>\n\n<ul>\n  <li>Select the appropriate status from the options available to you in the drop down menu</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+   "section_id": "SAM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-07-26T10:03:31+01:00",
+ "section_id": "SAM100251",
+ "title": "Records: set up taxpayer record: set up trade (Action Guide)"
+}

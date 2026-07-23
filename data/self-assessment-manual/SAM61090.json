@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61090",
+ "body": "<p>This guidance refers to tax returns received for 2009-10 and earlier. For further information regarding the new rules for the tax years 2010-11 and later, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam61200\">SAM61200</a> onwards.</p>\n\n<p>Where daily penalties are appropriate</p>\n\n<ul>\n  <li>Arrange for an application to be made to Tribunal not less than 30 days after the issue of the DMSA515</li>\n  <li>Set the Record Daily Penalties signal using function AMEND FIXED PENALTIES</li>\n  <li>Seek a direction, on the S93(3) application form for individuals or Trusts/ S93A(3) application form for partnerships, from the Tribunal if the return is still outstanding say 30 days after the written warning</li>\n  <li>Issue DMSA517 for individuals, trustees and partnerships confirming that a direction has been obtained and daily penalties will be imposed if the return is not received within 14 days</li>\n  <li>Issue a notice (form DMSA521 for individuals, trustees and partnerships) imposing daily penalties of up to £60 per day (on each partner in partnership cases) where the return is not received</li>\n  <li>Record the daily penalties on the taxpayer’s record using IDMS function RAISE DAILY PENALTY</li>\n</ul>\n\n<p>The taxpayer has the right of appeal against the penalty determination. The appeal must be made in writing within 30 days of the date of the notice.</p>\n\n<p>Only the nominated partner can appeal against the partnership penalties and that appeal is on behalf of all those partners on whom penalties have been imposed.</p>\n\n<p>The penalty is due and payable 30 days after the date of issue of the penalty notice.</p>\n\n<p>Interest will run on the daily penalties from 30 days after the notice is issued.</p>\n\n<p>Where the return is still not filed the office responsible for the daily penalty action should contact the taxpayer for the outstanding return(s) and any payment, and warn of enforcement and continuing daily penalties.</p>\n\n<p>SA will automatically record details of the daily penalties in SA Notes.</p>\n\n<p>Once raised the penalty charge will appear on the appropriate IDMS enforcement Work List after 37 days.</p>\n\n<p>If the amount of daily penalties needs to be amended at a later date do so using SA function MAINTAIN SUNDRY CHARGE and advise the taxpayer.</p>\n\n<p>You can find more detailed information about daily penalties in the Enquiry Manual.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61000",
+   "section_id": "SAM61000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:15:41+00:00",
+ "section_id": "SAM61090",
+ "title": "Interest, penalties and surcharge: penalties: daily penalties: procedures for applying"
+}

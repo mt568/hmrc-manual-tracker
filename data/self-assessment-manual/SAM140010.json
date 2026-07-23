@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140010",
+ "body": "<p>Where</p>\n\n<ul>\n  <li>A non-SA taxpayer ceases PAYE to become self employed and an underpayment remains to be collected</li>\n</ul>\n\n<p>Or</p>\n\n<ul>\n  <li>A non-SA taxpayer has been issued with an informal calculation (form P800(T)) for one or more tax years and it is not possible to collect the underpayment through PAYE</li>\n</ul>\n\n<p>And</p>\n\n<ul>\n  <li>\n    <p>The taxpayer does not agree to meet the liability voluntarily</p>\n\n    <ul>\n      <li>Issue an SA return for each year for which a P800(T) has been raised. Note: You can only issue an SA return if the year of the underpayment is still in date. A return cannot be issued later than 23 December three years after the end of a tax year. For example a 2006-2007 return cannot be issued after 23 December 2010</li>\n    </ul>\n  </li>\n</ul>\n\n<p>For further information, see subject ‘One or more tax year PAYE cases’ (Action Guide) (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam140021\">SAM140021</a>)</p>\n\n<p>Further guidance on PAYE underpayments is provided in the PAYE Manual, business area ‘Reconcile Individual’, section ‘Underpayments’ (PAYE90000 onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140000",
+   "section_id": "SAM140000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:03:33+00:00",
+ "section_id": "SAM140010",
+ "title": "Transfer of liability: transfer from PAYE to SA: non-SA stranded underpayments"
+}

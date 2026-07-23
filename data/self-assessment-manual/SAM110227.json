@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110227",
+ "body": "\n<p>Repayments requested on SA returns in respect of trusts and estates cannot be created automatically by the SA system. Following capture of the return on TSS, the repayment must be created clerically by an operator by using SA function ISSUE REPAYMENT FROM OVERPAID BALANCE.</p>\n\n<p>Repayment requests included on Internet filed returns received from ‘filing only  agents’</p>\n\n<p>From April 2006 e-enabled agents will be able to file returns for all taxpayers regardless of whether they have completed a 64-8 giving the agent authorisation to act on their behalf. Where an agent files a return online for a taxpayer for whom they are not formally authorised to act, they will be known as a ‘filing only agent’.</p>\n\n<p>For trust returns filed online, operators print off a list showing the UTRs of all those returns filed. From April 2006 this list will also contain a signal to identify which returns have been e-filed by a ‘filing only agent’.</p>\n\n<p>When the returns identified as filed by a ‘filing only agent’ are printed from the IR Portal ready for manual capture on TSS, the front page of the printed return will also state ‘Filing Only Agent’ in bold type.</p>\n\n<p>Where a return filed by a ‘filing only agent’ includes a repayment request at Q18 (This content has been withheld because of exemptions in the Freedom of Information Act 2000)</p>\n\n<ul>\n  <li>If the repayment is to be issued to the trustee by payable order and the return includes a change of address for the trustee, the repayment must not be created until the change of address has been confirmed with the trustee</li>\n</ul>\n\n<blockquote>\n  <p>Or</p>\n</blockquote>\n\n<ul>\n  <li>If the repayment is to be issued to a nominee by any method, then the trustee’s authority to repay to the nominee must be obtained in writing before the repayment can be created as requested</li>\n</ul>\n\n<p>(This content has been withheld because of exemptions in the Freedom of Information Act 2000)</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:31+00:00",
+ "section_id": "SAM110227",
+ "title": "Repayments: issue repayment: repayments to trusts and  estates"
+}

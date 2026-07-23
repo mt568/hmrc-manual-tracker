@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101360",
+ "body": "<p>Amendments to a taxpayer’s SA record can be carried out by any authorised user depending upon</p>\n\n<ul>\n  <li>The type of office in which the operator works</li>\n  <li>Whether the office has responsibility for an area of Revenue activity in respect of the taxpayer’s record</li>\n</ul>\n\n<p>And</p>\n\n<ul>\n  <li>Which user role has been allocated to that operator</li>\n</ul>\n\n<p>No other operators will have update access to the taxpayer’s SA record, but they may have view access.</p>\n\n<h2 id=\"offices-with-accounting-responsibility\">Offices with accounting responsibility</h2>\n\n<p>Offices with accounting responsibility are able to make some changes to a taxpayer’s personal details and will use the appropriate SA function to make any necessary amendments. The functions available under the Clerical Accounts Office Caseworker user role are detailed in section ‘Access to Records’ in business area ‘Manage Work’. These include</p>\n\n<ul>\n  <li>AMEND TAXPAYER NAME and ADDRESS</li>\n  <li>SET UP CAPACITY DETAILS</li>\n  <li>MAINTAIN CAPACITY</li>\n  <li>MAINTAIN CAPACITY SUMMARY</li>\n  <li>AMEND INDIVIDUAL TAXPAYER DETAILS</li>\n  <li>AMEND TAXPAYER SIGNALS</li>\n  <li>AMEND TAXPAYER’S AGENT DETAILS</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+   "section_id": "SAM101000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:57+00:00",
+ "section_id": "SAM101360",
+ "title": "Records: maintain taxpayer record: who can amend a taxpayer record"
+}

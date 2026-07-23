@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim81010",
+ "body": "<h2 id=\"s198-income-trading-and-other-income-act-2005\">S198 Income (Trading and Other Income) Act 2005</h2>\n\n<p>The general rule is that the profits for a tax year are those arising in the period of 12 months ending with the accounting date in that year. The general rule will always apply to a continuing trade using the same accounting date each year from Year 3 onwards.</p>\n\n<p>Different rules apply:</p>\n\n<ul>\n  <li>For the early years after trading commenced, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81015\">BIM81015</a>;</li>\n  <li>For a year in which there is no accounting date, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81015\">BIM81015</a>;</li>\n  <li>For the year of cessation, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81025\">BIM81025</a>;</li>\n  <li>Where there is a change of accounting date, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81035\">BIM81035</a>.</li>\n</ul>\n\n<p>The rules ensure that there are no gaps in the periods for which profit is taxed (the basis period the tax year) but there may be overlaps. Other rules ensure that the total profits charged to Income Tax will automatically equal the total profits made during the life of the business, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81075\">BIM81075</a> - <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81095\">BIM81095</a>.</p>\n\n<h2 id=\"accounting-date\">Accounting date</h2>\n\n<p>The general rule is that the accounting date is the date in the tax year to which the trader’s accounts are drawn up.</p>\n\n<p>Where accounts are drawn up to two or more dates in the same tax year, the accounting date is the latest of those dates.</p>\n\n<p>Special rules apply where there are slight variations in accounting date each year, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81030\">BIM81030</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim81000",
+   "section_id": "BIM81000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-11-12T16:53:48+00:00",
+ "section_id": "BIM81010",
+ "title": "Computation of liability: basis periods - general rules"
+}

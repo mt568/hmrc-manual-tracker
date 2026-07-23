@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122181",
+ "body": "<p>When you are presented with an error or warning message during capture of the return details follow steps 1 - 2 below. The guide is presented as follows</p>\n\n<h2 id=\"IDAIUMAF\">Initial action</h2>\n\n<p>1. Check that the figure has been copied correctly</p>\n\n<p>Note: When a figure has been checked you must accept the figure (SAM122165) without amendment, once you are sure that</p>\n\n<ul>\n  <li>The figure has been copied correctly</li>\n  <li>The nominated partner, see subject ‘Maintain Taxpayer Record: Nominated Partner’ (SAM101290), or agent has not made an obvious error or mistake</li>\n</ul>\n\n<p>Otherwise there is a risk of starting a Check Later enquiry</p>\n\n<h2 id=\"IDAXXMAF\">Dealing with an error or omission</h2>\n\n<p>The action you take in an individual case will depend upon your judgement and the circumstances of the case</p>\n\n<p>2. Consider the following actions, as appropriate</p>\n\n<ul>\n  <li>Use the telephone to clarify minor points or exceptionally on receipt of permission from your manager, write a letter, or</li>\n  <li>Accept the figure shown on the return, or</li>\n  <li>Repair (revise) an obvious error, or</li>\n  <li>Send back the whole return to the nominated partner or agent</li>\n</ul>\n\n<p>If the whole return is to be sent back</p>\n\n<ul>\n  <li>Select the Exit option from the File menu heading, you will be prompted to save the return</li>\n  <li>Select the [Delete] button, the return details will be removed from LDC</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-09-01T12:02:33+01:00",
+ "section_id": "SAM122181",
+ "title": "Returns: partnership returns: error and warning messages: partnerships (Action Guide)"
+}

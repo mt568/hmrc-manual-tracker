@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim43115",
+ "body": "<p>S55 Income Tax (Trading and Other Income) Act 2005, S1304 Corporation Tax Act 2009</p>\n<p>As described at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim43101\">BIM43101</a>, no deduction is allowed for payments the making of which constitutes a criminal offence, whether within or outside the UK. The disallowance therefore clearly applies to payments that by explicit operation of law are criminal acts. Thus, for example, a payment by a trader that is within the Terrorism Act 2000 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim43120\">BIM43120</a>) is caught.</p>\n<p>Further examples of payments which could be disallowed are:</p>\n<ul><li class=\"filledcircle\">payment for stolen goods knowing them to be stolen is often the criminal offence of handling;</li><li class=\"filledcircle\">payments which form part of a scheme to evade VAT and are therefore part of the offence of the fraudulent evasion of VAT under S72(1) Value Added Tax Act 1994.</li></ul>\n<p>This list is far from exhaustive. You should seek advice from&nbsp;<span>Business Profits</span>&nbsp;if you are considering the treatment of a payment which is linked to a course of conduct which is admitted to be criminal, or you suspect amounts to a crime, and the payment could be a component of that crime although the offence is not clearly the making of the payment itself.</p>\n<p>More information is given in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim43120\">BIM43120</a> onwards about areas of non-tax law which involve payments that are criminal acts. The aim is to give you some general background. The criminal law is clearly a complex subject in its own right. If you require advice on a specific case refer to <span>Business Profits</span>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim43100",
+   "section_id": "BIM43100"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-05-14T11:03:01+01:00",
+ "section_id": "BIM43115",
+ "title": "Specific deductions: crime (expenditure involving): criminal payments - scope"
+}

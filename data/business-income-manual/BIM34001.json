@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34001",
+ "body": "<p>The basis on which taxable profits of a trade, profession or vocation are computed may change from one period of account to the next.  This may be as:</p>\n<ul><li class=\"filledcircle\">a result of a change in the legislation,</li><li class=\"filledcircle\">a change in our understanding of the legislation,</li><li class=\"filledcircle\">a change of accounting policy, or</li><li class=\"filledcircle\">to correct errors.</li></ul>\n<p>These different situations have been dealt with differently by case law and legislation.</p>\n<p>For tax purposes a major distinction is whether the old basis was a valid or an invalid basis.  A valid basis is one, which conforms to the law or practice applicable to the period of account concerned, an invalid basis conforms to neither.</p>\n<h2>Decision process&nbsp;</h2>\n<h3><br /></h3>\n<h3>Is the old basis of computing the profits a valid basis?</h3>\n<p>Guidance on valid and invalid basis is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34020\">BIM34020</a>.</p>\n<ul><li>No -&nbsp;A change from invalid to valid is governed by the Ahmedabad principle, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34025\">BIM34025</a></li><li>Yes - See below</li></ul>\n<h3>Has there been a change in basis or simply a refinement of the existing method?<br /></h3>\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34050\">BIM34050</a>.</p>\n<ul><li>No -&nbsp;No adjustment is necessary, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34015\">BIM34015</a></li><li>Yes - See below&nbsp;</li></ul>\n<h3>Is the change a change in accounting policy?<br /></h3>\n<p>See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34045\">BIM34045</a>.</p>\n<ul><li>No -&nbsp;Changes in tax computation adjustments, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34070\">BIM34070</a>, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34095\">BIM34095</a></li><li>Yes -&nbsp;Changes in accounting policy, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34045\">BIM34045</a>, <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34095\">BIM34095</a><br /></li></ul>\n<p><br /></p>\n<p><br /></p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-12-03T00:00:00+00:00",
+ "section_id": "BIM34001",
+ "title": "Change of basis of computing taxable profits: introduction and flowchart"
+}

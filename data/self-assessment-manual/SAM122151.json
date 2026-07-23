@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122151",
+ "body": "<p>If you have to unlog an unsatisfactory return before capture has taken place follow steps 1 - 6 below. The guide is presented as follows</p>\n\n<p><a href=\"#IDAKCLAF\">Initial action</a> - Step 1<br />\n<a href=\"#IDARDLAF\">If the return has been logged</a> - Step 2<br />\n<a href=\"#IDAJFLAF\">If some of the details have been captured</a> - Steps 3 - 6</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDAKCLAF\">Initial action</h2>\n\n<p>1. Use function MAINTAIN RETURN SUMMARY to</p>\n\n<ul>\n  <li>Check the return has been logged</li>\n</ul>\n\n<h2 id=\"IDARDLAF\">If the return has been logged</h2>\n\n<p>2. Use function UNLOG RETURN to</p>\n\n<ul>\n  <li>Unlog the return, and</li>\n  <li>Select a reason for the unlogging from the drop down menu</li>\n</ul>\n\n<h2 id=\"IDAJFLAF\">If some of the details have been captured</h2>\n\n<p>If some of the details have been captured, using function CAPTURE RETURN</p>\n\n<p>3. Select the Exit option from the File menu heading, you will be prompted to save the return</p>\n\n<p>4. Select the [Delete] button, the return details will be removed from LDC</p>\n\n<p>5. If the whole return is to be sent back cross through any date stamp on the front of the return before returning the form to the nominated partner, see subject ‘Maintain Taxpayer Record: Nominated Partner’ (SAM101290), or agent</p>\n\n<p>6. Keep a copy of the letter you send concerning the unsatisfactory return in the annual run of returns (This content has been withheld because of exemptions in the Freedom of Information Act 2000)</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+   "section_id": "SAM122000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-09-01T11:23:42+01:00",
+ "section_id": "SAM122151",
+ "title": "Returns: partnership returns: unlogging unsatisfactory partnership returns (Action Guide)"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40153",
+ "body": "<h2>This is direct tax guidance; for indirect tax guidance, refer to VAT Guidance.</h2>\n<p>This section of the guidance gives an <strong>overview</strong> of the direct tax treatment of refunds of sums paid as VAT. For an introduction to VAT generally see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31500\">BIM31500</a> onwards.</p>\n<p>More detailed guidance on the treatment of refunds and interest payments is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40162\">BIM40162</a> onwards.</p>\n<p>The refunds are not ‘windfall’ amounts; they are non-gratuitous sums paid by HMRC as a result of a claim.</p>\n<p>For a VAT registered entity carrying on a business such as a trade, the operation of the VAT system is a requirement imposed by law and is an integral and inevitable feature of the trade.</p>\n<p>If the refund is accounted for by an entity:</p>\n<ul><li class=\"filledcircle\">currently carrying on the trade that gave rise to the excess payment, it is a receipt of that trade which is to be included in the taxable trade profits. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40162\">BIM40162</a> onwards.</li><li class=\"filledcircle\">that carried on the trade that gave rise to the excess payment but no longer does so, it is taxable as a post cessation receipt. See the example of <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40180\">BIM40180</a>.</li><li class=\"filledcircle\">which never carried on the trade but which has the right to claim and receive the refund, then that other company is taxable on the refund. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40176\">BIM40176</a> onwards.</li></ul>\n<p>The only exception is a refund of an amount not deducted as input tax which relates to expenditure originally disallowed as a trading expense for direct tax purposes either because it was:</p>\n<ul><li class=\"filledcircle\">a capital payment, or</li><li class=\"filledcircle\">a payment disallowed by statute (for example, overseas entertaining expenditure).</li></ul>\n<p class=\"MsoNormal\"><span>Where\nthe refund is made under the VAT Capital Goods Scheme and relates to a capital\npayment which was qualifying expenditure for capital allowances purposes, then\ncapital allowances rules will apply to the refund. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca29200\"><span>CA29200</span></a> (Plant and machinery allowances) <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca45920\"><span>CA45920</span></a> (Business premises renovation\nallowances) <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca60750\"><span>CA60750</span></a> (Research and development\nallowances) <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca94550\"><span>CA94550</span></a> (Structures and buildings\nallowances).</span></p>\n<p>All refunds accounted for by a representative member of a VAT group <strong>because</strong> it is the representative member are taxable, including those that would not have been taxable in the hands of the trading company. This is because the refund is taxable as a reward for the provision of a service and not as a refund as such.</p>\n<p>Any refund accounted for by another person (e.g. another group member which has not carried on the trade and is not the representative member), is taxable except where the recipient receives the refund in relation to a ceased trade and the refund relates to expenditure originally disallowed as a trading expense.</p>\n<p>In all cases any interest is taxable.</p>\n<p>The principles described in the following sections are of wide application. They apply not only to refunds of sums paid as VAT but also to refunds of other duties such as air passenger duty or landfill tax.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40150",
+   "section_id": "BIM40150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:02:13+01:00",
+ "section_id": "BIM40153",
+ "title": "Specific receipts: refunds of sums paid as VAT: overview"
+}

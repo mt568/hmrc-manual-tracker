@@ -1,0 +1,36 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim40550",
+ "body": "<p>Guidance on deductions for hire-purchase payments is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45350\">BIM45350</a> onwards.</p>\n\n<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40551",
+     "description": "",
+     "section_id": "BIM40551",
+     "title": "Accountancy and tax treatment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim40555",
+     "description": "",
+     "section_id": "BIM40555",
+     "title": "Old practices"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:13:25+01:00",
+ "section_id": "BIM40550",
+ "title": "Specific receipts: hire-purchase: contents"
+}

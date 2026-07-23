@@ -1,0 +1,117 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80005",
+     "description": "",
+     "section_id": "SAM80005",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80010",
+     "description": "",
+     "section_id": "SAM80010",
+     "title": "Receive payment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80020",
+     "description": "",
+     "section_id": "SAM80020",
+     "title": "Irregular payment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80030",
+     "description": "",
+     "section_id": "SAM80030",
+     "title": "Process payment in DMB Banking"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80040",
+     "description": "",
+     "section_id": "SAM80040",
+     "title": "Payment update of SA customer records"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80050",
+     "description": "",
+     "section_id": "SAM80050",
+     "title": "Payment allocation and transfer"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80060",
+     "description": "",
+     "section_id": "SAM80060",
+     "title": "Account reconciliation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80070",
+     "description": "",
+     "section_id": "SAM80070",
+     "title": "An introduction to payment arrangements and plans"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80071",
+     "description": "",
+     "section_id": "SAM80071",
+     "title": "Receive TTP request in the processing office (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80072",
+     "description": "",
+     "section_id": "SAM80072",
+     "title": "Receive request for statutory instalment arrangement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80073",
+     "description": "",
+     "section_id": "SAM80073",
+     "title": "Receive request for statutory instalment arrangement (Action Guide menu)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80074",
+     "description": "",
+     "section_id": "SAM80074",
+     "title": "Capital Gains Tax: S280 TCGA 1992 (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80075",
+     "description": "",
+     "section_id": "SAM80075",
+     "title": "Capital Gains Tax: S281 TCGA 1992 (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80077",
+     "description": "",
+     "section_id": "SAM80077",
+     "title": "Section 299 ITTOIA 2005 (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80080",
+     "description": "",
+     "section_id": "SAM80080",
+     "title": "Sharefishermen"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80090",
+     "description": "",
+     "section_id": "SAM80090",
+     "title": "Bank lodgment adjustments"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80095",
+     "description": "",
+     "section_id": "SAM80095",
+     "title": "Returned payments"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:16:32+00:00",
+ "section_id": "SAM80000",
+ "title": "Payments: payments overview: contents"
+}

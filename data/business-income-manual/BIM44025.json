@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44025",
+ "body": "<p>An employer’s expenditure in meeting the incidental costs of running an employee share scheme for the benefit of its employees is revenue expenditure allowable as a deduction in computing the employer’s taxable trading profits.</p>\n\n<p>If the employee share scheme is operated without an employee share ownership trust the employer may incur the incidental costs directly.</p>\n\n<p>If the scheme is operated in conjunction with a trust the trustees may meet the incidental running costs out of contributions from the employing company. As well as the trustees’ general administrative expenses, incidental costs of operating an employee share ownership trust may include:</p>\n\n<ul>\n  <li>incidental costs of acquiring the shares (for example fees, commission, stamp duty), and</li>\n  <li>financing costs (for example interest on amounts borrowed by the trust).</li>\n</ul>\n\n<p>In the company’s accounts any financing and administrative costs should be charged as they accrue and not as funding payments are made by the employer to the employee share ownership trust.</p>\n\n<p>This accounting treatment is followed for tax purposes unless specific legislation applies to determine the timing of tax deductions for employers’ contributions to particular employee share ownership trusts, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44015\">BIM44015</a>.</p>\n\n<p>Employers’ NI contributions payable in respect of a share scheme are also part of the scheme’s administrative costs.</p>\n\n<p>The timing of the deductions for employers’ NI contributions will follow the accounting treatment.</p>\n\n<p>If an employer and employee enter into a joint election to transfer the employer’s contribution liabilities to the employee, the employer is not entitled to a deduction for employer’s NI contributions. This is because the employer will no longer have a liability for employer NI contributions.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-11-11T07:59:04+00:00",
+ "section_id": "BIM44025",
+ "title": "Specific deductions: employee share schemes: incidental costs of running schemes"
+}

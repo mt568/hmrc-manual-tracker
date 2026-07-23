@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101350",
+ "body": "<p>A view facility is available within SA. This may be used to view details of any taxpayer who has an SA record, even though responsibility for that record may not be within your office.</p>\n\n<p>You should only view a taxpayer’s SA record if there is a business need to do so. </p>\n\n<p>The SA View Only role allows the operator to</p>\n\n<ul>\n  <li>Trace any SA taxpayer record or agent record</li>\n  <li>View any details on the SA taxpayer or agent records, without being able to update any of those details</li>\n</ul>\n\n<p>The main clerical processing roles include view functions, which can be used in exactly the same way as with the View Only role. SA records accessed through the View Only role are included on the Officer in Charge operator activity reports. SA records, for which the operator has responsibility, accessed through working roles, for example the Clerical Processing Officer role, are not included on the reports.</p>\n\n<p>Function CASE SUMMARY allows you to view general details of the taxpayer’s SA record. It also permits access to a range of other functions covering all aspects of the taxpayer’s SA record.</p>\n\n<p>You should decide, from the list of functions, which computer functions to use to view different aspects of the taxpayer record.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+   "section_id": "SAM101000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:56+00:00",
+ "section_id": "SAM101350",
+ "title": "Records: maintain taxpayer record: view taxpayer details"
+}

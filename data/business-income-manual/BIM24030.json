@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24030",
+ "body": "<h2>The origins of the concept</h2>\n<p>The basis of mutual trading is the general proposition that no one can trade with themselves or make a profit out of themselves.</p>\n<p>One of the earliest references to this concept emerges in <strong>Dublin Corporation v M’Adam</strong> [1887] 2 TC 387. The Corporation was empowered to supply water beyond the city boundaries. The income from this activity was paid into a consolidated fund available for all the Corporation’s purposes. The issue was whether the profit from supplying water to others was chargeable to Tax. Palles CB, decided it was, saying at page 397 of 2 TC:</p>\n<blockquote>…what we have to consider, in my opinion, is whether, in relation to the extra-municipal districts, the Corporation of the City of Dublin are carrying on a trade, adventure, or concern in the nature of a trade; for if they are, I am clear that whatever surplus may remain of the receipts incident to that concern over the expenses of that concern is a profit within the meaning of the Act. On the other hand, I think it is perfectly clear that, in order to bring this case within the operation of the Income Tax Act, it is necessary that there shall be this trading in its strict true sense. There must be, at least, two parties - one supplying water, and the other to whom it should be supplied and who should pay for it. If these two parties are identical, in my opinion there can be no trading. No man, in my opinion, can trade with himself; he cannot, in my opinion, make, in what is its true sense or meaning, taxable profit by dealing with himself…</blockquote>\n<p>You should note that the Judge first looked to see if the Corporation was carrying on a trade. Having found that the Corporation was trading, the second question was whether that trade was with itself or included trading with others. On the facts, the Corporation was trading with others and such trading was not mutual trading. This case is an early example of the view that trade involves what may be called a ‘customer supplier’ relationship (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim24045\">BIM24045</a> for a description of what is required for activities to amount to a trade). If the customer and the supplier are the same person then any resulting ‘profits’ are not taxable as trading income.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24015",
+   "section_id": "BIM24015"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:28+01:00",
+ "section_id": "BIM24030",
+ "title": "Meaning of trade: mutual trading and members clubs: introduction: founding principles"
+}

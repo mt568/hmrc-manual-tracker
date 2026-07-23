@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam126071",
+ "body": "<p>Where you want to identify and view the full Internet return follow steps 1 - 3 below. Where you want to view attachments filed online follow step 4.</p>\n\n<p>For details of how to access the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<h2 id=\"IDAS2PLH\">To identify a return filed online</h2>\n\n<p>1. Use function VIEW RETURN to view the Summary Information screen</p>\n\n<p>If the return has been filed online the method of capture will be shown as ‘Internet’</p>\n\n<h2 id=\"IDAX3PLH\">To view the full Internet return for an Individual case</h2>\n\n<p>2. In function VIEW RETURN make sure that you are viewing version 1 and either</p>\n\n<ul>\n  <li>Select ‘Full Internet Return’ from the file option on the menu bar, or</li>\n  <li>Select the button with the magnifying glass (next to the spanner) on the toolbar</li>\n</ul>\n\n<h2 id=\"IDAW5PLH\">To view the full Internet return for a Partnership or Trust case</h2>\n\n<p>3. In function VIEW RETURN make sure that you are viewing version 1 and</p>\n\n<ul>\n  <li>Select ‘Corporate Services’ from the ‘My Services’</li>\n  <li>Select ‘Individuals’</li>\n  <li>Select ‘SA View P and T Rtns’</li>\n</ul>\n\n<h2 id=\"IDACCQLH\">To view attachments filed online</h2>\n\n<p>4. In function VIEW RETURN either</p>\n\n<ul>\n  <li>Select the ‘Yes’ button from the dialogue box which is displayed after you have viewed the Summary Information screen, or</li>\n  <li>Select the [View Attachment] button (with the letter E on a camera lens) on the toolbar, or</li>\n  <li>Select the [View Attachment] option from the VIEW heading on the menu bar</li>\n</ul>\n\n<p>Notes:</p>\n\n<p>a. None of these options are available if an attachment is not present</p>\n\n<p>b. If you are unable to view an attachment, contact the IT Service Centre for assistance</p>\n\n<p>c. When you select an option to view an attachment, the return being viewed at the time may be a later version than the return filed online</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam126000",
+   "section_id": "SAM126000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-10-03T10:06:07+01:00",
+ "section_id": "SAM126071",
+ "title": "Returns: filing returns online: identifying and viewing a return filed online (Action Guide)"
+}

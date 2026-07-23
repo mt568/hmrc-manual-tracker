@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam70150",
+ "body": "<p>The Visually Impaired Media Unit (VIMU) provides information in alternative formats for customers with impaired vision.</p>\n<p>The alternative formats provided are</p>\n<ul><li class=\"dash\">Braille</li><li class=\"dash\">Audio</li><li class=\"dash\">Large print</li></ul>\n<p>Special output signals can be set in Function SET UP INDIVIDUAL TAXPAYER to indicate that output is required in these formats. For cases already set up, the signals can be set using TBS Function AMEND TAXPAYER DESIGNATORY DETAILS.</p>\n<p>Setting the special output signal will</p>\n<ul><li class=\"dash\">Set the communication address to the VIMU</li></ul>\n<blockquote><p>And</p></blockquote>\n<ul><li class=\"dash\">Ensure that any future update to the CID framework does not alter the communication address that is stored on the ITSA computer system</li></ul>\n<p>Where a customer requests an output in an alternative format,  follow the Ocelot guidance:&nbsp;<span>Sending a Visually Impaired request form - Step 1</span> to send a request form to the VIMU.&nbsp;</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam70000",
+   "section_id": "SAM70000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-07-10T01:00:00+01:00",
+ "section_id": "SAM70150",
+ "title": "Manage work: customer service: visually impaired media unit"
+}

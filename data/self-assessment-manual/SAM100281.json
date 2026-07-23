@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100281",
+ "body": "<p>When a trust becomes a partner in a partnership, follow steps 1 - 6 below.</p>\n\n<p>For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>1.</td>\n      <td>Decide which trustee or executor name you are going to use on the SA record. Normally this will be the main or first named</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td> </td>\n    </tr>\n    <tr>\n      <td>2.</td>\n      <td>Ensure that you have a note of the partnership Unique Taxpayer Reference (UTR) and the date that the trust commenced as a partner</td>\n    </tr>\n    <tr>\n      <td>3.</td>\n      <td>Set up an individual SA record in accordance with Action Guide ‘Set Up Individual Record’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam100221\">SAM100221</a>), subject to the following advice</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Enter the trustee’s or executor’s name in the Name field</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* In the Address field, enter the trustee’s or executor’s address</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Do not enter the trustee’s or executor’s NINO</td>\n    </tr>\n    <tr>\n      <td>4.</td>\n      <td>Use function AMEND TAXPAYER SIGNALS to</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Set the Last SA Return Required For Year Ending 5 April signal to the 5 April previous to the date the partner source commenced</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Set the No Repayment signal</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Enter the trust UTR and the trustee’s or executor’s NINO in the Free Format Notes field</td>\n    </tr>\n    <tr>\n      <td> </td>\n      <td>* Set the SA Entry / Exit Letter Inhibited signal to ‘Y’</td>\n    </tr>\n    <tr>\n      <td>5.</td>\n      <td>Use function SET UP PARTNER to create a link between the nominated trustee’s or executor’s individual record and the partnership record</td>\n    </tr>\n    <tr>\n      <td>6.</td>\n      <td>Make an SA Note on the partnership record of the name, address and UTR of the record that you have linked to the partnership record and name, address and UTR of the trust</td>\n    </tr>\n  </tbody>\n</table>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+   "section_id": "SAM100000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:32+00:00",
+ "section_id": "SAM100281",
+ "title": "Records: set up taxpayer record: trust record and partner source (Action Guide)"
+}

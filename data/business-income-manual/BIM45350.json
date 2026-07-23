@@ -1,0 +1,48 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45350",
+ "body": "<p>A hire purchase agreement provides for the asset being hired to become the property of the hire purchaser automatically at the end of the hire period, or gives the hirer an option to buy the asset for a specified price. Payments under a hire purchase contract are made up of deductible revenue payments for hire of the asset and capital payments for the purchase of the asset (or for the option to do so), which are not deductible.</p>\n\n<p>Guidance on the treatment of income received by hire purchase lessors is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40550\">BIM40550</a> onwards.</p>\n\n<p>This chapter contains the following:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45351",
+     "description": "",
+     "section_id": "BIM45351",
+     "title": "Principles of an agreement"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45355",
+     "description": "",
+     "section_id": "BIM45355",
+     "title": "Accountancy treatment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45360",
+     "description": "",
+     "section_id": "BIM45360",
+     "title": "Repairs and renewals"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim45365",
+     "description": "",
+     "section_id": "BIM45365",
+     "title": "Petrol pumps, tanks etc"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:20:30+01:00",
+ "section_id": "BIM45350",
+ "title": "Specific deductions: hire purchase: contents"
+}

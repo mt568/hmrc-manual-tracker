@@ -1,0 +1,27 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim35860",
+ "body": "<h2>A question of fact and degree</h2>\n<p>Guidance on categorising expenditure by reference to the stage of the project reached is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35840\">BIM35840</a> whereas this page is concerned with different types of in-house expenditure. The principal distinction here is between the direct costs of the computer programmers and others involved on a project (whether they are employees or contractors) and indirect costs. In the first category are the costs of remuneration, expense payments and benefits, and such associated costs as employer's NIC. Lump sum payments for licences to use computer programs developed by others would also count as direct costs. The principal items in the second category are the costs of the accommodation occupied by the project team.</p>\n<h3>Indirect costs a question of fact and degree</h3>\n<p>Subject to <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35855\">BIM35855</a>, direct costs of capital projects are themselves capital - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim35815\">BIM35815</a>. The treatment of indirect costs, typically the accommodation costs of the project team is less straightforward. On perhaps the only occasion when the courts have been asked to focus in depth on the treatment of overheads (<strong>Duple Motor Bodies v Ostime</strong>&nbsp;(1961) 39 TC 537 - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33115\">BIM33115</a>) where the valuation of trading stock was at issue, the House of Lords, faced with competing accounting evidence, came down in favour of their exclusion from the cost of an asset.</p>\n<p>At one extreme there may be situations where a project team occupies accommodation specifically acquired for project purposes. In those situations it is reasonably easy to identify the accommodation costs as part of the overall costs of the project.</p>\n<p>But in the case of a building not only occupied by a project team but by other staff or contractors and for different purposes at different times the question whether the accommodation costs can reasonably be viewed as part of the costs of a project is likely to be far less easy to resolve involving complex issues from the discipline of cost accountancy.</p>\n<p>You should consider carefully whether, in the absence of clear authority on the point, the amount of indirect costs potentially of a capital nature is large enough to justify the likely expenditure of resources inherent in detailed enquiries. Where the costs are large enough, you should seek to settle the issue on broad lines.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35000",
+   "section_id": "BIM35000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35800",
+   "section_id": "BIM35800"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim35820",
+   "section_id": "BIM35820"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-09-02T01:00:00+01:00",
+ "section_id": "BIM35860",
+ "title": "Capital/revenue divide: computer software: in-house software development costs: treatment of indirect costs"
+}

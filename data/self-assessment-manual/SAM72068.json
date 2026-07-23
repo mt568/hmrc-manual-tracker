@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72068",
+ "body": "<p>The BACS Rejection Processor is responsible for cancelling payable orders rejected by the BACS system and returned to HMRC Finance.</p>\n\n<p>The following list shows the functions linked to this role.</p>\n\n<p>For details of how to access any of these functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>On accessing the function, system help is available to you at function, screen, field, and error message levels.</p>\n\n<p>For ease of reference, the functions are grouped under the following sub-headings</p>\n\n<p><a href=\"#IDARDJNI\">Office</a><br />\n<a href=\"#IDAZDJNI\">Statements</a><br />\n<a href=\"#IDANEJNI\">Taxpayer</a></p>\n\n<h2 id=\"IDARDJNI\">Office</h2>\n\n<p>Maintain Responsible Office</p>\n\n<h2 id=\"IDAZDJNI\">Statements</h2>\n\n<p>Confirm Cancelled Repayment</p>\n\n<p>View Payment Details</p>\n\n<p>View Repayment</p>\n\n<p>View Statement</p>\n\n<h2 id=\"IDANEJNI\">Taxpayer</h2>\n\n<p>Case Summary</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-02T11:11:15+01:00",
+ "section_id": "SAM72068",
+ "title": "Manage work: access to records: BACS rejection processor - FAO"
+}

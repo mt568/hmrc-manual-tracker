@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim31040",
+ "body": "<p>The guidance in this chapter refers to FRS 102 Section 32 Events after the End of the Reporting Period.</p>\n\n<p>Related standards under other frameworks are:</p>\n\n<p>FRS 105 Section 26 Events after the End of the Reporting Period</p>\n\n<p>IAS: IAS 10 Events after the Reporting Period</p>\n\n<p>Old UK GAAP: FRS 21 Events after the Balance Sheet Date</p>\n\n<p>FRS 102 Section 32 requires events arising after the end of the reporting period to be taken into account when they provide evidence of conditions that existed at the reporting date. All events which occur between the reporting date and the date on which the financial accounts are authorised for issue are included, even if they occur after the public announcement of profit or loss or other financial information.</p>\n\n<p>In the case of a company the date of authorisation for issue will often be the date of the board meeting at which the financial statements are formally approved. For unincorporated businesses the corresponding date will be the corresponding point of review. Where a partnership has a formal procedure to approve accounts such approval might provide a convenient cut-off point.</p>\n\n<p>Not all events should be taken into account in arriving at the figures in the financial statements. FRS 102 Section 32 divides events occurring after the end of the reporting period into two categories: ‘adjusting events’ and ‘non-adjusting events’.</p>\n\n<ul>\n  <li>Adjusting Events are events that provide additional evidence relating to conditions that existed at the end of the reporting period. Adjusting events require changes to be included in the financial statements.</li>\n  <li>Non-Adjusting Events are indicative of conditions that arose after the end of the reporting period. They do not result in changes in the financial statements but may be significant enough to warrant disclosure.</li>\n</ul>\n\n<p>Example</p>\n\n<p>A farming company had one of its crops destroyed, after the end of the reporting period but before the accounts were authorised, by a disease which was present, albeit undetected, in that crop at the reporting date. In the financial statements being prepared it must write that stock down to its nil net realisable value since the destruction of the crops by a disease that existed at the reporting date would be an adjusting event. On the other hand the destruction of a crop by fire, after the end of the reporting period but before the accounts were authorised, would be a non-adjusting event. Such an event would not justify writing down that stock to a nil net realisable value but may require a note to explain what has happened.</p>\n\n<p>The Courts have not tested the application of these principles but the remarks of Warner J on pages 660, 670, and 680 in Symons v Lord Llewelyn Davies’ Personal Representative and Others [1982] 56TC630, suggest that they would accept their correct application. Moreover, where facts are available they are preferable to speculative estimates. For tax purposes it is not acceptable to ignore facts if by doing so an unreal loss is provided for.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim31000",
+   "section_id": "BIM31000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-06T16:18:40+00:00",
+ "section_id": "BIM31040",
+ "title": "Tax and accountancy: events after the end of the reporting period"
+}

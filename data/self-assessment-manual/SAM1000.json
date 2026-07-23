@@ -1,0 +1,99 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1001",
+     "description": "",
+     "section_id": "SAM1001",
+     "title": "Introduction"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1010",
+     "description": "",
+     "section_id": "SAM1010",
+     "title": "Calculation of payments on account"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1020",
+     "description": "",
+     "section_id": "SAM1020",
+     "title": "Collecting payments on account"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1030",
+     "description": "",
+     "section_id": "SAM1030",
+     "title": "Receiving a claim to adjust payments on account"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1040",
+     "description": "",
+     "section_id": "SAM1040",
+     "title": "Validity of claim to adjust payments on account"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1050",
+     "description": "",
+     "section_id": "SAM1050",
+     "title": "Processing a claim to adjust PoA"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1051",
+     "description": "",
+     "section_id": "SAM1051",
+     "title": "Processing a claim to adjust PoA (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1060",
+     "description": "",
+     "section_id": "SAM1060",
+     "title": "Incorrect adjustments and errors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1070",
+     "description": "",
+     "section_id": "SAM1070",
+     "title": "Overpayment and repayment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1080",
+     "description": "",
+     "section_id": "SAM1080",
+     "title": "Recovery of payments on account and costs"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1081",
+     "description": "",
+     "section_id": "SAM1081",
+     "title": "Recovery of payments on account and costs (Action Guide)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1100",
+     "description": "",
+     "section_id": "SAM1100",
+     "title": "Rules for calculating payments on account"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1110",
+     "description": "",
+     "section_id": "SAM1110",
+     "title": "Rules for adjusting payments on account"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1120",
+     "description": "",
+     "section_id": "SAM1120",
+     "title": "Consequences of amending payments on account"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:18+00:00",
+ "section_id": "SAM1000",
+ "title": "Amend payment: claim to adjust payments on account: contents"
+}

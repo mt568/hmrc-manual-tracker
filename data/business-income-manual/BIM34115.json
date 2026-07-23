@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34115",
+ "body": "<p>S236 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S185 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<p>The change from realisation basis to mark to market accounting may be made as a result of:</p>\n\n<ul>\n  <li>an accounting policy change,</li>\n</ul>\n\n<blockquote>\n  <p>or</p>\n</blockquote>\n\n<ul>\n  <li>a tax adjustment change.</li>\n</ul>\n\n<p>The mark to market basis must be a valid basis for tax purposes, that is, it must conform to GAAP. The HMRC current view is that where a business uses an accounting basis of mark to market (fair value) in its accounts, taking revaluation profits to the profit and loss account and not to a revaluation reserve, and this is in accordance with GAAP, there is no rule of law which permits a departure from this basis in computing the taxable profits.</p>\n\n<p>The above provisions apply when there is a change from realisation to mark to market for trading stock as defined in S174 ITTOIA 2005 or S163 CTA 2009. The adjustment relating to the trading stock is brought into account when the stock is realised. This is subject to the making of an election for spreading of a positive adjustment, for which see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim34120\">BIM34120</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34090",
+   "section_id": "BIM34090"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:25+01:00",
+ "section_id": "BIM34115",
+ "title": "Change of basis of computing taxable profits: adjustment income and expenses: change from realisation basis to mark to market (fair value) accounting"
+}

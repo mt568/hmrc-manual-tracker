@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33730",
+ "body": "<p>Any provision that is created on the acquisition of a business is on capital account. When the provision is fully utilised no tax computation adjustment is necessary.</p>\n\n<p>In CIR v New Zealand Forest Research Institute Ltd [2000] 72TC628 the company took over accrued liabilities to the workers. When it paid those liabilities the payments were on capital account because it had assumed the liability to pay as part of the overall capital deal.</p>\n\n<p>For example, a manufacturing company has to take over the liability to repair defects in machines which have already been sold by the vendor company. It makes a provision of £100,000 in the accounts for that liability. It finds that it has to spend £120,000, as there were more defective machines than it thought. The £120,000 is debited to its profit and loss account and the £100,000 provision is credited, leaving a net effect of £20,000. That amount is allowable revenue expense on repairs. The other £100,000 spent on repairs was capital expenditure as the liability to pay it had formed part of the acquisition cost of the business. The correct result for tax purposes is achieved by following the accounts if they have been prepared in accordance with GAAP.</p>\n\n<p>So, to give another example, if the purchaser has to take over an onerous contract for rented property and creates a provision for that contract, complying fully with GAAP, no tax adjustment is necessary, either when the provision is created as part of the fair value acquisition accounting, or at the point of utilisation, if it is fully utilised.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33700",
+   "section_id": "BIM33700"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T10:32:41+00:00",
+ "section_id": "BIM33730",
+ "title": "Business successions: provisions made on acquisition"
+}

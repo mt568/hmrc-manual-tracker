@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61200",
+ "body": "<p>From October 2011, new penalties were introduced for Self Assessment tax returns filed late, and tax and NIC liabilities paid late. For the tax return years 2010-11 onwards, four specific types of penalty will apply.</p>\n\n<h2 id=\"late-return\">Late return</h2>\n\n<ul>\n  <li>Late filing fixed penalty where the return is not filed by the return due date (for paper returns this is normally 31 October and for online returns, usually 31 January)</li>\n  <li>Daily penalties will start to accrue if the return is not filed 3 months after the return due date. This is a charge of £10 per day, charged for a maximum of 90 days</li>\n  <li>Late filing tax geared penalties where the return is not filed 6 months, and 12 months after the return due date</li>\n</ul>\n\n<h2 id=\"late-payment\">Late payment</h2>\n\n<ul>\n  <li>\n    <p>Late payment penalties for the amount unpaid 30 days after the payment due date with further penalties</p>\n\n    <ul>\n      <li>30 days and 5 months after the due date</li>\n      <li>30 days and 11 months after the due date</li>\n    </ul>\n  </li>\n</ul>\n\n<p>These late payment penalties replace surcharges which still apply for years up to, and including, 2009-10. For further information, see section ‘Surcharge’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam62000\">SAM62000</a> onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61000",
+   "section_id": "SAM61000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:15:42+00:00",
+ "section_id": "SAM61200",
+ "title": "Interest, penalties and surcharge: penalties: introduction for 2010-11 returns onwards"
+}

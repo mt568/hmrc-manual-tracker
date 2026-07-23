@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61100",
+ "body": "<p>This guidance refers to tax returns received for 2009-10 and earlier. For further information regarding the new rules for tax years 2010-11 and later, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam61200\">SAM61200</a> onwards.</p>\n\n<p>Fixed automatic penalties and daily penalties are both methods of encouraging the taxpayer to file his / her tax return.</p>\n\n<p>Where an application has been made to Tribunal to seek a direction for daily penalties (see subject ‘Daily Penalties: Procedures for Applying’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam61090\">SAM61090</a>), the office responsible for the work sets the Record Daily Penalties signal using the function AMEND FIXED PENALTIES.</p>\n\n<p>Where this signal is present on the taxpayer’s record no further fixed automatic penalties will be charged (including the first penalty if this has not yet been imposed) - although those already charged will remain.</p>\n\n<p>However it is important to remember that simply because the Record Daily Penalty signal is set it does not necessarily follow that daily penalties have been charged - it could just mean that daily penalties are being considered.</p>\n\n<p>Note: Where you want to apply a fixed automatic penalty and the Record Daily Penalties signal is set, although no daily penalties have yet been applied, check with the office within your area responsible for Technical work to ascertain whether daily penalties are to be charged. If they are not, consider cancelling the Record Daily Penalties signal and applying a fixed automatic penalty.</p>\n\n<p>Record daily penalties on the taxpayer’s record using IDMS function RAISE DAILY PENALTY. If the figure needs amendment at a later date use SA function MAINTAIN SUNDRY CHARGE and advise the taxpayer.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61000",
+   "section_id": "SAM61000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:15:41+00:00",
+ "section_id": "SAM61100",
+ "title": "Interest, penalties and surcharge: penalties: FAP and daily penalties: interaction between"
+}

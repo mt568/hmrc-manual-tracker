@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121200",
+ "body": "<p>In a Revenue Calculation case it will be necessary to calculate certain entries to enable capture of the return to be completed. When using function CAPTURE RETURN the computer may display error and warning messages which prompt you to enter an amount.</p>\n\n<p>It is necessary to calculate the following, as applicable, and enter the amounts during capture of the return</p>\n\n<ul>\n  <li>Surplus allowances / Children’s Tax Credit transferred to the taxpayer making the return</li>\n  <li>An amount required in some chargeable event gains calculations</li>\n  <li>Tax credit relief claimed on the Foreign income and gains supplementary pages or relief claimed by dual residents</li>\n  <li>Prior year adjustments. See subject ‘Prior Year Adjustments: Individuals Returns’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121180\">SAM121180</a>) for more information.</li>\n</ul>\n\n<p>In a Self Calculation case it will be necessary to calculate the following</p>\n\n<ul>\n  <li>An amount required in some chargeable event gains calculations</li>\n</ul>\n\n<p>In all cases you must refer to the information given by the taxpayer in the Additional Information boxes on the return and the Screen and Error / Warning message help in function CAPTURE RETURN, to help you calculate the entry you need to make.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:07+00:00",
+ "section_id": "SAM121200",
+ "title": "Returns: individuals returns: return entries to be calculated"
+}

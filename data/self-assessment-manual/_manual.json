@@ -1,0 +1,396 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual",
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam001",
+     "description": "",
+     "section_id": "SAM001",
+     "title": "Glossary"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam002",
+     "description": "",
+     "section_id": "SAM002",
+     "title": "Index of Forms"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam003",
+     "description": "",
+     "section_id": "SAM003",
+     "title": "Index of Functions"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam004",
+     "description": "",
+     "section_id": "SAM004",
+     "title": "Index of Legislation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam005",
+     "description": "",
+     "section_id": "SAM005",
+     "title": "Index of Work Lists"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam006",
+     "description": "",
+     "section_id": "SAM006",
+     "title": "Contact Point"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam007",
+     "description": "",
+     "section_id": "SAM007",
+     "title": "General Data Protection Regulation (GDPR)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam1000",
+     "description": "",
+     "section_id": "SAM1000",
+     "title": "Claim to adjust payments on account: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam3000",
+     "description": "",
+     "section_id": "SAM3000",
+     "title": "Trace payment: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10000",
+     "description": "",
+     "section_id": "SAM10000",
+     "title": "Appeals: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam11000",
+     "description": "",
+     "section_id": "SAM11000",
+     "title": "Postponements: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam12000",
+     "description": "",
+     "section_id": "SAM12000",
+     "title": "Reviews: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam20000",
+     "description": "",
+     "section_id": "SAM20000",
+     "title": "Stand-alone assessments: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam21000",
+     "description": "",
+     "section_id": "SAM21000",
+     "title": "Revenue amendment: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam22000",
+     "description": "",
+     "section_id": "SAM22000",
+     "title": "Non SA assessing: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam30000",
+     "description": "",
+     "section_id": "SAM30000",
+     "title": "SA Risk Mart: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam31000",
+     "description": "",
+     "section_id": "SAM31000",
+     "title": "Enquiry work: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam32000",
+     "description": "",
+     "section_id": "SAM32000",
+     "title": "Risk and enquiry: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam33000",
+     "description": "",
+     "section_id": "SAM33000",
+     "title": "Compliance work lists: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam40000",
+     "description": "",
+     "section_id": "SAM40000",
+     "title": "Construction industry cases: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50000",
+     "description": "",
+     "section_id": "SAM50000",
+     "title": "Debt and return pursuit: Overview: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam50500",
+     "description": "",
+     "section_id": "SAM50500",
+     "title": "Digital Services: overview: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam60000",
+     "description": "",
+     "section_id": "SAM60000",
+     "title": "Interest: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam61000",
+     "description": "",
+     "section_id": "SAM61000",
+     "title": "Penalties: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam62000",
+     "description": "",
+     "section_id": "SAM62000",
+     "title": "Surcharge: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam70000",
+     "description": "",
+     "section_id": "SAM70000",
+     "title": "Customer service: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71000",
+     "description": "",
+     "section_id": "SAM71000",
+     "title": "Work management: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+     "description": "",
+     "section_id": "SAM72000",
+     "title": "Access to records: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam73000",
+     "description": "",
+     "section_id": "SAM73000",
+     "title": "Management statistics: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam80000",
+     "description": "",
+     "section_id": "SAM80000",
+     "title": "Payments overview: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam90000",
+     "description": "",
+     "section_id": "SAM90000",
+     "title": "Permanent cessation: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam100000",
+     "description": "",
+     "section_id": "SAM100000",
+     "title": "Set up taxpayer record: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+     "description": "",
+     "section_id": "SAM101000",
+     "title": "Maintain taxpayer record: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103000",
+     "description": "",
+     "section_id": "SAM103000",
+     "title": "Movement of taxpayer records: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam104000",
+     "description": "",
+     "section_id": "SAM104000",
+     "title": "Trace taxpayer record: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam105000",
+     "description": "",
+     "section_id": "SAM105000",
+     "title": "Agent record: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam106000",
+     "description": "",
+     "section_id": "SAM106000",
+     "title": "Bankruptcy: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam107000",
+     "description": "",
+     "section_id": "SAM107000",
+     "title": "Welsh language: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam108000",
+     "description": "",
+     "section_id": "SAM108000",
+     "title": "SA and permanent notes: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+     "description": "",
+     "section_id": "SAM110000",
+     "title": "Issue repayment: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam111000",
+     "description": "",
+     "section_id": "SAM111000",
+     "title": "Repayment interest: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam112000",
+     "description": "",
+     "section_id": "SAM112000",
+     "title": "Recover over-repayment: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam113000",
+     "description": "",
+     "section_id": "SAM113000",
+     "title": "Repayment work lists: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam114000",
+     "description": "",
+     "section_id": "SAM114000",
+     "title": "Claims made outside a return: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120000",
+     "description": "",
+     "section_id": "SAM120000",
+     "title": "Return issue: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam120500",
+     "description": "",
+     "section_id": "SAM120500",
+     "title": "Filing paper returns: 31 October deadline: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+     "description": "",
+     "section_id": "SAM121000",
+     "title": "Individuals returns: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam122000",
+     "description": "",
+     "section_id": "SAM122000",
+     "title": "Partnership returns: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+     "description": "",
+     "section_id": "SAM123000",
+     "title": "Trust returns: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam124000",
+     "description": "",
+     "section_id": "SAM124000",
+     "title": "View and amend return: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+     "description": "",
+     "section_id": "SAM125000",
+     "title": "Returns work lists: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam126000",
+     "description": "",
+     "section_id": "SAM126000",
+     "title": "Filing returns online: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam127000",
+     "description": "",
+     "section_id": "SAM127000",
+     "title": "Returns processed at HMRC Netherton: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam130000",
+     "description": "",
+     "section_id": "SAM130000",
+     "title": "Statement content and layout: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam131000",
+     "description": "",
+     "section_id": "SAM131000",
+     "title": "Statement issue: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam132000",
+     "description": "",
+     "section_id": "SAM132000",
+     "title": "Transactions on statements: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam133000",
+     "description": "",
+     "section_id": "SAM133000",
+     "title": "Statement messages: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam134000",
+     "description": "",
+     "section_id": "SAM134000",
+     "title": "Interest calculation: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam140000",
+     "description": "",
+     "section_id": "SAM140000",
+     "title": "Transfer from PAYE to SA: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam141000",
+     "description": "",
+     "section_id": "SAM141000",
+     "title": "Transfer from SA to PAYE: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam142000",
+     "description": "",
+     "section_id": "SAM142000",
+     "title": "Reg 72/81 and SA: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam144000",
+     "description": "",
+     "section_id": "SAM144000",
+     "title": "Digital exemptions: contents"
+    }
+   ],
+   "title": ""
+  },
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/self-assessment-manual/samupdate001",
+     "description": "",
+     "section_id": "SAMUPDATE001",
+     "title": " update index"
+    }
+   ],
+   "title": "Updates"
+  }
+ ],
+ "description": "This manual contains guidance and processes for Self Assessment (SA)",
+ "public_updated_at": "2026-07-02T12:29:39+01:00",
+ "title": "Self Assessment Manual"
+}

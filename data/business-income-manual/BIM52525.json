@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim52525",
+ "body": "<p>S172ZC-S172ZD Income Tax (Trading and Other Income) Act 2005, S149C-S149D Corporation Tax Act 2009</p>\n\n<h2 id=\"how-to-compute-the-amount-deductible\">How to compute the amount deductible</h2>\n\n<p>Receipts from the sale of memorials and charges for making inscriptions etc should be treated as trading receipts of a crematorium.</p>\n\n<p>The trader is able to deduct the following expenses from trading income:</p>\n\n<blockquote>\n  <ul>\n    <li>the specific cost of production of that memorial, inscription etc, and</li>\n    <li>two thirds of other costs (the relevant costs differ depending on whether the deduction is for memorials or inscriptions, see below).</li>\n  </ul>\n</blockquote>\n\n<p>The specific cost of production would include, for example, the costs associated with individual memorials attached to walls, or recordia (vertical frameworks designed to accommodate a number of inscriptions).</p>\n\n<p>It is not possible to have a double trading deduction for costs under both the memorial and inscription provisions. If the inscription is provided as part of the memorial, the costs of the inscription are included in the costs of the memorial alone.</p>\n\n<h3 id=\"partial-deductions---memorials\">Partial deductions - memorials</h3>\n\n<p>In the case of memorials, a deduction is allowed for two thirds of the ‘associated building costs’. The associated building costs depend on the use of the building.</p>\n\n<p>If the memorial comprises the entire building, the associated building costs are the costs of that building.</p>\n\n<p>In all other cases, the associated building costs are found using the following formula:</p>\n\n<p>Associated building costs = Costs of the building divided by Total number of memorials the building can accommodate</p>\n\n<p>For the definition of ‘costs of the building’, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim52530\">BIM52530</a>.</p>\n\n<p>The deduction is available provided that the building is used wholly or mainly for the purpose of accommodating memorials.</p>\n\n<h3 id=\"partial-deductions---inscriptions\">Partial deductions - inscriptions</h3>\n\n<p>Where inscriptions are added to an existing framework which holds more than one inscription, a deduction is allowed for two thirds of the ‘associated framework costs’.</p>\n\n<p>The associated framework costs are the sum of the following amounts:</p>\n\n<ol>\n  <li>the cost of the framework divided by the total number of inscriptions the framework is designed to hold, plus</li>\n  <li>the costs of the building (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim52530\">BIM52530</a>) divided by the number of memorials the building is capable of accommodating (so long as the framework is attached to a building which is used wholly or mainly for the purpose of accommodating memorials).</li>\n</ol>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim52500",
+   "section_id": "BIM52500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:28:50+01:00",
+ "section_id": "BIM52525",
+ "title": "Cemeteries and crematoria: memorials and inscriptions"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim45165",
+ "body": "<p>S63 Capital Allowances Act 2001, S109 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S108 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<h2 id=\"disposal-proceeds-are-nil-where-plant-and-machinery-is-gifted-to-qualifying-organisations\">Disposal proceeds are nil where plant and machinery is gifted to qualifying organisations</h2>\n\n<p>If the trader carries on a relevant qualifying activity for capital allowances purposes, plant and machinery used in that activity can be donated to charities and certain bodies. If any such plant and machinery is donated, the disposal value to be used in the capital allowances calculation is nil under S63 Capital Allowances Act 2001.</p>\n\n<p>This treatment applies if the plant or machinery is given to:</p>\n\n<ul>\n  <li>a charitable trust</li>\n  <li>a charitable company</li>\n  <li>a community amateur sports club within the meaning of S658 Corporation Taxes Act 2010 (CTA 2010) (see the guidance available on the HMRC website <a href=\"http://www.hmrc.gov.uk/casc/casc_guidance.htm\">http://www.hmrc.gov.uk/casc/casc_guidance.htm</a>)</li>\n  <li>a designated educational establishment (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45170\">BIM45170</a>)</li>\n  <li>the National Heritage Memorial Fund</li>\n  <li>the Historic Buildings and Monuments Commission for England</li>\n  <li>the British Museum</li>\n  <li>the Natural History Museum</li>\n</ul>\n\n<p>Note that the list of bodies to which plant and machinery can be donated is wider than the list of bodies to which trading stock can be donated (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45155\">BIM45155</a>).</p>\n\n<p>Normally, when a trader gives away an asset on which capital allowances have been claimed, the disposal value included in the capital allowances computation is the market value of the asset (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240\">CA23240</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250\">CA23250</a>).</p>\n\n<p>It is sometimes the case that articles used in the course of trade and which fall within the definition of machinery or plant are allowed as a revenue deduction because the expected useful life is less than two years (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca21100\">CA21100</a>). Even in such a case where the plant or machinery is gifted to a qualifying organisation, its disposal value is taken as nil.</p>\n\n<p>There is no requirement in the legislation for the trader to make a formal claim for this treatment as it applies automatically.</p>\n\n<h3 id=\"benefit-received-which-is-attributable-to-the-gift\">Benefit received which is attributable to the gift</h3>\n\n<p>Exceptionally, if the trader (or someone connected with the trader) receives a benefit attributable to the gift, an amount equal to the amount of the benefit must be taken into account as a trading receipt under S109 ITTOIA 2005 or S108 CTA 2009. If the benefit is not given in cash, then the amount that should be included is the market value of the benefit. If the trader has ceased to trade by the time that benefit is received this will be a post-cessation receipt.</p>\n\n<p>The definition of ‘connected persons’ for unincorporated traders is in S993 and S994 Income Tax Act 2007. The definition of this term for companies is in S1122 and S1123 CTA 2010.</p>\n\n<h3 id=\"reliefs-for-other-donations\">Reliefs for other donations</h3>\n\n<p>For details of the relief available where trading stock is donated to charities and other qualifying bodies, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45155\">BIM45155</a>.</p>\n\n<p>For details of the relief available for donation of medical supplies and equipment by companies, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45175\">BIM45175</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim45150",
+   "section_id": "BIM45150"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2020-01-13T15:36:48+00:00",
+ "section_id": "BIM45165",
+ "title": "Specific deductions: gifts in kind and payroll giving: relief for gifts of plant and machinery to charities and other bodies"
+}

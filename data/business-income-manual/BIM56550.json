@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim56550",
+ "body": "<p>The following examples are illustrative of the ways in which the exit charge might be applied. Actual exit arrangements are likely to be far more complex.</p>\n<h2>Example 1</h2>\n<p>Ms A contributes capital of £100,000 to a partnership carrying on a trade of leasing of the master version of films. To fund this she borrows £80,000 from a bank and puts in £20,000 from her own funds. In 2006/07 the partnership acquires and leases back a number of films, deducting 100% of its expenditure in that year (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56010\">BIM56010</a>). Ms A’s share of the losses sustained is £100,000, for which she claims sideways loss relief on 6 April 2007, obtaining a tax repayment of £40,000.</p>\n<p>On 1 January 2008 Ms A transfers her interest and rights in the partnership to a company based in a tax haven. That company also takes over Ms A’s liabilities to pay interest and capital on the loan of £80,000. Ms A pays the company a fee of £5,000 for agreeing to do this.</p>\n<p>Ms A has claimed loss relief in respect of a film related loss (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56520\">BIM56520</a>). She has received non-taxable consideration for this - an exit event (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56525\">BIM56525</a>). There is therefore a chargeable event on 1 January 2008. She is chargeable to Income Tax on the consideration received - which is £80,000 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56535\">BIM56535</a>). This assumes the value of the liability taken over is this amount, but the charge to tax can be no less than this amount because this is the amount of the capital contribution reimbursed to her - see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56540\">BIM56540</a> and <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56545\">BIM56545</a>).</p>\n<p>Ms A does not receive a deduction for the £5,000 arrangement fee she has paid to the company (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56525\">BIM56525</a>).</p>\n<h2>Example 2</h2>\n<p>Mr C invests £10m in a film sale and leaseback partnership on 1 July 2006. The partnership acquires and leases back a number of qualifying British films, all costing less than £15m to produce, in the period to 5 April 2007. It claims a 100% deduction.</p>\n<p>Mr C has funded his investment with £2m of his own capital and £8m out of a loan made to him on 30 June 2006 by a company D based in the Cayman Islands. Mr C’s share of the partnership loss is £10m, which he claims against his other income and gains on 6 April 2007.</p>\n<p>On 1 July the partnership decides to give the entire rights to income under the film finance leases to another company based in Vanuatu for no consideration. Mr C and the other partner’s remain members of the partnership. Mr C does not pay any interest or repay any capital on his loan with company D.</p>\n<p>Mr C has claimed relief for a film related loss.</p>\n<p>There has been a disposal of Mr C’s rights to profits from the trade.</p>\n<p>There is an exit event under the Partnership (Restrictions on Contributions to a Trade) Regulations 2005 (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56545\">BIM56545)</a>. Mr C’s costs of repaying his loan are substantially less than arm’s length repayment terms with a bank. After five years from 30 June 2006, that is on 30 June 2011, Mr C’s capital contribution is deemed to be reduced by the outstanding loan: that is, by £8m. At that point his losses claimed are deemed to become greater than his capital contribution to the trade.</p>\n<p>There will be a chargeable event on 30 June 2011, and Mr C will be subject to a charge to Income Tax of £8m for 2011/12.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56000",
+   "section_id": "BIM56000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim56500",
+   "section_id": "BIM56500"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:29:28+01:00",
+ "section_id": "BIM56550",
+ "title": "Films and sound recordings: old regime for films: avoidance: individual exit schemes - examples"
+}

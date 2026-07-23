@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33470",
+ "body": "<p>Pt3 Ch11 Corporation Tax Act 2009 (CTA 2009) and Pt 2 Ch12 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005)</p>\n<p>Pt3 Ch11 CTA 2009 (companies) and Pt2 Ch12 ITTOIA 2005 (individuals) apply whenever a trade, profession or vocation is discontinued.  They fix the closing value of stock or work in progress to be used in computing the profits of the ceasing business and, in some circumstances, the cost of the stock for the business acquiring it.</p>\n<p>In general the value of the stock or work in progress is what would be given in an arm’s length sale (S164(4) CTA 2009 and S175(4), S184(2) CTA 2009), see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33525\">BIM33525</a>.  </p>\n<p>Special rules apply however if:</p>\n<ul><li class=\"filledcircle\">the stock or work in progress is transferred to another entity who will bring the value of that stock or work in progress into the computation of their trading profits; see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33480\">BIM33480</a> onwards,</li><li class=\"filledcircle\">professional work in progress is transferred, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33540\">BIM33540</a>, or</li><li class=\"filledcircle\">the trade is discontinued because the trader dies (S173(4)), see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33520\">BIM33520</a>, or</li><li class=\"filledcircle\">cash basis is being used for the tax year in which the trade is discontinued, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim72025\">BIM72025</a>.</li></ul>\n<h2><a id=\"IDAG3F0B\">What counts as discontinued</a></h2>\n<ul><li class=\"filledcircle\">the actual cessation of a trade, profession or vocation,</li><li class=\"filledcircle\">a complete change in the persons carrying on a business in partnership (in other words no same person or company that was in the partnership before the change continues in the partnership after the change) (S162(3),(4) CTA 2009 and S173(3) ITTOIA 2005),</li><li class=\"filledcircle\">where a company ceases to carry on a trade, or to be within the charge to corporation tax in respect of a trade, this is treated as a discontinuance of the trade, whether or not the trade is in fact discontinued (S41 CTA 2009).</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33450",
+   "section_id": "BIM33450"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:17+01:00",
+ "section_id": "BIM33470",
+ "title": "Stock: valuation on discontinuance of business: general principles"
+}

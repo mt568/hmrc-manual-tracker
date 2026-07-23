@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim85060",
+ "body": "<h3>S83 Income Tax Act 2007 (ITA 2007)</h3>\n<p>Where a person (individual, partner or trustee) makes a loss in a trade (including a profession or vocation) and relief for that loss has not been given under another taxation provision the loss can be carried forward under S83, ITA 2007.  Such a loss can only be set off against profits arising from the same trade.</p>\n<p>Where the loss exceeds the profit (or there is no profit) the remaining loss (or the loss) can be set off against interest or dividends (including any tax credits) which would be regarded as trading receipts if they were not taxed under other provisions (S85 ITA 2007). See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40800\">BIM40800</a> onwards for circumstances in which interest and dividends may be treated as trading receipts.</p>\n<p>Such losses must be set off against the first year in which a profit arises and any balance must then be set off in the next tax year in which a profit arises.</p>\n<p>The  carry-forward is allowable provided the ownership and identity of the business during the tax years for which the allowance is claimed remain the same as during the period in which the loss was made (see <strong>Batty v Baron Schroder</strong> [1939] 23TC1, <strong>U</strong><strong>nited Steel Companies Ltd v Cullington (No.2)</strong> [1940] 23TC91, <strong>Goff v Osborne &amp; Co (Sheffield) Ltd</strong> [1953] 34TC441 and <strong>Rolls-Royce Motors Ltd v Bamford</strong> [1976] 51TC319). </p>\n<h3>S86 Income Tax Act 2007 (ITA 2007)</h3>\n<p>S86 ITA 2007 allows for the carry-forward of losses in cases where the proprietor or partners in a private business take all the shares in a company to which the business is transferred. It also applies where such a company additionally issues other shares, and where two or more private businesses are amalgamated to form a company. The shares must be taken as the sole or main consideration for the transfer of the business to the company.</p>\n<p>Where the consideration is expressed in the vending agreement to be cash, but the whole amount is subscribed for shares in the company, the shares may, for the purposes of the relief, be regarded as the consideration.</p>\n<p>The income against which the carry-forward is allowable includes dividends (including any tax credits), interest, remuneration or rent received from the company, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40800\">BIM40800</a> onwards.</p>\n<p>S86 ITA 2007 relief is not available for a tax year unless: </p>\n<blockquote>the individual retained all the allocated shares, and <br /></blockquote>\n<blockquote>the company carried on the transferred trade <br /></blockquote>\n<p>at 5 April in that year. In practice, relief should not be refused so long as the individual keeps shares which represent more than 80% of the consideration received for the business.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim85000",
+   "section_id": "BIM85000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:41:49+01:00",
+ "section_id": "BIM85060",
+ "title": "Trade losses - types of relief: carry forward of losses"
+}

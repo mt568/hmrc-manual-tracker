@@ -1,0 +1,66 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim34090",
+ "body": "<p>This section deals with the tax charges and reliefs arising on a change of basis in computing taxable profits from one valid basis to another. It is arranged as follows:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim34000",
+   "section_id": "BIM34000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34095",
+     "description": "",
+     "section_id": "BIM34095",
+     "title": "Adjustment income and expenses: charge to tax"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34105",
+     "description": "",
+     "section_id": "BIM34105",
+     "title": "Adjustment income and expenses: expenses already allowed"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34110",
+     "description": "",
+     "section_id": "BIM34110",
+     "title": "Adjustment income and expenses: stock and depreciation"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34115",
+     "description": "",
+     "section_id": "BIM34115",
+     "title": "Adjustment income and expenses: change from realisation basis to mark to market (fair value) accounting"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34120",
+     "description": "",
+     "section_id": "BIM34120",
+     "title": "Adjustment income and expenses: change from realisation basis to mark to market (fair value) accounting: spreading election"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34130",
+     "description": "",
+     "section_id": "BIM34130",
+     "title": "Adjustment income and expenses: calculation of adjustment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim34135",
+     "description": "",
+     "section_id": "BIM34135",
+     "title": "Adjustment income and expenses: meanings"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:24+01:00",
+ "section_id": "BIM34090",
+ "title": "Change of basis of computing taxable profits: adjustment income and expenses: contents"
+}

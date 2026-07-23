@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10161",
+ "body": "<p>This Action Guide assumes that :&nbsp;</p>\n<ul><li class=\"dash\">the appeal has been settled, and</li><li class=\"dash\"><span>you need to amend the record to reflect the settlement</span></li></ul>\n<p>Note: This action can be taken in User Roles Appeals Handler - Processing (APHP), Appeals Handler - Technical (APHT) and Review Interest Officer - Processing (RINO).</p>\n<p>To settle an appeal, follow steps 1 -&nbsp;4 below</p>\n<p>1.&nbsp;&nbsp;Select function MAINTAIN APPEAL from the Function Menu and make the following entries:</p>\n<ul><li>enter the line number of the appeal you wish to settle</li><li>select the [Close Appeal] button</li></ul>\n<p>The screen will be re-displayed and today’s date will be shown on the appropriate line under the heading ‘Date Closed’</p>\n<p>2.&nbsp;&nbsp;If the appeal is against an SA non charge based item, go to step 4</p>\n<p>3.&nbsp;&nbsp;If the appeal is against an SA charge based item:</p>\n<ul><li>use function MAINTAIN STANDOVERS to</li><li>check whether there is a formal or informal standover recorded against this charge (or any related charges, for example over-repayment charges or payments on account for the year following a Jeopardy amendment, Revenue amendment or Revenue assessment), if so</li><li>reduce the formal or informal standover to NIL</li></ul>\n<p>4. If you need to confirm that the appeal has been settled under S54 TMA 1970</p>\n<ul><li>send a letter to the appellant</li><li>in situations where an appeal against&nbsp;revenue assessments is being settled, issue the letter <strong>RevAsst01 revenue assessment</strong></li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10000",
+   "section_id": "SAM10000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2025-11-07T00:00:00+00:00",
+ "section_id": "SAM10161",
+ "title": "Appeals, postponements and reviews: appeals: settling an appeal (Action Guide)"
+}

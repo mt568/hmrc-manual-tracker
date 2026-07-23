@@ -1,0 +1,19 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim60328",
+ "body": "<p>S756, S759 Income Tax Act 2007, S819, S821 Corporation Tax Act 2010</p>\n\n<p>In most cases it is the person realising the gain (person ‘A’) who is subject to tax on it (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60325\">BIM60325</a>).</p>\n\n<p>However, in other cases, the person providing the value from which the gain is derived, or the opportunity to derive that value, is someone other than person A. Where this is the case, it is that other person (person ‘B’) who i s treated as receiving the income subject to tax under these provisions.</p>\n\n<p>As the person taxed on the gain under these provisions is not the person who received the consideration, there are provisions to allow the former to recover the tax paid from the latter. See <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60330\">BIM60330</a>.</p>\n\n<p>Since the tax charge is raised on the third party (i.e. someone who is not a party to the transaction in land), clear and convincing evidence is needed to show that this person, as a matter of fact, is the provider of value or the opportunity for gain. The third party may transmit the value or opportunity directly or indirectly.</p>\n\n<p>For an example, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60345\">BIM60345</a>.</p>\n\n<p>For the definition of ‘another person’ in this context, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60480\">BIM60480</a>.</p>\n\n<p>For guidance on how to compute the amount taxed under the transactions in land provisions, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60333\">BIM60333</a>. For details of the period in which the gain is taxed, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60335\">BIM60335</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim50000",
+   "section_id": "BIM50000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim60300",
+   "section_id": "BIM60300"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:37:11+01:00",
+ "section_id": "BIM60328",
+ "title": "Transactions in land: Provider of value or opportunity"
+}

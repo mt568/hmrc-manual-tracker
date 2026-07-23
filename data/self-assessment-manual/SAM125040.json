@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125040",
+ "body": "<h2 id=\"creation-of-a-work-item\">Creation of a work item</h2>\n\n<p>From 6 April 2010, when returns and amendments for CY-1 are received and processed, the information will be passed to the National Insurance and PAYE Service (NPS) for auto-coding where</p>\n\n<ul>\n  <li>The return shows a PAYE source of income</li>\n</ul>\n\n<p>Or   </p>\n\n<ul>\n  <li>The amendment includes employment income, and </li>\n  <li>There is no PAYE link on the record, and </li>\n  <li>The ‘Final Return Year’ signal is set on the SA record, and </li>\n  <li>The final return year is the same as the year of the amended return, and </li>\n  <li>There is an automatic note held on the SA record to show the SA record was closed following refinement</li>\n</ul>\n\n<p>The exception to this is where the SA record is marked ‘deceased’. Where this signal is set, no information will be passed to NPS.</p>\n\n<p>A work item will be created and entered on the ‘Daily Returns Review: SA/PAYE auto-coding’ work list where</p>\n\n<ul>\n  <li>There are discrepancies for NIB and / or underpayments coded</li>\n</ul>\n\n<p>And / or  </p>\n\n<ul>\n  <li>\n    <p>The following return pages have been completed</p>\n\n    <ul>\n      <li>Minister of Religion</li>\n      <li>Member of Parliament, Scottish Parliament, Welsh Assembly or Legislative Assembly for Northern Ireland</li>\n    </ul>\n  </li>\n</ul>\n\n<p>And / or  </p>\n\n<ul>\n  <li>The Inhibit auto-coding signal is set</li>\n</ul>\n\n<h2 id=\"review-of-the-work-item\">Review of the work item</h2>\n\n<p>The ‘Daily Returns Review: SA/PAYE auto-coding exceptions’ work list is allocated to the Clerical Processing Officer in the office with processing responsibility. For further information, see subject ‘Work management: W052 daily returns review SA/PAYE auto-coding exceptions’ at <a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam71154\">SAM71154</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam125000",
+   "section_id": "SAM125000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T15:02:53+00:00",
+ "section_id": "SAM125040",
+ "title": "Returns: returns work lists: w052 daily returns review: SA/PAYE auto-coding exceptions"
+}

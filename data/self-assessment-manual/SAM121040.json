@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121040",
+ "body": "<p>It is not possible to use function LOG RETURN to record the date of receipt of a part year return for the current tax year during the current tax year. These returns are issued during the year in permanent cessation cases.</p>\n\n<p>For example, taxpayer dies 31 August 2011, return issued for period 6 April 2011 - 31 August 2011 and received November 2011. Function LOG RETURN cannot be used to record the date of receipt of this part year 2011-2012 return until after 5 April 2012.</p>\n\n<p>A part-year return is identified by the amendment of the dates on the front of the return to show the relevant period.</p>\n\n<p>For more information see section ‘Permanent Cessation’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam90000\">SAM90000</a> onwards).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam121000",
+   "section_id": "SAM121000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:55:58+00:00",
+ "section_id": "SAM121040",
+ "title": "Returns: individuals returns: part year individual returns for the current year"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim41125",
+ "body": "<p>A reverse premium received is normally taxed in accordance\nwith the accountancy treatment.</p>\n<p>Having simply prescribed that a reverse premium is a revenue\nreceipt, the legislation leaves the time when the receipt must be brought into\naccount in computing trade or property business profits to be governed by\ngenerally accepted accounting practice in the normal case. Unless avoidance is\ninvolved, a reverse premium will usually be brought to account for tax purposes\nas it is credited in the accounts. The avoidance case is considered in <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim41130\">BIM41130</a>.</p>\n<p>Note this does not necessarily mean you are obliged to\naccept the spread of the receipt actually adopted in the accounts. The timing\nof the receipt for tax purposes must reflect generally accepted accounting\npractice.</p>\n<p>Reverse premiums should be accounted for in accordance with\nFRS 102 Section 20 Leases. FRS 102 requires the receipt to be spread on a\nstraight line basis over the term of the lease.&nbsp;</p>\n<p>Relevant standards under other frameworks are:&nbsp;</p>\n<p>FRS 105 Section 15 Leases.&nbsp;</p>\n<p>IAS: IFRS 16 Leases (from 1 January 2019); SIC 15 Operating\nLeases – Incentives. IFRS 16 requires a lessee to include lease incentives in\nthe measurement of both the right-of-use asset and the lease liability, which\nis spread over the life of the lease using the amortised cost method. SIC 15\nrequired the receipt to be spread on a straight line basis over the term of the\nlease and is superseded by IFRS 16.&nbsp;</p>\n<p>Old UK GAAP: UITF 28 Operating Lease Incentives . UITF 28\nrequired the receipt to be spread on a straight line basis over either the term\nof the lease, or to the date of the first rent review expected to adjust the\nrent to prevailing market rate, whichever comes first.&nbsp;</p>\n<p>Thus, there will be no need to adjust the commercial profit\nshown in the accounts unless either there is reason to believe generally\naccepted accounting practice has not been followed, or the anti-avoidance rule\nin <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim41130\">BIM41130</a> applies.&nbsp;</p>\n<p>For more about the relationship between tax and accountancy\nsee <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31000\">BIM31000</a> onwards.</p>\n<p>If you have concerns regarding the accounting treatment of\nreverse premiums, seek advice from an HMRC Advisory Accountant.</p>\n<div></div>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40099",
+   "section_id": "BIM40099"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim41050",
+   "section_id": "BIM41050"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-12-07T13:52:59+00:00",
+ "section_id": "BIM41125",
+ "title": "Specific receipts: reverse premiums: timing of the receipt - the normal case"
+}

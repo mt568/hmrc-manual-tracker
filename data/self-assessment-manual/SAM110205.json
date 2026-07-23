@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110205",
+ "body": "\n<p>Following the capture of the return an automatic repayment will be inhibited and a work item created on the ‘Inhibited Automatic Repayments’ Work List if any of the following circumstances apply.</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Circumstance</th>\n      <th>Work List entry</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Taxpayer is insolvent</td>\n      <td>I Insolvency Sig Set</td>\n    </tr>\n    <tr>\n      <td>PCA Signal is set</td>\n      <td>P Priority Collection Action Sig Set</td>\n    </tr>\n    <tr>\n      <td>Taxpayer deceased and no capacity details held on the SA record</td>\n      <td>D Deceased Sig Set</td>\n    </tr>\n    <tr>\n      <td>Taxpayer’s address is RLS</td>\n      <td>R RLS Sig Set</td>\n    </tr>\n    <tr>\n      <td>Welsh language signal is set</td>\n      <td>W Welsh Language</td>\n    </tr>\n    <tr>\n      <td>No repayment signal is set</td>\n      <td>N No Repayment Sig Set</td>\n    </tr>\n    <tr>\n      <td>Uncleared payment present</td>\n      <td>U Uncleared Credits Exist</td>\n    </tr>\n    <tr>\n      <td>Remission recorded</td>\n      <td>X Remissions</td>\n    </tr>\n    <tr>\n      <td>Informal standover recorded</td>\n      <td>S Informal Standovers</td>\n    </tr>\n    <tr>\n      <td>Payable order is over £150,000</td>\n      <td>L Repayment Limit Exceeded</td>\n    </tr>\n    <tr>\n      <td>BACS repayment is over £90,000,000</td>\n      <td>L Repayment Limit Exceeded</td>\n    </tr>\n    <tr>\n      <td>A return charge has not been entered on the taxpayer’s record</td>\n      <td>Y Incomplete Return Capture</td>\n    </tr>\n    <tr>\n      <td>A combination of inhibiting factors are present</td>\n      <td>C Combination</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Detailed advice on the action to take to clear the work item(s) is provided in the section ‘Repayment Work Lists’.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
+   "section_id": "SAM110000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:30+00:00",
+ "section_id": "SAM110205",
+ "title": "Repayments: issue repayment: repayment inhibitions"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72084",
+ "body": "<p>The Clerical Reallocation Officer is responsible for the reallocation of payments within a single taxpayer record.</p>\n\n<p>The following list shows the functions linked to the role of Clerical Reallocation Officer. Access to the same functions is available in an office with processing, technical or recovery responsibilities.</p>\n\n<p>For details of how to access any of these functions, select ‘Index Of Functions’ on the left of the screen.</p>\n\n<p>On accessing the function, system help is available to you at function, screen, field, and error message levels.</p>\n\n<p>For ease of reference, functions are grouped under the following sub headings</p>\n\n<p><a href=\"#IDA1MBPI\">Compliance</a><br />\n<a href=\"#IDADNBPI\">Returns</a><br />\n<a href=\"#IDALNBPI\">Statements</a><br />\n<a href=\"#IDAHOBPI\">Taxpayer</a></p>\n\n<h2 id=\"IDA1MBPI\">Compliance</h2>\n\n<p>View Compliance History</p>\n\n<h2 id=\"IDADNBPI\">Returns</h2>\n\n<p>Maintain Return Summary</p>\n\n<h2 id=\"IDALNBPI\">Statements</h2>\n\n<p>Clerical Reallocation</p>\n\n<p>Transfer from Taxpayer Credit</p>\n\n<p>View Payment Details</p>\n\n<p>View Repayment</p>\n\n<p>View Statement</p>\n\n<p>View Transfer from OAS</p>\n\n<h2 id=\"IDAHOBPI\">Taxpayer</h2>\n\n<p>Case Summary</p>\n\n<p>Maintain SA Notes</p>\n\n<p>View Taxpayer Designatory Details</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
+   "section_id": "SAM72000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2022-08-02T11:23:31+01:00",
+ "section_id": "SAM72084",
+ "title": "Manage work: access to records: clerical reallocation officer - processing, recovery and technical offices"
+}

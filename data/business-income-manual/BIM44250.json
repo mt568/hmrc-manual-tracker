@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim44250",
+ "body": "<p>Deductions for providing shares to employees fall into the following categories:</p>\n\n<ul>\n  <li>Providing shares through Share Incentive Plans (SIPs), see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44251\">BIM44251</a>.</li>\n  <li>Providing shares (other than through a SIP) which meet the qualifying conditions for a statutory Corporation Tax deduction (referred to in this guidance as ‘qualifying shares’), see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44260\">BIM44260</a>.</li>\n  <li>Providing shares which are not qualifying shares (referred to in this guidance as ‘non-qualifying shares’), see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44450\">BIM44450</a>.</li>\n</ul>\n\n<h2 id=\"qualifying-shares\">Qualifying shares</h2>\n\n<p>‘Qualifying shares’ for this purpose are those which meet the qualifying conditions for a statutory CT deduction. These are shares which give the employees a real stake in the company or group by which they are employed. Full details of the qualifying requirements are at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44285\">BIM44285</a>.</p>\n\n<p>In practice it is reasonable to assume that shares provided under Tax advantaged schemes (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44010\">BIM44010</a>) will be qualifying shares as the qualifying conditions are very similar.</p>\n\n<p>Shares provided under other employee share schemes (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim44005\">BIM44005</a>) may also be qualifying shares.</p>\n\n<h2 id=\"non-qualifying-shares\">Non-qualifying shares</h2>\n\n<p>The following are not qualifying shares:</p>\n\n<ul>\n  <li>Partly-paid shares.</li>\n  <li>Redeemable shares.</li>\n  <li>Preference shares.</li>\n  <li>Unlisted shares in a subsidiary company (unless its parent company is a listed and non-close company).</li>\n  <li>Shares in a company which is not sufficiently linked to the employing company at the date the employee acquires the shares, or at any earlier date on which the employee was given a right (such as a share option) to acquire the shares.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim44000",
+   "section_id": "BIM44000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-11-23T23:39:13+00:00",
+ "section_id": "BIM44250",
+ "title": "Specific deductions: employee share schemes: providing shares to employees: overview "
+}

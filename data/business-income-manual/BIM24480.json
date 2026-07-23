@@ -1,0 +1,54 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim24480",
+ "body": "<p>A mutual trader often has income from outside the ‘circle of mutuality’. Where such profits arise from the carrying on of a trade they are taxable as trade profits.</p>\n\n<p>The following paragraphs provide guidance on how to allocate the income received by the mutual trader between:</p>\n\n<ul>\n  <li>non-taxable dealings with contributors, and</li>\n  <li>taxable dealings with non-contributors.</li>\n</ul>\n\n<p>There are some categories of receipts (for example television or sponsorship income) that derive entirely from non-contributors. There are some receipts that derive entirely from contributors (for example income from a members’ only facility). And there are some receipts that derive partly from contributors and from non-contributors - for example takings from a facility available both to members and non-members.</p>\n\n<p>You will need to establish the underlying facts to allow an allocation of income between taxable (non-mutual) and non-taxable (mutual). Under no circumstances can losses relating to the mutual trade be set against profits derived from the non-mutual trade.</p>\n\n<p>The following guidance covers:</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim20000",
+   "section_id": "BIM20000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim24000",
+   "section_id": "BIM24000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24485",
+     "description": "",
+     "section_id": "BIM24485",
+     "title": "Allocation of income: nature of activities"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24490",
+     "description": "",
+     "section_id": "BIM24490",
+     "title": "Allocation of income: income from contributors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24495",
+     "description": "",
+     "section_id": "BIM24495",
+     "title": "Allocation of income: income from non-contributors"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24500",
+     "description": "",
+     "section_id": "BIM24500",
+     "title": "Allocation of income: mixed income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim24505",
+     "description": "",
+     "section_id": "BIM24505",
+     "title": "Allocation of income: sundry income"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:06:40+01:00",
+ "section_id": "BIM24480",
+ "title": "Meaning of trade: mutual trading and members clubs: allocation of income: introduction and layout of guidance: contents"
+}

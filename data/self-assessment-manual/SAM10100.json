@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10100",
+ "body": "<p>This information supplements the guidance given in subject ‘Handling an Appeal Against a Charge Based Item’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam10060\">SAM10060</a>) and covers the situation where a taxpayer appeals against a miscellaneous penalty or surcharge charged within SA. Note: Surcharge applies to tax years 2009-10 and earlier only.</p>\n\n<p>Penalties and surcharge are subject to appeal. There is, however, no right to make a formal postponement application.</p>\n\n<p>If an appeal is received against either a penalty or surcharge then the full amount of the charge should be informally stoodover pending determination of the appeal. You should issue appeal acknowledgement form SA525.</p>\n\n<p>If the penalty or surcharge is subsequently amended or remitted the appeal should be cancelled using function MAINTAIN APPEAL.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam10000",
+   "section_id": "SAM10000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:39+00:00",
+ "section_id": "SAM10100",
+ "title": "Appeals, postponements and reviews: appeals: appeal against misc. penalties / surcharge (for tax years 2009-10 and earlier)"
+}

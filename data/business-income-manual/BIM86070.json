@@ -1,0 +1,78 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim86070",
+ "body": "<p>The following provide examples of the TMIA in different scenarios</p>\n\n<p>Example 1: Full relief applying (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86072\">BIM86072</a>)</p>\n\n<p>Example 2: Income from an excluded source (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86074\">BIM86074</a>)</p>\n\n<p>Example 3: Election for full relief not to apply (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86076\">BIM86076</a>)</p>\n\n<p>Example 4: Claiming partial relief and using losses carried forward (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86078\">BIM86078</a>)</p>\n\n<p>Example 5: Capital allowances are treated the same as other expenses (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86080\">BIM86080</a>)</p>\n\n<p>Example 6: Individuals choose how to allocate the trading allowance (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86082\">BIM86082</a>)</p>\n\n<p>Example 7: Partial relief for trading and miscellaneous income (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86084\">BIM86084</a>)</p>\n\n<p>Example 8: Creation of overlap relief when an individual claims partial relief in both years (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86086\">BIM86086</a>)</p>\n\n<p>Example 9: Individual with income fluctuating around TMIA limit (<a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86088\">BIM86088</a>)</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim80000",
+   "section_id": "BIM80000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim86000",
+   "section_id": "BIM86000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86072",
+     "description": "",
+     "section_id": "BIM86072",
+     "title": "Full relief applying"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86074",
+     "description": "",
+     "section_id": "BIM86074",
+     "title": "Income from an excluded source "
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86076",
+     "description": "",
+     "section_id": "BIM86076",
+     "title": "Election for full relief not to apply (loss making trade)"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86078",
+     "description": "",
+     "section_id": "BIM86078",
+     "title": "Claiming partial relief and using losses carried forward"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86080",
+     "description": "",
+     "section_id": "BIM86080",
+     "title": "Capital allowances are treated the same as other expenses"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86082",
+     "description": "",
+     "section_id": "BIM86082",
+     "title": "Individuals choose how to allocate the trading allowance "
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86084",
+     "description": "",
+     "section_id": "BIM86084",
+     "title": "Example: Partial relief for trading and miscellaneous income"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86086",
+     "description": "",
+     "section_id": "BIM86086",
+     "title": "Creation of overlap relief when an individual claims partial relief in both years"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim86088",
+     "description": "",
+     "section_id": "BIM86088",
+     "title": "Example: Individual with income fluctuating around TMIA limit"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2018-12-14T02:00:25+00:00",
+ "section_id": "BIM86070",
+ "title": "TMIA – Examples"
+}

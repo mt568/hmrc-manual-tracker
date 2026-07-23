@@ -1,0 +1,49 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33300",
+ "body": "\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  }
+ ],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33310",
+     "description": "",
+     "section_id": "BIM33310",
+     "title": "Ways of disposing of or acquiring stock"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33325",
+     "description": "",
+     "section_id": "BIM33325",
+     "title": "Costs of acquisition of stock when there is a non-cash payment"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33330",
+     "description": "",
+     "section_id": "BIM33330",
+     "title": "Costs of acquisition of stock when the trader does not pay market value"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/business-income-manual/bim33375",
+     "description": "",
+     "section_id": "BIM33375",
+     "title": "Goods sold subject to reservation of title"
+    }
+   ],
+   "title": ""
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:15+01:00",
+ "section_id": "BIM33300",
+ "title": "Stock: trading transactions in: contents"
+}

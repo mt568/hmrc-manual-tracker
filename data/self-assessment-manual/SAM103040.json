@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103040",
+ "body": "<p>Provided the SA record holds the NINO, a link will be made automatically to a PAYE primary source record by entering the details in the Other System and Other System Reference fields on the SA record.</p>\n\n<p>While that link remains in place, you will</p>\n\n<ul>\n  <li>Never be presented with the transfer prompt CASE AVAILABLE FOR TRANSFER</li>\n  <li>Not be able to use SA transfer function MAINTAIN RESPONSIBLE OFFICE</li>\n</ul>\n\n<h2 id=\"paye-system\">PAYE system</h2>\n\n<p>Movement of processing responsibility for SA records linked to PAYE, whether as a single transfer or a transfer in bulk, is controlled by the PAYE system. On using a PAYE function or facility to move the PAYE record, automatic processing will</p>\n\n<ul>\n  <li>Select the linked SA record, using the Unique Taxpayer Reference (UTR) (which originally flowed from the SA record to the PAYE record)</li>\n  <li>Update the entry in the Other System Reference field on the SA record</li>\n  <li>Transfer processing responsibility for the SA record to the new office</li>\n  <li>Flow the new PAYE reference from the SA record to the National Tracing System, to overwrite the reference shown on the NTS index record</li>\n</ul>\n\n<p>The PAYE system notifies any acting agent of the transfer on form P218(T). The form shows</p>\n\n<ul>\n  <li>The old office name and reference</li>\n  <li>The new office name, address, reference and telephone number</li>\n</ul>\n\n<p>The taxpayer is not notified of the transfer.</p>\n\n<h2 id=\"sa-system\">SA system</h2>\n\n<p>The SA system will</p>\n\n<ul>\n  <li>Transfer all current work items for that type of Revenue activity to the new office automatically</li>\n  <li>Review the location of technical, recovery and accounting responsibility</li>\n</ul>\n\n<p>Where the SA responsible office rules suggest a transfer of active responsibility for debt management work, a ‘Potential Transfer’ work item will be created in the relevant office(s). That office or offices will then consider transferring their responsibility.</p>\n\n<p>Where the responsibility for technical and / or debt management work is not active, responsibility will be transferred automatically.</p>\n\n<p>Banking and accounting responsibility will, where appropriate, be transferred automatically.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam103000",
+   "section_id": "SAM103000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:52:03+00:00",
+ "section_id": "SAM103040",
+ "title": "Records: movement of taxpayer records: movement of PAYE linked records"
+}

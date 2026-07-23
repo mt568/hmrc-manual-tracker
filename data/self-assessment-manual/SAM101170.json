@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101170",
+ "body": "<p>This subject consists of the following</p>\n\n<h2 id=\"making-the-link\">Making the link</h2>\n\n<p>A link is created between the SA record and a PAYE record automatically when there is a new SA source or PAYE source. Automatic processing then enters the Unique Taxpayer Reference (UTR) (where not already present) and sets an SA signal on PAYE record. At the same time information common to the SA and PAYE record is flowed to update the system where details held differ.</p>\n\n<p>Note: If you are creating or making an SA dormant record live (which shows no agent details) and there is a PAYE record (which holds ‘non-coded’ agent details) you must ensure that the agent details are recorded on SA the same day. Once the link has been made (during the overnight updates) details of the ‘non-coded’ agent are lost from the PAYE system.</p>\n\n<p>The details that are flowed to both systems are</p>\n\n<ul>\n  <li>Name and address</li>\n  <li>RLS signal</li>\n  <li>Abroad signal</li>\n  <li>Sex indicator</li>\n  <li>Date of birth</li>\n  <li>Deceased signal</li>\n  <li>Date of death </li>\n  <li>Special Output details </li>\n  <li>No Repayment signal</li>\n  <li>Main capacity details </li>\n  <li>NINO</li>\n  <li>Agent details (to PAYE only)</li>\n  <li>Communication Name and Address</li>\n</ul>\n\n<p>Other details common to SA and PAYE need to be updated both on the SA and PAYE records.</p>\n\n<h2 id=\"effect-of-the-link\">Effect of the link</h2>\n\n<p>While the link remains in place changes made to the above items on the Taxpayer Business Service (TBS) flow to and update both system records and where appropriate the National Tracing System</p>\n\n<p>And in PAYE linked cases</p>\n\n<ul>\n  <li>An amended NINO entered on TBS by CVU will flow to and update the SA record</li>\n  <li>\n    <p>Any amendment made to the employer reference on the PAYE record, on transfer of the record, flows to SA to</p>\n\n    <ul>\n      <li>Update the PAYE reference details on the SA record</li>\n      <li>Transfer processing responsibility for the SA record</li>\n    </ul>\n  </li>\n  <li>Printed output from the SA system will show NINO and EMPREF in place of the UTR</li>\n  <li>PAYE is the main source. You will not be able to nominate a trade or partner source as the main source</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam101000",
+   "section_id": "SAM101000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:51:50+00:00",
+ "section_id": "SAM101170",
+ "title": "Records: maintain taxpayer record: linking SA and PAYE records"
+}

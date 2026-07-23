@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim47210",
+ "body": "<p>S79, S79A Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005), S79, S80 Corporation Tax Act 2009 (CTA 2009)</p>\n\n<p>A statutory deduction is allowable for additional payments to redundant employees, up to a maximum of three times the amount of the statutory redundancy payment (or, where an approved contractual payment is made, three times the amount that would have been due if a statutory redundancy payment had been payable). In other words, if the statutory payment is £1,000, additional payments may be deducted up to a maximum of £3,000.</p>\n\n<p>The conditions for the relief are:</p>\n\n<ul>\n  <li>there must first be entitlement under S76 ITTOIA 2005 (where the employer is subject to Income Tax) or S76 CTA 2009 (where the employer is a company),</li>\n  <li>the additional payment would be allowable as a deduction on general principles (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47200\">BIM47200</a>) but for the permanent discontinuance of the trade or part of the trade.</li>\n</ul>\n\n<p>A change in the persons carrying on the trade is treated as a permanent discontinuance of the trade for this purpose unless there is at least one person who carried on the trade both immediately before and after the change.</p>\n\n<p>The deduction applies only to payments to a redundant employee which would satisfy the ‘wholly and exclusively’ test at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim37000\">BIM37000</a> onwards but for the discontinuance of the trade. Payments made as part of a bargain for a sale of shares (as in George Peters &amp; Co Ltd v Smith [1963] 41TC264,see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim42955\">BIM42955</a>) do not qualify for the relief.</p>\n\n<h2 id=\"timing-of-deductions\">Timing of deductions</h2>\n\n<p>Guidance on timing of deductions is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim47215\">BIM47215</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim40000",
+   "section_id": "BIM40000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim42450",
+   "section_id": "BIM42450"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim47000",
+   "section_id": "BIM47000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:21:04+01:00",
+ "section_id": "BIM47210",
+ "title": "Specific deductions: staffing costs: additional payments to redundant employees"
+}

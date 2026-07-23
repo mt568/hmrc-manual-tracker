@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123080",
+ "body": "<p>There will be cases where a return is issued in error, for example where the trust was wound up before the beginning of the return year.</p>\n\n<p>You should</p>\n\n<ul>\n  <li>Log and use function CREATE RETURN CHARGE to enter a nil charge on the record</li>\n</ul>\n\n<p>There are also cases where there are two SA records for one trust or pension scheme on the computer. This means that the trust or pension scheme will be issued automatically with two returns. In the majority of cases a representative of the trust will contact you to ask you which return should be completed. You should establish the background to the error and decide</p>\n\n<ul>\n  <li>Which tax return is to be completed</li>\n  <li>Which record is to be made dormant for the year following the return year</li>\n  <li>Log and enter a nil charge for the incorrectly issued return on the record that is to be made dormant</li>\n  <li>Make the duplicate record dormant</li>\n  <li>On receipt of the completed return, log, and enter the information in TSS or manually calculate the liability, and then enter the charge on the record using function CREATE RETURN CHARGE as normal</li>\n</ul>\n\n<p>If the uncompleted return is not logged automatic penalties will be charged on the trust or pension scheme incorrectly. For information on using function CREATE RETURN CHARGE for the uncompleted return see subject ‘Return charge to be created for return issued in error’ (<a href=\"https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam123300\">SAM123300</a>).</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam123000",
+   "section_id": "SAM123000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:56:38+00:00",
+ "section_id": "SAM123080",
+ "title": "Returns: trust returns: return issued to trust in error"
+}

@@ -1,0 +1,23 @@
+{
+ "base_path": "/hmrc-internal-manuals/business-income-manual/bim33540",
+ "body": "<p>SS184, 185 Income Tax (Trading and Other Income) Act 2005 (ITTOIA 2005)</p>\n<h2><a id=\"IDAX0GHC\">Basic rule</a></h2>\n<p>The basic rule for valuing work in progress on the discontinuance of a profession or vocation is given by S184 ITTOIA 2005 and provides that:</p>\n<ul><li class=\"filledcircle\">if the work is transferred to another person who will carry on a trade, profession or vocation in the UK, and who is entitled to deduct the cost of the work in computing his profits from that trade, profession or vocation, the value is the amount paid or other consideration given,</li><li class=\"filledcircle\">otherwise the value is the arm’s length value.</li></ul>\n<p>For the special rules to apply where an election to calculate the profits of the profession or vocation using the cash basis was in place for the tax year of its discontinuance, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70025\">BIM70025</a>.</p>\n<p><a href=\"#Top\">Top of page</a></p>\n<h2><a id=\"IDA13GHC\">Election to use cost</a></h2>\n<p>There is an exception from this rule, given by S185 ITTOIA 2005, if the person carrying on the profession or vocation makes an election.  The election must be made by the second 31 January following the year of assessment in which the profession or vocation is discontinued.  So if the person stopped carrying on their profession on 23 June 2023 the year of assessment would end on 5 April 2024.  They would have until 31 January 2025 to make the election.  </p>\n<p>If a valid election is made the closing value of the work in progress for the last accounting period of the profession or vocation is the cost of that work.  Any amount received for that work in progress in excess of cost is chargeable for tax as a post cessation receipt, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim80500\">BIM80500</a> onwards.</p>\n<p>These valuation rules do not apply if the profession or vocation ceases because a sole practitioner dies, see <a href=\"https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33520\">BIM33520</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim30000",
+   "section_id": "BIM30000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33000",
+   "section_id": "BIM33000"
+  },
+  {
+   "base_path": "/hmrc-internal-manuals/business-income-manual/bim33450",
+   "section_id": "BIM33450"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-04-01T15:07:19+01:00",
+ "section_id": "BIM33540",
+ "title": "Stock: valuation on discontinuance of business: professional work in progress"
+}
