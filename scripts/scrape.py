@@ -204,13 +204,16 @@ class Manual:
         else:                                          # confirmed on 2nd run
             sec["status"] = "tombstone"
             sec["removed_at"] = now_iso()
-            self.deletes += [f"data/{self.slug}/{sid}.json",
-                             f"view/{self.slug}/{sid}.md"]
-            self.stats["removed"] += 1
-            self.events.append({"ts": now_iso(), "type": "removed",
-                                "slug": self.slug, "section_id": sid,
-                                "last_path": sec.get("path"),
-                                "run_id": self.run_id})
+            # dangling contents links 404 without ever having been stored;
+            # only a page we actually held warrants a "removed" event
+            if (ROOT / f"data/{self.slug}/{sid}.json").exists():
+                self.deletes += [f"data/{self.slug}/{sid}.json",
+                                 f"view/{self.slug}/{sid}.md"]
+                self.stats["removed"] += 1
+                self.events.append({"ts": now_iso(), "type": "removed",
+                                    "slug": self.slug, "section_id": sid,
+                                    "last_path": sec.get("path"),
+                                    "run_id": self.run_id})
 
     def get_section(self, sid, path, conditional=True):
         sec = self.manifest["sections"].setdefault(
