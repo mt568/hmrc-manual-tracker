@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4500",
+ "body": "<p>If a business using FRS is transferred as a going concern and the VAT registration number is reallocated, FRS treatment will continue unless the transferee requests otherwise.</p>\n\n<p>Where the FRS indicator is set and reallocation is requested, a letter will be generated automatically and sent to the transferee.</p>\n\n<p>If there is a TOGC of an FRS business without the reallocation of the number, the transferor’s FRS treatment will end unless there remains an eligible portion of the business. The transferee will be on normal accounting unless it applies for FRS.</p>\n\n<ol>\n  <li>Note: The computer will not identify cases where there is a TOGC without reallocation of the VAT registration number.</li>\n</ol>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4000",
+   "section_id": "FRS4000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:32:57+00:00",
+ "section_id": "FRS4500",
+ "title": "Leaving the scheme: What happens if there is a TOGC?"
+}

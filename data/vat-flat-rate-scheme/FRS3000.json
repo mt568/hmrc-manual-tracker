@@ -1,0 +1,51 @@
+{
+ "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3100",
+     "description": "",
+     "section_id": "FRS3100",
+     "title": "When can an eligible business start using the FRS?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3200",
+     "description": "",
+     "section_id": "FRS3200",
+     "title": "Can HMRC allow a retrospective start date for FRS?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3300",
+     "description": "",
+     "section_id": "FRS3300",
+     "title": "Considering requests for retrospective use of the FRS"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3400",
+     "description": "",
+     "section_id": "FRS3400",
+     "title": "If you decide to allow retrospection"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3500",
+     "description": "",
+     "section_id": "FRS3500",
+     "title": "If you decide to disallow retrospection"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3600",
+     "description": "",
+     "section_id": "FRS3600",
+     "title": "Why are there so many exclusions?"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:32:52+00:00",
+ "section_id": "FRS3000",
+ "title": "Treatment of Applications: Contents"
+}

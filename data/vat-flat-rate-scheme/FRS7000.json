@@ -1,0 +1,45 @@
+{
+ "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs7000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs7100",
+     "description": "",
+     "section_id": "FRS7100",
+     "title": "Reduction during the first year of VAT registration"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs7200",
+     "description": "",
+     "section_id": "FRS7200",
+     "title": "A to Z of flat rate percentages by trade"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs7300",
+     "description": "",
+     "section_id": "FRS7300",
+     "title": "A to Z of flat rate percentages by sector"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs7700",
+     "description": "",
+     "section_id": "FRS7700",
+     "title": "Table of flat rates - 1 December 2008 to 31 December 2009"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs7800",
+     "description": "",
+     "section_id": "FRS7800",
+     "title": "Table of flat rates - 1 January 2010 to 3 January 2011"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:33:02+00:00",
+ "section_id": "FRS7000",
+ "title": "Trade Sectors: contents"
+}

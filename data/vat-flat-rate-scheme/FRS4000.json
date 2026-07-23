@@ -1,0 +1,45 @@
+{
+ "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4000",
+ "body": "\n",
+ "breadcrumbs": [],
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4100",
+     "description": "",
+     "section_id": "FRS4100",
+     "title": "Can HMRC allow a business to leave the scheme retrospectively?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4200",
+     "description": "",
+     "section_id": "FRS4200",
+     "title": "What is the leaving date for businesses using both the FRS and Annual Accounting schemes?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4300",
+     "description": "",
+     "section_id": "FRS4300",
+     "title": "Can HMRC withdraw use of the flat rate scheme?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4400",
+     "description": "",
+     "section_id": "FRS4400",
+     "title": "Why is the leaving test tax inclusive?"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4500",
+     "description": "",
+     "section_id": "FRS4500",
+     "title": "What happens if there is a TOGC?"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:32:55+00:00",
+ "section_id": "FRS4000",
+ "title": "Leaving the scheme: Contents"
+}

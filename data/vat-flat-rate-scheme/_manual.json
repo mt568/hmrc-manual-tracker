@@ -1,0 +1,65 @@
+{
+ "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme",
+ "child_section_groups": [
+  {
+   "child_sections": [
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs0500",
+     "description": "",
+     "section_id": "FRS0500",
+     "title": "Data Protection"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs1000",
+     "description": "",
+     "section_id": "FRS1000",
+     "title": "Introduction: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs2000",
+     "description": "",
+     "section_id": "FRS2000",
+     "title": "Policy and background: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3000",
+     "description": "",
+     "section_id": "FRS3000",
+     "title": "Treatment of applications: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4000",
+     "description": "",
+     "section_id": "FRS4000",
+     "title": "Leaving the scheme: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs5000",
+     "description": "",
+     "section_id": "FRS5000",
+     "title": "Addressing risks and assurance: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs6000",
+     "description": "",
+     "section_id": "FRS6000",
+     "title": "Anti-avoidance rules: contents"
+    },
+    {
+     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs7000",
+     "description": "",
+     "section_id": "FRS7000",
+     "title": "Trade sectors: contents"
+    }
+   ],
+   "title": ""
+  },
+  {
+   "child_sections": [],
+   "title": "Updates"
+  }
+ ],
+ "description": "Guidance on the VAT flat rate scheme (FRS) for small businesses, which was introduced in Budget 2002.",
+ "public_updated_at": "2024-05-31T07:25:58+01:00",
+ "title": "VAT Flat Rate Scheme"
+}

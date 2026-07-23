@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs6100",
+ "body": "<p>The FRS is intended for small stand-alone businesses and the anti-avoidance exclusions mean:</p>\n\n<ol>\n  <li>Businesses that are eligible for group treatment, or are registered for VAT as a divisional registration, at the time of application - or have been in the preceding 24 months - are excluded.</li>\n</ol>\n\n<blockquote>\n  <p>This is designed to reduce the threat of exploitation by larger companies.</p>\n</blockquote>\n\n<ol>\n  <li>Businesses that acquire or intend to acquire capital items that are covered by the capital goods scheme are excluded.</li>\n</ol>\n\n<blockquote>\n  <p>Analysis showed that the treatment of FRS businesses as fully taxable presented the potential for abuse by exempt companies and this exclusion is to prevent such avoidance schemes from developing.</p>\n</blockquote>\n\n<ol>\n  <li>Businesses that are associated - or have been in the preceding 24 months - are excluded.</li>\n</ol>\n\n<blockquote>\n  <p>This is a catch-all provision to prevent avoidance and abuse. Further details can be found at FRS6200.</p>\n</blockquote>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs6000",
+   "section_id": "FRS6000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:32:59+00:00",
+ "section_id": "FRS6100",
+ "title": "Anti-Avoidance Rules: What are the anti-avoidance exclusions?"
+}

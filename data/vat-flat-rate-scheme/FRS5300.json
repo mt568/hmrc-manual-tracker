@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs5300",
+ "body": "<p>The policy background explained in <a href=\"https://www.gov.uk/hmrc-internal-manuals/vat-flat-rate-scheme/frs2000\">FRS2000</a> determines the general approach to be adopted when dealing with small businesses. Minor and isolated infractions of the scheme rules should be dealt with leniently. However, the law contains strong powers to counter avoidance and abuse and these should be used where either of these factors is present.</p>\n\n<p>The key purpose of assurance is to obtain a view of the credibility of the business’ declarations. The approach to FRS businesses should be no different in principle but sift teams and assurance staff should note:</p>\n\n<ul>\n  <li>There is a legend on the R2 screen in VISION showing when a business joined the scheme and also a period indicator in the period records.</li>\n  <li>The business’ returns will be calculated differently from those using normal VAT accounting, specifically in boxes 1, 4, 6 and 7 of the VAT return.</li>\n  <li>There will not be routine claims for input tax. Claims that do arise will be clearly signalled in box 4 of the VAT return and should be evidenced in the normal way.</li>\n  <li>The absence of input tax claims does not reduce the value of purchase records as indicators of sales credibility.</li>\n  <li>There will be a need for additional checks on the eligibility of the business to use FRS.</li>\n</ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs5000",
+   "section_id": "FRS5000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:32:58+00:00",
+ "section_id": "FRS5300",
+ "title": "Addressing risks and assurance: How should assurance staff approach FRS businesses?"
+}

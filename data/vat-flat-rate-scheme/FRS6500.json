@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs6500",
+ "body": "<p>Input tax is accounted for in the calculation of the flat rate percentages. Therefore, no VAT is claimable if the supply is:</p>\n\n<ul>\n  <li>more than one purchase and covered by individual invoices</li>\n  <li>under £2,000 including VAT or</li>\n  <li>of services.</li>\n</ul>\n\n<p>Note: The construction of an extension is considered to be a supply of services and does not qualify as capital expenditure for the purposes of FRS.</p>\n\n<p>However, under Regulation 55E of VAT Regulations 1995, a business that uses the flat rate scheme is able to reclaim the VAT it has been charged on a single purchase of capital expenditure goods, if that purchase is for £2,000 or more including VAT. The goods must have been bought for use in the business but should not be used up by it. For example, a van, a computer or bottling machine but not the fuel, printer paper or bottles that go with them. The definition of ‘capital expenditure goods’ also excludes goods bought to:</p>\n\n<ul>\n  <li>resell</li>\n  <li>incorporate into other goods for onward supply</li>\n  <li>consume (or completely use) within one year</li>\n  <li>generate business income by being leased, let or hired</li>\n  <li>goods covered by the capital goods scheme</li>\n</ul>\n\n<p>The decision at the VAT and Duties tribunal in the case of Eventful Management Limited (MAN/005/0797) demonstrated support for HMRC’s policy relating to capital expenditure goods. In this case, the business purchased building materials from several suppliers, with invoices ranging from a few pounds to just under £1,000. A claim for input tax was submitted on the basis of ‘capital goods expenditure’. The tribunal found that the purchases did not meet the requirements of Regulation 55E(1), as there was no single purchase made and dismissed the appeal.</p>\n\n<p>For further details of capital expenditure goods in the flat rate scheme, see <a href=\"http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageVAT_ShowContent&amp;id=HMCE_CL_000345&amp;propertyType=document#toc\">Notice 733 VAT Flat rate scheme for small businesses</a>.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs6000",
+   "section_id": "FRS6000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:33:01+00:00",
+ "section_id": "FRS6500",
+ "title": "Anti-Avoidance Rules: How is VAT reclaimed on ‘capital expenditure goods’?"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs6300",
+ "body": "<p>The purpose of these tests is to identify cases where there is practical influence of one business on another even though there may not be any legal right for one company to influence the other.</p>\n\n<p>Dominant influence in this context does not involve the sort of power a customer may have by reason of the commercial relationship with a supplier. However, it does include the ability to influence the operating or financial policies of another company, even when that influence is sporadic rather than continuous.</p>\n\n<p>Financial links include financial support given by one party to another, economic links include activities where the activities of one party are ultimately for the benefit of another, and organisational links may involve common management, shared premises or shared employees.</p>\n\n<p>Where the normal business relationships exist then businesses are not generally associated. For example, if a husband and wife are each separately VAT registered, he as an architect and she as an antiques dealer, and he rents the upper floor of her shop, at a market rate, to use as his office, then they will not be associated. In considering links between businesses, you may find the guidance in <a href=\"https://www.gov.uk/hmrc-internal-manuals/vat-single-entity-and-disaggregation-manual\">VATDSAG</a> helpful. If in doubt, discuss the case with the VASE Team.</p>\n\n<p>The decision at the VAT and Duties tribunal in the case of Welshback Exercise Limited (LON/06/1175) demonstrated support for HMRC’s policy relating to association. In this case, HMRC considered the appellant to be associated with another business, as they had common shareholders and close financial links. This association made it ineligible for the scheme under Regulation 55A(2). The tribunal found that the businesses ‘were closely bound by financial, economic and organisational links’ and found that the decision to withdraw use of the flat rate scheme was reasonable under Regulation 55P. The appeal was dismissed. Another positive aspect of this decision is that it contains an extremely useful methodology for deciding whether an association exists.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs6000",
+   "section_id": "FRS6000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2018-12-14T01:23:05+00:00",
+ "section_id": "FRS6300",
+ "title": "Anti-Avoidance Rules: How are the tests of 'dominant influence' and 'organisational links' to be interpreted?"
+}

@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4200",
+ "body": "<p>Where a business using FRS and annual accounting becomes ineligible for FRS on the basis of the first turnover test (past turnover on the anniversary of joining FRS - see <a href=\"http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageVAT_ShowContent&amp;id=HMCE_CL_000345&amp;propertyType=document#toc\">Notice 733</a>), it must cease to use the FRS at the earlier of either:</p>\n\n<ul>\n  <li>the end of the period in which the anniversary of joining the FRS falls, or</li>\n  <li>the end of the month following the month in which the anniversary falls.</li>\n</ul>\n\n<p>Example:</p>\n\n<p>A business starts to use annual accounting and FRS on 1 May 2006.</p>\n\n<p>Its annual accounting year runs from 1 May to 30 April.</p>\n\n<p>On performing the turnover test on 1 May 2007, it exceeds the limit for FRS. Its prescribed accounting period ends on 30 April 2008. It must stop accounting for VAT using the FRS on 30 June 2007.</p>\n\n<p>The business may leave the FRS but if it remains eligible for annual accounting, it may stay in that scheme. Remember, that a business may leave the FRS in the middle of an annual accounting period. In such cases, the annual return will be calculated using the FRS until the date it leaves the scheme, and using normal accounting for the rest of the period.</p>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4000",
+   "section_id": "FRS4000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2016-02-23T14:32:56+00:00",
+ "section_id": "FRS4200",
+ "title": "Leaving the scheme: What is the leaving date for businesses using both the FRS and the Annual Accounting schemes?"
+}
