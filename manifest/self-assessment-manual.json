@@ -29,7 +29,7 @@
   "SAM004": {
    "children": [],
    "etag": "W/\"ecc9e480391a65a4224e96561e038629\"",
-   "last_ok": "2026-07-25T08:05:19+00:00",
+   "last_ok": "2026-08-01T08:17:59+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam004",
    "status": "live"
@@ -37,7 +37,7 @@
   "SAM005": {
    "children": [],
    "etag": "W/\"9b84f94a92949dd493abac490d2a6cd0\"",
-   "last_ok": "2026-07-25T08:05:20+00:00",
+   "last_ok": "2026-08-01T08:18:00+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam005",
    "status": "live"
@@ -241,7 +241,7 @@
   "SAM1001": {
    "children": [],
    "etag": "W/\"298d10eedf566ae2719d0a89cf632ff8\"",
-   "last_ok": "2026-07-25T08:05:21+00:00",
+   "last_ok": "2026-08-01T08:18:01+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam1001",
    "status": "live"
@@ -249,7 +249,7 @@
   "SAM10010": {
    "children": [],
    "etag": "W/\"6bb0ac476ed6076b3c49440c3c25262c\"",
-   "last_ok": "2026-07-25T08:05:22+00:00",
+   "last_ok": "2026-08-01T08:18:02+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam10010",
    "status": "live"
@@ -257,7 +257,7 @@
   "SAM100110": {
    "children": [],
    "etag": "W/\"7f4a5e6d2a8210cf420fedde05330e02\"",
-   "last_ok": "2026-07-25T08:05:22+00:00",
+   "last_ok": "2026-08-01T08:18:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam100110",
    "status": "live"
@@ -401,7 +401,7 @@
   "SAM100230": {
    "children": [],
    "etag": "W/\"90c2a729131e6dded678b760940a7989\"",
-   "last_ok": "2026-07-25T08:05:23+00:00",
+   "last_ok": "2026-08-01T08:18:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam100230",
    "status": "live"
@@ -497,7 +497,7 @@
   "SAM10030": {
    "children": [],
    "etag": "W/\"64046c03e2b793efbd6d9c3cb7f0f8a9\"",
-   "last_ok": "2026-07-25T08:05:24+00:00",
+   "last_ok": "2026-08-01T08:18:04+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam10030",
    "status": "live"
@@ -577,7 +577,7 @@
   "SAM10071": {
    "children": [],
    "etag": "W/\"eba05d842ff9f43d5f27dc31b0e225d4\"",
-   "last_ok": "2026-07-25T08:05:25+00:00",
+   "last_ok": "2026-08-01T08:18:05+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam10071",
    "status": "live"
@@ -625,7 +625,7 @@
   "SAM10090": {
    "children": [],
    "etag": "W/\"18d0afdcc1f67556aad70d13f25f68df\"",
-   "last_ok": "2026-07-25T08:05:26+00:00",
+   "last_ok": "2026-08-01T08:18:06+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam10090",
    "status": "live"
@@ -641,7 +641,7 @@
   "SAM10100": {
    "children": [],
    "etag": "W/\"723c6c5c906c93da9ea546d79c6a7c9e\"",
-   "last_ok": "2026-07-25T08:05:26+00:00",
+   "last_ok": "2026-08-01T08:18:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam10100",
    "status": "live"
@@ -767,7 +767,7 @@
   "SAM101043": {
    "children": [],
    "etag": "W/\"bdb138860121595dc230dea621f63966\"",
-   "last_ok": "2026-07-25T08:05:27+00:00",
+   "last_ok": "2026-08-01T08:18:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam101043",
    "status": "live"
@@ -775,7 +775,7 @@
   "SAM101050": {
    "children": [],
    "etag": "W/\"695865fee2a4d7071a4bc7cbcfb6202b\"",
-   "last_ok": "2026-07-25T08:05:28+00:00",
+   "last_ok": "2026-08-01T08:18:08+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam101050",
    "status": "live"
@@ -823,7 +823,7 @@
   "SAM101080": {
    "children": [],
    "etag": "W/\"648a041c5f58f2073d1961667202461e\"",
-   "last_ok": "2026-07-25T08:05:28+00:00",
+   "last_ok": "2026-08-01T08:18:08+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam101080",
    "status": "live"
@@ -871,7 +871,7 @@
   "SAM10110": {
    "children": [],
    "etag": "W/\"52667b30465632e3d7e26f28c033c5a5\"",
-   "last_ok": "2026-07-25T08:05:29+00:00",
+   "last_ok": "2026-08-01T08:18:09+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam10110",
    "status": "live"
@@ -911,7 +911,7 @@
   "SAM101110": {
    "children": [],
    "etag": "W/\"c318d59607f88ab5a13a3d76fa3e5069\"",
-   "last_ok": "2026-07-25T08:05:30+00:00",
+   "last_ok": "2026-08-01T08:18:10+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam101110",
    "status": "live"
@@ -919,7 +919,7 @@
   "SAM101120": {
    "children": [],
    "etag": "W/\"88c9a6ee04bc585233432cfa5ca1e5c7\"",
-   "last_ok": "2026-07-25T08:05:30+00:00",
+   "last_ok": "2026-08-01T08:18:11+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam101120",
    "status": "live"
@@ -927,7 +927,7 @@
   "SAM101121": {
    "children": [],
    "etag": "W/\"684f0a22e398883a62c8c165d2dad7e4\"",
-   "last_ok": "2026-07-25T08:05:31+00:00",
+   "last_ok": "2026-08-01T08:18:11+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam101121",
    "status": "live"
@@ -1183,7 +1183,7 @@
   "SAM10170": {
    "children": [],
    "etag": "W/\"ac4d517e44475cd10339637c2ac56667\"",
-   "last_ok": "2026-07-25T08:05:32+00:00",
+   "last_ok": "2026-08-01T08:18:12+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam10170",
    "status": "live"
@@ -1207,7 +1207,7 @@
   "SAM1020": {
    "children": [],
    "etag": "W/\"4b4cff697fc2e7dfbee9b5ffb7ac8088\"",
-   "last_ok": "2026-07-25T08:05:32+00:00",
+   "last_ok": "2026-08-01T08:18:13+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam1020",
    "status": "live"
@@ -1255,7 +1255,7 @@
   "SAM103001": {
    "children": [],
    "etag": "W/\"986d76b7358f52bb74d1641f56c4521b\"",
-   "last_ok": "2026-07-25T08:05:33+00:00",
+   "last_ok": "2026-08-01T08:18:13+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam103001",
    "status": "live"
@@ -1611,7 +1611,7 @@
   "SAM106031": {
    "children": [],
    "etag": "W/\"d22252ffcbd79d85b3fb4c4e78bf3be9\"",
-   "last_ok": "2026-07-25T08:05:34+00:00",
+   "last_ok": "2026-08-01T08:18:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam106031",
    "status": "live"
@@ -1659,7 +1659,7 @@
   "SAM106060": {
    "children": [],
    "etag": "W/\"7ae399c0f37bba8f9b82764299f9faed\"",
-   "last_ok": "2026-07-25T08:05:34+00:00",
+   "last_ok": "2026-08-01T08:18:15+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam106060",
    "status": "live"
@@ -1715,7 +1715,7 @@
   "SAM106120": {
    "children": [],
    "etag": "W/\"573de39c6e46f15f20a3974055b3ad2a\"",
-   "last_ok": "2026-07-25T08:05:35+00:00",
+   "last_ok": "2026-08-01T08:18:16+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam106120",
    "status": "live"
@@ -1734,7 +1734,7 @@
     "SAM107013"
    ],
    "etag": "W/\"82112112e15ad99a7af5effabb246017\"",
-   "last_ok": "2026-07-25T08:05:36+00:00",
+   "last_ok": "2026-08-01T08:18:16+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam107000",
    "status": "live"
@@ -1786,7 +1786,7 @@
   "SAM108001": {
    "children": [],
    "etag": "W/\"31a39c02944dae7604e680193ccdb494\"",
-   "last_ok": "2026-07-25T08:05:37+00:00",
+   "last_ok": "2026-08-01T08:18:17+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam108001",
    "status": "live"
@@ -1986,7 +1986,7 @@
     "SAM110271"
    ],
    "etag": "W/\"704154ca1330d6750e646af77e785284\"",
-   "last_ok": "2026-07-25T08:05:37+00:00",
+   "last_ok": "2026-08-01T08:18:18+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam110000",
    "status": "live"
@@ -2034,7 +2034,7 @@
   "SAM110030": {
    "children": [],
    "etag": "W/\"8528533b8b058331168bc0a02a46ed55\"",
-   "last_ok": "2026-07-25T08:05:38+00:00",
+   "last_ok": "2026-08-01T08:18:18+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam110030",
    "status": "live"
@@ -2098,7 +2098,7 @@
   "SAM110080": {
    "children": [],
    "etag": "W/\"4e88af08cc445b67410987a5afbe4b72\"",
-   "last_ok": "2026-07-25T08:05:39+00:00",
+   "last_ok": "2026-08-01T08:18:19+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam110080",
    "status": "live"
@@ -2170,7 +2170,7 @@
   "SAM110090": {
    "children": [],
    "etag": "W/\"01034e3c610563cb6d8ff6c7996e65f6\"",
-   "last_ok": "2026-07-25T08:05:39+00:00",
+   "last_ok": "2026-08-01T08:18:20+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam110090",
    "status": "live"
@@ -2274,7 +2274,7 @@
   "SAM110125": {
    "children": [],
    "etag": "W/\"e81be059a7de37b2d725f6b793ed0ec9\"",
-   "last_ok": "2026-07-25T08:05:40+00:00",
+   "last_ok": "2026-08-01T08:18:20+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam110125",
    "status": "live"
@@ -2282,7 +2282,7 @@
   "SAM110130": {
    "children": [],
    "etag": "W/\"a2164ded147ebd8e0c0cf3dc31a11f24\"",
-   "last_ok": "2026-07-25T08:05:41+00:00",
+   "last_ok": "2026-08-01T08:18:21+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam110130",
    "status": "live"
@@ -2346,7 +2346,7 @@
   "SAM110144": {
    "children": [],
    "etag": "W/\"09bb30d9550bbcc6b31023d7dbc7f775\"",
-   "last_ok": "2026-07-25T08:05:42+00:00",
+   "last_ok": "2026-08-01T08:18:21+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam110144",
    "status": "live"
@@ -2354,7 +2354,7 @@
   "SAM110160": {
    "children": [],
    "etag": "W/\"e1b4c354b1eb3addca60a274bc6c21f4\"",
-   "last_ok": "2026-07-25T08:05:43+00:00",
+   "last_ok": "2026-08-01T08:18:22+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam110160",
    "status": "live"
@@ -2434,7 +2434,7 @@
   "SAM110210": {
    "children": [],
    "etag": "W/\"7eab67886b2f406377db598aa42ce6a2\"",
-   "last_ok": "2026-07-25T08:05:43+00:00",
+   "last_ok": "2026-08-01T08:18:23+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam110210",
    "status": "live"
@@ -2466,7 +2466,7 @@
   "SAM110230": {
    "children": [],
    "etag": "W/\"fd0b8150adcd549a595962e9b524bb43\"",
-   "last_ok": "2026-07-25T08:05:44+00:00",
+   "last_ok": "2026-08-01T08:18:24+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam110230",
    "status": "live"
@@ -2538,7 +2538,7 @@
   "SAM11030": {
    "children": [],
    "etag": "W/\"c0bd27a7a850b9dcee56fc460067c9b1\"",
-   "last_ok": "2026-07-25T08:05:44+00:00",
+   "last_ok": "2026-08-01T08:18:24+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam11030",
    "status": "live"
@@ -2570,7 +2570,7 @@
   "SAM11061": {
    "children": [],
    "etag": "W/\"a8012d09c15e33db77412bf3f803fb44\"",
-   "last_ok": "2026-07-25T08:05:45+00:00",
+   "last_ok": "2026-08-01T08:18:25+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam11061",
    "status": "live"
@@ -2618,7 +2618,7 @@
   "SAM1110": {
    "children": [],
    "etag": "W/\"67041ad143619c24715e613ba28ba6f7\"",
-   "last_ok": "2026-07-25T08:05:46+00:00",
+   "last_ok": "2026-08-01T08:18:26+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam1110",
    "status": "live"
@@ -2626,7 +2626,7 @@
   "SAM11100": {
    "children": [],
    "etag": "W/\"d56f2831936cdc04742aa41dee7ec79e\"",
-   "last_ok": "2026-07-25T08:05:47+00:00",
+   "last_ok": "2026-08-01T08:18:26+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam11100",
    "status": "live"
@@ -2655,7 +2655,7 @@
   "SAM111010": {
    "children": [],
    "etag": "W/\"4f2d5607acb2a69b617aa96994b69abe\"",
-   "last_ok": "2026-07-25T08:05:48+00:00",
+   "last_ok": "2026-08-01T08:18:27+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam111010",
    "status": "live"
@@ -2727,7 +2727,7 @@
   "SAM11160": {
    "children": [],
    "etag": "W/\"783abf30bab9499feee61d0ef3901a19\"",
-   "last_ok": "2026-07-25T08:05:48+00:00",
+   "last_ok": "2026-08-01T08:18:27+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam11160",
    "status": "live"
@@ -2769,7 +2769,7 @@
   "SAM112010": {
    "children": [],
    "etag": "W/\"29379f53d0b9d21bbb2ee9d632fd72d4\"",
-   "last_ok": "2026-07-25T08:05:49+00:00",
+   "last_ok": "2026-08-01T08:18:28+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam112010",
    "status": "live"
@@ -2785,7 +2785,7 @@
   "SAM112021": {
    "children": [],
    "etag": "W/\"36c7cc8d5860f0d01f78cd75a426b878\"",
-   "last_ok": "2026-07-25T08:05:50+00:00",
+   "last_ok": "2026-08-01T08:18:29+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam112021",
    "status": "live"
@@ -2847,7 +2847,7 @@
     "SAM113071"
    ],
    "etag": "W/\"27450a0a787ea3ed0654de19ecd29935\"",
-   "last_ok": "2026-07-25T08:05:51+00:00",
+   "last_ok": "2026-08-01T08:18:29+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam113000",
    "status": "live"
@@ -2871,7 +2871,7 @@
   "SAM113011": {
    "children": [],
    "etag": "W/\"27c6c1465a135d65b38784bbf5b21561\"",
-   "last_ok": "2026-07-25T08:05:52+00:00",
+   "last_ok": "2026-08-01T08:18:30+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam113011",
    "status": "live"
@@ -2919,7 +2919,7 @@
   "SAM113051": {
    "children": [],
    "etag": "W/\"2fde435841c437fc9e93b4afe21c881f\"",
-   "last_ok": "2026-07-25T08:05:52+00:00",
+   "last_ok": "2026-08-01T08:18:31+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam113051",
    "status": "live"
@@ -2943,7 +2943,7 @@
   "SAM113070": {
    "children": [],
    "etag": "W/\"224261ad7bf95f785c915830d4523493\"",
-   "last_ok": "2026-07-25T08:05:53+00:00",
+   "last_ok": "2026-08-01T08:18:31+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam113070",
    "status": "live"
@@ -3005,7 +3005,7 @@
   "SAM114020": {
    "children": [],
    "etag": "W/\"c75ca328e85b11db5781edc802f7f298\"",
-   "last_ok": "2026-07-25T08:05:54+00:00",
+   "last_ok": "2026-08-01T08:18:32+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam114020",
    "status": "live"
@@ -3091,7 +3091,7 @@
     "SAM12040"
    ],
    "etag": "W/\"d89e9297bdc913aae14a26b6729b8720\"",
-   "last_ok": "2026-07-25T08:05:55+00:00",
+   "last_ok": "2026-08-01T08:18:32+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam12000",
    "status": "live"
@@ -3222,7 +3222,7 @@
   "SAM120050": {
    "children": [],
    "etag": "W/\"401fb2af9d72c8f4f98708fef017da75\"",
-   "last_ok": "2026-07-25T08:05:56+00:00",
+   "last_ok": "2026-08-01T08:18:33+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam120050",
    "status": "live"
@@ -3254,7 +3254,7 @@
   "SAM120090": {
    "children": [],
    "etag": "W/\"d94ef4392ccb782431262b878fe50c95\"",
-   "last_ok": "2026-07-25T08:05:56+00:00",
+   "last_ok": "2026-08-01T08:18:34+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam120090",
    "status": "live"
@@ -3286,7 +3286,7 @@
   "SAM120104": {
    "children": [],
    "etag": "W/\"6548b5f1dde6a921a593d64202f0e8a8\"",
-   "last_ok": "2026-07-25T08:05:57+00:00",
+   "last_ok": "2026-08-01T08:18:34+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam120104",
    "status": "live"
@@ -3294,7 +3294,7 @@
   "SAM120105": {
    "children": [],
    "etag": "W/\"7f98b4bba01016650bedb2ee987441c6\"",
-   "last_ok": "2026-07-25T08:05:58+00:00",
+   "last_ok": "2026-08-01T08:18:35+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam120105",
    "status": "live"
@@ -3342,7 +3342,7 @@
   "SAM120121": {
    "children": [],
    "etag": "W/\"170b138969a2111af65bc4d91f1bf84b\"",
-   "last_ok": "2026-07-25T08:05:58+00:00",
+   "last_ok": "2026-08-01T08:18:35+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam120121",
    "status": "live"
@@ -3522,7 +3522,7 @@
   "SAM120610": {
    "children": [],
    "etag": "W/\"d1da4013592bf340e95350a59cedbf71\"",
-   "last_ok": "2026-07-25T08:05:59+00:00",
+   "last_ok": "2026-08-01T08:18:36+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam120610",
    "status": "live"
@@ -3530,7 +3530,7 @@
   "SAM120620": {
    "children": [],
    "etag": "W/\"ce7d8d6e514d7920f36012e797d20df2\"",
-   "last_ok": "2026-07-25T08:06:00+00:00",
+   "last_ok": "2026-08-01T08:18:37+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam120620",
    "status": "live"
@@ -3538,7 +3538,7 @@
   "SAM120630": {
    "children": [],
    "etag": "W/\"1952dddbd4babe4064cecbbbe34d0e01\"",
-   "last_ok": "2026-07-25T08:06:01+00:00",
+   "last_ok": "2026-08-01T08:18:38+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam120630",
    "status": "live"
@@ -3684,7 +3684,7 @@
   "SAM121010": {
    "children": [],
    "etag": "W/\"c014a1809edad1f80cbba0d4ca1a933b\"",
-   "last_ok": "2026-07-25T08:06:02+00:00",
+   "last_ok": "2026-08-01T08:18:38+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121010",
    "status": "live"
@@ -3692,7 +3692,7 @@
   "SAM121020": {
    "children": [],
    "etag": "W/\"2c8fbc6c051fbc2e67b4ddb71bc172b1\"",
-   "last_ok": "2026-07-25T08:06:02+00:00",
+   "last_ok": "2026-08-01T08:18:39+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121020",
    "status": "live"
@@ -3700,7 +3700,7 @@
   "SAM121021": {
    "children": [],
    "etag": "W/\"154832418e65e03392680f3368bcc8d3\"",
-   "last_ok": "2026-07-25T08:06:03+00:00",
+   "last_ok": "2026-08-01T08:18:40+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121021",
    "status": "live"
@@ -3724,7 +3724,7 @@
   "SAM121031": {
    "children": [],
    "etag": "W/\"ab5b9447cf2e6274302b30b3e9b1242f\"",
-   "last_ok": "2026-07-25T08:06:04+00:00",
+   "last_ok": "2026-08-01T08:18:40+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121031",
    "status": "live"
@@ -3764,7 +3764,7 @@
   "SAM121070": {
    "children": [],
    "etag": "W/\"13c05105b0538f8be83358ed1f73d8ee\"",
-   "last_ok": "2026-07-25T08:06:04+00:00",
+   "last_ok": "2026-08-01T08:18:41+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121070",
    "status": "live"
@@ -3820,7 +3820,7 @@
   "SAM121121": {
    "children": [],
    "etag": "W/\"c0dfd0187c16ab6b261e34be0f162e1e\"",
-   "last_ok": "2026-07-25T08:06:05+00:00",
+   "last_ok": "2026-08-01T08:18:42+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121121",
    "status": "live"
@@ -3884,7 +3884,7 @@
   "SAM121171": {
    "children": [],
    "etag": "W/\"af178cc98aad55794d49139adae772a8\"",
-   "last_ok": "2026-07-25T08:06:06+00:00",
+   "last_ok": "2026-08-01T08:18:43+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121171",
    "status": "live"
@@ -3908,7 +3908,7 @@
   "SAM121190": {
    "children": [],
    "etag": "W/\"a9be03cef15c6e9bc0ac4cd86ed907da\"",
-   "last_ok": "2026-07-25T08:06:07+00:00",
+   "last_ok": "2026-08-01T08:18:43+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121190",
    "status": "live"
@@ -4028,7 +4028,7 @@
   "SAM121268": {
    "children": [],
    "etag": "W/\"68351b4f312f24ec6db159c327bff176\"",
-   "last_ok": "2026-07-25T08:06:07+00:00",
+   "last_ok": "2026-08-01T08:18:44+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121268",
    "status": "live"
@@ -4044,7 +4044,7 @@
   "SAM121271": {
    "children": [],
    "etag": "W/\"9bbcc7a961bc877355a9dccc32b15265\"",
-   "last_ok": "2026-07-25T08:06:08+00:00",
+   "last_ok": "2026-08-01T08:18:45+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121271",
    "status": "live"
@@ -4164,7 +4164,7 @@
   "SAM121421": {
    "children": [],
    "etag": "W/\"c7f2301002c6efff530c80d8e82f65ae\"",
-   "last_ok": "2026-07-25T08:06:09+00:00",
+   "last_ok": "2026-08-01T08:18:46+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121421",
    "status": "live"
@@ -4220,7 +4220,7 @@
   "SAM121451": {
    "children": [],
    "etag": "W/\"0f86a110f075721c1860073f2d9bba40\"",
-   "last_ok": "2026-07-25T08:06:09+00:00",
+   "last_ok": "2026-08-01T08:18:46+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121451",
    "status": "live"
@@ -4292,7 +4292,7 @@
   "SAM121504": {
    "children": [],
    "etag": "W/\"67d8966ff6a2e5e2c1078f4d1d1a6396\"",
-   "last_ok": "2026-07-25T08:06:10+00:00",
+   "last_ok": "2026-08-01T08:18:47+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121504",
    "status": "live"
@@ -4300,7 +4300,7 @@
   "SAM121507": {
    "children": [],
    "etag": "W/\"a97ebddfb9e92ef730101b15f447b522\"",
-   "last_ok": "2026-07-25T08:06:11+00:00",
+   "last_ok": "2026-08-01T08:18:47+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam121507",
    "status": "live"
@@ -4579,7 +4579,7 @@
   "SAM122010": {
    "children": [],
    "etag": "W/\"47b3501844d941f8c0bf269233eb7549\"",
-   "last_ok": "2026-07-25T08:06:12+00:00",
+   "last_ok": "2026-08-01T08:18:48+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam122010",
    "status": "live"
@@ -4595,7 +4595,7 @@
   "SAM122017": {
    "children": [],
    "etag": "W/\"31849309adb7ea20b1b647f6654f518b\"",
-   "last_ok": "2026-07-25T08:06:12+00:00",
+   "last_ok": "2026-08-01T08:18:49+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam122017",
    "status": "live"
@@ -4707,7 +4707,7 @@
   "SAM122100": {
    "children": [],
    "etag": "W/\"29c3426d9da755a83bf2381719829d1f\"",
-   "last_ok": "2026-07-25T08:06:13+00:00",
+   "last_ok": "2026-08-01T08:18:49+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam122100",
    "status": "live"
@@ -4723,7 +4723,7 @@
   "SAM122111": {
    "children": [],
    "etag": "W/\"42436a037b29cfb4d2d1766f3ccff5d3\"",
-   "last_ok": "2026-07-25T08:06:14+00:00",
+   "last_ok": "2026-08-01T08:18:50+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam122111",
    "status": "live"
@@ -4755,7 +4755,7 @@
   "SAM122140": {
    "children": [],
    "etag": "W/\"f8da3976f5bd2748fbb7d5ecbfa9f53f\"",
-   "last_ok": "2026-07-25T08:06:14+00:00",
+   "last_ok": "2026-08-01T08:18:51+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam122140",
    "status": "live"
@@ -4883,7 +4883,7 @@
   "SAM122230": {
    "children": [],
    "etag": "W/\"37a9f00d40222e51fd21f3627a9b497f\"",
-   "last_ok": "2026-07-25T08:06:15+00:00",
+   "last_ok": "2026-08-01T08:18:51+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam122230",
    "status": "live"
@@ -4931,7 +4931,7 @@
   "SAM122261": {
    "children": [],
    "etag": "W/\"dd5fdcf6b1c734fa99e9fa3f952359e0\"",
-   "last_ok": "2026-07-25T08:06:16+00:00",
+   "last_ok": "2026-08-01T08:18:52+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam122261",
    "status": "live"
@@ -5062,7 +5062,7 @@
   "SAM123040": {
    "children": [],
    "etag": "W/\"bf480d36d36c3b2e1bc4689da5a7f20a\"",
-   "last_ok": "2026-07-25T08:06:17+00:00",
+   "last_ok": "2026-08-01T08:18:52+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123040",
    "status": "live"
@@ -5094,7 +5094,7 @@
   "SAM123060": {
    "children": [],
    "etag": "W/\"db5fe3486551f086b48e4d9f11bee4bf\"",
-   "last_ok": "2026-07-25T08:06:17+00:00",
+   "last_ok": "2026-08-01T08:18:53+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123060",
    "status": "live"
@@ -5190,7 +5190,7 @@
   "SAM123141": {
    "children": [],
    "etag": "W/\"4d702568b745410db774759dce28718d\"",
-   "last_ok": "2026-07-25T08:06:18+00:00",
+   "last_ok": "2026-08-01T08:18:54+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123141",
    "status": "live"
@@ -5206,7 +5206,7 @@
   "SAM123160": {
    "children": [],
    "etag": "W/\"5fd94d23e70b9c00697cd53c3e94dd61\"",
-   "last_ok": "2026-07-25T08:06:19+00:00",
+   "last_ok": "2026-08-01T08:18:55+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123160",
    "status": "live"
@@ -5214,7 +5214,7 @@
   "SAM123161": {
    "children": [],
    "etag": "W/\"1f76a4c5d65e3d80292cc3b6fb58071d\"",
-   "last_ok": "2026-07-25T08:06:19+00:00",
+   "last_ok": "2026-08-01T08:18:55+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123161",
    "status": "live"
@@ -5238,7 +5238,7 @@
   "SAM123185": {
    "children": [],
    "etag": "W/\"9b4e326398a4083b7dce164784f63fbe\"",
-   "last_ok": "2026-07-25T08:06:20+00:00",
+   "last_ok": "2026-08-01T08:18:56+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123185",
    "status": "live"
@@ -5254,7 +5254,7 @@
   "SAM123200": {
    "children": [],
    "etag": "W/\"c41d1b93843fa78a5275c527701b2db0\"",
-   "last_ok": "2026-07-25T08:06:21+00:00",
+   "last_ok": "2026-08-01T08:18:56+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123200",
    "status": "live"
@@ -5286,7 +5286,7 @@
   "SAM123214": {
    "children": [],
    "etag": "W/\"3423294a259e093b1fe3d61cfc65d9cc\"",
-   "last_ok": "2026-07-25T08:06:21+00:00",
+   "last_ok": "2026-08-01T08:18:57+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123214",
    "status": "live"
@@ -5302,7 +5302,7 @@
   "SAM123221": {
    "children": [],
    "etag": "W/\"b5a5313985c0f955ffe7311f069f5bfe\"",
-   "last_ok": "2026-07-25T08:06:22+00:00",
+   "last_ok": "2026-08-01T08:18:58+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123221",
    "status": "live"
@@ -5342,7 +5342,7 @@
   "SAM123251": {
    "children": [],
    "etag": "W/\"1a8d2032310c94a9eb9d9795ee75f50f\"",
-   "last_ok": "2026-07-25T08:06:23+00:00",
+   "last_ok": "2026-08-01T08:18:58+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123251",
    "status": "live"
@@ -5366,7 +5366,7 @@
   "SAM123271": {
    "children": [],
    "etag": "W/\"97af3f0f090e908120b1422f78cf73f4\"",
-   "last_ok": "2026-07-25T08:06:24+00:00",
+   "last_ok": "2026-08-01T08:18:59+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123271",
    "status": "live"
@@ -5398,7 +5398,7 @@
   "SAM123300": {
    "children": [],
    "etag": "W/\"3e507523fc7a822c3fe59a84d3e6eb91\"",
-   "last_ok": "2026-07-25T08:06:24+00:00",
+   "last_ok": "2026-08-01T08:19:00+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam123300",
    "status": "live"
@@ -5524,7 +5524,7 @@
   "SAM124020": {
    "children": [],
    "etag": "W/\"08488a625faab659b1260b75e599ac27\"",
-   "last_ok": "2026-07-25T08:06:25+00:00",
+   "last_ok": "2026-08-01T08:19:00+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam124020",
    "status": "live"
@@ -5660,7 +5660,7 @@
   "SAM124071": {
    "children": [],
    "etag": "W/\"066e1bedb29a92f87d8e230667ccd341\"",
-   "last_ok": "2026-07-25T08:06:26+00:00",
+   "last_ok": "2026-08-01T08:19:01+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam124071",
    "status": "live"
@@ -5708,7 +5708,7 @@
   "SAM124111": {
    "children": [],
    "etag": "W/\"289f4df7c7db2076a6ef2302d1808752\"",
-   "last_ok": "2026-07-25T08:06:27+00:00",
+   "last_ok": "2026-08-01T08:19:02+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam124111",
    "status": "live"
@@ -5740,7 +5740,7 @@
   "SAM124130": {
    "children": [],
    "etag": "W/\"604e00fd11cbce394712ad0daee65f7e\"",
-   "last_ok": "2026-07-25T08:06:27+00:00",
+   "last_ok": "2026-08-01T08:19:02+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam124130",
    "status": "live"
@@ -5764,7 +5764,7 @@
   "SAM124150": {
    "children": [],
    "etag": "W/\"99e709b89fe7f3df0431b95656660a94\"",
-   "last_ok": "2026-07-25T08:06:28+00:00",
+   "last_ok": "2026-08-01T08:19:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam124150",
    "status": "live"
@@ -5780,7 +5780,7 @@
   "SAM124160": {
    "children": [],
    "etag": "W/\"109cb11f4e8b863509041a9ec87aea11\"",
-   "last_ok": "2026-07-25T08:06:29+00:00",
+   "last_ok": "2026-08-01T08:19:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam124160",
    "status": "live"
@@ -6038,7 +6038,7 @@
   "SAM125130": {
    "children": [],
    "etag": "W/\"e7bbca54fd07a5fc82b9ce29be92e0f9\"",
-   "last_ok": "2026-07-25T08:06:29+00:00",
+   "last_ok": "2026-08-01T08:19:04+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam125130",
    "status": "live"
@@ -6166,7 +6166,7 @@
   "SAM125231": {
    "children": [],
    "etag": "W/\"9e7db23283b1d727a514db139c2e773b\"",
-   "last_ok": "2026-07-25T08:06:30+00:00",
+   "last_ok": "2026-08-01T08:19:05+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam125231",
    "status": "live"
@@ -6223,7 +6223,7 @@
   "SAM126040": {
    "children": [],
    "etag": "W/\"952696e2f78034accfeeef6ec676fe55\"",
-   "last_ok": "2026-07-25T08:06:30+00:00",
+   "last_ok": "2026-08-01T08:19:06+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam126040",
    "status": "live"
@@ -6231,7 +6231,7 @@
   "SAM126060": {
    "children": [],
    "etag": "W/\"7c90f3172049e6d9a51b57a27d7b67b0\"",
-   "last_ok": "2026-07-25T08:06:31+00:00",
+   "last_ok": "2026-08-01T08:19:06+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam126060",
    "status": "live"
@@ -6239,7 +6239,7 @@
   "SAM126070": {
    "children": [],
    "etag": "W/\"a78352b138271a9c29fde48c8f7e45dd\"",
-   "last_ok": "2026-07-25T08:06:32+00:00",
+   "last_ok": "2026-08-01T08:19:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam126070",
    "status": "live"
@@ -6329,7 +6329,7 @@
   "SAM127021": {
    "children": [],
    "etag": "W/\"56af6fe6b68594992c6a358b0b67e224\"",
-   "last_ok": "2026-07-25T08:06:33+00:00",
+   "last_ok": "2026-08-01T08:19:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam127021",
    "status": "live"
@@ -6377,7 +6377,7 @@
   "SAM127051": {
    "children": [],
    "etag": "W/\"91e081b2543090ae787f371d1d1a05c0\"",
-   "last_ok": "2026-07-25T08:06:33+00:00",
+   "last_ok": "2026-08-01T08:19:08+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam127051",
    "status": "live"
@@ -6460,7 +6460,7 @@
   "SAM130010": {
    "children": [],
    "etag": "W/\"9670b3794b9784b46e6e276ed46839af\"",
-   "last_ok": "2026-07-25T08:06:34+00:00",
+   "last_ok": "2026-08-01T08:19:09+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam130010",
    "status": "live"
@@ -6639,7 +6639,7 @@
   "SAM131100": {
    "children": [],
    "etag": "W/\"15010fbdb9499ad9b406aa67cbb4ae68\"",
-   "last_ok": "2026-07-25T08:06:35+00:00",
+   "last_ok": "2026-08-01T08:19:10+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam131100",
    "status": "live"
@@ -6695,7 +6695,7 @@
   "SAM131151": {
    "children": [],
    "etag": "W/\"5a9c226224a8a2bc0d0d951aaf859c1d\"",
-   "last_ok": "2026-07-25T08:06:36+00:00",
+   "last_ok": "2026-08-01T08:19:10+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam131151",
    "status": "live"
@@ -6805,7 +6805,7 @@
     "SAM133010"
    ],
    "etag": "W/\"1e1994410af1ffe80fe0404a06fa73d9\"",
-   "last_ok": "2026-07-25T08:06:36+00:00",
+   "last_ok": "2026-08-01T08:19:11+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam133000",
    "status": "live"
@@ -6875,7 +6875,7 @@
   "SAM134040": {
    "children": [],
    "etag": "W/\"9c9a44e31927f33b8cd19871eb9eb360\"",
-   "last_ok": "2026-07-25T08:06:37+00:00",
+   "last_ok": "2026-08-01T08:19:12+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam134040",
    "status": "live"
@@ -6941,7 +6941,7 @@
   "SAM140031": {
    "children": [],
    "etag": "W/\"38f7d30a0461caf9dd9ed139c192d821\"",
-   "last_ok": "2026-07-25T08:06:38+00:00",
+   "last_ok": "2026-08-01T08:19:12+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam140031",
    "status": "live"
@@ -6965,7 +6965,7 @@
   "SAM140051": {
    "children": [],
    "etag": "W/\"d286c0013e32199c9ed0ae7057028e15\"",
-   "last_ok": "2026-07-25T08:06:38+00:00",
+   "last_ok": "2026-08-01T08:19:13+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam140051",
    "status": "live"
@@ -7038,7 +7038,7 @@
   "SAM141041": {
    "children": [],
    "etag": "W/\"d6319c247226f350a5cf501640c70ba6\"",
-   "last_ok": "2026-07-25T08:06:39+00:00",
+   "last_ok": "2026-08-01T08:19:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam141041",
    "status": "live"
@@ -7131,7 +7131,7 @@
     "SAM144030"
    ],
    "etag": "W/\"2a70ca9fad15feca6ff96e105644e6e3\"",
-   "last_ok": "2026-07-30T08:24:46+00:00",
+   "last_ok": "2026-08-01T08:19:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam144000",
    "status": "live"
@@ -7291,7 +7291,7 @@
   "SAM20110": {
    "children": [],
    "etag": "W/\"87dc48ad493174142a7cf9e0eaa36c92\"",
-   "last_ok": "2026-07-25T08:06:40+00:00",
+   "last_ok": "2026-08-01T08:19:15+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam20110",
    "status": "live"
@@ -7299,7 +7299,7 @@
   "SAM20120": {
    "children": [],
    "etag": "W/\"f459ec6c7504ac01bc6ce4d5f1798cbc\"",
-   "last_ok": "2026-07-25T08:06:41+00:00",
+   "last_ok": "2026-08-01T08:19:16+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam20120",
    "status": "live"
@@ -7529,7 +7529,7 @@
     "SAM31100"
    ],
    "etag": "W/\"a4f80561f76238e95dbf47b19c4a1f70\"",
-   "last_ok": "2026-07-25T08:06:42+00:00",
+   "last_ok": "2026-08-01T08:19:16+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam31000",
    "status": "live"
@@ -7681,7 +7681,7 @@
   "SAM31054": {
    "children": [],
    "etag": "W/\"456a97327038e7db202b11c6d1d9043a\"",
-   "last_ok": "2026-07-25T08:06:43+00:00",
+   "last_ok": "2026-08-01T08:19:17+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam31054",
    "status": "live"
@@ -7697,7 +7697,7 @@
   "SAM31070": {
    "children": [],
    "etag": "W/\"ea3b20b4930cca51630a871eb60f0225\"",
-   "last_ok": "2026-07-25T08:06:43+00:00",
+   "last_ok": "2026-08-01T08:19:18+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam31070",
    "status": "live"
@@ -7721,7 +7721,7 @@
   "SAM31100": {
    "children": [],
    "etag": "W/\"190441905b5bb5b074aa975a6802daba\"",
-   "last_ok": "2026-07-25T08:06:44+00:00",
+   "last_ok": "2026-08-01T08:19:18+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam31100",
    "status": "live"
@@ -7773,7 +7773,7 @@
   "SAM32030": {
    "children": [],
    "etag": "W/\"5eabd1ec46f880ba71412a357dd29fc4\"",
-   "last_ok": "2026-07-25T08:06:45+00:00",
+   "last_ok": "2026-08-01T08:19:19+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam32030",
    "status": "live"
@@ -7878,7 +7878,7 @@
   "SAM33020": {
    "children": [],
    "etag": "W/\"9d2536adab2e6c5a98ec55df91385367\"",
-   "last_ok": "2026-07-25T08:06:45+00:00",
+   "last_ok": "2026-08-01T08:19:19+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam33020",
    "status": "live"
@@ -7996,7 +7996,7 @@
     "SAM40041"
    ],
    "etag": "W/\"55d10698f0e3148a906362b8c3f6d7d5\"",
-   "last_ok": "2026-07-25T08:06:46+00:00",
+   "last_ok": "2026-08-01T08:19:20+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam40000",
    "status": "live"
@@ -8036,7 +8036,7 @@
   "SAM40041": {
    "children": [],
    "etag": "W/\"438806bc06b3c271192024585b9f56f1\"",
-   "last_ok": "2026-07-25T08:06:47+00:00",
+   "last_ok": "2026-08-01T08:19:21+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam40041",
    "status": "live"
@@ -8077,7 +8077,7 @@
   "SAM50020": {
    "children": [],
    "etag": "W/\"18aafb1c53419a95279d7e9ff46fe40a\"",
-   "last_ok": "2026-07-25T08:06:47+00:00",
+   "last_ok": "2026-08-01T08:19:21+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam50020",
    "status": "live"
@@ -8461,7 +8461,7 @@
   "SAM61080": {
    "children": [],
    "etag": "W/\"9e6557f04b799d9b20ae93cb11dc63aa\"",
-   "last_ok": "2026-07-25T08:06:48+00:00",
+   "last_ok": "2026-08-01T08:19:22+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam61080",
    "status": "live"
@@ -8549,7 +8549,7 @@
   "SAM61250": {
    "children": [],
    "etag": "W/\"bda18fd12d695ffc22ad50c029608008\"",
-   "last_ok": "2026-07-25T08:06:49+00:00",
+   "last_ok": "2026-08-01T08:19:23+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam61250",
    "status": "live"
@@ -8581,7 +8581,7 @@
   "SAM61280": {
    "children": [],
    "etag": "W/\"4ff0550934cb3e67bdcae88c8202718f\"",
-   "last_ok": "2026-07-25T08:06:49+00:00",
+   "last_ok": "2026-08-01T08:19:24+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam61280",
    "status": "live"
@@ -8685,7 +8685,7 @@
   "SAM61382": {
    "children": [],
    "etag": "W/\"2f564378db5b1695b7093e32cd48a88c\"",
-   "last_ok": "2026-07-25T08:06:50+00:00",
+   "last_ok": "2026-08-01T08:19:24+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam61382",
    "status": "live"
@@ -8693,7 +8693,7 @@
   "SAM61390": {
    "children": [],
    "etag": "W/\"3aee579a6878ef749154c3fdf7ef9f43\"",
-   "last_ok": "2026-07-25T08:06:51+00:00",
+   "last_ok": "2026-08-01T08:19:25+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam61390",
    "status": "live"
@@ -8737,7 +8737,7 @@
   "SAM62020": {
    "children": [],
    "etag": "W/\"545396e257446d9d0aef4229808fc583\"",
-   "last_ok": "2026-07-25T08:06:52+00:00",
+   "last_ok": "2026-08-01T08:19:26+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam62020",
    "status": "live"
@@ -8745,7 +8745,7 @@
   "SAM62021": {
    "children": [],
    "etag": "W/\"11de5bbcd59740e7400c4f024a3fc2da\"",
-   "last_ok": "2026-07-25T08:06:52+00:00",
+   "last_ok": "2026-08-01T08:19:26+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam62021",
    "status": "live"
@@ -8761,7 +8761,7 @@
   "SAM62030": {
    "children": [],
    "etag": "W/\"e17331b1b4b0aee5215d1cd187568d14\"",
-   "last_ok": "2026-07-25T08:06:53+00:00",
+   "last_ok": "2026-08-01T08:19:27+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam62030",
    "status": "live"
@@ -8924,7 +8924,7 @@
   "SAM70110": {
    "children": [],
    "etag": "W/\"ada2db6b086cfbfd0e9fedadd8ee3901\"",
-   "last_ok": "2026-07-25T08:06:54+00:00",
+   "last_ok": "2026-08-01T08:19:27+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam70110",
    "status": "live"
@@ -8932,7 +8932,7 @@
   "SAM70120": {
    "children": [],
    "etag": "W/\"880ffe4aa93b5708b5b5a35dfecf5cb9\"",
-   "last_ok": "2026-07-25T08:06:54+00:00",
+   "last_ok": "2026-08-01T08:19:28+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam70120",
    "status": "live"
@@ -9064,7 +9064,7 @@
   "SAM71030": {
    "children": [],
    "etag": "W/\"df19fd2c97e67b0e41a5fa00cd6c8880\"",
-   "last_ok": "2026-07-25T08:06:55+00:00",
+   "last_ok": "2026-08-01T08:19:29+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam71030",
    "status": "live"
@@ -9088,7 +9088,7 @@
   "SAM71060": {
    "children": [],
    "etag": "W/\"375c285bac24ae89f4b9336cbb476039\"",
-   "last_ok": "2026-07-25T08:06:56+00:00",
+   "last_ok": "2026-08-01T08:19:30+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam71060",
    "status": "live"
@@ -9120,7 +9120,7 @@
   "SAM71084": {
    "children": [],
    "etag": "W/\"dd30bdf009b04a94f67184472b2afa7d\"",
-   "last_ok": "2026-07-25T08:06:57+00:00",
+   "last_ok": "2026-08-01T08:19:31+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam71084",
    "status": "live"
@@ -9152,7 +9152,7 @@
   "SAM71092": {
    "children": [],
    "etag": "W/\"96b047d622a1b9cba04c300868322f92\"",
-   "last_ok": "2026-07-25T08:06:58+00:00",
+   "last_ok": "2026-08-01T08:19:31+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam71092",
    "status": "live"
@@ -9192,7 +9192,7 @@
   "SAM71104": {
    "children": [],
    "etag": "W/\"9380a8686f00ff35774a61a731dddce6\"",
-   "last_ok": "2026-07-25T08:06:59+00:00",
+   "last_ok": "2026-08-01T08:19:32+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam71104",
    "status": "live"
@@ -9208,7 +9208,7 @@
   "SAM71108": {
    "children": [],
    "etag": "W/\"1ef637cb73377c7df140b16c206f09c7\"",
-   "last_ok": "2026-07-25T08:06:59+00:00",
+   "last_ok": "2026-08-01T08:19:33+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam71108",
    "status": "live"
@@ -9232,7 +9232,7 @@
   "SAM71116": {
    "children": [],
    "etag": "W/\"f8a1689d7457f12b4a9b6c86a789e679\"",
-   "last_ok": "2026-07-25T08:07:00+00:00",
+   "last_ok": "2026-08-01T08:19:34+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam71116",
    "status": "live"
@@ -9280,7 +9280,7 @@
   "SAM71128": {
    "children": [],
    "etag": "W/\"455fe69b6347ce2bfbafe48d1874bb8a\"",
-   "last_ok": "2026-07-25T08:07:01+00:00",
+   "last_ok": "2026-08-01T08:19:34+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam71128",
    "status": "live"
@@ -9304,7 +9304,7 @@
   "SAM71134": {
    "children": [],
    "etag": "W/\"e8dfed71fb89768f33f3b67bf23b9e2c\"",
-   "last_ok": "2026-07-25T08:07:02+00:00",
+   "last_ok": "2026-08-01T08:19:35+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam71134",
    "status": "live"
@@ -9376,7 +9376,7 @@
   "SAM71152": {
    "children": [],
    "etag": "W/\"62807ab8f13be9d0702880cdcac5398b\"",
-   "last_ok": "2026-07-25T08:07:02+00:00",
+   "last_ok": "2026-08-01T08:19:36+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam71152",
    "status": "live"
@@ -9485,7 +9485,7 @@
     "SAM72118"
    ],
    "etag": "W/\"ec82adefc22e09f8dacf9f767cb41e8e\"",
-   "last_ok": "2026-07-25T08:07:03+00:00",
+   "last_ok": "2026-08-01T08:19:37+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam72000",
    "status": "live"
@@ -9645,7 +9645,7 @@
   "SAM72086": {
    "children": [],
    "etag": "W/\"3f41c1ff8c03f50f30f1b9bc293dac30\"",
-   "last_ok": "2026-07-25T08:07:04+00:00",
+   "last_ok": "2026-08-01T08:19:37+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam72086",
    "status": "live"
@@ -9841,7 +9841,7 @@
   "SAM80020": {
    "children": [],
    "etag": "W/\"296e13e5dcd1e514c3f60c6ae7fda471\"",
-   "last_ok": "2026-07-25T08:07:04+00:00",
+   "last_ok": "2026-08-01T08:19:38+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam80020",
    "status": "live"
@@ -9849,7 +9849,7 @@
   "SAM80030": {
    "children": [],
    "etag": "W/\"ad9963de10e2ce19905f99bcaeffc953\"",
-   "last_ok": "2026-07-25T08:07:05+00:00",
+   "last_ok": "2026-08-01T08:19:39+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam80030",
    "status": "live"
@@ -9857,7 +9857,7 @@
   "SAM80040": {
    "children": [],
    "etag": "W/\"02a1d69fbfa1d3064211343413478db4\"",
-   "last_ok": "2026-07-25T08:07:06+00:00",
+   "last_ok": "2026-08-01T08:19:39+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam80040",
    "status": "live"
@@ -9913,7 +9913,7 @@
   "SAM80074": {
    "children": [],
    "etag": "W/\"a8bf8a60ee383b8a7854514c3ced0cfe\"",
-   "last_ok": "2026-07-25T08:07:07+00:00",
+   "last_ok": "2026-08-01T08:19:40+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam80074",
    "status": "live"
@@ -9992,7 +9992,7 @@
   "SAM90020": {
    "children": [],
    "etag": "W/\"332066fcb0e052122da13e42a560f35c\"",
-   "last_ok": "2026-07-25T08:07:08+00:00",
+   "last_ok": "2026-08-01T08:19:41+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam90020",
    "status": "live"
@@ -10008,7 +10008,7 @@
   "SAM90030": {
    "children": [],
    "etag": "W/\"4b49a53a8338128e971ded9d22fc9357\"",
-   "last_ok": "2026-07-25T08:07:08+00:00",
+   "last_ok": "2026-08-01T08:19:41+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/self-assessment-manual/sam90030",
    "status": "live"
