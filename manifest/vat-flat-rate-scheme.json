@@ -25,7 +25,7 @@
   "FRS1100": {
    "children": [],
    "etag": "W/\"2fdd93faf5e8076090db67df7228c7db\"",
-   "last_ok": "2026-08-01T08:19:43+00:00",
+   "last_ok": "2026-08-08T06:49:46+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs1100",
    "status": "live"
@@ -41,7 +41,7 @@
   "FRS1300": {
    "children": [],
    "etag": "W/\"dd550171af846d2a38979fb050ba66db\"",
-   "last_ok": "2026-08-01T08:19:43+00:00",
+   "last_ok": "2026-08-08T06:49:47+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs1300",
    "status": "live"
@@ -92,7 +92,7 @@
     "FRS3600"
    ],
    "etag": "W/\"5f6b8f077f4cb49443e9085248753cc9\"",
-   "last_ok": "2026-08-01T08:19:44+00:00",
+   "last_ok": "2026-08-08T06:49:48+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3000",
    "status": "live"
@@ -216,7 +216,7 @@
   "FRS5100": {
    "children": [],
    "etag": "W/\"03db46e7eab388bd00c355cca281df98\"",
-   "last_ok": "2026-08-01T08:19:45+00:00",
+   "last_ok": "2026-08-08T06:49:49+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs5100",
    "status": "live"
@@ -248,7 +248,7 @@
   "FRS5500": {
    "children": [],
    "etag": "W/\"e3af57d259342a2be3b5d17262c9bf18\"",
-   "last_ok": "2026-08-01T08:19:45+00:00",
+   "last_ok": "2026-08-08T06:49:49+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs5500",
    "status": "live"
@@ -263,7 +263,7 @@
     "FRS6600"
    ],
    "etag": "W/\"5a708910dc07f191edabd11e0bf7c7e9\"",
-   "last_ok": "2026-08-01T08:19:46+00:00",
+   "last_ok": "2026-08-08T06:49:50+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs6000",
    "status": "live"
@@ -333,7 +333,7 @@
   "FRS7100": {
    "children": [],
    "etag": "W/\"a1d2be9902845b3479f174aafc0a8f2f\"",
-   "last_ok": "2026-08-01T08:19:47+00:00",
+   "last_ok": "2026-08-08T06:49:51+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs7100",
    "status": "live"
