@@ -377,20 +377,9 @@
     }
    ],
    "title": ""
-  },
-  {
-   "child_sections": [
-    {
-     "base_path": "/hmrc-internal-manuals/self-assessment-manual/samupdate001",
-     "description": "",
-     "section_id": "SAMUPDATE001",
-     "title": " update index"
-    }
-   ],
-   "title": "Updates"
   }
  ],
  "description": "This manual contains guidance and processes for Self Assessment (SA)",
- "public_updated_at": "2026-08-12T17:06:08+01:00",
+ "public_updated_at": "2026-07-22T13:18:05+01:00",
  "title": "Self Assessment Manual"
 }
