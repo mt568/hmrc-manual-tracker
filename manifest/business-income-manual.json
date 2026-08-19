@@ -72,8 +72,8 @@
     "BIM100245",
     "BIM100250"
    ],
-   "etag": "W/\"9e4adf219b7c2169248d03b0f584d5d5\"",
-   "last_ok": "2026-08-12T07:19:14+00:00",
+   "etag": "W/\"44581c726cfb303ceab202796aa7dd3d\"",
+   "last_ok": "2026-08-19T06:37:49+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim100000",
    "status": "live"
@@ -192,8 +192,8 @@
   },
   "BIM100215": {
    "children": [],
-   "etag": "W/\"7f7c55130a6495580dc14f2665a4a765\"",
-   "last_ok": "2026-08-12T07:19:15+00:00",
+   "etag": "W/\"1095cc9c4447d48799c5162a4ee2f7e2\"",
+   "last_ok": "2026-08-19T06:37:50+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim100215",
    "status": "live"
@@ -232,8 +232,8 @@
   },
   "BIM100240": {
    "children": [],
-   "etag": "W/\"b3a079103b8555eb171ac6d43aa5bffa\"",
-   "last_ok": "2026-08-12T07:19:16+00:00",
+   "etag": "W/\"41760baeb43d256b11791aba5558529b\"",
+   "last_ok": "2026-08-19T06:37:51+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim100240",
    "status": "live"
@@ -264,8 +264,8 @@
     "BIM100375",
     "BIM100380"
    ],
-   "etag": "W/\"aa284cf633a1a82a7b9096d854b00530\"",
-   "last_ok": "2026-08-12T07:19:16+00:00",
+   "etag": "W/\"a6476bbe0b9cefc299764dc562f4f045\"",
+   "last_ok": "2026-08-19T06:37:51+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim100350",
    "status": "live"
@@ -304,8 +304,8 @@
   },
   "BIM100370": {
    "children": [],
-   "etag": "W/\"36cfc8436c2f8dadbfe0447eb18d94d9\"",
-   "last_ok": "2026-08-12T07:19:17+00:00",
+   "etag": "W/\"10cf1cec3e59a068b44b62003099a0c8\"",
+   "last_ok": "2026-08-19T06:37:52+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim100370",
    "status": "live"
@@ -370,16 +370,16 @@
   },
   "BIM14015": {
    "children": [],
-   "etag": "W/\"9e410bac71be179ca24f1fdb0af5972c\"",
-   "last_ok": "2026-08-12T07:19:18+00:00",
+   "etag": "W/\"c47cf81eed805ed045b9b672b194131a\"",
+   "last_ok": "2026-08-19T06:37:53+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim14015",
    "status": "live"
   },
   "BIM14020": {
    "children": [],
-   "etag": "W/\"f02874a7914259ec661e7380ff4805be\"",
-   "last_ok": "2026-08-12T07:19:18+00:00",
+   "etag": "W/\"f94820fb75f464fd6aa0afac65bfdd61\"",
+   "last_ok": "2026-08-19T06:37:54+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim14020",
    "status": "live"
@@ -426,8 +426,8 @@
   },
   "BIM15035": {
    "children": [],
-   "etag": "W/\"625782ff17507eb6678653693ebaab4e\"",
-   "last_ok": "2026-08-12T07:19:19+00:00",
+   "etag": "W/\"bb6639948c8e9f7322993b456a79db35\"",
+   "last_ok": "2026-08-19T06:37:55+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim15035",
    "status": "live"
@@ -600,8 +600,8 @@
   },
   "BIM20095": {
    "children": [],
-   "etag": "W/\"8972c67e10b748791dce4b822f37c43b\"",
-   "last_ok": "2026-08-12T07:19:20+00:00",
+   "etag": "W/\"5cba0b2668433a46800830607114cd96\"",
+   "last_ok": "2026-08-19T06:37:55+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim20095",
    "status": "live"
@@ -624,8 +624,8 @@
   },
   "BIM20103": {
    "children": [],
-   "etag": "W/\"b3d2aedcdf199d31ec48dcb86885f799\"",
-   "last_ok": "2026-08-12T07:19:20+00:00",
+   "etag": "W/\"e0af82e2c4a7dce873108e1c714e59c9\"",
+   "last_ok": "2026-08-19T06:37:56+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim20103",
    "status": "live"
@@ -733,8 +733,8 @@
   },
   "BIM20235": {
    "children": [],
-   "etag": "W/\"29507935bad297d999cfcbe15c6d4903\"",
-   "last_ok": "2026-08-12T07:19:21+00:00",
+   "etag": "W/\"8e3d4434417f789161aaeed51f477c46\"",
+   "last_ok": "2026-08-19T06:37:57+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim20235",
    "status": "live"
@@ -765,8 +765,8 @@
   },
   "BIM20255": {
    "children": [],
-   "etag": "W/\"1101e4c1902a9065df1646a8cb7ae456\"",
-   "last_ok": "2026-08-12T07:19:22+00:00",
+   "etag": "W/\"239de9b91f41a1e6fbfd9c3ca7e559dc\"",
+   "last_ok": "2026-08-19T06:37:57+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim20255",
    "status": "live"
@@ -789,8 +789,8 @@
   },
   "BIM20270": {
    "children": [],
-   "etag": "W/\"2c097453f9991ebb703c1995fc16f5ec\"",
-   "last_ok": "2026-08-12T07:19:23+00:00",
+   "etag": "W/\"691ccbf18406b52ede6e7659de207009\"",
+   "last_ok": "2026-08-19T06:37:58+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim20270",
    "status": "live"
@@ -813,8 +813,8 @@
   },
   "BIM20285": {
    "children": [],
-   "etag": "W/\"546cd44c069893632c5fb795d5702034\"",
-   "last_ok": "2026-08-12T07:19:23+00:00",
+   "etag": "W/\"fc3f35e965b28e4dc142e9d9a4a0768f\"",
+   "last_ok": "2026-08-19T06:37:59+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim20285",
    "status": "live"
@@ -845,8 +845,8 @@
   },
   "BIM20305": {
    "children": [],
-   "etag": "W/\"a5d642fd109d6ecfcd0388945b26a5c9\"",
-   "last_ok": "2026-08-12T07:19:24+00:00",
+   "etag": "W/\"b2c6a120aca4fb097705f032cbefc247\"",
+   "last_ok": "2026-08-19T06:37:59+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim20305",
    "status": "live"
@@ -928,8 +928,8 @@
   },
   "BIM21001": {
    "children": [],
-   "etag": "W/\"3e349995a6fa3c6732d78bb541d01b67\"",
-   "last_ok": "2026-08-12T07:19:25+00:00",
+   "etag": "W/\"8ea68bb7ca24f66aba214c4de6f06282\"",
+   "last_ok": "2026-08-19T06:38:00+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim21001",
    "status": "live"
@@ -1056,8 +1056,8 @@
   },
   "BIM22008": {
    "children": [],
-   "etag": "W/\"a0df0b0b32cde38a8cdfdc216589f50d\"",
-   "last_ok": "2026-08-12T07:19:26+00:00",
+   "etag": "W/\"917fe3bf2811a6fed02ea45856fc7548\"",
+   "last_ok": "2026-08-19T06:38:01+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim22008",
    "status": "live"
@@ -1080,8 +1080,8 @@
   },
   "BIM22016": {
    "children": [],
-   "etag": "W/\"aac79db1f42223558bf201b8bd946f37\"",
-   "last_ok": "2026-08-12T07:19:27+00:00",
+   "etag": "W/\"f61aa7f3aa0acc9a9b647f678e9de382\"",
+   "last_ok": "2026-08-19T06:38:02+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim22016",
    "status": "live"
@@ -1112,8 +1112,8 @@
   },
   "BIM22020": {
    "children": [],
-   "etag": "W/\"ea404840d8381717753bcd00c38e9018\"",
-   "last_ok": "2026-08-12T07:19:28+00:00",
+   "etag": "W/\"9b9c2e24a71f49fba9bc54fcb23bc3d9\"",
+   "last_ok": "2026-08-19T06:38:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim22020",
    "status": "live"
@@ -1262,8 +1262,8 @@
     "BIM24950",
     "BIM24995"
    ],
-   "etag": "W/\"1fdb9f1b978af4d51be16201b163162b\"",
-   "last_ok": "2026-08-12T07:19:28+00:00",
+   "etag": "W/\"16f4231c4c7e4f30e8843c9f41f88891\"",
+   "last_ok": "2026-08-19T06:38:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24000",
    "status": "live"
@@ -1334,8 +1334,8 @@
   },
   "BIM24030": {
    "children": [],
-   "etag": "W/\"729ccad5e6f839e263c41148188a1c91\"",
-   "last_ok": "2026-08-12T07:19:29+00:00",
+   "etag": "W/\"33dcc14787a4bb3b6610c6af505f6a4b\"",
+   "last_ok": "2026-08-19T06:38:04+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24030",
    "status": "live"
@@ -1350,8 +1350,8 @@
   },
   "BIM24040": {
    "children": [],
-   "etag": "W/\"b29aa2f0dfe5571c5293c249c9696d4d\"",
-   "last_ok": "2026-08-12T07:19:30+00:00",
+   "etag": "W/\"66e4c01038fb1721bfab2801b9d901fe\"",
+   "last_ok": "2026-08-19T06:38:05+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24040",
    "status": "live"
@@ -1371,8 +1371,8 @@
     "BIM24115",
     "BIM24120"
    ],
-   "etag": "W/\"4eadec7af96535e71a0b9cfc2bffbebc\"",
-   "last_ok": "2026-08-12T07:19:31+00:00",
+   "etag": "W/\"e704d5dffe9a00238fc40234e425783a\"",
+   "last_ok": "2026-08-19T06:38:05+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24100",
    "status": "live"
@@ -1430,8 +1430,8 @@
   },
   "BIM24160": {
    "children": [],
-   "etag": "W/\"181f3915a72cb4b3985f829a811c0b15\"",
-   "last_ok": "2026-08-12T07:19:31+00:00",
+   "etag": "W/\"67e3233a1d2126dc08eaeff0e4221419\"",
+   "last_ok": "2026-08-19T06:38:06+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24160",
    "status": "live"
@@ -1474,16 +1474,16 @@
   },
   "BIM24210": {
    "children": [],
-   "etag": "W/\"4ea1b63dee505fe69daa885ce5517937\"",
-   "last_ok": "2026-08-12T07:19:32+00:00",
+   "etag": "W/\"85f1099f0dbd5359383f79c3cc941d7c\"",
+   "last_ok": "2026-08-19T06:38:06+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24210",
    "status": "live"
   },
   "BIM24215": {
    "children": [],
-   "etag": "W/\"04d4ebf04f6832e9591466d4d708a3c2\"",
-   "last_ok": "2026-08-12T07:19:32+00:00",
+   "etag": "W/\"69b6b63c0615c28d142b1f0f609e7f81\"",
+   "last_ok": "2026-08-19T06:38:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24215",
    "status": "live"
@@ -1522,16 +1522,16 @@
   },
   "BIM24240": {
    "children": [],
-   "etag": "W/\"013912a6f3c444c26606219d5e120523\"",
-   "last_ok": "2026-08-12T07:19:33+00:00",
+   "etag": "W/\"01e9cfb62d84fe5b9cb2eac0bfd14dcb\"",
+   "last_ok": "2026-08-19T06:38:08+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24240",
    "status": "live"
   },
   "BIM24245": {
    "children": [],
-   "etag": "W/\"5b04995f6110ecab362722ed0750f9b5\"",
-   "last_ok": "2026-08-12T07:19:34+00:00",
+   "etag": "W/\"985a8f23bb9613a7402dd85cc5f2e134\"",
+   "last_ok": "2026-08-19T06:38:08+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24245",
    "status": "live"
@@ -1578,8 +1578,8 @@
   },
   "BIM24315": {
    "children": [],
-   "etag": "W/\"75ba4299c0ac50d174428fd1fb0c3c0c\"",
-   "last_ok": "2026-08-12T07:19:35+00:00",
+   "etag": "W/\"053cb9954dfc364a68bb155e479fe95d\"",
+   "last_ok": "2026-08-19T06:38:09+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24315",
    "status": "live"
@@ -1629,8 +1629,8 @@
   },
   "BIM24350": {
    "children": [],
-   "etag": "W/\"2c718a90498d97390280dd3d513ba845\"",
-   "last_ok": "2026-08-12T07:19:35+00:00",
+   "etag": "W/\"e9261a4e72569405821c3054cc9b78da\"",
+   "last_ok": "2026-08-19T06:38:10+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24350",
    "status": "live"
@@ -1645,8 +1645,8 @@
   },
   "BIM24365": {
    "children": [],
-   "etag": "W/\"4d953a76a6ecab71440fccb4d4c182b5\"",
-   "last_ok": "2026-08-12T07:19:36+00:00",
+   "etag": "W/\"f073568784098653e700d322d0af02df\"",
+   "last_ok": "2026-08-19T06:38:11+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24365",
    "status": "live"
@@ -1772,8 +1772,8 @@
   },
   "BIM24495": {
    "children": [],
-   "etag": "W/\"3dcf138be849d60e58fc7837c9b93142\"",
-   "last_ok": "2026-08-12T07:19:37+00:00",
+   "etag": "W/\"4e371c1179e16035bbf3c63c96fef1ba\"",
+   "last_ok": "2026-08-19T06:38:12+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24495",
    "status": "live"
@@ -1827,8 +1827,8 @@
   },
   "BIM24565": {
    "children": [],
-   "etag": "W/\"aad583e2ae93a8f28e5e590bb510aacd\"",
-   "last_ok": "2026-08-12T07:19:37+00:00",
+   "etag": "W/\"7d57005e5bdf1250c56dbe9b44d0bf15\"",
+   "last_ok": "2026-08-19T06:38:13+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24565",
    "status": "live"
@@ -1919,16 +1919,16 @@
   },
   "BIM24660": {
    "children": [],
-   "etag": "W/\"4b24f922d0ddd7b966fc96fc8ff63473\"",
-   "last_ok": "2026-08-12T07:19:38+00:00",
+   "etag": "W/\"5eedec4c24d3e49f8d30c551d9d8520d\"",
+   "last_ok": "2026-08-19T06:38:13+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24660",
    "status": "live"
   },
   "BIM24665": {
    "children": [],
-   "etag": "W/\"2dadbc6f151e98c74a1896c49b88b6aa\"",
-   "last_ok": "2026-08-12T07:19:39+00:00",
+   "etag": "W/\"ef3edadebae4d8144c1e1884fe538c56\"",
+   "last_ok": "2026-08-19T06:38:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24665",
    "status": "live"
@@ -2015,16 +2015,16 @@
   },
   "BIM24720": {
    "children": [],
-   "etag": "W/\"84904415a683aa7729aa9355768de886\"",
-   "last_ok": "2026-08-12T07:19:40+00:00",
+   "etag": "W/\"6634ff8dc82fdd191b4c8c93a77f0545\"",
+   "last_ok": "2026-08-19T06:38:15+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24720",
    "status": "live"
   },
   "BIM24725": {
    "children": [],
-   "etag": "W/\"b957eb6d9821dd991ac8b7c4e4d3c083\"",
-   "last_ok": "2026-08-12T07:19:41+00:00",
+   "etag": "W/\"e6883666eba5b911e0c29983bd67233e\"",
+   "last_ok": "2026-08-19T06:38:15+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24725",
    "status": "live"
@@ -2095,8 +2095,8 @@
   },
   "BIM24775": {
    "children": [],
-   "etag": "W/\"0c759d9e5646d780655ba607bafba678\"",
-   "last_ok": "2026-08-12T07:19:42+00:00",
+   "etag": "W/\"34d043f7d734899099571956a3c97634\"",
+   "last_ok": "2026-08-19T06:38:16+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24775",
    "status": "live"
@@ -2159,8 +2159,8 @@
   },
   "BIM24795": {
    "children": [],
-   "etag": "W/\"e6a0e0003da661a227d281af190f22ed\"",
-   "last_ok": "2026-08-12T07:19:42+00:00",
+   "etag": "W/\"4c6828f6362797da78626883bae5e802\"",
+   "last_ok": "2026-08-19T06:38:17+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24795",
    "status": "live"
@@ -2191,8 +2191,8 @@
   },
   "BIM24805": {
    "children": [],
-   "etag": "W/\"6544f61c9a20b7af18b3f323ed11ec86\"",
-   "last_ok": "2026-08-12T07:19:43+00:00",
+   "etag": "W/\"36694401d4c5263ac8dee323ac036e58\"",
+   "last_ok": "2026-08-19T06:38:18+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24805",
    "status": "live"
@@ -2207,8 +2207,8 @@
   },
   "BIM24815": {
    "children": [],
-   "etag": "W/\"01742c0c60ef94c8fce4145a18d4acef\"",
-   "last_ok": "2026-08-12T07:19:44+00:00",
+   "etag": "W/\"a997abc4e807c30cc90dfde3781e422b\"",
+   "last_ok": "2026-08-19T06:38:19+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24815",
    "status": "live"
@@ -2239,8 +2239,8 @@
   },
   "BIM24995": {
    "children": [],
-   "etag": "W/\"05d9465c0295351af7310c2a0727f3a9\"",
-   "last_ok": "2026-08-12T07:19:45+00:00",
+   "etag": "W/\"c99902c60d8b08a08c740f6bf04e130f\"",
+   "last_ok": "2026-08-19T06:38:19+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim24995",
    "status": "live"
@@ -2341,8 +2341,8 @@
   },
   "BIM31010": {
    "children": [],
-   "etag": "W/\"5ca9baea7fb17fa004ec74cbbc0fa5d1\"",
-   "last_ok": "2026-08-12T07:19:45+00:00",
+   "etag": "W/\"3e807c7bf9cb14f555a5755bc8ab37eb\"",
+   "last_ok": "2026-08-19T06:38:20+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim31010",
    "status": "live"
@@ -2381,8 +2381,8 @@
   },
   "BIM31029": {
    "children": [],
-   "etag": "W/\"bb67e9e5deab0837eae324eacdbe019f\"",
-   "last_ok": "2026-08-12T07:19:46+00:00",
+   "etag": "W/\"64762e0287938d73a4700efee5ed953e\"",
+   "last_ok": "2026-08-19T06:38:21+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim31029",
    "status": "live"
@@ -2397,8 +2397,8 @@
   },
   "BIM31035": {
    "children": [],
-   "etag": "W/\"ad1ffff140572784bc38114f3c59daf3\"",
-   "last_ok": "2026-08-12T07:19:47+00:00",
+   "etag": "W/\"0da8d828881722317d199ab28888a265\"",
+   "last_ok": "2026-08-19T06:38:21+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim31035",
    "status": "live"
@@ -2453,8 +2453,8 @@
   },
   "BIM31065": {
    "children": [],
-   "etag": "W/\"1fb69a2865023640dca6962766514810\"",
-   "last_ok": "2026-08-12T07:19:47+00:00",
+   "etag": "W/\"532cbb646b682c97327c36c36ceb9509\"",
+   "last_ok": "2026-08-19T06:38:22+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim31065",
    "status": "live"
@@ -2501,8 +2501,8 @@
   },
   "BIM31110": {
    "children": [],
-   "etag": "W/\"ed5c28b919c67a527629a8da31e5dadb\"",
-   "last_ok": "2026-08-12T07:19:48+00:00",
+   "etag": "W/\"b7eb9c4f33c83297934fc06e8726f441\"",
+   "last_ok": "2026-08-19T06:38:23+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim31110",
    "status": "live"
@@ -2575,8 +2575,8 @@
   },
   "BIM31515": {
    "children": [],
-   "etag": "W/\"b0213847bfc90c8dbaa38a6f492c00ba\"",
-   "last_ok": "2026-08-12T07:19:49+00:00",
+   "etag": "W/\"deea17877733e8d8cc9c59f759cdeb7b\"",
+   "last_ok": "2026-08-19T06:38:23+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim31515",
    "status": "live"
@@ -2631,8 +2631,8 @@
   },
   "BIM31550": {
    "children": [],
-   "etag": "W/\"64a64f82295e8d3522686178b2a7479c\"",
-   "last_ok": "2026-08-12T07:19:49+00:00",
+   "etag": "W/\"9a296dbbe5237cc35ea9eef7470d76b3\"",
+   "last_ok": "2026-08-19T06:38:24+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim31550",
    "status": "live"
@@ -2671,8 +2671,8 @@
   },
   "BIM31580": {
    "children": [],
-   "etag": "W/\"7ab2e2b068bb8a3958002d1755da006b\"",
-   "last_ok": "2026-08-12T07:19:50+00:00",
+   "etag": "W/\"29629cb0f755fd49100af76d0935c746\"",
+   "last_ok": "2026-08-19T06:38:24+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim31580",
    "status": "live"
@@ -2735,8 +2735,8 @@
   },
   "BIM31620": {
    "children": [],
-   "etag": "W/\"b0b1c34c73060e890eaa97093b293aa6\"",
-   "last_ok": "2026-08-12T07:19:51+00:00",
+   "etag": "W/\"8929b5a0f52e5a9ab2a1a731700c93fd\"",
+   "last_ok": "2026-08-19T06:38:25+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim31620",
    "status": "live"
@@ -2757,8 +2757,8 @@
     "BIM33450",
     "BIM33600"
    ],
-   "etag": "W/\"04d28263652cbe73be4fcd72f54bab59\"",
-   "last_ok": "2026-08-12T07:19:52+00:00",
+   "etag": "W/\"13e2ddc45b9c0e0e291f2468584c1a13\"",
+   "last_ok": "2026-08-19T06:38:26+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim33000",
    "status": "live"
@@ -2821,8 +2821,8 @@
   },
   "BIM33040": {
    "children": [],
-   "etag": "W/\"cb6aef1543c615a4afaea9585cbb412d\"",
-   "last_ok": "2026-08-12T07:19:52+00:00",
+   "etag": "W/\"9a2ec775a00757335f2fc188546e65c9\"",
+   "last_ok": "2026-08-19T06:38:26+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim33040",
    "status": "live"
@@ -2875,8 +2875,8 @@
   },
   "BIM33120": {
    "children": [],
-   "etag": "W/\"331c1cac7d20ce6a2a7abd7a7178e65e\"",
-   "last_ok": "2026-08-12T07:19:53+00:00",
+   "etag": "W/\"0f1055ca7789f8fec47df671d4c5e9e1\"",
+   "last_ok": "2026-08-19T06:38:27+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim33120",
    "status": "live"
@@ -2947,8 +2947,8 @@
   },
   "BIM33190": {
    "children": [],
-   "etag": "W/\"07e5a8e86aeaf94d0ab3ad32db07c247\"",
-   "last_ok": "2026-08-12T07:19:54+00:00",
+   "etag": "W/\"80664d1da3e0b666e6bb74c487bab463\"",
+   "last_ok": "2026-08-19T06:38:27+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim33190",
    "status": "live"
@@ -3000,8 +3000,8 @@
   },
   "BIM33375": {
    "children": [],
-   "etag": "W/\"413a6eda33d175d66fee5f87db534db1\"",
-   "last_ok": "2026-08-12T07:19:54+00:00",
+   "etag": "W/\"5392f0d8684dfb1be2f7db900c226028\"",
+   "last_ok": "2026-08-19T06:38:28+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim33375",
    "status": "live"
@@ -3196,8 +3196,8 @@
   },
   "BIM33701": {
    "children": [],
-   "etag": "W/\"4c48843cd7f576f2f9590755c6716524\"",
-   "last_ok": "2026-08-12T07:19:55+00:00",
+   "etag": "W/\"1d71347443a6c145944fda2b07564835\"",
+   "last_ok": "2026-08-19T06:38:29+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim33701",
    "status": "live"
@@ -3212,8 +3212,8 @@
   },
   "BIM33710": {
    "children": [],
-   "etag": "W/\"6452e7147c77a51faa631ac2d1ffff8d\"",
-   "last_ok": "2026-08-12T07:19:56+00:00",
+   "etag": "W/\"8aef536c33b566fdffb91b8045ef118e\"",
+   "last_ok": "2026-08-19T06:38:30+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim33710",
    "status": "live"
@@ -3228,8 +3228,8 @@
   },
   "BIM33720": {
    "children": [],
-   "etag": "W/\"cb0d672668c964cbc9ff85e3c043197a\"",
-   "last_ok": "2026-08-12T07:19:56+00:00",
+   "etag": "W/\"a5c38574a3e8a3bb1a3c4bff0a38dcb6\"",
+   "last_ok": "2026-08-19T06:38:30+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim33720",
    "status": "live"
@@ -3324,8 +3324,8 @@
   },
   "BIM34020": {
    "children": [],
-   "etag": "W/\"5278558f84dd11b9da8a2842dd895fb6\"",
-   "last_ok": "2026-08-12T07:19:57+00:00",
+   "etag": "W/\"8eb11cf18b9fbfa53c83b1e199269831\"",
+   "last_ok": "2026-08-19T06:38:31+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim34020",
    "status": "live"
@@ -3396,8 +3396,8 @@
   },
   "BIM34060": {
    "children": [],
-   "etag": "W/\"3db1f6df9ea95f4f1bff7592220bd40b\"",
-   "last_ok": "2026-08-12T07:19:58+00:00",
+   "etag": "W/\"7bf7823f37d4de0ad124589ccc2db6d6\"",
+   "last_ok": "2026-08-19T06:38:32+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim34060",
    "status": "live"
@@ -3520,8 +3520,8 @@
     "BIM35040",
     "BIM35045"
    ],
-   "etag": "W/\"258eee10f870f0dadad50747f8642dc7\"",
-   "last_ok": "2026-08-12T07:19:58+00:00",
+   "etag": "W/\"4fdf25d192a57f833013aa906b1d35cd\"",
+   "last_ok": "2026-08-19T06:38:32+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35001",
    "status": "live"
@@ -3764,8 +3764,8 @@
   },
   "BIM35410": {
    "children": [],
-   "etag": "W/\"945bf6584fbc65f0c72c913b4aef3de3\"",
-   "last_ok": "2026-08-12T07:19:59+00:00",
+   "etag": "W/\"ce220c398f517e51a3fd5efe20429ec9\"",
+   "last_ok": "2026-08-19T06:38:33+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35410",
    "status": "live"
@@ -3884,16 +3884,16 @@
   },
   "BIM35467": {
    "children": [],
-   "etag": "W/\"d456b44a69fe189c6ab8faaeaef3aeb0\"",
-   "last_ok": "2026-08-12T07:20:00+00:00",
+   "etag": "W/\"bf392ee69dcaff78bab9dbdb11d5cbaa\"",
+   "last_ok": "2026-08-19T06:38:34+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35467",
    "status": "live"
   },
   "BIM35470": {
    "children": [],
-   "etag": "W/\"8315aa7c36712bd1af33a6938adc3ce5\"",
-   "last_ok": "2026-08-12T07:20:00+00:00",
+   "etag": "W/\"14a277db0777232a450b3f629c164694\"",
+   "last_ok": "2026-08-19T06:38:34+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35470",
    "status": "live"
@@ -3972,8 +3972,8 @@
   },
   "BIM35501": {
    "children": [],
-   "etag": "W/\"8b9e29e5562f7133d5d15f931a8d8fc7\"",
-   "last_ok": "2026-08-12T07:20:01+00:00",
+   "etag": "W/\"36e1729f4e8bbacfa6794797472280b1\"",
+   "last_ok": "2026-08-19T06:38:35+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35501",
    "status": "live"
@@ -4004,8 +4004,8 @@
   },
   "BIM35525": {
    "children": [],
-   "etag": "W/\"792c634c8b5804e75da37e5ca37a0d35\"",
-   "last_ok": "2026-08-12T07:20:02+00:00",
+   "etag": "W/\"dd7decb1484df593783bc25365e5324c\"",
+   "last_ok": "2026-08-19T06:38:35+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35525",
    "status": "live"
@@ -4044,8 +4044,8 @@
   },
   "BIM35550": {
    "children": [],
-   "etag": "W/\"3087edbcbe77f00f2568c3d1d52ee4b1\"",
-   "last_ok": "2026-08-12T07:20:03+00:00",
+   "etag": "W/\"dfb582bdfe6e01a58a81c859b8652b25\"",
+   "last_ok": "2026-08-19T06:38:36+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35550",
    "status": "live"
@@ -4076,8 +4076,8 @@
   },
   "BIM35570": {
    "children": [],
-   "etag": "W/\"99115dcd9ed755ab5f0ce996f2766b85\"",
-   "last_ok": "2026-08-12T07:20:03+00:00",
+   "etag": "W/\"007ad60ea07f32322f63aef947589223\"",
+   "last_ok": "2026-08-19T06:38:37+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35570",
    "status": "live"
@@ -4116,8 +4116,8 @@
   },
   "BIM35595": {
    "children": [],
-   "etag": "W/\"e389a7adde1f0fdbb3ab5b8d5bb8c7db\"",
-   "last_ok": "2026-08-12T07:20:04+00:00",
+   "etag": "W/\"309988122d6246863bc8c47f066e218b\"",
+   "last_ok": "2026-08-19T06:38:38+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35595",
    "status": "live"
@@ -4148,16 +4148,16 @@
   },
   "BIM35620": {
    "children": [],
-   "etag": "W/\"7c46c25fe0a7543441ade44df534fe0c\"",
-   "last_ok": "2026-08-12T07:20:05+00:00",
+   "etag": "W/\"3d529505a2d1847a875e75f242a0fd91\"",
+   "last_ok": "2026-08-19T06:38:38+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35620",
    "status": "live"
   },
   "BIM35625": {
    "children": [],
-   "etag": "W/\"3c3fea78302c6076e6b5102340c57fcb\"",
-   "last_ok": "2026-08-12T07:20:05+00:00",
+   "etag": "W/\"0173c16f21fef41e59f54b90a6e5aba3\"",
+   "last_ok": "2026-08-19T06:38:39+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35625",
    "status": "live"
@@ -4390,8 +4390,8 @@
   },
   "BIM35835": {
    "children": [],
-   "etag": "W/\"d9dfbc97fd059f9202cc9cf59680e5a7\"",
-   "last_ok": "2026-08-12T07:20:06+00:00",
+   "etag": "W/\"2c8337ab10c1dea7dc8aa857ddbcfc87\"",
+   "last_ok": "2026-08-19T06:38:39+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35835",
    "status": "live"
@@ -4406,8 +4406,8 @@
   },
   "BIM35845": {
    "children": [],
-   "etag": "W/\"d0730d16170da929103e77e84e6044c9\"",
-   "last_ok": "2026-08-12T07:20:07+00:00",
+   "etag": "W/\"1b659fc54aea14f4793f7c9fb94219b8\"",
+   "last_ok": "2026-08-19T06:38:40+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35845",
    "status": "live"
@@ -4458,8 +4458,8 @@
   },
   "BIM35901": {
    "children": [],
-   "etag": "W/\"adbe4940c0743e1bc69fa884f1826676\"",
-   "last_ok": "2026-08-12T07:20:07+00:00",
+   "etag": "W/\"c49d6d0fa78e58558ac97963e0015496\"",
+   "last_ok": "2026-08-19T06:38:41+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim35901",
    "status": "live"
@@ -4530,8 +4530,8 @@
     "BIM37035",
     "BIM37045"
    ],
-   "etag": "W/\"95fef6036462d52c79524dd44e17524a\"",
-   "last_ok": "2026-08-12T07:20:08+00:00",
+   "etag": "W/\"491783a204a12328dddee9d49ff1aeb8\"",
+   "last_ok": "2026-08-19T06:38:42+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37010",
    "status": "live"
@@ -4673,8 +4673,8 @@
   },
   "BIM37400": {
    "children": [],
-   "etag": "W/\"e6e9c904acc18a5a278d094447081de2\"",
-   "last_ok": "2026-08-12T07:20:09+00:00",
+   "etag": "W/\"3417e398e876f561e3f7556cb50927ff\"",
+   "last_ok": "2026-08-19T06:38:42+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37400",
    "status": "live"
@@ -4705,24 +4705,24 @@
     "BIM37630",
     "BIM37635"
    ],
-   "etag": "W/\"6e4fb6afbb890ea6e74792f82da62063\"",
-   "last_ok": "2026-08-12T07:20:09+00:00",
+   "etag": "W/\"a58e291256aa18da6fa58451b67a26db\"",
+   "last_ok": "2026-08-19T06:38:43+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37600",
    "status": "live"
   },
   "BIM37605": {
    "children": [],
-   "etag": "W/\"ba867f66f178b9f9d0cbfe2f6a9c06c2\"",
-   "last_ok": "2026-08-12T07:20:10+00:00",
+   "etag": "W/\"18d5d2a3b6544a83d77c8a13e5ee6848\"",
+   "last_ok": "2026-08-19T06:38:44+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37605",
    "status": "live"
   },
   "BIM37610": {
    "children": [],
-   "etag": "W/\"4a61fdc670f23a5b6ddc1dce76da401a\"",
-   "last_ok": "2026-08-12T07:20:11+00:00",
+   "etag": "W/\"7f7cb391f024f915a6648b432ede1d3e\"",
+   "last_ok": "2026-08-19T06:38:44+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37610",
    "status": "live"
@@ -4745,8 +4745,8 @@
   },
   "BIM37625": {
    "children": [],
-   "etag": "W/\"1fb2d5a780c31fcb63cafc2ca081f8d9\"",
-   "last_ok": "2026-08-12T07:20:12+00:00",
+   "etag": "W/\"3bafc836580ac72839ad59951039381f\"",
+   "last_ok": "2026-08-19T06:38:45+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37625",
    "status": "live"
@@ -4777,8 +4777,8 @@
     "BIM37680",
     "BIM37690"
    ],
-   "etag": "W/\"0bf06a702f055c4cf9d9e0a1ceda901c\"",
-   "last_ok": "2026-08-12T07:20:12+00:00",
+   "etag": "W/\"6cab0c018bfd6a0a15e17031f1bf17e7\"",
+   "last_ok": "2026-08-19T06:38:46+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37650",
    "status": "live"
@@ -4793,16 +4793,16 @@
   },
   "BIM37665": {
    "children": [],
-   "etag": "W/\"d081245da61265e64bc8d324db24049e\"",
-   "last_ok": "2026-08-12T07:20:13+00:00",
+   "etag": "W/\"6a0088211133580e6c212a476d42d9b4\"",
+   "last_ok": "2026-08-19T06:38:46+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37665",
    "status": "live"
   },
   "BIM37670": {
    "children": [],
-   "etag": "W/\"bd9872c4369e69226fbb587aba470e3a\"",
-   "last_ok": "2026-08-12T07:20:14+00:00",
+   "etag": "W/\"92d0919cf616d60b7901d9ed0d63f6d0\"",
+   "last_ok": "2026-08-19T06:38:47+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37670",
    "status": "live"
@@ -4933,8 +4933,8 @@
   },
   "BIM37740": {
    "children": [],
-   "etag": "W/\"33da27133f6274ec6c95ab4d9a7393da\"",
-   "last_ok": "2026-08-12T07:20:15+00:00",
+   "etag": "W/\"896c1909423c9b377ea4e9fdf71ca61e\"",
+   "last_ok": "2026-08-19T06:38:48+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37740",
    "status": "live"
@@ -4993,8 +4993,8 @@
   },
   "BIM37765": {
    "children": [],
-   "etag": "W/\"c33db0698134f3280d017349cd249c7e\"",
-   "last_ok": "2026-08-12T07:20:15+00:00",
+   "etag": "W/\"a87146f4efd1355bb6a63ed4f0982421\"",
+   "last_ok": "2026-08-19T06:38:48+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37765",
    "status": "live"
@@ -5072,8 +5072,8 @@
   },
   "BIM37810": {
    "children": [],
-   "etag": "W/\"5a466e16d54b7dc67e7d222c7edc54df\"",
-   "last_ok": "2026-08-12T07:20:16+00:00",
+   "etag": "W/\"44521a078a3cfa732ee173851dc79ad9\"",
+   "last_ok": "2026-08-19T06:38:49+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37810",
    "status": "live"
@@ -5136,8 +5136,8 @@
     "BIM37965",
     "BIM37970"
    ],
-   "etag": "W/\"f32d8bdb0df0746c226815008b3abe20\"",
-   "last_ok": "2026-08-12T07:20:17+00:00",
+   "etag": "W/\"256890a656a3c87a25e5cdbcbd7487f7\"",
+   "last_ok": "2026-08-19T06:38:50+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37900",
    "status": "live"
@@ -5160,8 +5160,8 @@
   },
   "BIM37925": {
    "children": [],
-   "etag": "W/\"a3213f9fa9da668d7fbef6d831e50330\"",
-   "last_ok": "2026-08-12T07:20:17+00:00",
+   "etag": "W/\"27d1456ebd3b9a3ce6ecd7a11614642f\"",
+   "last_ok": "2026-08-19T06:38:51+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37925",
    "status": "live"
@@ -5184,8 +5184,8 @@
   },
   "BIM37935": {
    "children": [],
-   "etag": "W/\"3bd6c1c2c60d22b9e83212feb6145091\"",
-   "last_ok": "2026-08-12T07:20:18+00:00",
+   "etag": "W/\"b362fe27d865c8457ddcebc463cabc07\"",
+   "last_ok": "2026-08-19T06:38:51+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim37935",
    "status": "live"
@@ -5267,8 +5267,8 @@
     "BIM38110",
     "BIM38120"
    ],
-   "etag": "W/\"331d0d9cbb307b764d8e8f44c9ab0647\"",
-   "last_ok": "2026-08-12T07:20:19+00:00",
+   "etag": "W/\"4b82b5af1bfec4fdd0315c3c1628eb20\"",
+   "last_ok": "2026-08-19T06:38:52+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38100",
    "status": "live"
@@ -5283,8 +5283,8 @@
   },
   "BIM38120": {
    "children": [],
-   "etag": "W/\"38e1c2b1b2403a50529c7a0eee1490a1\"",
-   "last_ok": "2026-08-12T07:20:19+00:00",
+   "etag": "W/\"c556156e998c04194b62246b99322630\"",
+   "last_ok": "2026-08-19T06:38:53+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38120",
    "status": "live"
@@ -5304,8 +5304,8 @@
   },
   "BIM38210": {
    "children": [],
-   "etag": "W/\"2384d14e6ce4cf88bb2751331466bd09\"",
-   "last_ok": "2026-08-12T07:20:20+00:00",
+   "etag": "W/\"da1cbd7c941cd6bb0d5de0324c78c669\"",
+   "last_ok": "2026-08-19T06:38:53+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38210",
    "status": "live"
@@ -5320,8 +5320,8 @@
   },
   "BIM38230": {
    "children": [],
-   "etag": "W/\"42fea0a05110485ff96e57da5d2ebe87\"",
-   "last_ok": "2026-08-12T07:20:21+00:00",
+   "etag": "W/\"905261fecd3dcdafe914efb2d31d14c9\"",
+   "last_ok": "2026-08-19T06:38:54+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38230",
    "status": "live"
@@ -5397,24 +5397,24 @@
   },
   "BIM38350": {
    "children": [],
-   "etag": "W/\"846d6bb7b7c7c8d8a4d9a2c169c8eca9\"",
-   "last_ok": "2026-08-12T07:20:22+00:00",
+   "etag": "W/\"1c4aa24e3d0d400cfd673f873d931dbc\"",
+   "last_ok": "2026-08-19T06:38:54+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38350",
    "status": "live"
   },
   "BIM38360": {
    "children": [],
-   "etag": "W/\"4c3c45292714de51ae5b37325820be07\"",
-   "last_ok": "2026-08-12T07:20:22+00:00",
+   "etag": "W/\"3045d4eea6dc3e84e820ed1513ca1007\"",
+   "last_ok": "2026-08-19T06:38:55+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38360",
    "status": "live"
   },
   "BIM38370": {
    "children": [],
-   "etag": "W/\"ef53fb90c9767a08a08384267701cd83\"",
-   "last_ok": "2026-08-12T07:20:23+00:00",
+   "etag": "W/\"cb0e03611b2ec06bb49c6b28f1b3e734\"",
+   "last_ok": "2026-08-19T06:38:56+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38370",
    "status": "live"
@@ -5429,16 +5429,16 @@
   },
   "BIM38385": {
    "children": [],
-   "etag": "W/\"aaf14eb6716ad8c58421d66b388e0516\"",
-   "last_ok": "2026-08-12T07:20:24+00:00",
+   "etag": "W/\"2af5be65f2e6795c589dfbbe5b487f30\"",
+   "last_ok": "2026-08-19T06:38:57+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38385",
    "status": "live"
   },
   "BIM38390": {
    "children": [],
-   "etag": "W/\"5a688be2d9a123d4d3b3c9ae0e1c2732\"",
-   "last_ok": "2026-08-12T07:20:24+00:00",
+   "etag": "W/\"9c538ada70fbfeef17b86f3d0832cd34\"",
+   "last_ok": "2026-08-19T06:38:57+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38390",
    "status": "live"
@@ -5521,16 +5521,16 @@
   },
   "BIM38530": {
    "children": [],
-   "etag": "W/\"84b29733af571afc5392918943edce57\"",
-   "last_ok": "2026-08-12T07:20:25+00:00",
+   "etag": "W/\"e0339b11455cbe8984f55612de0428e5\"",
+   "last_ok": "2026-08-19T06:38:58+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38530",
    "status": "live"
   },
   "BIM38535": {
    "children": [],
-   "etag": "W/\"8f459f83a7762f1f2bc2f5c4f9e09a6c\"",
-   "last_ok": "2026-08-12T07:20:26+00:00",
+   "etag": "W/\"f78295a7fdd7e4cced81b3b0a48bbbe0\"",
+   "last_ok": "2026-08-19T06:38:59+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim38535",
    "status": "live"
@@ -5619,16 +5619,16 @@
   },
   "BIM39510": {
    "children": [],
-   "etag": "W/\"0de5355ec03a14cabd96b26269b01602\"",
-   "last_ok": "2026-08-12T07:20:27+00:00",
+   "etag": "W/\"c78afaafcce281c4782782e2ad068e20\"",
+   "last_ok": "2026-08-19T06:38:59+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim39510",
    "status": "live"
   },
   "BIM39515": {
    "children": [],
-   "etag": "W/\"26ca6a26203ce3c45324a4870ad54438\"",
-   "last_ok": "2026-08-12T07:20:27+00:00",
+   "etag": "W/\"ded9dfe9ef10e377b88f9eee821f86ab\"",
+   "last_ok": "2026-08-19T06:39:00+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim39515",
    "status": "live"
@@ -5643,8 +5643,8 @@
   },
   "BIM39525": {
    "children": [],
-   "etag": "W/\"a31929feb1796ed448a4e502812d5d46\"",
-   "last_ok": "2026-08-12T07:20:28+00:00",
+   "etag": "W/\"4a27087be973ae07747f1b6ebfb2f22e\"",
+   "last_ok": "2026-08-19T06:39:00+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim39525",
    "status": "live"
@@ -5691,8 +5691,8 @@
   },
   "BIM39555": {
    "children": [],
-   "etag": "W/\"7e8fc17b1bff3b9420531d1891c73ed7\"",
-   "last_ok": "2026-08-12T07:20:29+00:00",
+   "etag": "W/\"0c449c984719d715406ea212c489be19\"",
+   "last_ok": "2026-08-19T06:39:01+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim39555",
    "status": "live"
@@ -5780,8 +5780,8 @@
   },
   "BIM40055": {
    "children": [],
-   "etag": "W/\"027adc603d20140b80120754e00a63b3\"",
-   "last_ok": "2026-08-12T07:20:29+00:00",
+   "etag": "W/\"6ae31755c9bffc029fd45fd68b3ecc3f\"",
+   "last_ok": "2026-08-19T06:39:02+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40055",
    "status": "live"
@@ -5828,8 +5828,8 @@
   },
   "BIM40090": {
    "children": [],
-   "etag": "W/\"569ceac5ffe1981f66674201eb63a645\"",
-   "last_ok": "2026-08-12T07:20:30+00:00",
+   "etag": "W/\"2884af08668701dcc9bc9cab607839d6\"",
+   "last_ok": "2026-08-19T06:39:02+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40090",
    "status": "live"
@@ -5918,8 +5918,8 @@
   },
   "BIM40120": {
    "children": [],
-   "etag": "W/\"04f13ec9644e7f2362e5c58f44daec31\"",
-   "last_ok": "2026-08-12T07:20:31+00:00",
+   "etag": "W/\"de6514a8d0c34b253b728164ee2281c6\"",
+   "last_ok": "2026-08-19T06:39:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40120",
    "status": "live"
@@ -6001,8 +6001,8 @@
   },
   "BIM40162": {
    "children": [],
-   "etag": "W/\"bbffdf39e6ff12c78c3f5cabf714cc50\"",
-   "last_ok": "2026-08-12T07:20:32+00:00",
+   "etag": "W/\"6afa96d8d9042c13d5fd6135cf9deeb4\"",
+   "last_ok": "2026-08-19T06:39:04+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40162",
    "status": "live"
@@ -6113,8 +6113,8 @@
   },
   "BIM40194": {
    "children": [],
-   "etag": "W/\"41192373c667228d2250c70790a25c80\"",
-   "last_ok": "2026-08-12T07:20:32+00:00",
+   "etag": "W/\"2fb643ab08378e1f5a33cb98bbb01963\"",
+   "last_ok": "2026-08-19T06:39:05+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40194",
    "status": "live"
@@ -6168,8 +6168,8 @@
   },
   "BIM40210": {
    "children": [],
-   "etag": "W/\"e033905a56064caef2698c82a3fe412c\"",
-   "last_ok": "2026-08-12T07:20:33+00:00",
+   "etag": "W/\"0c6757a9dea907765e4111a0dd08eeb8\"",
+   "last_ok": "2026-08-19T06:39:05+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40210",
    "status": "live"
@@ -6184,16 +6184,16 @@
   },
   "BIM40220": {
    "children": [],
-   "etag": "W/\"94688087d27ffa858c824ceb14739a58\"",
-   "last_ok": "2026-08-12T07:20:34+00:00",
+   "etag": "W/\"6f433b4e87821094303a14def7655e1b\"",
+   "last_ok": "2026-08-19T06:39:06+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40220",
    "status": "live"
   },
   "BIM40225": {
    "children": [],
-   "etag": "W/\"2b510c2cb058331e164c9b69b6985c3e\"",
-   "last_ok": "2026-08-12T07:20:34+00:00",
+   "etag": "W/\"be1029f996af39f77978b0ddbbb38259\"",
+   "last_ok": "2026-08-19T06:39:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40225",
    "status": "live"
@@ -6248,8 +6248,8 @@
   },
   "BIM40260": {
    "children": [],
-   "etag": "W/\"92449bbca70d1f1c16cd1bd3115c267d\"",
-   "last_ok": "2026-08-12T07:20:35+00:00",
+   "etag": "W/\"9d61ea4c3ab8bf6e9d7783991ac6863d\"",
+   "last_ok": "2026-08-19T06:39:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40260",
    "status": "live"
@@ -6412,8 +6412,8 @@
   },
   "BIM40460": {
    "children": [],
-   "etag": "W/\"6b711dd1d36b28637843796a5bdb44af\"",
-   "last_ok": "2026-08-12T07:20:36+00:00",
+   "etag": "W/\"a4f20893179937ca0d696eb7e6fb1021\"",
+   "last_ok": "2026-08-19T06:39:08+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40460",
    "status": "live"
@@ -6572,8 +6572,8 @@
   },
   "BIM40685": {
    "children": [],
-   "etag": "W/\"f0a3ec5065675ff11e0436630f7fc8c4\"",
-   "last_ok": "2026-08-12T07:20:36+00:00",
+   "etag": "W/\"3985fdf061b8be817da21a2d04b0eafb\"",
+   "last_ok": "2026-08-19T06:39:09+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40685",
    "status": "live"
@@ -6599,8 +6599,8 @@
   },
   "BIM40751": {
    "children": [],
-   "etag": "W/\"bd566d3c58b1b6838b2aea8ed4090249\"",
-   "last_ok": "2026-08-12T07:20:37+00:00",
+   "etag": "W/\"b512b118af7c93fd1024c1f5c03ba7d7\"",
+   "last_ok": "2026-08-19T06:39:10+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40751",
    "status": "live"
@@ -6627,8 +6627,8 @@
   },
   "BIM40801": {
    "children": [],
-   "etag": "W/\"6c32cb2c0a9ced1de8358c3d291fb149\"",
-   "last_ok": "2026-08-12T07:20:38+00:00",
+   "etag": "W/\"3ead38b4489b4525fc067332b80d1f4f\"",
+   "last_ok": "2026-08-19T06:39:11+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim40801",
    "status": "live"
@@ -6791,8 +6791,8 @@
   },
   "BIM41110": {
    "children": [],
-   "etag": "W/\"40b59e17761278e208d8a0e0abc06a20\"",
-   "last_ok": "2026-08-12T07:20:39+00:00",
+   "etag": "W/\"6a7ae0a26fdfbea5ccf01f566d39d736\"",
+   "last_ok": "2026-08-19T06:39:11+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim41110",
    "status": "live"
@@ -6969,8 +6969,8 @@
   },
   "BIM42125": {
    "children": [],
-   "etag": "W/\"1d1daa440137099c3ebe596c748cc3bb\"",
-   "last_ok": "2026-08-12T07:20:39+00:00",
+   "etag": "W/\"43f75bcb5eb425788a813e6d671196da\"",
+   "last_ok": "2026-08-19T06:39:12+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim42125",
    "status": "live"
@@ -7022,8 +7022,8 @@
   },
   "BIM42210": {
    "children": [],
-   "etag": "W/\"3ac828a931f3f16ed04bea2ca185fee3\"",
-   "last_ok": "2026-08-12T07:20:40+00:00",
+   "etag": "W/\"07f60ca764f2147ca58f1f226bc7bb64\"",
+   "last_ok": "2026-08-19T06:39:13+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim42210",
    "status": "live"
@@ -7125,8 +7125,8 @@
   },
   "BIM42520": {
    "children": [],
-   "etag": "W/\"47e4e653859acb152fc887835e39acf7\"",
-   "last_ok": "2026-08-12T07:20:41+00:00",
+   "etag": "W/\"14e265a18a1fda6db16ba3e5ad50f43c\"",
+   "last_ok": "2026-08-19T06:39:13+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim42520",
    "status": "live"
@@ -7141,8 +7141,8 @@
   },
   "BIM42525": {
    "children": [],
-   "etag": "W/\"e0a2a906e089e9ef4948a70fc4b9b251\"",
-   "last_ok": "2026-08-12T07:20:42+00:00",
+   "etag": "W/\"1cfac230ebe57dc6234463ac99f58748\"",
+   "last_ok": "2026-08-19T06:39:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim42525",
    "status": "live"
@@ -7210,8 +7210,8 @@
   },
   "BIM42555": {
    "children": [],
-   "etag": "W/\"e60ad8cd6f0f2b08ec06cb64576eac91\"",
-   "last_ok": "2026-08-12T07:20:43+00:00",
+   "etag": "W/\"00ed9a0dd87169ae76cb6b20bcd8a842\"",
+   "last_ok": "2026-08-19T06:39:15+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim42555",
    "status": "live"
@@ -7261,8 +7261,8 @@
   },
   "BIM42705": {
    "children": [],
-   "etag": "W/\"cecc1b109d855e05eb09b17006fea79d\"",
-   "last_ok": "2026-08-12T07:20:43+00:00",
+   "etag": "W/\"166a0c49a944548a23066cdc542bfdfc\"",
+   "last_ok": "2026-08-19T06:39:15+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim42705",
    "status": "live"
@@ -7293,8 +7293,8 @@
   },
   "BIM42730": {
    "children": [],
-   "etag": "W/\"259840bbb8c28e0be1697fd480fb17b9\"",
-   "last_ok": "2026-08-12T07:20:44+00:00",
+   "etag": "W/\"6f859b7ec103d3f064116fa8a67e4a75\"",
+   "last_ok": "2026-08-19T06:39:16+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim42730",
    "status": "live"
@@ -7431,8 +7431,8 @@
   },
   "BIM43126": {
    "children": [],
-   "etag": "W/\"a87fb8bff969403d9a82ce43ca19e0a8\"",
-   "last_ok": "2026-08-12T07:20:45+00:00",
+   "etag": "W/\"54c596425be1536aa1c49c4ea595979d\"",
+   "last_ok": "2026-08-19T06:39:17+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim43126",
    "status": "live"
@@ -7682,8 +7682,8 @@
   },
   "BIM44255": {
    "children": [],
-   "etag": "W/\"cb75f2cf54be55b2c1f8dd8b2a880442\"",
-   "last_ok": "2026-08-12T07:20:45+00:00",
+   "etag": "W/\"c731e36c62715dab324506d400619fd6\"",
+   "last_ok": "2026-08-19T06:39:18+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim44255",
    "status": "live"
@@ -7818,8 +7818,8 @@
   },
   "BIM44385": {
    "children": [],
-   "etag": "W/\"1ed0ce855163d0d40adc4c56777cfe59\"",
-   "last_ok": "2026-08-12T07:20:46+00:00",
+   "etag": "W/\"7f83dbcb44dac5d7920509f697d4000d\"",
+   "last_ok": "2026-08-19T06:39:18+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim44385",
    "status": "live"
@@ -7890,8 +7890,8 @@
   },
   "BIM44415": {
    "children": [],
-   "etag": "W/\"2cf9e2dcb33bc826c245cf7194ec5ad1\"",
-   "last_ok": "2026-08-12T07:20:46+00:00",
+   "etag": "W/\"b5cd259d30f617a63fc5851dfaf0bfb8\"",
+   "last_ok": "2026-08-19T06:39:19+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim44415",
    "status": "live"
@@ -7938,8 +7938,8 @@
   },
   "BIM44463": {
    "children": [],
-   "etag": "W/\"641f8b920491689bbd532499a6662793\"",
-   "last_ok": "2026-08-12T07:20:47+00:00",
+   "etag": "W/\"cbe98bfa1cc1ccb6b826aece4e66bb3d\"",
+   "last_ok": "2026-08-19T06:39:20+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim44463",
    "status": "live"
@@ -8017,8 +8017,8 @@
   },
   "BIM44515": {
    "children": [],
-   "etag": "W/\"e475d8f85ffd7a184ce5c8cc88de4516\"",
-   "last_ok": "2026-08-12T07:20:48+00:00",
+   "etag": "W/\"ba56f1a2f5fee5cfe150be5184786d0b\"",
+   "last_ok": "2026-08-19T06:39:20+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim44515",
    "status": "live"
@@ -8088,8 +8088,8 @@
   },
   "BIM44560": {
    "children": [],
-   "etag": "W/\"69d29ae0cac7434a8e17bfb8088fdf42\"",
-   "last_ok": "2026-08-12T07:20:48+00:00",
+   "etag": "W/\"9160c92c1211c2ae11f9376c99a290e2\"",
+   "last_ok": "2026-08-19T06:39:21+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim44560",
    "status": "live"
@@ -8175,8 +8175,8 @@
   },
   "BIM44595": {
    "children": [],
-   "etag": "W/\"9d4ccdbea5e0127e28ca58e41fb23d7c\"",
-   "last_ok": "2026-08-12T07:20:49+00:00",
+   "etag": "W/\"848b273a64a794981b61b63114686e6d\"",
+   "last_ok": "2026-08-19T06:39:22+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim44595",
    "status": "live"
@@ -8231,8 +8231,8 @@
   },
   "BIM44630": {
    "children": [],
-   "etag": "W/\"6cd6b8e953f59efddc2ba5304b940a75\"",
-   "last_ok": "2026-08-12T07:20:50+00:00",
+   "etag": "W/\"d55b7452c36bbea2bddc8aa24356801b\"",
+   "last_ok": "2026-08-19T06:39:22+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim44630",
    "status": "live"
@@ -8247,8 +8247,8 @@
   },
   "BIM44636": {
    "children": [],
-   "etag": "W/\"eb2cc8eb5e80d80e682f132c0e7a8138\"",
-   "last_ok": "2026-08-12T07:20:50+00:00",
+   "etag": "W/\"68abf7951f5032c6f8aeb7650be190b2\"",
+   "last_ok": "2026-08-19T06:39:23+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim44636",
    "status": "live"
@@ -8367,8 +8367,8 @@
   },
   "BIM45031": {
    "children": [],
-   "etag": "W/\"21cc5986c2cf15f17e1156d64d51e4b3\"",
-   "last_ok": "2026-08-12T07:20:51+00:00",
+   "etag": "W/\"7d0d90e5984320000a5f6918258e79e7\"",
+   "last_ok": "2026-08-19T06:39:24+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45031",
    "status": "live"
@@ -8391,16 +8391,16 @@
   },
   "BIM45034": {
    "children": [],
-   "etag": "W/\"8d0035e676d26c4a39184eb42f296d99\"",
-   "last_ok": "2026-08-12T07:20:52+00:00",
+   "etag": "W/\"cb075e14d48a7a797ecb793ea3c59ba4\"",
+   "last_ok": "2026-08-19T06:39:24+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45034",
    "status": "live"
   },
   "BIM45040": {
    "children": [],
-   "etag": "W/\"36e0b732c92fef3d1316bdfab9e02f2b\"",
-   "last_ok": "2026-08-12T07:20:52+00:00",
+   "etag": "W/\"29e225e8f3e1b28458661c30a4833ba8\"",
+   "last_ok": "2026-08-19T06:39:25+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45040",
    "status": "live"
@@ -8503,8 +8503,8 @@
   },
   "BIM45074": {
    "children": [],
-   "etag": "W/\"379b5bdaba0b56523479cee2e18a1380\"",
-   "last_ok": "2026-08-12T07:20:53+00:00",
+   "etag": "W/\"1dc04c39d074e5d35cdef1f5862198ec\"",
+   "last_ok": "2026-08-19T06:39:26+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45074",
    "status": "live"
@@ -8559,8 +8559,8 @@
   },
   "BIM45105": {
    "children": [],
-   "etag": "W/\"1155cda4f6de1b86e9fcaaa0eac417ea\"",
-   "last_ok": "2026-08-12T07:20:54+00:00",
+   "etag": "W/\"607fd956a18456d4e508139cfa5b4584\"",
+   "last_ok": "2026-08-19T06:39:26+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45105",
    "status": "live"
@@ -8583,8 +8583,8 @@
   },
   "BIM45120": {
    "children": [],
-   "etag": "W/\"3af8312715605c289b9ac785448f0510\"",
-   "last_ok": "2026-08-12T07:20:54+00:00",
+   "etag": "W/\"5802419d33859d925f48353d99527fcc\"",
+   "last_ok": "2026-08-19T06:39:27+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45120",
    "status": "live"
@@ -8673,8 +8673,8 @@
   },
   "BIM45180": {
    "children": [],
-   "etag": "W/\"e1034192f4049fefb4e34681147bb12f\"",
-   "last_ok": "2026-08-12T07:20:55+00:00",
+   "etag": "W/\"d7971c02a676cb7884109052c2db82f8\"",
+   "last_ok": "2026-08-19T06:39:28+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45180",
    "status": "live"
@@ -8716,8 +8716,8 @@
   },
   "BIM45301": {
    "children": [],
-   "etag": "W/\"d4d09b7de2af9538984a9c4a7bf16fa6\"",
-   "last_ok": "2026-08-12T07:20:55+00:00",
+   "etag": "W/\"502226e302ed460debd8c4f5ff758050\"",
+   "last_ok": "2026-08-19T06:39:28+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45301",
    "status": "live"
@@ -8958,8 +8958,8 @@
   },
   "BIM45680": {
    "children": [],
-   "etag": "W/\"d4a50d67435c416f139fcb686df926c1\"",
-   "last_ok": "2026-08-12T07:20:56+00:00",
+   "etag": "W/\"82fc3dead450cb46e1f86d93c1c388dc\"",
+   "last_ok": "2026-08-19T06:39:29+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45680",
    "status": "live"
@@ -8974,16 +8974,16 @@
   },
   "BIM45690": {
    "children": [],
-   "etag": "W/\"8903cb4809d22dfd0351f8e2d7f88667\"",
-   "last_ok": "2026-08-12T07:20:57+00:00",
+   "etag": "W/\"f42e82a4ee5b8b90103cac02cd405552\"",
+   "last_ok": "2026-08-19T06:39:29+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45690",
    "status": "live"
   },
   "BIM45695": {
    "children": [],
-   "etag": "W/\"35b604c41bab1c5bb3bead303f410a61\"",
-   "last_ok": "2026-08-12T07:20:58+00:00",
+   "etag": "W/\"41c492c1a90561bd672d5fcb7f6bb0ee\"",
+   "last_ok": "2026-08-19T06:39:30+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45695",
    "status": "live"
@@ -9094,16 +9094,16 @@
   },
   "BIM45781": {
    "children": [],
-   "etag": "W/\"8861dfff6dae099904ead44514fc1f41\"",
-   "last_ok": "2026-08-12T07:20:59+00:00",
+   "etag": "W/\"d0413f93a56272b2f647fe2a6a522895\"",
+   "last_ok": "2026-08-19T06:39:31+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45781",
    "status": "live"
   },
   "BIM45782": {
    "children": [],
-   "etag": "W/\"425367bdbfbc76142a46e002c2b06c72\"",
-   "last_ok": "2026-08-12T07:20:59+00:00",
+   "etag": "W/\"9d2808b5a9227e840c5e9630b1344aa2\"",
+   "last_ok": "2026-08-19T06:39:31+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45782",
    "status": "live"
@@ -9124,8 +9124,8 @@
   },
   "BIM45801": {
    "children": [],
-   "etag": "W/\"4607ae2ab7f8fbc68c4bb51a4a631592\"",
-   "last_ok": "2026-08-12T07:21:00+00:00",
+   "etag": "W/\"c0c040d8573e35de8b9b6525f09f0cec\"",
+   "last_ok": "2026-08-19T06:39:32+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45801",
    "status": "live"
@@ -9219,8 +9219,8 @@
   },
   "BIM45870": {
    "children": [],
-   "etag": "W/\"482bc1f1cd50f810d767bc8d7306790a\"",
-   "last_ok": "2026-08-12T07:21:01+00:00",
+   "etag": "W/\"9c7bf2f25f0dd2f0adfbc1c9ce393cf5\"",
+   "last_ok": "2026-08-19T06:39:32+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45870",
    "status": "live"
@@ -9267,8 +9267,8 @@
     "BIM45960",
     "BIM45965"
    ],
-   "etag": "W/\"5b8f708224da439d985f74958ba54dc4\"",
-   "last_ok": "2026-08-12T07:21:02+00:00",
+   "etag": "W/\"06e82cf3443fced3b9965ffab66dd29a\"",
+   "last_ok": "2026-08-19T06:39:33+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim45950",
    "status": "live"
@@ -9346,8 +9346,8 @@
   },
   "BIM46005": {
    "children": [],
-   "etag": "W/\"f3380ec6a1febe36d6c80bc4bd4795f8\"",
-   "last_ok": "2026-08-12T07:21:02+00:00",
+   "etag": "W/\"f303d8272e31949469219cdc78dd1d92\"",
+   "last_ok": "2026-08-19T06:39:34+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46005",
    "status": "live"
@@ -9362,8 +9362,8 @@
   },
   "BIM46015": {
    "children": [],
-   "etag": "W/\"83c69ade0f137319e74f614edd82ab5b\"",
-   "last_ok": "2026-08-12T07:21:03+00:00",
+   "etag": "W/\"1f36f88b9c53e58a168432224d59282d\"",
+   "last_ok": "2026-08-19T06:39:34+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46015",
    "status": "live"
@@ -9426,8 +9426,8 @@
   },
   "BIM46055": {
    "children": [],
-   "etag": "W/\"1ca8fb8aa932b64a0d862f6ef22a3720\"",
-   "last_ok": "2026-08-12T07:21:04+00:00",
+   "etag": "W/\"3eb5c9cc360dba7f985e5098ef57f16c\"",
+   "last_ok": "2026-08-19T06:39:35+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46055",
    "status": "live"
@@ -9450,8 +9450,8 @@
   },
   "BIM46070": {
    "children": [],
-   "etag": "W/\"f9ddfc980f9d8aebe06beca1b733bb78\"",
-   "last_ok": "2026-08-12T07:21:05+00:00",
+   "etag": "W/\"f78f7c42183e2e19b6ce732ccf5ab60e\"",
+   "last_ok": "2026-08-19T06:39:36+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46070",
    "status": "live"
@@ -9498,8 +9498,8 @@
   },
   "BIM46145": {
    "children": [],
-   "etag": "W/\"9538b9208f897df4fc219735e2ab9918\"",
-   "last_ok": "2026-08-12T07:21:05+00:00",
+   "etag": "W/\"d3d4f638864f56843f7e4be1257f1132\"",
+   "last_ok": "2026-08-19T06:39:37+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46145",
    "status": "live"
@@ -9636,16 +9636,16 @@
     "BIM46455",
     "BIM46460"
    ],
-   "etag": "W/\"1c0de3f22c256266ea489c14677446bf\"",
-   "last_ok": "2026-08-12T07:21:06+00:00",
+   "etag": "W/\"a7b9cd3653d94bbbd9a7fbe413cc680e\"",
+   "last_ok": "2026-08-19T06:39:37+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46400",
    "status": "live"
   },
   "BIM46405": {
    "children": [],
-   "etag": "W/\"64479da6f1f65773548df0e688bcd3f1\"",
-   "last_ok": "2026-08-12T07:21:07+00:00",
+   "etag": "W/\"82260ce135bd6237fc98650bbcfa5196\"",
+   "last_ok": "2026-08-19T06:39:38+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46405",
    "status": "live"
@@ -9692,8 +9692,8 @@
   },
   "BIM46435": {
    "children": [],
-   "etag": "W/\"d4f2cd444b6be7662b193244d98c6e97\"",
-   "last_ok": "2026-08-12T07:21:07+00:00",
+   "etag": "W/\"3d883b685c8f1b820de2037002b31970\"",
+   "last_ok": "2026-08-19T06:39:39+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46435",
    "status": "live"
@@ -9769,8 +9769,8 @@
   },
   "BIM46510": {
    "children": [],
-   "etag": "W/\"0614fb64f45f8d455d642ce40a8b7f92\"",
-   "last_ok": "2026-08-12T07:21:08+00:00",
+   "etag": "W/\"f5052694a9b9fca98f4a927345961f34\"",
+   "last_ok": "2026-08-19T06:39:39+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46510",
    "status": "live"
@@ -9809,16 +9809,16 @@
   },
   "BIM46535": {
    "children": [],
-   "etag": "W/\"700149cbca63f68bf3148904e3903a38\"",
-   "last_ok": "2026-08-12T07:21:09+00:00",
+   "etag": "W/\"7303af1bc2a0585f0490cb16df41e0c5\"",
+   "last_ok": "2026-08-19T06:39:40+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46535",
    "status": "live"
   },
   "BIM46540": {
    "children": [],
-   "etag": "W/\"c4fbaa90eb8432168ebfc0a28d4e7bf8\"",
-   "last_ok": "2026-08-12T07:21:09+00:00",
+   "etag": "W/\"d8a3a7f007c816d15698e53573986b85\"",
+   "last_ok": "2026-08-19T06:39:41+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46540",
    "status": "live"
@@ -9833,8 +9833,8 @@
   },
   "BIM46550": {
    "children": [],
-   "etag": "W/\"353db627d27138fac2cd67188eed0a59\"",
-   "last_ok": "2026-08-12T07:21:10+00:00",
+   "etag": "W/\"73f2a0e50021bd3efa94d6ea8995c7b6\"",
+   "last_ok": "2026-08-19T06:39:42+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46550",
    "status": "live"
@@ -9891,8 +9891,8 @@
   },
   "BIM46805": {
    "children": [],
-   "etag": "W/\"f343e4e3fd0ac6d351f922eeb198423d\"",
-   "last_ok": "2026-08-12T07:21:11+00:00",
+   "etag": "W/\"b5984af22716f81396b53620b83e4fca\"",
+   "last_ok": "2026-08-19T06:39:42+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46805",
    "status": "live"
@@ -9907,8 +9907,8 @@
   },
   "BIM46815": {
    "children": [],
-   "etag": "W/\"7bd426f220573a459ab9969810a30c9c\"",
-   "last_ok": "2026-08-12T07:21:12+00:00",
+   "etag": "W/\"d1a78d16efdeb043343ed3c3f71fe4eb\"",
+   "last_ok": "2026-08-19T06:39:43+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim46815",
    "status": "live"
@@ -10118,8 +10118,8 @@
   },
   "BIM47005": {
    "children": [],
-   "etag": "W/\"b50f1384cf0cb3df17f71f99d4fbace2\"",
-   "last_ok": "2026-08-12T07:21:12+00:00",
+   "etag": "W/\"4b9309177ba48e76a6fc3cb1c19d21af\"",
+   "last_ok": "2026-08-19T06:39:44+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim47005",
    "status": "live"
@@ -10166,8 +10166,8 @@
   },
   "BIM47090": {
    "children": [],
-   "etag": "W/\"36f75b6c8eb2b7a6161b78e98e680dbc\"",
-   "last_ok": "2026-08-12T07:21:13+00:00",
+   "etag": "W/\"21a159ab4607e2c6b336b7c6a1afd4bd\"",
+   "last_ok": "2026-08-19T06:39:44+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim47090",
    "status": "live"
@@ -10270,8 +10270,8 @@
   },
   "BIM47150": {
    "children": [],
-   "etag": "W/\"7d51fd3c248cfd5ea1319585c291cdd7\"",
-   "last_ok": "2026-08-12T07:21:13+00:00",
+   "etag": "W/\"7f965b8ece863dc06287dac6d40cfe26\"",
+   "last_ok": "2026-08-19T06:39:45+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim47150",
    "status": "live"
@@ -10464,8 +10464,8 @@
     "BIM47610",
     "BIM47615"
    ],
-   "etag": "W/\"35d5d8e2a1f87f324ce16a4ce70d24e2\"",
-   "last_ok": "2026-08-12T07:21:14+00:00",
+   "etag": "W/\"809d19d2251485dfc8966fe0ad3aa139\"",
+   "last_ok": "2026-08-19T06:39:46+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim47600",
    "status": "live"
@@ -10537,8 +10537,8 @@
   },
   "BIM47710": {
    "children": [],
-   "etag": "W/\"1c247a67772da580c4e1de8ece4e8600\"",
-   "last_ok": "2026-08-12T07:21:15+00:00",
+   "etag": "W/\"4c434bdf7be5303c672050d47e5ee83b\"",
+   "last_ok": "2026-08-19T06:39:47+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim47710",
    "status": "live"
@@ -10553,8 +10553,8 @@
   },
   "BIM47714": {
    "children": [],
-   "etag": "W/\"283c1e4b2522de076be519de1073c383\"",
-   "last_ok": "2026-08-12T07:21:15+00:00",
+   "etag": "W/\"fdf94c7fa54f6e32f0d979bdd1789f95\"",
+   "last_ok": "2026-08-19T06:39:47+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim47714",
    "status": "live"
@@ -10585,8 +10585,8 @@
   },
   "BIM47745": {
    "children": [],
-   "etag": "W/\"08a134403aca7b37ce39e3de42ee9d08\"",
-   "last_ok": "2026-08-12T07:21:16+00:00",
+   "etag": "W/\"667fcde9b855ecaf3fd309f9e416a95a\"",
+   "last_ok": "2026-08-19T06:39:48+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim47745",
    "status": "live"
@@ -10609,8 +10609,8 @@
   },
   "BIM47760": {
    "children": [],
-   "etag": "W/\"a577737f12fa71357ffb5e11dbfffa01\"",
-   "last_ok": "2026-08-12T07:21:17+00:00",
+   "etag": "W/\"b99ff2ea435b4f0eaa5763a5b47e49a7\"",
+   "last_ok": "2026-08-19T06:39:48+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim47760",
    "status": "live"
@@ -10663,8 +10663,8 @@
     "BIM47820",
     "BIM47825"
    ],
-   "etag": "W/\"7cd88781459e876d9bfb000ff6daa03c\"",
-   "last_ok": "2026-08-12T07:21:17+00:00",
+   "etag": "W/\"215b8925814ac2574f4828eb1942afcf\"",
+   "last_ok": "2026-08-19T06:39:49+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim47800",
    "status": "live"
@@ -10814,16 +10814,16 @@
   },
   "BIM50160": {
    "children": [],
-   "etag": "W/\"f9a0c3a3f982f4a9ec996a8134d111fc\"",
-   "last_ok": "2026-08-12T07:21:18+00:00",
+   "etag": "W/\"072501fac6d8db67fce174c062cd0e41\"",
+   "last_ok": "2026-08-19T06:39:50+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim50160",
    "status": "live"
   },
   "BIM50301": {
    "children": [],
-   "etag": "W/\"9b1e6d078e5e3545e7bfe4663b3c3d16\"",
-   "last_ok": "2026-08-12T07:21:19+00:00",
+   "etag": "W/\"b6a7f6a7df19ebe5be5a39a4f4f1f2b2\"",
+   "last_ok": "2026-08-19T06:39:51+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim50301",
    "status": "live"
@@ -10864,8 +10864,8 @@
   },
   "BIM50606": {
    "children": [],
-   "etag": "W/\"3a3456f56ae56e585fb7f2dec1f78694\"",
-   "last_ok": "2026-08-12T07:21:19+00:00",
+   "etag": "W/\"3e0c07e881b6afabfe9ca0b258480cab\"",
+   "last_ok": "2026-08-19T06:39:52+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim50606",
    "status": "live"
@@ -10904,8 +10904,8 @@
   },
   "BIM50626": {
    "children": [],
-   "etag": "W/\"3b3ba3dc90dfac20a5ec64a9b17aadf8\"",
-   "last_ok": "2026-08-12T07:21:20+00:00",
+   "etag": "W/\"41b64fa7ed2dd42bd2aa0cfb378b8442\"",
+   "last_ok": "2026-08-19T06:39:52+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim50626",
    "status": "live"
@@ -10950,8 +10950,8 @@
   },
   "BIM50660": {
    "children": [],
-   "etag": "W/\"44816b18870762204276e0ea47e3b283\"",
-   "last_ok": "2026-08-12T07:21:21+00:00",
+   "etag": "W/\"1d6db5c4b12139ab80dae955ecbcdf61\"",
+   "last_ok": "2026-08-19T06:39:53+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim50660",
    "status": "live"
@@ -11000,8 +11000,8 @@
   },
   "BIM50705": {
    "children": [],
-   "etag": "W/\"98d96b862944678c973d50498a2da62b\"",
-   "last_ok": "2026-08-12T07:21:21+00:00",
+   "etag": "W/\"aec8b701efa1c65539d194403727f569\"",
+   "last_ok": "2026-08-19T06:39:54+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim50705",
    "status": "live"
@@ -11040,8 +11040,8 @@
   },
   "BIM50745": {
    "children": [],
-   "etag": "W/\"7c8f774e48212e5efdb390e7bdc070cb\"",
-   "last_ok": "2026-08-12T07:21:22+00:00",
+   "etag": "W/\"7f5934348bf96b32578e580ec5188740\"",
+   "last_ok": "2026-08-19T06:39:55+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim50745",
    "status": "live"
@@ -11256,8 +11256,8 @@
   },
   "BIM51515": {
    "children": [],
-   "etag": "W/\"4ce81ddc7b8c5deb5e143e30bd7f748a\"",
-   "last_ok": "2026-08-12T07:21:23+00:00",
+   "etag": "W/\"aeb6af83c5830926e9043829e5c0538c\"",
+   "last_ok": "2026-08-19T06:39:55+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim51515",
    "status": "live"
@@ -11317,8 +11317,8 @@
   },
   "BIM51550": {
    "children": [],
-   "etag": "W/\"8554eb55db482ca223613fd6f16ac0ef\"",
-   "last_ok": "2026-08-12T07:21:23+00:00",
+   "etag": "W/\"6bb1661b31c9d1bf95408b12fbc53276\"",
+   "last_ok": "2026-08-19T06:39:56+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim51550",
    "status": "live"
@@ -11361,8 +11361,8 @@
   },
   "BIM51570": {
    "children": [],
-   "etag": "W/\"56421646898f55583f8da03932374a77\"",
-   "last_ok": "2026-08-12T07:21:24+00:00",
+   "etag": "W/\"f67576b1450f3d826701cd415d168fb1\"",
+   "last_ok": "2026-08-19T06:39:57+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim51570",
    "status": "live"
@@ -11409,16 +11409,16 @@
   },
   "BIM51600": {
    "children": [],
-   "etag": "W/\"cef03993fb8642c9439b18963ea97bcb\"",
-   "last_ok": "2026-08-12T07:21:25+00:00",
+   "etag": "W/\"298bebe901586c4b32cb9ee2a20f36ee\"",
+   "last_ok": "2026-08-19T06:39:58+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim51600",
    "status": "live"
   },
   "BIM51605": {
    "children": [],
-   "etag": "W/\"5688052c7f25a7a48cb6b0bb8b5670ad\"",
-   "last_ok": "2026-08-12T07:21:25+00:00",
+   "etag": "W/\"841f5770fcb950e7d3c5f8d4153fa74f\"",
+   "last_ok": "2026-08-19T06:39:58+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim51605",
    "status": "live"
@@ -11457,8 +11457,8 @@
   },
   "BIM51630": {
    "children": [],
-   "etag": "W/\"f3afa3f11e6a95324b96fdd11f2d8565\"",
-   "last_ok": "2026-08-12T07:21:26+00:00",
+   "etag": "W/\"6eb324b0908e8cedc923f6d287b91f09\"",
+   "last_ok": "2026-08-19T06:39:59+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim51630",
    "status": "live"
@@ -11517,8 +11517,8 @@
   },
   "BIM52001": {
    "children": [],
-   "etag": "W/\"1b8189d9c8138e346a81876b8ee1aa73\"",
-   "last_ok": "2026-08-12T07:21:27+00:00",
+   "etag": "W/\"1fde75f7c8a8900890997c3c4e10d106\"",
+   "last_ok": "2026-08-19T06:39:59+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim52001",
    "status": "live"
@@ -11532,8 +11532,8 @@
     "BIM52525",
     "BIM52530"
    ],
-   "etag": "W/\"5d88f3053e90888a3bbaee69eccbb5da\"",
-   "last_ok": "2026-08-12T07:21:27+00:00",
+   "etag": "W/\"43c65daa508e23d4d8657d8380094d7d\"",
+   "last_ok": "2026-08-19T06:40:00+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim52500",
    "status": "live"
@@ -11556,8 +11556,8 @@
   },
   "BIM52510": {
    "children": [],
-   "etag": "W/\"19b5d8a002ae6aede299778beab7fce5\"",
-   "last_ok": "2026-08-12T07:21:28+00:00",
+   "etag": "W/\"91d47400606b15081cb0b62c5cf4aff7\"",
+   "last_ok": "2026-08-19T06:40:01+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim52510",
    "status": "live"
@@ -11706,8 +11706,8 @@
   },
   "BIM52775": {
    "children": [],
-   "etag": "W/\"609b34ff8e91a2f3357e60226e69e3de\"",
-   "last_ok": "2026-08-12T07:21:29+00:00",
+   "etag": "W/\"c46440c7161e05a9e3c17a9d382493fe\"",
+   "last_ok": "2026-08-19T06:40:01+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim52775",
    "status": "live"
@@ -11762,8 +11762,8 @@
   },
   "BIM52810": {
    "children": [],
-   "etag": "W/\"266faaf216f8abc47f27418d2b1dd48c\"",
-   "last_ok": "2026-08-12T07:21:29+00:00",
+   "etag": "W/\"8d6c30f7203c4a38bb8dd4d5c32b6a57\"",
+   "last_ok": "2026-08-19T06:40:02+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim52810",
    "status": "live"
@@ -11918,8 +11918,8 @@
     "BIM55500",
     "BIM55700"
    ],
-   "etag": "W/\"ac8c81f29298a6bd970f963dd8f793dd\"",
-   "last_ok": "2026-08-12T07:21:30+00:00",
+   "etag": "W/\"b113e7b256d9c69bc602819e0a2d6b7b\"",
+   "last_ok": "2026-08-19T06:40:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55000",
    "status": "live"
@@ -12054,8 +12054,8 @@
   },
   "BIM55115": {
    "children": [],
-   "etag": "W/\"1b30dd61a3e610a6086e75fe93fbd25c\"",
-   "last_ok": "2026-08-12T07:21:31+00:00",
+   "etag": "W/\"5ff10e98bcf28caeb92ac8d6c1f94196\"",
+   "last_ok": "2026-08-19T06:40:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55115",
    "status": "live"
@@ -12195,8 +12195,8 @@
   },
   "BIM55155": {
    "children": [],
-   "etag": "W/\"6ef47e5ab3d867f1980da428eb5017b6\"",
-   "last_ok": "2026-08-12T07:21:32+00:00",
+   "etag": "W/\"77c9e20b6edc2607bff4514de9f912c0\"",
+   "last_ok": "2026-08-19T06:40:04+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55155",
    "status": "live"
@@ -12379,8 +12379,8 @@
   },
   "BIM55280": {
    "children": [],
-   "etag": "W/\"af499a88744d82aee0f05b525ee635a0\"",
-   "last_ok": "2026-08-12T07:21:32+00:00",
+   "etag": "W/\"ac8ec2f958ed1ced3d262ea2ef774b7d\"",
+   "last_ok": "2026-08-19T06:40:04+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55280",
    "status": "live"
@@ -12395,8 +12395,8 @@
   },
   "BIM55290": {
    "children": [],
-   "etag": "W/\"e35e9c4aa58f82b49813b5a713db07d6\"",
-   "last_ok": "2026-08-12T07:21:33+00:00",
+   "etag": "W/\"df04fc8bccdeb4413406a56538f691d3\"",
+   "last_ok": "2026-08-19T06:40:05+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55290",
    "status": "live"
@@ -12447,24 +12447,24 @@
   },
   "BIM55315": {
    "children": [],
-   "etag": "W/\"a2fb4857a939235501fad8cba89ba097\"",
-   "last_ok": "2026-08-12T07:21:34+00:00",
+   "etag": "W/\"0422f700c8f737ec0798fc26aeb17319\"",
+   "last_ok": "2026-08-19T06:40:06+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55315",
    "status": "live"
   },
   "BIM55320": {
    "children": [],
-   "etag": "W/\"8cc8637da43a2902b73ee71fc3e057ac\"",
-   "last_ok": "2026-08-12T07:21:34+00:00",
+   "etag": "W/\"3489fc12c3078f716c3d0ec8338abefc\"",
+   "last_ok": "2026-08-19T06:40:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55320",
    "status": "live"
   },
   "BIM55325": {
    "children": [],
-   "etag": "W/\"2a536819e9858a1db7e732a54aa0ec59\"",
-   "last_ok": "2026-08-12T07:21:35+00:00",
+   "etag": "W/\"af6e93a3743960d15055d5751765ff2d\"",
+   "last_ok": "2026-08-19T06:40:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55325",
    "status": "live"
@@ -12495,8 +12495,8 @@
   },
   "BIM55345": {
    "children": [],
-   "etag": "W/\"05a2d2f2fa9f211ccb1097fdac441250\"",
-   "last_ok": "2026-08-12T07:21:36+00:00",
+   "etag": "W/\"4b90b188f533aeedd5de7cde9f7ec1a1\"",
+   "last_ok": "2026-08-19T06:40:08+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55345",
    "status": "live"
@@ -12593,8 +12593,8 @@
   },
   "BIM55460": {
    "children": [],
-   "etag": "W/\"74891ba705467cd561d664c5cc3db4a5\"",
-   "last_ok": "2026-08-12T07:21:37+00:00",
+   "etag": "W/\"03cc665a902e0bfd569c632aa174902a\"",
+   "last_ok": "2026-08-19T06:40:08+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55460",
    "status": "live"
@@ -12669,8 +12669,8 @@
   },
   "BIM55525": {
    "children": [],
-   "etag": "W/\"9342ad88dfe1e8e27ed3ea8fb3b2eb83\"",
-   "last_ok": "2026-08-12T07:21:37+00:00",
+   "etag": "W/\"7a7b9d913d594b35a7be87fe640dcce7\"",
+   "last_ok": "2026-08-19T06:40:09+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55525",
    "status": "live"
@@ -12773,32 +12773,32 @@
   },
   "BIM55590": {
    "children": [],
-   "etag": "W/\"72faa9124e7ac53e98e6ada898a280f9\"",
-   "last_ok": "2026-08-12T07:21:38+00:00",
+   "etag": "W/\"1f4c4122778f13be6c74a3e1dc34d22b\"",
+   "last_ok": "2026-08-19T06:40:10+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55590",
    "status": "live"
   },
   "BIM55600": {
    "children": [],
-   "etag": "W/\"2dec79a41948e4294146c2961e93cfc5\"",
-   "last_ok": "2026-08-12T07:21:39+00:00",
+   "etag": "W/\"e0ad2245d45d369ba80a8f7bcb95139d\"",
+   "last_ok": "2026-08-19T06:40:11+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55600",
    "status": "live"
   },
   "BIM55605": {
    "children": [],
-   "etag": "W/\"5285d4d3fc3fc0c20bd3ae7382dcd79e\"",
-   "last_ok": "2026-08-12T07:21:40+00:00",
+   "etag": "W/\"332c80fcbda902b36adeecffae7af6b3\"",
+   "last_ok": "2026-08-19T06:40:11+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55605",
    "status": "live"
   },
   "BIM55610": {
    "children": [],
-   "etag": "W/\"9120df92a9e6831211d9bf8ac7ea69f6\"",
-   "last_ok": "2026-08-12T07:21:40+00:00",
+   "etag": "W/\"67742cc6df7954020bb1f37986f54dd2\"",
+   "last_ok": "2026-08-19T06:40:12+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55610",
    "status": "live"
@@ -12813,16 +12813,16 @@
   },
   "BIM55620": {
    "children": [],
-   "etag": "W/\"158693eda821f860c8c18fec736f0f90\"",
-   "last_ok": "2026-08-12T07:21:41+00:00",
+   "etag": "W/\"60cb3e3848cf959f03a65912fe2eb586\"",
+   "last_ok": "2026-08-19T06:40:13+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55620",
    "status": "live"
   },
   "BIM55625": {
    "children": [],
-   "etag": "W/\"be5828b32a5e150d8fae5bf685088fa7\"",
-   "last_ok": "2026-08-12T07:21:42+00:00",
+   "etag": "W/\"92652c8f4a119c49bf5812d4e1a5ce5f\"",
+   "last_ok": "2026-08-19T06:40:13+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55625",
    "status": "live"
@@ -12837,8 +12837,8 @@
   },
   "BIM55635": {
    "children": [],
-   "etag": "W/\"e846f469279f1004f2fab34894a42eac\"",
-   "last_ok": "2026-08-12T07:21:42+00:00",
+   "etag": "W/\"e3fde18e82ca6d4b0f0f450fc82510d5\"",
+   "last_ok": "2026-08-19T06:40:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55635",
    "status": "live"
@@ -12861,8 +12861,8 @@
     "BIM55725",
     "BIM55730"
    ],
-   "etag": "W/\"e599ffb8d2f06ced7aea71f47bba90f8\"",
-   "last_ok": "2026-08-12T07:21:43+00:00",
+   "etag": "W/\"ecd4394f7ee814ba9392ca6c71bc3f39\"",
+   "last_ok": "2026-08-19T06:40:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55700",
    "status": "live"
@@ -12909,8 +12909,8 @@
   },
   "BIM55725": {
    "children": [],
-   "etag": "W/\"2bd0c576a744f791fbee0341c7f16fad\"",
-   "last_ok": "2026-08-12T07:21:43+00:00",
+   "etag": "W/\"1f3fade0ce6920930786e6794da2d40e\"",
+   "last_ok": "2026-08-19T06:40:15+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim55725",
    "status": "live"
@@ -12983,8 +12983,8 @@
   },
   "BIM56205": {
    "children": [],
-   "etag": "W/\"83dd4cd65ff06135bf61026b7e7c7bc7\"",
-   "last_ok": "2026-08-12T07:21:44+00:00",
+   "etag": "W/\"1a20f1cd2f43669c00bad0e636c20ab6\"",
+   "last_ok": "2026-08-19T06:40:16+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim56205",
    "status": "live"
@@ -13039,8 +13039,8 @@
   },
   "BIM56235": {
    "children": [],
-   "etag": "W/\"02edacd9c1969e7c3e644393c8f59943\"",
-   "last_ok": "2026-08-12T07:21:45+00:00",
+   "etag": "W/\"9ebd39a53250fa54d0fd00d7c54ca126\"",
+   "last_ok": "2026-08-19T06:40:17+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim56235",
    "status": "live"
@@ -13104,16 +13104,16 @@
   },
   "BIM56510": {
    "children": [],
-   "etag": "W/\"a7d11946a6ba91a94f3b6af457fc4c81\"",
-   "last_ok": "2026-08-12T07:21:46+00:00",
+   "etag": "W/\"de219b5e9327b6edefdf1493f6ee4515\"",
+   "last_ok": "2026-08-19T06:40:17+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim56510",
    "status": "live"
   },
   "BIM56515": {
    "children": [],
-   "etag": "W/\"a248c6e70f0db6398b0fe8c9eca9c05f\"",
-   "last_ok": "2026-08-12T07:21:46+00:00",
+   "etag": "W/\"07f3b533116a83cb87b57746194fd283\"",
+   "last_ok": "2026-08-19T06:40:18+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim56515",
    "status": "live"
@@ -13294,8 +13294,8 @@
   },
   "BIM56870": {
    "children": [],
-   "etag": "W/\"89c3d2124f37b4fa4fb5d5c858b837d6\"",
-   "last_ok": "2026-08-12T07:21:47+00:00",
+   "etag": "W/\"dac35e75cda9b6aec359e7ccb733bed6\"",
+   "last_ok": "2026-08-19T06:40:18+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim56870",
    "status": "live"
@@ -13422,8 +13422,8 @@
   },
   "BIM58210": {
    "children": [],
-   "etag": "W/\"1f26e8e020a5511eda5d24b25efffaf9\"",
-   "last_ok": "2026-08-12T07:21:48+00:00",
+   "etag": "W/\"4faee90a0bbafe7e02210feb3ee84ca3\"",
+   "last_ok": "2026-08-19T06:40:19+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim58210",
    "status": "live"
@@ -13484,8 +13484,8 @@
   },
   "BIM58620": {
    "children": [],
-   "etag": "W/\"78d2f93da180ed74cd8988d269e29f25\"",
-   "last_ok": "2026-08-12T07:21:49+00:00",
+   "etag": "W/\"255588f837cb454942c7e639e435503e\"",
+   "last_ok": "2026-08-19T06:40:20+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim58620",
    "status": "live"
@@ -13559,8 +13559,8 @@
   },
   "BIM60005": {
    "children": [],
-   "etag": "W/\"434d57cfdc71b38f8663332fd72e6e4a\"",
-   "last_ok": "2026-08-12T07:21:50+00:00",
+   "etag": "W/\"3fe4f15196540ca2416dad1da6f2d2ab\"",
+   "last_ok": "2026-08-19T06:40:21+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60005",
    "status": "live"
@@ -13655,8 +13655,8 @@
   },
   "BIM60065": {
    "children": [],
-   "etag": "W/\"ca77445c255725bd0abf7650da286f28\"",
-   "last_ok": "2026-08-12T07:21:50+00:00",
+   "etag": "W/\"847cc60a6bcfcb9f1e65f26ad7655542\"",
+   "last_ok": "2026-08-19T06:40:21+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60065",
    "status": "live"
@@ -13671,8 +13671,8 @@
   },
   "BIM60075": {
    "children": [],
-   "etag": "W/\"4775cf29188db1234e3a71457b808620\"",
-   "last_ok": "2026-08-12T07:21:51+00:00",
+   "etag": "W/\"9d3d05f6df643a16c07e284113642696\"",
+   "last_ok": "2026-08-19T06:40:22+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60075",
    "status": "live"
@@ -13695,8 +13695,8 @@
   },
   "BIM60090": {
    "children": [],
-   "etag": "W/\"335baecb29a9b5a0c8c606f45d766aa2\"",
-   "last_ok": "2026-08-12T07:21:52+00:00",
+   "etag": "W/\"1ff12f7d06e5140bd976d9ca4d09b30d\"",
+   "last_ok": "2026-08-19T06:40:23+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60090",
    "status": "live"
@@ -13727,16 +13727,16 @@
   },
   "BIM60110": {
    "children": [],
-   "etag": "W/\"05f19f25d3757fcbefa1effa6ce1b426\"",
-   "last_ok": "2026-08-12T07:21:53+00:00",
+   "etag": "W/\"beced9cbf1381d098cf4cddc1f408fb3\"",
+   "last_ok": "2026-08-19T06:40:23+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60110",
    "status": "live"
   },
   "BIM60115": {
    "children": [],
-   "etag": "W/\"131d91594786e11ae3d7459f4d993613\"",
-   "last_ok": "2026-08-12T07:21:53+00:00",
+   "etag": "W/\"ccfd95d8559c7aec6e3715ad55adb8af\"",
+   "last_ok": "2026-08-19T06:40:24+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60115",
    "status": "live"
@@ -13767,8 +13767,8 @@
   },
   "BIM60135": {
    "children": [],
-   "etag": "W/\"f0374d6c04bc8ef230d81372ded0afdd\"",
-   "last_ok": "2026-08-12T07:21:54+00:00",
+   "etag": "W/\"29a96d92e7f09d41fa5ffe6cbd896ad2\"",
+   "last_ok": "2026-08-19T06:40:25+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60135",
    "status": "live"
@@ -13900,8 +13900,8 @@
   },
   "BIM60315": {
    "children": [],
-   "etag": "W/\"a7f5d09076b9b4a323ec1697a741608f\"",
-   "last_ok": "2026-08-12T07:21:54+00:00",
+   "etag": "W/\"d11a9996416b660f8346a4c165fd8d36\"",
+   "last_ok": "2026-08-19T06:40:25+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60315",
    "status": "live"
@@ -13916,8 +13916,8 @@
   },
   "BIM60325": {
    "children": [],
-   "etag": "W/\"8cdc30d84d579d61bc1c8a4940a4249d\"",
-   "last_ok": "2026-08-12T07:21:55+00:00",
+   "etag": "W/\"05b456892fbc06ee92d7b08525b77a8a\"",
+   "last_ok": "2026-08-19T06:40:26+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60325",
    "status": "live"
@@ -13988,8 +13988,8 @@
   },
   "BIM60355": {
    "children": [],
-   "etag": "W/\"a0bae6f3351f68a2ef18b22925740d79\"",
-   "last_ok": "2026-08-12T07:21:56+00:00",
+   "etag": "W/\"159e6eef3a6f74ddc5e5450d92c31d7d\"",
+   "last_ok": "2026-08-19T06:40:27+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60355",
    "status": "live"
@@ -14132,16 +14132,16 @@
   },
   "BIM60470": {
    "children": [],
-   "etag": "W/\"3ad6891c5a8e8e6d7f738fb19042d290\"",
-   "last_ok": "2026-08-12T07:21:56+00:00",
+   "etag": "W/\"023b903774a289679ff6761bd45ad2bf\"",
+   "last_ok": "2026-08-19T06:40:27+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60470",
    "status": "live"
   },
   "BIM60475": {
    "children": [],
-   "etag": "W/\"327999aece70493ad0be27fd51ce5584\"",
-   "last_ok": "2026-08-12T07:21:57+00:00",
+   "etag": "W/\"2a77aea1e7b48df0296dc70a060e0daf\"",
+   "last_ok": "2026-08-19T06:40:28+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60475",
    "status": "live"
@@ -14263,8 +14263,8 @@
   },
   "BIM60540": {
    "children": [],
-   "etag": "W/\"57239f41b6688c65de4df3c60c2ffdc1\"",
-   "last_ok": "2026-08-12T07:21:58+00:00",
+   "etag": "W/\"67ec35a1db2d50acaa42581ab98d43b3\"",
+   "last_ok": "2026-08-19T06:40:28+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60540",
    "status": "live"
@@ -14319,8 +14319,8 @@
   },
   "BIM60575": {
    "children": [],
-   "etag": "W/\"be8cdf8060f6cc88243f9939170fd0e2\"",
-   "last_ok": "2026-08-12T07:21:59+00:00",
+   "etag": "W/\"5aef7d7717f03efc2ec963f3644a0f56\"",
+   "last_ok": "2026-08-19T06:40:29+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60575",
    "status": "live"
@@ -14367,8 +14367,8 @@
   },
   "BIM60605": {
    "children": [],
-   "etag": "W/\"a60ec55505d64060e8363ec175407c7a\"",
-   "last_ok": "2026-08-12T07:22:00+00:00",
+   "etag": "W/\"b7784c7a4302552bf05932cf1980cb30\"",
+   "last_ok": "2026-08-19T06:40:30+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60605",
    "status": "live"
@@ -14415,8 +14415,8 @@
   },
   "BIM60630": {
    "children": [],
-   "etag": "W/\"4f68452fdd5701cafadcb4d5274494c4\"",
-   "last_ok": "2026-08-12T07:22:00+00:00",
+   "etag": "W/\"012739f5d952bce6a47624e1ff4dcf59\"",
+   "last_ok": "2026-08-19T06:40:30+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60630",
    "status": "live"
@@ -14431,8 +14431,8 @@
   },
   "BIM60640": {
    "children": [],
-   "etag": "W/\"d758c100850fae4ff58178be343517e8\"",
-   "last_ok": "2026-08-12T07:22:01+00:00",
+   "etag": "W/\"efa548e017caef04f161795b0fa7b208\"",
+   "last_ok": "2026-08-19T06:40:31+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60640",
    "status": "live"
@@ -14455,8 +14455,8 @@
   },
   "BIM60655": {
    "children": [],
-   "etag": "W/\"fbd67a8ca2d8fdc0df66b0a4c37bee16\"",
-   "last_ok": "2026-08-12T07:22:02+00:00",
+   "etag": "W/\"d56f114b37e22c0a90a32ad13f59927e\"",
+   "last_ok": "2026-08-19T06:40:32+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60655",
    "status": "live"
@@ -14635,8 +14635,8 @@
   },
   "BIM61250": {
    "children": [],
-   "etag": "W/\"e9120e3aed6232fcb94490d6f9a96576\"",
-   "last_ok": "2026-08-12T07:22:02+00:00",
+   "etag": "W/\"e1a89832db4ee9efbf90bba025cb5523\"",
+   "last_ok": "2026-08-19T06:40:33+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim61250",
    "status": "live"
@@ -14660,8 +14660,8 @@
   },
   "BIM61301": {
    "children": [],
-   "etag": "W/\"54a0a7a00da9fac777ef44fa5107906b\"",
-   "last_ok": "2026-08-12T07:22:03+00:00",
+   "etag": "W/\"f09fe26ce9de70ce5c8470529f07167d\"",
+   "last_ok": "2026-08-19T06:40:33+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim61301",
    "status": "live"
@@ -14745,8 +14745,8 @@
   },
   "BIM61405": {
    "children": [],
-   "etag": "W/\"9b241f4fca3bbd51ff73f1ca1cfa4fbe\"",
-   "last_ok": "2026-08-12T07:22:04+00:00",
+   "etag": "W/\"f13d4e6431cc518b5e9cc711c600876a\"",
+   "last_ok": "2026-08-19T06:40:34+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim61405",
    "status": "live"
@@ -14782,8 +14782,8 @@
     "BIM61610",
     "BIM61615"
    ],
-   "etag": "W/\"dca517579bd748cd820770fe0395cbf2\"",
-   "last_ok": "2026-08-12T07:22:04+00:00",
+   "etag": "W/\"b2e7e89d5921275cfc4e2e1dd9e2a2fd\"",
+   "last_ok": "2026-08-19T06:40:35+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim61600",
    "status": "live"
@@ -14935,8 +14935,8 @@
   },
   "BIM62040": {
    "children": [],
-   "etag": "W/\"ad5bda7bbcb5d881305b3faad1bc1dc9\"",
-   "last_ok": "2026-08-12T07:22:05+00:00",
+   "etag": "W/\"a55d1fee5318e09822d3b87dba206dfa\"",
+   "last_ok": "2026-08-19T06:40:36+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim62040",
    "status": "live"
@@ -14975,8 +14975,8 @@
   },
   "BIM62065": {
    "children": [],
-   "etag": "W/\"a5ffaa27df8cca81a676bf13b67cf090\"",
-   "last_ok": "2026-08-12T07:22:06+00:00",
+   "etag": "W/\"79a6ffcc3bdf24457fd39f79769eb744\"",
+   "last_ok": "2026-08-19T06:40:36+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim62065",
    "status": "live"
@@ -15082,8 +15082,8 @@
   },
   "BIM62210": {
    "children": [],
-   "etag": "W/\"0615cee7a11cf04f960236a4bb8cdb11\"",
-   "last_ok": "2026-08-12T07:22:07+00:00",
+   "etag": "W/\"04bbe73fd0acee0456f241f8ce70786d\"",
+   "last_ok": "2026-08-19T06:40:37+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim62210",
    "status": "live"
@@ -15297,8 +15297,8 @@
   },
   "BIM64050": {
    "children": [],
-   "etag": "W/\"1fb88eb555a759a11fa56a932b758ca5\"",
-   "last_ok": "2026-08-12T07:22:07+00:00",
+   "etag": "W/\"761394342ce8a62582aee4528900feaf\"",
+   "last_ok": "2026-08-19T06:40:38+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim64050",
    "status": "live"
@@ -15356,8 +15356,8 @@
   },
   "BIM64080": {
    "children": [],
-   "etag": "W/\"77348064d127f2e1274cc8606aad4c1c\"",
-   "last_ok": "2026-08-12T07:22:08+00:00",
+   "etag": "W/\"0f8d8f41bd7bb57bac6aef062fda4daa\"",
+   "last_ok": "2026-08-19T06:40:38+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim64080",
    "status": "live"
@@ -15462,8 +15462,8 @@
   },
   "BIM64135": {
    "children": [],
-   "etag": "W/\"98c1ea6550d4427233c982d0943b1966\"",
-   "last_ok": "2026-08-12T07:22:09+00:00",
+   "etag": "W/\"c706db3d075bf66af6ef8560f32c48fd\"",
+   "last_ok": "2026-08-19T06:40:39+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim64135",
    "status": "live"
@@ -15628,8 +15628,8 @@
   },
   "BIM64230": {
    "children": [],
-   "etag": "W/\"018a21694d780b4c66f67f3848245fb3\"",
-   "last_ok": "2026-08-12T07:22:10+00:00",
+   "etag": "W/\"3cf2aff0a4e86a5df458bb25bd094f17\"",
+   "last_ok": "2026-08-19T06:40:39+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim64230",
    "status": "live"
@@ -15702,8 +15702,8 @@
   },
   "BIM64255": {
    "children": [],
-   "etag": "W/\"f7fa8d63194c8c1352a60cc7ad5d0a3a\"",
-   "last_ok": "2026-08-12T07:22:10+00:00",
+   "etag": "W/\"35e31385d8efa9efaa023f9a9553642f\"",
+   "last_ok": "2026-08-19T06:40:40+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim64255",
    "status": "live"
@@ -15726,8 +15726,8 @@
   },
   "BIM64270": {
    "children": [],
-   "etag": "W/\"4bbca98db2b2f690435aceb0ca23022d\"",
-   "last_ok": "2026-08-12T07:22:11+00:00",
+   "etag": "W/\"3edf83587dd37b318f3b6887c51078ac\"",
+   "last_ok": "2026-08-19T06:40:41+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim64270",
    "status": "live"
@@ -15750,8 +15750,8 @@
   },
   "BIM64285": {
    "children": [],
-   "etag": "W/\"5ed2cacec4cde8e97920fa5f5ad1884b\"",
-   "last_ok": "2026-08-12T07:22:12+00:00",
+   "etag": "W/\"700af9b644facdd542e3250f955958e6\"",
+   "last_ok": "2026-08-19T06:40:41+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim64285",
    "status": "live"
@@ -15774,8 +15774,8 @@
   },
   "BIM64300": {
    "children": [],
-   "etag": "W/\"b9c7c52fec14d9f1563687a6c7ba6010\"",
-   "last_ok": "2026-08-12T07:22:12+00:00",
+   "etag": "W/\"83ae894c07acdfa4419b2391c20aa311\"",
+   "last_ok": "2026-08-19T06:40:42+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim64300",
    "status": "live"
@@ -15942,8 +15942,8 @@
   },
   "BIM64400": {
    "children": [],
-   "etag": "W/\"56978f26f5488be7a09cfe1ac0d3415d\"",
-   "last_ok": "2026-08-12T07:22:13+00:00",
+   "etag": "W/\"b3c11d1df752b05b1aee85fc665c2662\"",
+   "last_ok": "2026-08-19T06:40:43+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim64400",
    "status": "live"
@@ -15992,16 +15992,16 @@
     "BIM65820",
     "BIM65830"
    ],
-   "etag": "W/\"1c8ee255caf01da689d300fe6687827a\"",
-   "last_ok": "2026-08-12T07:22:14+00:00",
+   "etag": "W/\"13351ee9f653f24ce3d39a1ffd4f30aa\"",
+   "last_ok": "2026-08-19T06:40:44+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim65800",
    "status": "live"
   },
   "BIM65801": {
    "children": [],
-   "etag": "W/\"b4ea822a4d0fa4ae81229a7e613caceb\"",
-   "last_ok": "2026-08-12T07:22:15+00:00",
+   "etag": "W/\"fa6e1c02ec9d9ea599192f700121769a\"",
+   "last_ok": "2026-08-19T06:40:44+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim65801",
    "status": "live"
@@ -16040,8 +16040,8 @@
   },
   "BIM65830": {
    "children": [],
-   "etag": "W/\"79b14aec901629c8b4dd79a06167735e\"",
-   "last_ok": "2026-08-12T07:22:15+00:00",
+   "etag": "W/\"ece0d6dcc578d1a99d0bef2afa5fcbf3\"",
+   "last_ok": "2026-08-19T06:40:45+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim65830",
    "status": "live"
@@ -16202,16 +16202,16 @@
   },
   "BIM67005": {
    "children": [],
-   "etag": "W/\"d85a5f5df64dca603a85568ee9b04691\"",
-   "last_ok": "2026-08-12T07:22:16+00:00",
+   "etag": "W/\"a08596c4dabf1d0b4be6fc9fa3781cab\"",
+   "last_ok": "2026-08-19T06:40:46+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim67005",
    "status": "live"
   },
   "BIM67010": {
    "children": [],
-   "etag": "W/\"7a89c86e7ea34a5521e783f071a1d5cf\"",
-   "last_ok": "2026-08-12T07:22:17+00:00",
+   "etag": "W/\"491d6d6bf0aaa597571a9e7c158c3423\"",
+   "last_ok": "2026-08-19T06:40:46+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim67010",
    "status": "live"
@@ -16376,8 +16376,8 @@
   },
   "BIM67520": {
    "children": [],
-   "etag": "W/\"ce25af61b249f9be680d6bbea50c4a36\"",
-   "last_ok": "2026-08-12T07:22:17+00:00",
+   "etag": "W/\"760401490c71a19d20456210e0cc05f8\"",
+   "last_ok": "2026-08-19T06:40:47+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim67520",
    "status": "live"
@@ -16392,8 +16392,8 @@
   },
   "BIM67540": {
    "children": [],
-   "etag": "W/\"040c13f03a23b7fd76df987de2a70736\"",
-   "last_ok": "2026-08-12T07:22:18+00:00",
+   "etag": "W/\"e687751068fa31eda17855f198b97c90\"",
+   "last_ok": "2026-08-19T06:40:47+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim67540",
    "status": "live"
@@ -16502,8 +16502,8 @@
   },
   "BIM70015": {
    "children": [],
-   "etag": "W/\"0737f8af0df511e47203ad474790e449\"",
-   "last_ok": "2026-08-12T07:22:19+00:00",
+   "etag": "W/\"458edc909aa51f106bcd0cf43188bcbd\"",
+   "last_ok": "2026-08-19T06:40:48+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim70015",
    "status": "live"
@@ -16582,24 +16582,24 @@
   },
   "BIM70050": {
    "children": [],
-   "etag": "W/\"4edcd3cb99ae64939c07f421c7bcd9af\"",
-   "last_ok": "2026-08-12T07:22:20+00:00",
+   "etag": "W/\"5c66331f199d563ab1371445946601ab\"",
+   "last_ok": "2026-08-19T06:40:49+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim70050",
    "status": "live"
   },
   "BIM70055": {
    "children": [],
-   "etag": "W/\"c8df9da1cb00841aa540988d312db86b\"",
-   "last_ok": "2026-08-12T07:22:20+00:00",
+   "etag": "W/\"8c9f3c5429a8c88906936927f3e6e8ba\"",
+   "last_ok": "2026-08-19T06:40:49+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim70055",
    "status": "live"
   },
   "BIM70060": {
    "children": [],
-   "etag": "W/\"8015ad16644f32a7f4bde636d8f7b2e3\"",
-   "last_ok": "2026-08-12T07:22:21+00:00",
+   "etag": "W/\"64e3c5361d3e353167ca1dbdb6d608f6\"",
+   "last_ok": "2026-08-19T06:40:50+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim70060",
    "status": "live"
@@ -16670,8 +16670,8 @@
   },
   "BIM70073": {
    "children": [],
-   "etag": "W/\"ed2e8bc98fdcb94d17781579e2674144\"",
-   "last_ok": "2026-08-12T07:22:22+00:00",
+   "etag": "W/\"bb4c0e12b4a53c2c15d0e567a268f481\"",
+   "last_ok": "2026-08-19T06:40:51+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim70073",
    "status": "live"
@@ -16755,24 +16755,24 @@
     "BIM72072",
     "BIM72073"
    ],
-   "etag": "W/\"8c413205d238da9360539daaaebb9b18\"",
-   "last_ok": "2026-08-12T07:22:22+00:00",
+   "etag": "W/\"02f05c4cc493ac12a614471b743fe039\"",
+   "last_ok": "2026-08-19T06:40:51+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim72001",
    "status": "live"
   },
   "BIM72005": {
    "children": [],
-   "etag": "W/\"b66970d1e0d3ff0496f9368de3ca8f0d\"",
-   "last_ok": "2026-08-12T07:22:23+00:00",
+   "etag": "W/\"d74c9f0db0108a590575e603ac91eca8\"",
+   "last_ok": "2026-08-19T06:40:52+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim72005",
    "status": "live"
   },
   "BIM72010": {
    "children": [],
-   "etag": "W/\"55e77bca61ce8345df7feeeaa9246a91\"",
-   "last_ok": "2026-08-12T07:22:24+00:00",
+   "etag": "W/\"241b506e4cd9c186a877f5e902d5dea5\"",
+   "last_ok": "2026-08-19T06:40:53+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim72010",
    "status": "live"
@@ -16907,8 +16907,8 @@
   },
   "BIM72070": {
    "children": [],
-   "etag": "W/\"395e7c07e02ce304fd7e4b5dbbf0b572\"",
-   "last_ok": "2026-08-12T07:22:25+00:00",
+   "etag": "W/\"dbc64500bcc459ddb3b8301b371c7e8d\"",
+   "last_ok": "2026-08-19T06:40:54+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim72070",
    "status": "live"
@@ -17140,8 +17140,8 @@
   },
   "BIM80555": {
    "children": [],
-   "etag": "W/\"9bde61302c567fdf734f72cf29d006ef\"",
-   "last_ok": "2026-08-12T07:22:25+00:00",
+   "etag": "W/\"436053c655c4ecad502565a6a9d258f3\"",
+   "last_ok": "2026-08-19T06:40:54+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim80555",
    "status": "live"
@@ -17284,8 +17284,8 @@
   },
   "BIM80650": {
    "children": [],
-   "etag": "W/\"518996ad3fe4a57b15677bb785ddfac4\"",
-   "last_ok": "2026-08-12T07:22:26+00:00",
+   "etag": "W/\"7a7a9a24a3bcf68cdfcc97f65b9843d1\"",
+   "last_ok": "2026-08-19T06:40:55+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim80650",
    "status": "live"
@@ -17300,8 +17300,8 @@
   },
   "BIM80660": {
    "children": [],
-   "etag": "W/\"e5440bc0166222610e4514f599ace841\"",
-   "last_ok": "2026-08-12T07:22:27+00:00",
+   "etag": "W/\"8b982b46d38225672c6b07ec04b1e750\"",
+   "last_ok": "2026-08-19T06:40:55+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim80660",
    "status": "live"
@@ -17340,8 +17340,8 @@
   },
   "BIM80690": {
    "children": [],
-   "etag": "W/\"cedfca353e29261e1dbf9b344456df0a\"",
-   "last_ok": "2026-08-12T07:22:27+00:00",
+   "etag": "W/\"00ec697b88a3a506a67001f8163a6c67\"",
+   "last_ok": "2026-08-19T06:40:56+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim80690",
    "status": "live"
@@ -17404,8 +17404,8 @@
   },
   "BIM81020": {
    "children": [],
-   "etag": "W/\"37441e450624cb8068eb9d80f3594425\"",
-   "last_ok": "2026-08-12T07:22:28+00:00",
+   "etag": "W/\"e1bb78d79b5e193c4b810c39069c3b57\"",
+   "last_ok": "2026-08-19T06:40:57+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim81020",
    "status": "live"
@@ -17420,8 +17420,8 @@
   },
   "BIM81030": {
    "children": [],
-   "etag": "W/\"6946e1f0a7cbe99e52c322113c85498c\"",
-   "last_ok": "2026-08-12T07:22:29+00:00",
+   "etag": "W/\"61a6f93e24825928406e5f8287650018\"",
+   "last_ok": "2026-08-19T06:40:58+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim81030",
    "status": "live"
@@ -17468,8 +17468,8 @@
   },
   "BIM81060": {
    "children": [],
-   "etag": "W/\"6f1d375705f7ad7aad2b7bfee58c7f94\"",
-   "last_ok": "2026-08-12T07:22:29+00:00",
+   "etag": "W/\"50847beadc44afa58c6a24028248be71\"",
+   "last_ok": "2026-08-19T06:40:58+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim81060",
    "status": "live"
@@ -17516,8 +17516,8 @@
   },
   "BIM81090": {
    "children": [],
-   "etag": "W/\"40eb3f77ce61f90e881d4a665b2c34b5\"",
-   "last_ok": "2026-08-12T07:22:30+00:00",
+   "etag": "W/\"607333906def0b0f3e8418f9649465c9\"",
+   "last_ok": "2026-08-19T06:40:59+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim81090",
    "status": "live"
@@ -17700,8 +17700,8 @@
   },
   "BIM82000": {
    "children": [],
-   "etag": "W/\"f25a937e4cc11bb618028e3ead19f419\"",
-   "last_ok": "2026-08-12T07:22:31+00:00",
+   "etag": "W/\"6a4418ee17e719457c1c20d08c9a5725\"",
+   "last_ok": "2026-08-19T06:41:00+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim82000",
    "status": "live"
@@ -17724,8 +17724,8 @@
   },
   "BIM82400": {
    "children": [],
-   "etag": "W/\"2927fe253e8c419654bce1a37dd7cba8\"",
-   "last_ok": "2026-08-12T07:22:31+00:00",
+   "etag": "W/\"dafc4eda6937f1ab368e714b121697ae\"",
+   "last_ok": "2026-08-19T06:41:00+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim82400",
    "status": "live"
@@ -17779,8 +17779,8 @@
   },
   "BIM84001": {
    "children": [],
-   "etag": "W/\"84fc79dfc16610a648180fba2383e96b\"",
-   "last_ok": "2026-08-12T07:22:32+00:00",
+   "etag": "W/\"be612ce21d7661faa1cdd301adcd64ca\"",
+   "last_ok": "2026-08-19T06:41:01+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim84001",
    "status": "live"
@@ -17843,24 +17843,24 @@
   },
   "BIM84135": {
    "children": [],
-   "etag": "W/\"186fc5995bb2d143e99400ee7be355c6\"",
-   "last_ok": "2026-08-12T07:22:33+00:00",
+   "etag": "W/\"10b12515951c73a44a26264a41d2ab14\"",
+   "last_ok": "2026-08-19T06:41:01+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim84135",
    "status": "live"
   },
   "BIM84140": {
    "children": [],
-   "etag": "W/\"ad73e91a1f17fc81a9d305511070b580\"",
-   "last_ok": "2026-08-12T07:22:34+00:00",
+   "etag": "W/\"0c318e6a12f826b0269eabea00fb79d4\"",
+   "last_ok": "2026-08-19T06:41:02+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim84140",
    "status": "live"
   },
   "BIM84145": {
    "children": [],
-   "etag": "W/\"74a72de8023130f0a18e4bd94306a88f\"",
-   "last_ok": "2026-08-12T07:22:34+00:00",
+   "etag": "W/\"6e15c3af133320074db2e5f27d08600d\"",
+   "last_ok": "2026-08-19T06:41:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim84145",
    "status": "live"
@@ -17891,8 +17891,8 @@
   },
   "BIM84165": {
    "children": [],
-   "etag": "W/\"8eae3ad0cd43436fd1a8375e5ad07e9b\"",
-   "last_ok": "2026-08-12T07:22:35+00:00",
+   "etag": "W/\"5d416e624f06866c22f6baec73a60100\"",
+   "last_ok": "2026-08-19T06:41:03+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim84165",
    "status": "live"
@@ -18006,16 +18006,16 @@
   },
   "BIM85022": {
    "children": [],
-   "etag": "W/\"60ba512632cb84f138d118515c6f5436\"",
-   "last_ok": "2026-08-12T07:22:36+00:00",
+   "etag": "W/\"6a19206af694b9fe6cc33e085c236622\"",
+   "last_ok": "2026-08-19T06:41:04+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim85022",
    "status": "live"
   },
   "BIM85025": {
    "children": [],
-   "etag": "W/\"868905576e12e2d00c679f44d9ea5e91\"",
-   "last_ok": "2026-08-12T07:22:37+00:00",
+   "etag": "W/\"32ebdf7cf1ed32e7f646b8b34fa37130\"",
+   "last_ok": "2026-08-19T06:41:05+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim85025",
    "status": "live"
@@ -18054,8 +18054,8 @@
   },
   "BIM85050": {
    "children": [],
-   "etag": "W/\"3a1a55bde95dd9895a34c3f21ea71c56\"",
-   "last_ok": "2026-08-12T07:22:38+00:00",
+   "etag": "W/\"20531c3bb6e23d27b16c7767dbbc0d3f\"",
+   "last_ok": "2026-08-19T06:41:05+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim85050",
    "status": "live"
@@ -18102,8 +18102,8 @@
   },
   "BIM85080": {
    "children": [],
-   "etag": "W/\"aac6f491f0242fe175dca58c9632ae7f\"",
-   "last_ok": "2026-08-12T07:22:38+00:00",
+   "etag": "W/\"461978ca139302f20d2f04bf5a3b2262\"",
+   "last_ok": "2026-08-19T06:41:06+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim85080",
    "status": "live"
@@ -18118,8 +18118,8 @@
   },
   "BIM85090": {
    "children": [],
-   "etag": "W/\"bb74e970f58b8713b6f595dfdc61c426\"",
-   "last_ok": "2026-08-12T07:22:39+00:00",
+   "etag": "W/\"65edb6cfbc9834ec6bf84ccf4b72c35f\"",
+   "last_ok": "2026-08-19T06:41:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim85090",
    "status": "live"
@@ -18254,16 +18254,16 @@
   },
   "BIM85701": {
    "children": [],
-   "etag": "W/\"5e517fb6cc393b117a74779b2aecbc47\"",
-   "last_ok": "2026-08-12T07:22:40+00:00",
+   "etag": "W/\"6b26a95f3c1a93b78f0e0a087fd0a942\"",
+   "last_ok": "2026-08-19T06:41:07+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim85701",
    "status": "live"
   },
   "BIM85703": {
    "children": [],
-   "etag": "W/\"52adaaa0aca96d07c41775c16c97e167\"",
-   "last_ok": "2026-08-12T07:22:41+00:00",
+   "etag": "W/\"1f743dbd6686f35e9fb1d1b9f5ce35d1\"",
+   "last_ok": "2026-08-19T06:41:08+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim85703",
    "status": "live"
@@ -18318,16 +18318,16 @@
   },
   "BIM85735": {
    "children": [],
-   "etag": "W/\"fa13f59f9fea414c401db2e2f558e318\"",
-   "last_ok": "2026-08-12T07:22:41+00:00",
+   "etag": "W/\"7a2f8dcdb424839ca1baea4eb7553973\"",
+   "last_ok": "2026-08-19T06:41:09+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim85735",
    "status": "live"
   },
   "BIM85740": {
    "children": [],
-   "etag": "W/\"15c7a09467831f1c026ed62983453f54\"",
-   "last_ok": "2026-08-12T07:22:42+00:00",
+   "etag": "W/\"2c99f21c504a3c08f72073aa54531978\"",
+   "last_ok": "2026-08-19T06:41:09+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim85740",
    "status": "live"
@@ -18406,8 +18406,8 @@
   },
   "BIM85770": {
    "children": [],
-   "etag": "W/\"b5c61f91d10c1d9759bd091bc2b8b809\"",
-   "last_ok": "2026-08-12T07:22:42+00:00",
+   "etag": "W/\"4a796aae38dfd08f57d409d8eab983f2\"",
+   "last_ok": "2026-08-19T06:41:10+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim85770",
    "status": "live"
@@ -18631,8 +18631,8 @@
   },
   "BIM86050": {
    "children": [],
-   "etag": "W/\"ccaa7a9b176ede985bbd72d3de0244d2\"",
-   "last_ok": "2026-08-12T07:22:43+00:00",
+   "etag": "W/\"fda6316ac2093f200973cd24282536e0\"",
+   "last_ok": "2026-08-19T06:41:11+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim86050",
    "status": "live"
@@ -18647,8 +18647,8 @@
   },
   "BIM86054": {
    "children": [],
-   "etag": "W/\"c259a56d0b0acf557f5772aabc96436f\"",
-   "last_ok": "2026-08-12T07:22:44+00:00",
+   "etag": "W/\"5aa8fff4dcee5eaaa58ccb9062db61ee\"",
+   "last_ok": "2026-08-19T06:41:12+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim86054",
    "status": "live"
@@ -18663,8 +18663,8 @@
   },
   "BIM86058": {
    "children": [],
-   "etag": "W/\"5b911f7f01e7983f4552828882d05a80\"",
-   "last_ok": "2026-08-12T07:22:44+00:00",
+   "etag": "W/\"73f4fff3156398d87ba93523f14a2706\"",
+   "last_ok": "2026-08-19T06:41:12+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim86058",
    "status": "live"
@@ -18697,8 +18697,8 @@
   },
   "BIM86074": {
    "children": [],
-   "etag": "W/\"608d7dbf91440fe0aee2e72f6ca32d30\"",
-   "last_ok": "2026-08-12T07:22:45+00:00",
+   "etag": "W/\"fbf3a0c6195d6418d853d74bad09bf6b\"",
+   "last_ok": "2026-08-19T06:41:13+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim86074",
    "status": "live"
@@ -18797,8 +18797,8 @@
   },
   "BIM90005": {
    "children": [],
-   "etag": "W/\"65119138c213cef63c29f591988fc843\"",
-   "last_ok": "2026-08-12T07:22:46+00:00",
+   "etag": "W/\"817a26de9f9ef07ca6a139fa80799468\"",
+   "last_ok": "2026-08-19T06:41:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim90005",
    "status": "live"
@@ -18997,8 +18997,8 @@
   },
   "BIM90130": {
    "children": [],
-   "etag": "W/\"9e1e1fe6bd9747a72e8affaf22a4812d\"",
-   "last_ok": "2026-08-12T07:22:46+00:00",
+   "etag": "W/\"fe56c6c489e89fec5759c43096d5ea57\"",
+   "last_ok": "2026-08-19T06:41:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim90130",
    "status": "live"
@@ -19053,8 +19053,8 @@
     "bim60810",
     "bim60805"
    ],
-   "etag": "W/\"e50aecae5b6dceb711b3b47562074890\"",
-   "last_ok": "2026-08-12T07:22:47+00:00",
+   "etag": "W/\"c60237981975beba19e5016fa50c7f2b\"",
+   "last_ok": "2026-08-19T06:41:15+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60800",
    "status": "live"
@@ -19085,8 +19085,8 @@
   },
   "bim60815": {
    "children": [],
-   "etag": "W/\"b779006c0f53f3764d8e146aa7474a90\"",
-   "last_ok": "2026-08-12T07:22:48+00:00",
+   "etag": "W/\"a554175d599e721e9bd49eb716ef4f03\"",
+   "last_ok": "2026-08-19T06:41:16+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60815",
    "status": "live"
@@ -19133,8 +19133,8 @@
   },
   "bim60900": {
    "children": [],
-   "etag": "W/\"75f5119e9e3c207741c318f388ea6c50\"",
-   "last_ok": "2026-08-12T07:22:48+00:00",
+   "etag": "W/\"729b0f12677df4f6f598f9981356f722\"",
+   "last_ok": "2026-08-19T06:41:17+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/business-income-manual/bim60900",
    "status": "live"
