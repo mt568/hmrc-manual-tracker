@@ -1,0 +1,15 @@
+{
+ "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam230100",
+ "body": "<p>As part of MTD, ITSA ETMP roles are available in SRS for you\nto assign to your team.&nbsp;</p>\n<p>When&nbsp;allocating&nbsp;roles, keep it simple — only give\nthe combination of ITSA ETMP roles,&nbsp;the user needs to carry out their\nday-to-day job.&nbsp;</p>\n<p>There are some ITSA ETMP role combinations that should not\nbe assigned together.&nbsp;</p>\n<p>These restrictions are in place to reduce risk, support a\ngood customer service and help to reduce fraud.&nbsp;</p>\n<h3>What you need to check before assigning roles&nbsp;</h3>\n<p>Not everyone will need the same level of ETMP access. Some\nstaff will need more roles than others and users can have a combination of:&nbsp;</p>\n<p>• View access (read-only)&nbsp;</p>\n<p>• Edit access (to make changes)&nbsp;</p>\n<p>Before you&nbsp;submit&nbsp;a request, SRS\nwill&nbsp;indicate&nbsp;whether a business case is&nbsp;required&nbsp;to\nsupport the allocation of these IT roles.&nbsp;</p>\n<p>You need to consider:&nbsp;</p>\n<p>• What does this person need to do in their role day-to-day?&nbsp;</p>\n<p>• What access they need and why?&nbsp;</p>\n<p>To avoid delays, try to include all required ITSA ETMP roles\nfor each user, in a single SRS request.&nbsp;</p>\n<p>Where&nbsp;appropriate, bulk uploads will be done by CDIO.&nbsp;</p>\n<h3>Roles and access&nbsp;</h3>\n<p>PT Operations&nbsp;- Line managers make requests via the Admin Team.&nbsp;</p>\n<p>Other directorates\nmake requests via SRS and the instructions are below:</p>\n<ul><li>Go to Browse SRS&nbsp;</li><li>Go to User Management&nbsp;</li><li>Add services for a single user&nbsp;</li><li>Search by PID / name</li><li>Request roles as per\nyour Head of Duty</li></ul>\n",
+ "breadcrumbs": [
+  {
+   "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam230000",
+   "section_id": "SAM230000"
+  }
+ ],
+ "child_section_groups": [],
+ "description": "",
+ "public_updated_at": "2026-08-25T01:00:00+01:00",
+ "section_id": "SAM230100",
+ "title": "Making Tax Digital for income tax Self-Assessment: internal ETMP roles: guidance for managers"
+}
