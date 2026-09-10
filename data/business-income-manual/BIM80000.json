@@ -30,12 +30,6 @@
      "title": "Limited & limited liability partnerships: contents"
     },
     {
-     "base_path": "/hmrc-internal-manuals/business-income-manual/bim82200",
-     "description": "",
-     "section_id": "BIM82200",
-     "title": "Partnerships: computation & assessment: contents"
-    },
-    {
      "base_path": "/hmrc-internal-manuals/business-income-manual/bim82400",
      "description": "",
      "section_id": "BIM82400",
@@ -83,11 +77,12 @@
      "section_id": "BIM86000",
      "title": "Trading and Miscellaneous Income Allowance"
     }
-   ]
+   ],
+   "title": ""
   }
  ],
  "description": "",
- "public_updated_at": "2018-04-09T16:20:24+01:00",
+ "public_updated_at": "2026-09-08T01:00:00+01:00",
  "section_id": "BIM80000",
  "title": "Computing the amount to assess: contents"
 }
