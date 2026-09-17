@@ -4,12 +4,6 @@
   {
    "child_sections": [
     {
-     "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs0500",
-     "description": "",
-     "section_id": "FRS0500",
-     "title": "Data Protection"
-    },
-    {
      "base_path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs1000",
      "description": "",
      "section_id": "FRS1000",
@@ -53,13 +47,9 @@
     }
    ],
    "title": ""
-  },
-  {
-   "child_sections": [],
-   "title": "Updates"
   }
  ],
  "description": "Guidance on the VAT flat rate scheme (FRS) for small businesses, which was introduced in Budget 2002.",
- "public_updated_at": "2024-05-31T07:25:58+01:00",
+ "public_updated_at": "2021-06-17T07:08:15+01:00",
  "title": "VAT Flat Rate Scheme"
 }
