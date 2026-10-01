@@ -169,8 +169,8 @@
   },
   "FRS4200": {
    "children": [],
-   "etag": "W/\"ccd39fb9f2c2ac7a7fb1ebc3d9bc13db\"",
-   "last_ok": "2026-09-24T11:08:25+00:00",
+   "etag": "W/\"d8e02927ea18fbc14252d077d3e7895d\"",
+   "last_ok": "2026-10-01T12:27:33+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4200",
    "status": "live"
