@@ -52,8 +52,8 @@
     "FRS2200",
     "FRS2300"
    ],
-   "etag": "W/\"56dfbac51e0fd4a6b412753ffaaa8df7\"",
-   "last_ok": "2026-09-25T11:09:06+00:00",
+   "etag": "W/\"fd1d4ae30584a2cded4d29886bd66550\"",
+   "last_ok": "2026-10-02T11:56:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs2000",
    "status": "live"
@@ -107,8 +107,8 @@
   },
   "FRS3200": {
    "children": [],
-   "etag": "W/\"9bf0f2a3cb7c24fa78d98fd9d91e9f35\"",
-   "last_ok": "2026-09-25T11:09:06+00:00",
+   "etag": "W/\"c8e2ca697d130c4072eb02c9a37da783\"",
+   "last_ok": "2026-10-02T11:56:14+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3200",
    "status": "live"
@@ -131,8 +131,8 @@
   },
   "FRS3500": {
    "children": [],
-   "etag": "W/\"dde18ad88798b84bdaaf6036457eb464\"",
-   "last_ok": "2026-09-25T11:09:07+00:00",
+   "etag": "W/\"f15e1914b6e7c658d7719acee00c91e8\"",
+   "last_ok": "2026-10-02T11:56:15+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs3500",
    "status": "live"
@@ -153,16 +153,16 @@
     "FRS4400",
     "FRS4500"
    ],
-   "etag": "W/\"15eef6583f2df4762ca9b6a7d9db21e9\"",
-   "last_ok": "2026-09-25T11:09:07+00:00",
+   "etag": "W/\"c8ac5b6d1d8e046e2b013120e8e47169\"",
+   "last_ok": "2026-10-02T11:56:16+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4000",
    "status": "live"
   },
   "FRS4100": {
    "children": [],
-   "etag": "W/\"ef47f3a7448a67d420ed5eb8e78bd554\"",
-   "last_ok": "2026-09-25T11:09:08+00:00",
+   "etag": "W/\"292510318cfd85e03289a723953c0505\"",
+   "last_ok": "2026-10-02T11:56:17+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4100",
    "status": "live"
@@ -185,8 +185,8 @@
   },
   "FRS4400": {
    "children": [],
-   "etag": "W/\"262670dc2dd8ef30aceda072432f3fe1\"",
-   "last_ok": "2026-09-25T11:09:09+00:00",
+   "etag": "W/\"6576bd9d337d5ea015e99d6019a438d4\"",
+   "last_ok": "2026-10-02T11:56:18+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs4400",
    "status": "live"
@@ -278,16 +278,16 @@
   },
   "FRS6200": {
    "children": [],
-   "etag": "W/\"eed341aae183794b6afefe2b08d8e974\"",
-   "last_ok": "2026-09-25T11:09:09+00:00",
+   "etag": "W/\"ae766ab55c6345f8acab27029928b0dc\"",
+   "last_ok": "2026-10-02T11:56:19+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs6200",
    "status": "live"
   },
   "FRS6300": {
    "children": [],
-   "etag": "W/\"2bd5626e3dd32fe209e61c3516bac428\"",
-   "last_ok": "2026-09-25T11:09:10+00:00",
+   "etag": "W/\"a9bea66f138523c82187e8ca6275dc1b\"",
+   "last_ok": "2026-10-02T11:56:20+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs6300",
    "status": "live"
@@ -348,8 +348,8 @@
   },
   "FRS7300": {
    "children": [],
-   "etag": "W/\"1851805263ac2d12f24cde7abe2adc2e\"",
-   "last_ok": "2026-09-25T11:09:11+00:00",
+   "etag": "W/\"0af2084acb3b3aae0948771971bb7130\"",
+   "last_ok": "2026-10-02T11:56:21+00:00",
    "miss_count": 0,
    "path": "/hmrc-internal-manuals/vat-flat-rate-scheme/frs7300",
    "status": "live"
