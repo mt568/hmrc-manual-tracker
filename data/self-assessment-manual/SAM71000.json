@@ -168,12 +168,6 @@
      "title": "W035 manual issue of review form 575"
     },
     {
-     "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71122",
-     "description": "",
-     "section_id": "SAM71122",
-     "title": "W036 Informal discharge review"
-    },
-    {
      "base_path": "/hmrc-internal-manuals/self-assessment-manual/sam71124",
      "description": "",
      "section_id": "SAM71124",
@@ -311,11 +305,12 @@
      "section_id": "SAM71165",
      "title": "W061 Class 2 NICS Marriage and Devolved Residency updates"
     }
-   ]
+   ],
+   "title": ""
   }
  ],
  "description": "",
- "public_updated_at": "2020-03-02T08:55:50+00:00",
+ "public_updated_at": "2026-10-30T00:00:00+00:00",
  "section_id": "SAM71000",
  "title": "Manage work: work management: contents"
 }
